@@ -1,3004 +1,3974 @@
-![](http://www.comlaw.gov.au/Details/C2006C00514/Html/AirportsTransAct_image001.gif)
+**
 
-# Airports (Transitional) Act 1996
+###  AIRPORTS (TRANSITIONAL) ACT 1996 
+**
 
-**Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 22 September 2006 
- taking into account amendments up to Act No. 101 of 2006
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
- 
 
-# Contents
 
-**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Simplified outline
 
-[4](#4).            Definitions
+**
 
-[5](#5).            Sydney West Airport
+###  Long Title 
+**
+**
 
-[6](#6).            Sale time for Commonwealth-owned company
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;1&#151;Introduction </part>
+**
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[7](#7).            Crown to be bound
+		This Act may be cited as the _Airports (Transitional) Act 1996_.
 
-[8](#8).            External Territories
+ </dl>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[9](#9).            Extra-territorial operation
+		This Act commences on the day on which it receives the Royal Assent.
 
-**Part 2—Transfers from the FAC to the Commonwealth**
+ </dl>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 3  Simplified outline 
+<dl compact="">
 
-[10](#10).          Simplified outline
+		The following is a simplified outline of this Act:
 
-[11](#11).          Transfer of FAC land to the Commonwealth
+ </dl>
 
-[12](#12).          Transfer of other FAC assets to the Commonwealth
 
-[13](#13).          Transfer of the FAC’s contractual rights and obligations to the Commonwealth
 
-[14](#14).          Transfer of FAC liabilities to the Commonwealth
 
-[15](#15).          Transferred airport ceases to be a Federal airport for purposes of the FAC Act
 
-[16](#16).          Transfers of FAC land may be registered
+airport-lessee company
 
-[17](#17).          FAC land leased to the Commonwealth
 
-[18](#18).          Lands Acquisition Act does not apply to this Part
 
-**Part 3—Original grants of airport leases to companies**
 
-[19](#19).          Simplified outline
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 4  Definitions 
+<dl compact="">
 
-[20](#20).          Scope of Part
+		In this Act, unless the contrary intention appears:
 
-[21](#21).          Commonwealth may grant airport lease to a Commonwealth-owned company
+ </dl>
+<dl compact=""><dl compact="">
 
-[22](#22).          Commonwealth may grant airport lease to a company that is not owned by the Commonwealth
+_airport_ has the same meaning as in the _Airports Act 1996_. _airport lease_ has the same meaning as in the _Airports Act 1996_. _airport-lessee company_ has the same meaning as in the _Airports Act 1996_. _airport site_ has the same meaning as in the _Airports Act 1996_. _asset_ means:  </dl></dl>
 
-[23](#23).          Transfer or lease of assets to company
+	(a)	any legal or equitable estate or interest in real or personal property, including a contingent or prospective one; and
+ 	(b)	any right, privilege or immunity, including a contingent or prospective one.
 
-[24](#24).          Transfer of contractual rights and obligations
+<def><dl compact=""><dl compact="">
 
-[25](#25).          Transfer of liability to company
+_company_ means a body corporate. _contract_ includes:  </dl></dl>
 
-[26](#26).          Airport lease granted subject to existing interests in the land
+<center>Back to Top</center>
 
-[27](#27).          Entries in title registers
+	(a)	a deed; and
+ 	(b)	a deed poll.
 
-[28](#28).          Lands Acquisition Act does not apply to this Part
+<def><dl compact=""><dl compact="">
 
-**Part 4—Transfer of the FAC’s assets or contracts to airport-lessee companies**
+_employee_ includes apprentice. _FAC_ means the Federal Airports Corporation. _instrument_ includes a document. _land registration official_, in relation to land, means the Registrar of Titles or other proper officer of the State or Territory in which the land is situated. _leased_, in relation to assets other than land, means let on hire (whether or not described as a lease) under an agreement other than a hire-purchase agreement. _liability_ means a liability or duty, including a contingent or prospective one. _sale time_, in relation to an airport-lessee company, has the meaning given by section&#160;6\. _share_, in relation to a company, means a share in the company's share capital. _transferred employee_ means a person whose employment is transferred in accordance with a declaration under section&#160;58\. _transfer time_, in relation to an employee, has the meaning given by section&#160;58\. _voting share_ has the same meaning as in the _Corporations Act 2001_.  </dl></dl>
 
-[29](#29).          Simplified outline
+**
 
-[30](#30).          Transfer of assets
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 5  Sydney West Airport 
+**
 
-[31](#31).          Transfer of contractual rights and obligations
+ <dl compact=""><dl compact="">
 
-**Part 5—Transfer of the FAC’s liabilities to airport-lessee companies**
+		For the purposes of this Act, Sydney West Airport is taken to be an airport
 
-[32](#32).          Simplified outline
+at a particular time even if, at that time, it is:
 
-[33](#33).          Transfer of liabilities
+ </dl></dl>
 
-**Part 6—Treatment of sale of shares in an airport-lessee company owned by the Commonwealth**
+	(a)	merely intended to be developed for use as an airport; or
+ 	(b)	being developed for use as an airport. 
 
-[34](#34).          Simplified outline
+**
 
-[35](#35).          When this Part applies
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 6  Sale time for Commonwealth-owned company 
+**
 
-[36](#36).          Commonwealth may pay the FAC an amount before disposal of shares
+ <dl compact=""><dl compact="">
 
-[37](#37).          Commonwealth must pay an amount to the FAC
+<dt>(1)</dt><dd>This section applies to:
 
-[38](#38).          Capital for the FAC following disposal of shares
+</dd> </dl></dl>
 
-[39](#39).          Appropriation of Consolidated Revenue Fund
+	(a)	an airport-lessee company that was granted an airport lease under section&#160;21; or
+ 	(b)	an airport-lessee company that was granted an airport lease under section&#160;22, where, at any time before the grant of the lease, a majority of the voting shares in the company were held by:
+ 	(i)	the Commonwealth; or
+ 	(ii)	a nominee of the Commonwealth.
 
-**Part 7—Treatment of consideration payable by an airport-lessee company that is not owned by the Commonwealth**
+<dl compact=""><dl compact="">
 
-[40](#40).          Simplified outline
+<dt>(2)</dt><dd>If, in the opinion of the Minister for Finance, a particular time is the
 
-[41](#41).          When this Part applies
+first time after the commencement of this section on which a majority of the
 
-[42](#42).          Commonwealth must pay an amount to the FAC
+voting shares in the company are or were acquired by a person, or persons,
 
-[43](#43).          Capital for the FAC after consideration becomes payable
+other than:
 
-[44](#44).          Appropriation of Consolidated Revenue Fund
+</dd> </dl></dl>
 
-**Part 8—Special tax rules** 
+	(a)	the Commonwealth; or
+ 	(b)	a nominee of the Commonwealth;
 
-    **Division 1—Simplified outline**
+the Minister for Finance must, by notice in the _Gazette_, declare the time to be the _sale time_ for the company.
 
-[45](#45).          Simplified outline
+<dl compact=""><dl compact="">
 
-    **Division 2—Exemption from stamp duty and other taxes**
+<dt>(3)</dt><dd>The declaration has effect accordingly.</dd> <dt>(4)</dt><dd>The notice must be published within 21 days after the time concerned.  </dd> </dl></dl>
 
-[46](#46).          Exemption from stamp duty and other taxes
+**
 
-[47](#47).          Airport-lessee company not liable to stamp duty on pre-grant instruments
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 7  Crown to be bound 
+**
 
-[48](#48).          Stamp duty—transfers of assets or liabilities to privately-owned companies
+ <dl compact=""><dl compact="">
 
-    **Division 3—Special income tax rules**
+<dt>(1)</dt><dd>This Act binds the Crown in the right of the Commonwealth, of each of the
 
-[48A](#48A).       Definitions
+States, of the Australian Capital Territory, of the Northern Territory and of
 
-[49B](#49B).       Special rules for fixtures that are depreciating assets—_Income Tax Assessment Act 1997_
+Norfolk Island.</dd> <dt>(2)</dt><dd>This Act does not make the Crown liable to be prosecuted for an offence. </dd> </dl></dl>
 
-[50B](#50B).       Acquisition of depreciating asset from the Commonwealth—Division 40 of the _Income Tax Assessment Act 1997_
+**
 
-[51B](#51B).       Acquisition of depreciating asset from the FAC—Division 40 of the _Income Tax Assessment Act 1997_
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 8  External Territories 
+**
 
-[52A](#52A).       Consideration received by the FAC for transfer of assets—_Income Tax Assessment Act 1997_
+ <dl compact=""><dl compact="">
 
-[54A](#54A).       Airport-lessee company to be capital works owner for the purposes of Division 43 of the _Income Tax Assessment Act 1997_
+		This Act extends to all the external Territories.
 
-[55](#55).          Modification of capital allowances and capital gains tax provisions
+ </dl></dl>
 
-[56](#56).          Transfer of development allowance benefits
+<center>Back to Top</center>
 
-**Part 9—Transfer of staff from the FAC to airport-lessee companies** 
+**
 
-    **Division 1—Simplified outline**
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 9  Extra-territorial operation 
+**
 
-[57](#57).          Simplified outline
+ <dl compact=""><dl compact="">
 
-    **Division 2—Transfer of staff**
+		This Act extends to acts, omissions, matters and things outside Australia,
 
-[58](#58).          Transfer of staff from the FAC
+whether or not in a foreign country.
 
-    **Division 3—Terms and conditions**
+ </dl></dl>
 
-[59](#59).          Terms and conditions of transferred employees
+<center>**
 
-[60](#60).          Variation of terms and conditions of employment
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;2&#151;Transfers from the FAC to the Commonwealth </part>
+**</center>
 
-[61](#61).          Statement of accrued benefits
+**
 
-    **Division 4—Mobility rights**
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 10  Simplified outline 
+**
 
-[62](#62).          Cessation of mobility rights
+ <dl compact=""><dl compact="">
 
-    **Division 5—Long service leave**
+		The following is a simplified outline of this Part:
 
-[63](#63).          Long service leave rules set out in Schedule 1
+ </dl></dl>
 
-    **Division 6—Superannuation**
+*	Airport land and certain other assets and liabilities will be transferred from the FAC to the Commonwealth.
 
-[64](#64).          Superannuation rules set out in Schedule 2
+*	If airport land is transferred to the Commonwealth, the airport will cease to be a Federal airport for the purposes of the _Federal Airports Corporation Act 1986_.
 
-    **Division 7—Safety, Rehabilitation and Compensation Act 1988**
+*	Land transfers may be registered by State/Territory land registration officials.
 
-[65](#65).          _Safety, Rehabilitation and Compensation Act 1988_ rules set out in Schedule 3
+*	If the Commonwealth has a lease of any transferred land, the Commonwealth's interest under the lease does not merge in the greater estate or interest that becomes vested in the Commonwealth under this Part.
 
-**Part 10—FAC’s debts** 
+*	The _Lands Acquisition Act 1989_ does not apply to anything done under this Part. 
 
-    **Division 1—Simplified outline**
+**
 
-[66](#66).          Simplified outline
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 11  Transfer of FAC land to the Commonwealth 
+**
 
-    **Division 2—Loans by the Commonwealth**
+ <dl compact=""><dl compact="">
 
-[67](#67).          Scope of Division
+<dt>(1)</dt><dd>This section applies to land in which the FAC has any right, title or
 
-[68](#68).          Treasurer may declare that loan is due and payable
+interest.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, make any or all of the following declarations: </dd> </dl></dl>
 
-[69](#69).          Commonwealth may pay the FAC an amount equal to the amount owing
+	(a)	a declaration that the FAC's right, title and interest in specified land vests in the Commonwealth without any conveyance, transfer or assignment;
+ 	(b)	a declaration that a specified instrument relating to specified land continues to have effect after the FAC's right, title and interest in the land vests in the Commonwealth as if a reference in the instrument to the FAC were a reference to the Commonwealth;
+ 	(c)	a declaration that the Commonwealth becomes the FAC's successor in law in relation to the FAC's right, title and interest in specified land immediately after the FAC's right, title and interest in the land vests in the Commonwealth.
 
-[70](#70).          Appropriation of Consolidated Revenue Fund
+<dl compact=""><dl compact="">
 
-    **Division 3—Other borrowing transactions**
+Note:	Land or an instrument may be specified by name, by
 
-[71](#71).          Scope of Division
+inclusion in a specified class or in any other way.
 
-[72](#72).          Borrowing transactions
+ </dl></dl>
 
-[73](#73).          FAC’s borrowing transactions may become the Commonwealth’s borrowing transactions
+<dl compact=""><dl compact="">
 
-[74](#74).          Commonwealth takeover of certain obligations of the FAC
+<dt>(3)</dt><dd>A declaration has effect accordingly.</dd> <dt>(4)</dt><dd>If the FAC's right, title or interest arises out of a lease, all obligations and benefits of the FAC under, or connected with, the lease: </dd> </dl></dl>
 
-[75](#75).          Application of the _Loans Securities Act 1919_
-
-[76](#76).          Commonwealth takeover of obligations—payments by the FAC to the Commonwealth
-
-[77](#77).          Commonwealth may pay the FAC an amount to enable the FAC to discharge or extinguish its liability under a borrowing transaction
-
-[78](#78).          Appropriation of Consolidated Revenue Fund
-
-**Part 11—Prosecutions**
-
-[79](#79).          Simplified outline
-
-[80](#80).          Continuing application of the _Director of Public Prosecutions Act 1983_
-
-**Part 12—Airport-lessee company not to be an agency of the Commonwealth etc.**
-
-[81](#81).          Simplified outline
-
-[82](#82).          Airport-lessee company not to be an agency of the Commonwealth etc 
-
-**Part 13—Miscellaneous**
-
-[83](#83).          Simplified outline
-
-[84](#84).          Transfer of pending proceedings
-
-[85](#85).          Operation of this Act does not place a person in breach of contract etc 
-
-[86](#86).          Appropriation—grant of airport lease to Commonwealth-owned company
-
-[87](#87).          This Act does not modify registers kept by land registration officials
-
-[88](#88).          Declarations that are contingent on the grant of an airport lease may be varied or revoked before the grant
-
-[89](#89).          Copies of declarations to be published in the _Gazette_
-
-[90](#90).          Compensation—constitutional safety-net
-
-[91](#91).          Commonwealth records
-
-[92](#92).          Act does not authorise the imposition of taxation
-
-[93](#93).          Regulations
-
-**Part 14—Amendment of the Federal Airports Corporation Act 1986**
-
-[94](#94).          Amendments
-
-**Schedule 1—Long Service Leave**
-
-[1](#1).            Scope of Schedule
-
-[2](#2).            Definitions
-
-[3](#3).            References to Long Service Leave Act
-
-[4](#4).            Long service leave for employees with less than 10 years service
-
-[5](#5).            Payments in lieu of long service leave for employees with less than 10 years service
-
-[6](#6).            Payments on the death of an employee
-
-[7](#7).            Employee’s long service leave credit for the purposes of clauses 4 and 5
-
-[8](#8).            Schedule not to affect an employee’s future long service leave rights
-
-[9](#9).            Saving—Long Service Leave Act
-
-**Schedule 2—Superannuation** 
-
-**Part 1—When this Schedule applies**
-
-[1](#1).            When this Schedule applies
-
-**Part 2—Superannuation schemes** 
-
-    **Division 1—Transfer of staff from the FAC**
-
-[2](#2).            Commonwealth-owned airport-lessee companies
-
-[3](#3).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
-
-[4](#4).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
-
-    **Division 2—Sale of airport-lessee companies owned by the Commonwealth**
-
-[5](#5).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
-
-[6](#6).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
-
-    **Division 3—Transfer of staff to airport-lessee companies that are not owned by the Commonwealth**
-
-[7](#7).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
-
-[8](#8).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
-
-**Part 3—The Crimes (Superannuation Benefits) Act 1989**
-
-[9](#9).            Continuing application of the Crimes (Superannuation Benefits) Act 1989
-
-**Part 4—The Superannuation Benefits (Supervisory Mechanisms) Act 1990**
-
-[10](#10).          An airport-lessee company is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
-
-**Schedule 3—Safety, Rehabilitation and Compensation Act 1988**
-
-[1](#1).            Definitions
-
-[2](#2).            SRC Act continues to apply to transferred employees
-
-[3](#3).            Commonwealth liable to meet certain SRC Act liabilities and is taken to be the employer in certain circumstances under the SRC Act
-
-[4](#4).            Airport-lessee company to co-operate with the Commonwealth
-
-[5](#5).            Section 40 of the SRC Act
-
-[6](#6).            Section 71 of the SRC Act
-
-[7](#7).            Section 108C of the SRC Act
-
-**Schedule 4—Amendment of the Federal Airports Corporation Act 1986** 
-
-**Notes** 
-
-## An Act relating to the leasing of airports, and for related purposes
-
-## Part 1—Introduction
-
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
-
-                   This Act may be cited as the _Airports (Transitional) Act 1996_.
-
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
-
-                   This Act commences on the day on which it receives the Royal Assent.
-
-##### <a id="3"></a>3  Simplified outline
-
-                   The following is a simplified outline of this Act:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•     This
-
-Act provides for the leasing of certain airports.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Airport
-
-land and other airport assets will be transferred from the Federal Airports
-
-Corporation (FAC) to the Commonwealth.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Commonwealth will grant an airport lease to a company.  The company is called
-
-an **_airport-lessee company_**.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Immediately
-
-after the grant of the airport lease, the Commonwealth may transfer or lease
-
-certain assets to the airport-lessee company.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Certain
-
-employees, assets, contracts and liabilities of the FAC will be transferred to
-
-the airport-lessee company.</li>
-
-* * *
-
-##### <a id="4"></a>4  Definitions
-
-                   In this Act, unless the contrary intention appears:
-
-                    <a name="airport"></a>**_airport_** has the same meaning as in the _Airports Act 1996_.
-
-                    <a name="airport-leas"></a>**_airport lease_** has the same meaning as in the _Airports Act 1996_.
-
-                    <a name="airport-lesse-compani"></a>**_airport-lessee company_** has the same meaning as in the _Airports Act 1996_.
-
-                    <a name="airport-site"></a>**_airport site_** has the same meaning as in the _Airports Act 1996_.
-
-                    <a name="asset"></a>**_asset_** means:
-
-                     (a)  any legal or equitable estate or interest in real or personal property, including a contingent or prospective one; and
-
-                     (b)  any right, privilege or immunity, including a contingent or prospective one.
-
-                    <a name="compani"></a>**_company_** means a body corporate.
-
-                    <a name="contract"></a>**_contract_** includes:
-
-                     (a)  a deed; and
-
-                     (b)  a deed poll.
-
-                    <a name="employe"></a>**_employee_** includes apprentice.
-
-                    <a name="fac"></a>**_FAC_** means the Federal Airports Corporation.
-
-                    <a name="instrum"></a>**_instrument_** includes a document.
-
-                    <a name="land-registr-offici"></a>**_land registration official_**, in relation to land, means the Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
-
-                    <a name="leas"></a>**_leased_**, in relation to assets other than land, means let on hire (whether or not described as a lease) under an agreement other than a hire-purchase agreement.
-
-                    <a name="liabil"></a>**_liability_** means a liability or duty, including a contingent or prospective one.
-
-                    <a name="sale-time"></a>**_sale time_**, in relation to an airport-lessee company, has the meaning given by section 6.
-
-                    <a name="share"></a>**_share_**, in relation to a company, means a share in the company’s share capital.
-
-                    <a name="transfer-employe"></a>**_transferred employee_** means a person whose employment is transferred in accordance with a declaration under section 58.
-
-                    <a name="transfer-time"></a>**_transfer time_**, in relation to an employee, has the meaning given by section 58.
-
-                    <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Corporations Act 2001_.
-
-##### <a id="5"></a>5  Sydney  West Airport
-
-                   For the purposes of this Act, Sydney West  Airport is taken to be an airport at a particular time even if, at that time, it is:
-
-                     (a)  merely intended to be developed for use as an airport; or
-
-                     (b)  being developed for use as an airport.
-
-##### <a id="6"></a>6  Sale time for Commonwealth-owned company
-
-(1)  This section applies to:
-
-                     (a)  an airport-lessee company that was granted an airport lease under section 21; or
-
-                     (b)  an airport-lessee company that was granted an airport lease under section 22, where, at any time before the grant of the lease, a majority of the voting shares in the company were held by:
-
-                              (i)  the Commonwealth; or
-
-                             (ii)  a nominee of the Commonwealth.
-
-             (2)  If, in the opinion of the Minister for Finance, a particular time is the first time after the commencement of this section on which a majority of the voting shares in the company are or were acquired by a person, or persons, other than:
-
-                     (a)  the Commonwealth; or
-
-                     (b)  a nominee of the Commonwealth;
-
-the Minister for Finance must, by notice in the _Gazette_, declare the time to be the **_sale time_** for the company.
-
-             (3)  The declaration has effect accordingly.
-
-             (4)  The notice must be published within 21 days after the time concerned. 
-
-##### <a id="7"></a>7  Crown to be bound
-
-             (1)  This Act binds the Crown in the right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
-
-(2)This Act does not make the Crown liable to be prosecuted for an offence.
-
-##### <a id="8"></a>8  External  Territories
-
-                   This Act extends to all the external Territories.
-
-##### <a id="9"></a>9  Extra-territorial operation
-
-                   This Act extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
-
-## Part 2—Transfers from the FAC to the Commonwealth
-
-##### <a id="10"></a>10  Simplified outline
-
-                   The following is a simplified outline of this Part:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•     Airport
-
-land and certain other assets and liabilities will be transferred from the FAC
-
-to the Commonwealth.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     If
-
-airport land is transferred to the Commonwealth, the airport will cease to be a
-
-Federal airport for the purposes of the _Federal Airports Corporation Act 1986_.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Land
-
-transfers may be registered by State/Territory land registration officials.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     If
-
-the Commonwealth has a lease of any transferred land, the Commonwealth’s
-
-interest under the lease does not merge in the greater estate or interest that
-
-becomes vested in the Commonwealth under this Part.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-_Lands Acquisition Act 1989_ does not apply to anything done under this
-
-Part.</li>
-
-* * *
-
-##### <a id="11"></a>11  Transfer of FAC land to the Commonwealth
-
-             (1)  This section applies to land in which the FAC has any right, title or interest.
-
-(2)  The Minister for Finance may, by written instrument, make any or all of the following declarations:
-
-                     (a)  a declaration that the FAC’s right, title and interest in specified land vests in the Commonwealth without any conveyance, transfer or assignment;
-
-                     (b)  a declaration that a specified instrument relating to specified land continues to have effect after the FAC’s right, title and interest in the land vests in the Commonwealth as if a reference in the instrument to the FAC were a reference to the Commonwealth;
-
-                     (c)  a declaration that the Commonwealth becomes the FAC’s successor in law in relation to the FAC’s right, title and interest in specified land immediately after the FAC’s right, title and interest in the land vests in the Commonwealth.
-
-Note:          Land or an instrument may be specified by name, by inclusion in a specified class or in any other way.
-
-             (3)  A declaration has effect accordingly.
-
-             (4)  If the FAC’s right, title or interest arises out of a lease, all obligations and benefits of the FAC under, or connected with, the lease:
-
-                     (a)  pass to the Commonwealth; and
-
-                     (b)  cease to be enforceable by or against the FAC;
+	(a)	pass to the Commonwealth; and
+ 	(b)	cease to be enforceable by or against the FAC;
 
 whether or not the obligations or benefits touch and concern the land.
 
-Note:          This section only provides for the transfer of the FAC’s rights, title and interests. Accordingly, it does not affect the continued existence of existing leases or other existing interests.
+<dl compact=""><dl compact="">
 
-##### <a id="12"></a>12  Transfer of other FAC assets to the Commonwealth
+Note:	This section only provides for the transfer of the FAC's
 
-             (1)  This section applies to an asset of the FAC (other than land).
+rights, title and interests. Accordingly, it does not affect the continued
 
-             (2)  The Minister for Finance may, by written instrument, make any or all of the following declarations:
+existence of existing leases or other existing interests.
 
-                     (a)  a declaration that a specified asset vests in the Commonwealth without any conveyance, transfer or assignment; 
+ </dl></dl>
 
-                     (b)  a declaration that a specified instrument relating to a specified asset continues to have effect after the asset vests in the Commonwealth as if a reference in the instrument to the FAC were a reference to the Commonwealth; 
+**
 
-                     (c)  a declaration that the Commonwealth becomes the FAC’s successor in law in relation to a specified asset immediately after the asset vests in the Commonwealth.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 12  Transfer of other FAC assets to the Commonwealth 
+**
 
-(3)A declaration has effect accordingly.
+ <dl compact=""><dl compact="">
 
-Note:          An asset or instrument may be specified by name, by inclusion in a specified class or in any other way.
+<dt>(1)</dt><dd>This section applies to an asset of the FAC (other than land).</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, make any or all of the following declarations: </dd> </dl></dl>
 
-##### <a id="13"></a>13  Transfer of the FAC’s contractual rights and obligations to the Commonwealth 
+	(a)	a declaration that a specified asset vests in the Commonwealth without 
+<center>Back to Top</center>
+ any conveyance, transfer or assignment; 
+ 	(b)	a declaration that a specified instrument relating to a specified asset continues to have effect after the asset vests in the Commonwealth as if a reference in the instrument to the FAC were a reference to the Commonwealth; 
+ 	(c)	a declaration that the Commonwealth becomes the FAC's successor in law in relation to a specified asset immediately after the asset vests in the Commonwealth.
 
-             (1)  This section applies to a contract (other than a contract of employment) to which the FAC is a party.
+<dl compact=""><dl compact="">
 
-             (2)  The Minister for Finance may, by written instrument, declare that the FAC’s rights and obligations under a specified contract:
+<dt>(3)</dt><dd>A declaration has effect accordingly.
 
-                     (a)  cease to be rights and obligations of the FAC at a specified time; and
+</dd> </dl></dl>
 
-                     (b)  become rights and obligations of the Commonwealth immediately after that time.
+<dl compact=""><dl compact="">
 
-             (3)  The Minister for Finance may, by written instrument, declare that a specified contract continues to have effect, after the FAC’s rights and obligations under the contract become rights and obligations of the Commonwealth, as if a reference in the contract to the FAC were a reference to the Commonwealth. 
+Note:	An asset or instrument may be specified by name, by
 
-             (4)  The Minister for Finance may, by written instrument, declare that a specified instrument relating to a specified contract continues to have effect, after the FAC’s rights and obligations under the contract become rights and obligations of the Commonwealth, as if a reference in the instrument to the FAC were a reference to the Commonwealth.
+inclusion in a specified class or in any other way.
 
-             (5)  The Minister for Finance may, by written instrument, declare that the Commonwealth becomes the FAC’s successor in law, in relation to the FAC’s rights and obligations under a specified contract, immediately after the FAC’s rights and obligations under the contract become rights and obligations of the Commonwealth.
+ </dl></dl>
 
-(6)  A declaration under this section has effect accordingly.
+**
 
-             (7)  This section does not, by implication, limit section 12.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 13  Transfer of the FAC's contractual rights and obligations to the Commonwealth  
+**
 
-Note:          A contract or instrument may be specified by name, by inclusion in a specified class or in any other way.
+<dl compact=""><dl compact="">
 
-##### <a id="14"></a>14  Transfer of FAC liabilities to the Commonwealth
+<dt>(1)</dt><dd>This section applies to a contract (other than a contract of employment)
 
-             (1)  This section applies to a liability of the FAC (other than a liability under a contract).
+to which the FAC is a party.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that the FAC's rights and obligations under a specified contract: </dd> </dl></dl>
 
-(2)The Minister for Finance may, by written instrument, make any or all of the following declarations:
+	(a)	cease to be rights and obligations of the FAC at a specified time; and
+ 	(b)	become rights and obligations of the Commonwealth immediately after that time.
 
-                     (a)  a declaration that a specified liability ceases to be a liability of the FAC and becomes a liability of the Commonwealth; 
+<dl compact=""><dl compact="">
 
-                     (b)  a declaration that a specified instrument relating to a specified liability continues to have effect after the liability becomes a liability of the Commonwealth as if a reference in the instrument to the FAC were a reference to the Commonwealth;
+<dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that a
 
-                     (c)  a declaration that the Commonwealth becomes the FAC’s successor in law in relation to a specified liability immediately after the liability becomes a liability of the Commonwealth.
+specified contract continues to have effect, after the FAC's rights and
 
-             (3)  A declaration under this section has effect accordingly.
+obligations under the contract become rights and obligations of the
 
-Note:          A liability or instrument may be specified by name, by inclusion in a specified class or in any other way.
+Commonwealth, as if a reference in the contract to the FAC were a reference to
 
-##### <a id="15"></a>15  Transferred airport ceases to be a Federal airport for purposes of the FAC Act
+the Commonwealth. </dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that a specified instrument relating to a specified contract continues to have effect, after the FAC's rights and obligations under the contract become rights and obligations of the Commonwealth, as if a reference in the instrument to the FAC were a reference to the Commonwealth.</dd> <dt>(5)</dt><dd>The Minister for Finance may, by written instrument, declare that the Commonwealth becomes the FAC's successor in law, in relation to the FAC's rights and obligations under a specified contract, immediately after the FAC's rights and obligations under the contract become rights and obligations of the Commonwealth.</dd> <dt>(6)</dt><dd>A declaration under this section has effect accordingly.</dd> <dt>(7)</dt><dd>This section does not, by implication, limit section&#160;12\. </dd> </dl></dl>
 
-             (1)  This section applies if the FAC’s right, title and interest in particular land vests in the Commonwealth under this Part. 
+<dl compact=""><dl compact="">
 
-(2)If that land is, or is part of, a Federal airport (within the meaning of the _Federal Airports Corporation Act 1986_), that airport ceases to be a Federal airport for the purposes of that Act.
+Note:	A contract or instrument may be specified by name, by
 
-             (3)  If that land is, or is part of, a Federal airport development site (within the meaning of the _Federal Airports Corporation Act 1986_), that site ceases to be such a site for the purposes of that Act.
+inclusion in a specified class or in any other way.
 
-##### <a id="16"></a>16  Transfers of FAC land may be registered
+ </dl></dl>
 
-             (1)  This section applies if:
+**
 
-                     (a)  any right, title and interest in particular land vests in the Commonwealth under this Part; and
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 14  Transfer of FAC liabilities to the Commonwealth 
+**
 
-                     (b)  there is lodged with a land registration official a certificate that:
+ <dl compact=""><dl compact="">
 
-                              (i)  is signed by an authorised person; and
+<dt>(1)</dt><dd>This section applies to a liability of the FAC (other than a liability
 
-                             (ii)  identifies the land, whether by reference to a map or otherwise; and
+under a contract).</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, make any or all of the following declarations: </dd> </dl></dl>
 
-                            (iii)  states that the right, title and interest has become vested in the Commonwealth under this Part.
+	(a)	a declaration that a specified liability ceases to be a liability of the FAC and becomes a liability of the Commonwealth; 
+ 	(b)	a declaration that a specified instrument relating to a specified liability continues to have effect after the liability becomes a liability of the Commonwealth as if a reference in the instrument to the FAC were a reference to the Commonwealth;
+ 	(c)	a declaration that the Commonwealth becomes the FAC's successor in law in relation to a specified liability immediately after the liability becomes a liability of the Commonwealth.
 
-Note:**_Authorised person_** is defined by subsection (4).
+<dl compact=""><dl compact="">
 
-             (2)  The land registration official may:
+<dt>(3)</dt><dd>A declaration under this section has effect accordingly.
 
-                     (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
+</dd> </dl></dl>
 
-                     (b)  deal with, and give effect to, the certificate.
+<dl compact=""><dl compact="">
 
-(3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
+Note:	A liability or instrument may be specified by name, by
 
-             (4)  In this section:
+inclusion in a specified class or in any other way.
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+ </dl></dl>
 
-                     (a)  the Minister for Finance; or
+<center>Back to Top</center>
 
-                     (b)  a person authorised by the Minister for Finance, in writing, for the purposes of this section.
+**
 
-##### <a id="17"></a>17  FAC land leased to the Commonwealth
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 15  Transferred airport ceases to be a Federal airport for purposes of the FAC Act 
+**
 
-             (1)  This section applies to land:
+<dl compact=""><dl compact="">
 
-                     (a)  in which the FAC had any right, title or interest; and
+<dt>(1)</dt><dd>This section applies if the FAC's right, title and interest in particular
 
-                     (b)  that was leased to the Commonwealth.
+land vests in the Commonwealth under this Part. </dd> <dt>(2)</dt><dd>If that land is, or is part of, a Federal airport (within the meaning of the _Federal Airports Corporation Act 1986_), that airport ceases to be a Federal airport for the purposes of that Act.</dd> <dt>(3)</dt><dd>If that land is, or is part of, a Federal airport development site (within the meaning of the _Federal Airports Corporation Act 1986_), that site ceases to be such a site for the purposes of that Act. </dd> </dl></dl>
 
-(2)If the FAC’s right, title and interest in the land vests in the Commonwealth under this Part, the Commonwealth’s interest under the lease does not merge in the greater estate or interest that becomes vested in the Commonwealth under this Part.
+**
 
-Note:          This means, in effect, that the Commonwealth will be treated as if it had leased the land to itself. When an airport lease is granted, the lessee of the lease referred to in paragraph (1)(b) will become the lessee of the airport-lessee company.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 16  Transfers of FAC land may be registered 
+**
 
-##### <a id="18"></a>18  Lands Acquisition Act does not apply to this Part
+ <dl compact=""><dl compact="">
 
-                   The _Lands Acquisition Act 1989_ does not apply in relation to anything done under this Part.
+<dt>(1)</dt><dd>This section applies if:
 
-## Part 3—Original grants of airport leases to companies
+</dd> </dl></dl>
 
-##### <a id="19"></a>19  Simplified outline
+	(a)	any right, title and interest in particular land vests in the Commonwealth under this Part; and
+ 	(b)	there is lodged with a land registration official a certificate that:
+ 	(i)	is signed by an authorised person; and
+ 	(ii)	identifies the land, whether by reference to a map or otherwise; and
+ 	(iii)	states that the right, title and interest has become vested in the Commonwealth under this Part.
 
-                   The following is a simplified outline of this Part:
+<dl compact=""><dl compact="">
 
-* * *
+Note:_Authorised person_ is defined by
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+subsection&#160;(4).
 
-Commonwealth will grant an airport lease to a company. The company is called an
+ </dl></dl>
 
-**_airport-lessee company_**.</li>
+<dl compact=""><dl compact="">
 
-<li class="BoxList" style="margin-left:21.25pt">•     Immediately
+<dt>(2)</dt><dd>The land registration official may:
 
-after the grant of the airport lease, the Commonwealth may transfer or lease
+</dd> </dl></dl>
 
-certain assets to the airport-lessee company.</li>
+	(a)	register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
+ 	(b)	deal with, and give effect to, the certificate.
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<dl compact=""><dl compact="">
 
-Commonwealth may transfer certain contracts and liabilities to the airport-lessee
+<dt>(3)</dt><dd>A document that appears to be a certificate under
 
-company.</li>
+subsection&#160;(1) is taken to be such a certificate, and to have been
 
-<li class="BoxList" style="margin-left:21.25pt">•     Airport
+properly given, unless the contrary is established.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl></dl>
 
-leases are granted subject to existing leases and other interests.</li>
+<def><dl compact=""><dl compact="">
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+_authorised person_ means:
 
-existence of this Act may be noted on title registers.</li>
+ </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+	(a)	the Minister for Finance; or
+ 	(b)	a person authorised by the Minister for Finance, in writing, for the purposes of this section. 
 
-_Lands Acquisition Act 1989_ does not apply to anything done under this
+**
 
-Part.</li>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 17  FAC land leased to the Commonwealth 
+**
 
-* * *
+ <dl compact=""><dl compact="">
 
-##### <a id="20"></a>20  Scope of Part
+<dt>(1)</dt><dd>This section applies to land:
 
-                   This Part applies to the following airports:
+</dd> </dl></dl>
 
-                     (a)  a core regulated airport (within the meaning of the _Airports Act 1996_);
+	(a)	in which the FAC had any right, title or interest; and
+ 	(b)	that was leased to the Commonwealth.
 
-                     (b)  Mt. Isa Airport;
+<dl compact=""><dl compact="">
 
-                     (c)  Tennant Creek Airport;
+<dt>(2)</dt><dd>If the FAC's right, title and interest in the land vests in
 
-                     (d)  Archerfield Airport;
+the Commonwealth under this Part, the Commonwealth's interest under the lease
 
-                     (e)  Essendon Airport;
+does not merge in the greater estate or interest that becomes vested in the
 
-                    (ea)  Jandakot Airport;
+Commonwealth under this Part.
 
-                    (eb)  Moorabbin Airport;
+</dd> </dl></dl>
 
-                    (ec)  Parafield Airport;
+<dl compact=""><dl compact="">
 
-                    (ed)  Bankstown Airport;
+Note:	This means, in effect, that the Commonwealth will be
 
-                    (ee)  Camden Airport;
+treated as if it had leased the land to itself. When an airport lease is
 
-                    (ef)  Hoxton Park Airport;
+granted, the lessee of the lease referred to in paragraph&#160;(1)(b) will
 
-                      (f)  an airport specified in the regulations, where the airport site is owned by the Commonwealth.
+become the lessee of the airport-lessee company.
 
-##### <a id="21"></a>21  Commonwealth may grant airport lease to a Commonwealth-owned company
+ </dl></dl>
 
-             (1)  The Commonwealth may grant an airport lease under this section.
+**
 
-(2)The Commonwealth must not grant an airport lease under this section unless the lessee is a company all of whose shares are beneficially owned by the Commonwealth. 
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 18  Lands Acquisition Act does not apply to this Part 
+**
 
-             (3)  If a purported lease contravenes subsection (2), it is of no effect.
+ <dl compact=""><dl compact="">
 
-Note:          In addition to the requirements of subsection (2), a grant must comply with the rules in Part 2 of the _Airports Act 1996_.
+		The _Lands Acquisition Act 1989_ does not apply in relation to anything
 
-##### <a id="22"></a>22  Commonwealth may grant airport lease to a company that is not owned by the Commonwealth
+done under this Part.
 
-             (1)  The Commonwealth may grant an airport lease under this section.
+ </dl></dl>
 
-             (2)  The Commonwealth must not grant an airport lease under this section unless the lessee is a company none of whose shares are beneficially owned by the Commonwealth. 
+<center>Back to Top</center>
 
-             (3)  If a purported lease contravenes subsection (2), it is of no effect.
+<center>**
 
-Note:          In addition to the requirements of subsection (2), a grant must comply with the rules in Part 2 of the _Airports Act 1996_.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;3&#151;Original grants of airport leases to companies </part>
+**</center>
 
-##### <a id="23"></a>23  Transfer or lease of assets to company
+**
 
-             (1)  This section applies to an asset that has vested in the Commonwealth under section 11 or 12.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 19  Simplified outline 
+**
 
-(2)The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified asset vests in the company immediately after the grant without any conveyance, transfer or assignment.
+ <dl compact=""><dl compact="">
 
-             (3)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified instrument relating to a specified asset continues to have effect after the asset vests in the company as if a reference in the instrument to the FAC or the Commonwealth were a reference to the company.
+		The following is a simplified outline of this Part:
 
-             (4)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the company becomes the Commonwealth’s successor in law in relation to a specified asset immediately after the asset vests in the company.
+ </dl></dl>
 
-(5)  A declaration under this section has effect accordingly.
+*	The Commonwealth will grant an airport lease to a company. The company is called an _airport-lessee company_.
 
-             (6)  The Commonwealth may lease an asset to a company that was granted an airport lease under section 21 or 22.
+*	Immediately after the grant of the airport lease, the Commonwealth may transfer or lease certain assets to the airport-lessee company.
 
-Note:          An asset or instrument may be specified by name, by inclusion in a specified class or in any other way.
+*	The Commonwealth may transfer certain contracts and liabilities to the airport-lessee company.
 
-##### <a id="24"></a>24  Transfer of contractual rights and obligations 
+*	Airport leases are granted subject to existing leases and other interests.
 
-             (1)  This section applies to a contract (other than a contract of employment), where rights and obligations under the contract were transferred to the Commonwealth under section 13.
+*	The existence of this Act may be noted on title registers.
 
-             (2)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the Commonwealth’s rights and obligations under a specified contract:
+*	The _Lands Acquisition Act 1989_ does not apply to anything done under this Part. 
 
-                     (a)  cease to be rights and obligations of the Commonwealth immediately after the grant; and
+**
 
-                     (b)  become rights and obligations of the company immediately after the grant.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 20  Scope of Part 
+**
 
-             (3)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified contract continues to have effect after the grant as if a reference in the contract to the Commonwealth or to the FAC were a reference to the company. 
+ <dl compact=""><dl compact="">
 
-             (4)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified instrument relating to a specified contract continues to have effect, after the FAC’s rights and obligations under the contract become rights and obligations of the company, as if a reference in the instrument to the Commonwealth or to the FAC were a reference to the company.
+		This Part applies to the following airports:
 
-             (5)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the company becomes the Commonwealth’s successor in law, in relation to the Commonwealth’s rights and obligations under a specified contract, immediately after the Commonwealth’s rights and obligations under the contract become rights and obligations of the company.
+ </dl></dl>
 
-(6)  A declaration under this section has effect accordingly.
+	(a)	a core regulated airport (within the meaning of the _Airports Act 1996_);
+ 	(b)	Mt. Isa Airport;
+ 	(c)	Tennant Creek Airport;
+ 	(d)	Archerfield Airport;
+ 	(e)	Essendon Airport;
+ 	(ea)	Jandakot Airport;
+ 	(eb)	Moorabbin Airport;
+ 	(ec)	Parafield Airport;
+ 	(ed)	Bankstown Airport;
+ 	(ee)	Camden Airport;
+ 	(ef)	Hoxton Park Airport;
+ 	(f)	an airport specified in the regulations, where the airport site is owned by the Commonwealth. 
 
-             (7)  This section does not, by implication, limit section 23.
+**
 
-Note:          A contract or instrument may be specified by name, by inclusion in a specified class or in any other way.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 21  Commonwealth may grant airport lease to a Commonwealth-owned company 
+**
 
-##### <a id="25"></a>25  Transfer of liability to company
+<dl compact=""><dl compact="">
 
-             (1)  This section applies to a liability that has become a liability of the Commonwealth under section 14.
+<dt>(1)</dt><dd>The Commonwealth may grant an airport lease under this section.</dd> <dt>(2)</dt><dd>The Commonwealth must not grant an airport lease under this section unless the lessee is a company all of whose shares are beneficially owned by the Commonwealth. </dd> <dt>(3)</dt><dd>If a purported lease contravenes subsection&#160;(2), it is of no effect. </dd> </dl></dl>
 
-             (2)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, then, immediately after the grant, a specified liability ceases to be a liability of the Commonwealth and becomes a liability of the company.
+<dl compact=""><dl compact="">
 
-(3)The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified instrument relating to a specified liability continues to have effect after the liability becomes a liability of the company as if a reference in the instrument to the FAC or the Commonwealth were a reference to the company.
+Note:	In addition to the requirements of subsection&#160;(2), a
 
-             (4)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the company becomes the Commonwealth’s successor in law in relation to a specified liability immediately after the liability becomes a liability of the company.
+grant must comply with the rules in Part&#160;2 of the _Airports Act 1996_.
 
-             (5)  A declaration under this section has effect accordingly.
+ </dl></dl>
 
-Note:          A liability or instrument may be specified by name, by inclusion in a specified class or in any other way.
+**
 
-##### <a id="26"></a>26  Airport lease granted subject to existing interests in the land 
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 22  Commonwealth may grant airport lease to a company that is not owned by the Commonwealth 
+**
 
-             (1)  An airport lease is granted under section 21 or 22 subject to all existing leases in relation to the land concerned.
+<dl compact=""><dl compact="">
 
-             (2)  Unless the Minister for Finance otherwise determines:
+<dt>(1)</dt><dd>The Commonwealth may grant an airport lease under this section.</dd> <dt>(2)</dt><dd>The Commonwealth must not grant an airport lease under this section unless the lessee is a company none of whose shares are beneficially owned by the Commonwealth. </dd> <dt>(3)</dt><dd>If a purported lease contravenes subsection&#160;(2), it is of no effect. </dd> </dl></dl>
 
-                     (a)  all obligations and benefits of the Commonwealth under, or connected with, such an existing lease:
+<dl compact=""><dl compact="">
 
-                              (i)  pass to the airport-lessee company; and
+Note:	In addition to the requirements of subsection&#160;(2), a
 
-                             (ii)  cease to be enforceable by or against the Commonwealth;
+grant must comply with the rules in Part&#160;2 of the _Airports Act 1996_.
 
-                            whether or not the obligations or benefits touch and concern the land; and
+ </dl></dl>
 
-                     (b)  an instrument relating to such an obligation or benefit continues to have effect after the grant of the airport lease as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company; and
+**
 
-                     (c)  the company becomes the Commonwealth’s successor in law, in relation to such an obligation or benefit, immediately after the grant of the airport lease.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 23  Transfer or lease of assets to company 
+**
 
-Note 1:       The lessees of existing leases become lessees of the airport-lessee company.
+ <dl compact=""><dl compact="">
 
-Note 2:       Subsections (1) and (2) relate to the obligations and benefits of the Commonwealth as lessor. Section 17 deals with a case where the Commonwealth is the lessee under an existing lease.
+<dt>(1)</dt><dd>This section applies to an asset that has vested in the Commonwealth under
 
-             (3)  An airport lease is granted under section 21 or 22 subject to all other existing interests in the land concerned.
+section&#160;11 or 12.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified asset vests in the company immediately after the grant without any conveyance, transfer or assignment.</dd> <dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified instrument relating to a specified asset continues to have effect after the asset vests in the company as if a reference in the instrument to the FAC or the Commonwealth were a reference to the company.</dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the company becomes the Commonwealth's successor in law in relation to a specified asset immediately after the asset vests in the company.</dd> <dt>(5)</dt><dd>A declaration under this section has effect accordingly.</dd> <dt>(6)</dt><dd>The Commonwealth may lease an asset to a company that was granted an airport lease under section&#160;21 or 22\. </dd> </dl></dl>
 
-##### <a id="27"></a>27  Entries in title registers 
+<center>Back to Top</center>
 
-             (1)  This section applies if an airport lease is granted under section 21 or 22.
+<dl compact=""><dl compact="">
 
-             (2)  A land registration official may make such entries or notations in or on registers or other documents kept by the official (in electronic form or otherwise) as the official thinks appropriate for the purposes of drawing the attention of persons to the existence of this Act.
+Note:	An asset or instrument may be specified by name, by
 
-##### <a id="28"></a>28  Lands Acquisition Act does not apply to this Part
+inclusion in a specified class or in any other way.
 
-                   The _Lands Acquisition Act 1989_ does not apply to anything done under this Part.
+ </dl></dl>
 
-## Part 4—Transfer of the FAC’s assets or contracts to airport-lessee companies
+**
 
-##### <a id="29"></a>29  Simplified outline
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 24  Transfer of contractual rights and obligations  
+**
 
-                   The following is a simplified outline of this Part:
+ <dl compact=""><dl compact="">
 
-* * *
+<dt>(1)</dt><dd>This section applies to a contract (other than a contract of employment),
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+where rights and obligations under the contract were transferred to the
 
-an airport lease is granted to a company, certain FAC assets or contracts may
+Commonwealth under section&#160;13.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the Commonwealth's rights and obligations under a specified contract: </dd> </dl></dl>
 
-be transferred to the company.</li>
+	(a)	cease to be rights and obligations of the Commonwealth immediately after the grant; and
+ 	(b)	become rights and obligations of the company immediately after the grant.
 
-* * *
+<dl compact=""><dl compact="">
 
-##### <a id="30"></a>30  Transfer of assets
+<dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the
 
-             (1)  This section applies to an asset of the FAC. 
+event that a specified company is granted an airport lease for a specified
 
-             (2)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified asset vests in the company immediately after the grant without any conveyance, transfer or assignment.
+airport under section&#160;21 or 22 on a specified day, a specified contract
 
-             (3)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified instrument relating to a specified asset continues to have effect after the asset vests in the company as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company.
+continues to have effect after the grant as if a reference in the contract to
 
-(4)The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the company becomes the FAC’s successor in law in relation to a specified asset immediately after the asset vests in the company.
+the Commonwealth or to the FAC were a reference to the company. </dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified instrument relating to a specified contract continues to have effect, after the FAC's rights and obligations under the contract become rights and obligations of the company, as if a reference in the instrument to the Commonwealth or to the FAC were a reference to the company.</dd> <dt>(5)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the company becomes the Commonwealth's successor in law, in relation to the Commonwealth's rights and obligations under a specified contract, immediately after the Commonwealth's rights and obligations under the contract become rights and obligations of the company.</dd> <dt>(6)</dt><dd>A declaration under this section has effect accordingly.</dd> <dt>(7)</dt><dd>This section does not, by implication, limit section&#160;23\. </dd> </dl></dl>
 
-             (5)  A declaration under this section has effect accordingly.
+<dl compact=""><dl compact="">
 
-(6)Any consideration payable for the transfer of an asset under this section is payable to the Commonwealth instead of to the FAC.
+Note:	A contract or instrument may be specified by name, by
 
-Note:          An asset or instrument may be specified by name, by inclusion in a specified class or in any other way.
+inclusion in a specified class or in any other way.
 
-##### <a id="31"></a>31  Transfer of contractual rights and obligations 
+ </dl></dl>
 
-             (1)  This section applies to a contract (other than a contract of employment) to which the FAC is a party.
+**
 
-             (2)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the FAC’s rights and obligations under a specified contract:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 25  Transfer of liability to company 
+**
 
-                     (a)  cease to be rights and obligations of the FAC immediately after the grant; and
+ <dl compact=""><dl compact="">
 
-                     (b)  become rights and obligations of the company immediately after the grant.
+<dt>(1)</dt><dd>This section applies to a liability that has become a liability of the
 
-             (3)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified contract continues to have effect after the grant as if a reference in the contract to the FAC or to the Commonwealth were a reference to the company. 
+Commonwealth under section&#160;14.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, then, immediately after the grant, a specified liability ceases to be a liability of the Commonwealth and becomes a liability of the company.</dd> <dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified instrument relating to a specified liability continues to have effect after the liability becomes a liability of the company as if a reference in the instrument to the FAC or the Commonwealth were a reference to the company.</dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the company becomes the Commonwealth's successor in law in relation to a specified liability immediately after the liability becomes a liability of the company.</dd> <dt>(5)</dt><dd>A declaration under this section has effect accordingly. </dd> </dl></dl>
 
-             (4)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified instrument relating to a specified contract continues to have effect, after the FAC’s rights and obligations under the contract become rights and obligations of the company, as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company.
+<dl compact=""><dl compact="">
 
-             (5)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the company becomes the FAC’s successor in law, in relation to the FAC’s rights and obligations under a specified contract, immediately after the FAC’s rights and obligations under the contract become rights and obligations of the company.
+Note:	A liability or instrument may be specified by name, by
 
-(6)  A declaration under this section has effect accordingly.
+inclusion in a specified class or in any other way.
 
-             (7)  This section does not, by implication, limit section 30.
+ </dl></dl>
 
-             (8)  Any consideration payable for a transfer under this section is payable to the Commonwealth instead of to the FAC.
+<center>Back to Top</center>
 
-Note:          A contract or instrument may be specified by name, by inclusion in a specified class or in any other way.
+**
 
-## Part 5—Transfer of the FAC’s liabilities to airport-lessee companies
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 26  Airport lease granted subject to existing interests in the land  
+**
 
-##### <a id="32"></a>32  Simplified outline
+<dl compact=""><dl compact="">
 
-                   The following is a simplified outline of this Part:
+<dt>(1)</dt><dd>An airport lease is granted under section&#160;21 or 22 subject to all
 
-* * *
+existing leases in relation to the land concerned.</dd> <dt>(2)</dt><dd>Unless the Minister for Finance otherwise determines: </dd> </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+	(a)	all obligations and benefits of the Commonwealth under, or connected with, such an existing lease:
+ 	(i)	pass to the airport-lessee company; and
+ 	(ii)	cease to be enforceable by or against the Commonwealth;
+ 		whether or not the obligations or benefits touch and concern the land; and
+ 	(b)	an instrument relating to such an obligation or benefit continues to have effect after the grant of the airport lease as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company; and
+ 	(c)	the company becomes the Commonwealth's successor in law, in relation to such an obligation or benefit, immediately after the grant of the airport lease.
 
-an airport lease is granted to a company, certain FAC liabilities may be
+<dl compact=""><dl compact="">
 
-transferred to the company.</li>
+Note 1:	The lessees of existing leases become lessees of the
 
-* * *
+airport-lessee company. Note 2:	Subsections&#160;(1) and (2) relate to the obligations and benefits of the Commonwealth as lessor. Section&#160;17 deals with a case where the Commonwealth is the lessee under an existing lease.  </dl></dl>
 
-##### <a id="33"></a>33  Transfer of liabilities 
+<dl compact=""><dl compact="">
 
-             (1)  This section applies to a liability of the FAC (other than a liability under a contract).
+<dt>(3)</dt><dd>An airport lease is granted under section&#160;21 or 22 subject to all
 
-             (2)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified liability:
+other existing interests in the land concerned.
 
-                     (a)  ceases to be a liability of the FAC immediately after the grant; and
+</dd> </dl></dl>
 
-                     (b)  becomes a liability of the company immediately after the grant.
+**
 
-             (3)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified instrument creating a specified liability continues to have effect after the grant as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 27  Entries in title registers  
+**
 
-             (4)  The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, the company becomes the FAC’s successor in law in relation to a specified liability immediately after the liability becomes a liability of the company.
+ <dl compact=""><dl compact="">
 
-             (5)  A declaration under this section has effect accordingly.
+<dt>(1)</dt><dd>This section applies if an airport lease is granted under section&#160;21
 
-Note:          A liability or instrument may be specified by name, by inclusion in a specified class or in any other way.
+or 22.</dd> <dt>(2)</dt><dd>A land registration official may make such entries or notations in or on registers or other documents kept by the official (in electronic form or otherwise) as the official thinks appropriate for the purposes of drawing the attention of persons to the existence of this Act. </dd> </dl></dl>
 
-## Part 6—Treatment of sale of shares in an airport-lessee company owned by the Commonwealth
+**
 
-##### <a id="34"></a>34  Simplified outline
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 28  Lands Acquisition Act does not apply to this Part 
+**
 
-                   The following is a simplified outline of this Part:
+ <dl compact=""><dl compact="">
 
-* * *
+		The _Lands Acquisition Act 1989_ does not apply to anything done under
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
+this Part.
 
-Part applies if an airport-lessee company is owned by the Commonwealth.</li>
+ </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     Before
+<center>**
 
-the Commonwealth disposes of its shares in an airport-lessee company, the
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;4&#151;Transfer of the FAC's assets or contracts to airport-lessee companies </part>
+**</center>
 
-Minister for Finance may determine that:</li>
+**
 
-               (a)     the FAC should be paid capital; and
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 29  Simplified outline 
+**
 
-               (b)     the FAC should pay the Commonwealth an amount by way of return of capital.
+ <dl compact=""><dl compact="">
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+		The following is a simplified outline of this Part:
 
-the Commonwealth disposes of its shares in an airport-lessee company:</li>
+ </dl></dl>
 
-               (a)     the Commonwealth will pay an amount to the FAC; and
+*	If an airport lease is granted to a company, certain FAC assets or contracts may be transferred to the company. 
 
-               (b)     the FAC will pay the Commonwealth an equivalent amount by way of return of capital; and
+**
 
-               (c)     the Minister for Finance may determine that the FAC should be paid capital.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 30  Transfer of assets 
+**
 
-* * *
+ <dl compact=""><dl compact="">
 
-##### <a id="35"></a>35  When this Part applies
+<dt>(1)</dt><dd>This section applies to an asset of the FAC. </dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified asset vests in the company immediately after the grant without any conveyance, transfer or assignment.</dd> <dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified instrument relating to a specified asset continues to have effect after the asset vests in the company as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company.</dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the company becomes the FAC's successor in law in relation to a specified asset immediately after the asset vests in the company.</dd> <dt>(5)</dt><dd>A declaration under this section has effect accordingly.</dd> <dt>(6)</dt><dd>Any consideration payable for the transfer of an asset under this section is payable to the Commonwealth instead of to the FAC. </dd> </dl></dl>
 
-                   This Part applies to an airport-lessee company if the company was granted an airport lease under section 21.
+<center>Back to Top</center>
 
-##### <a id="36"></a>36  Commonwealth may pay the FAC an amount before disposal of shares
+<dl compact=""><dl compact="">
 
-             (1)  This section applies in relation to an airport-lessee company during the period:
+Note:	An asset or instrument may be specified by name, by
 
-                     (a)  beginning when the company was granted an airport lease under section 21; and
+inclusion in a specified class or in any other way.
 
-                     (b)  ending at the company’s sale time.
+ </dl></dl>
 
-             (2)  The Minister for Finance may determine in writing that the FAC should be paid a specified amount of capital. The determination must specify a company as the **_nominated company_** in relation to the payment.
+**
 
-             (3)  The Minister for Finance may authorise the payment by the Commonwealth to the FAC of the amount specified under subsection (2).
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 31  Transfer of contractual rights and obligations  
+**
 
-             (4)  If, because of subsection (2), an amount (the **_capital amount_**) is payable to the FAC, the Minister for Finance may determine in writing that the FAC must pay a specified amount to the Commonwealth, so long as the specified amount does not exceed the capital amount.
+ <dl compact=""><dl compact="">
 
-             (5)  The amount payable because of subsection (2) may be set-off against the amount payable under subsection (4).
+<dt>(1)</dt><dd>This section applies to a contract (other than a contract of employment)
 
-             (6)  The amount payable under subsection (4) is payable by way of return of capital to the Commonwealth.
+to which the FAC is a party.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the FAC's rights and obligations under a specified contract: </dd> </dl></dl>
 
-##### <a id="37"></a>37  Commonwealth must pay an amount to the FAC
+	(a)	cease to be rights and obligations of the FAC immediately after the grant; and
+ 	(b)	become rights and obligations of the company immediately after the grant.
 
-             (1)  This section applies if the Commonwealth disposes of all its shares in an airport-lessee company that was granted an airport lease under section 21.
+<dl compact=""><dl compact="">
 
-             (2)  When the consideration for those shares becomes payable, the Commonwealth must pay the FAC an amount determined in writing by the Minister for Finance, reduced by the amount (if any) payable because of subsection 36(2), where the company was the nominated company in relation to the payment made because of that subsection. 
+<dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the
 
-             (3)  The amount payable under subsection (2) is payable by way of the provision of capital for the FAC.
+event that a specified company is granted an airport lease for a specified
 
-             (4)  If the Commonwealth pays an amount to the FAC under subsection (2), the FAC must pay the Commonwealth an amount equal to that amount.
+airport under section&#160;21 or 22 on a specified day, a specified contract
 
-             (5)  The amount payable under subsection (2) may be set-off against the amount payable under subsection (4).
+continues to have effect after the grant as if a reference in the contract to
 
-             (6)  The amount payable under subsection (4) is payable by way of return of capital to the Commonwealth.
+the FAC or to the Commonwealth were a reference to the company. </dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified instrument relating to a specified contract continues to have effect, after the FAC's rights and obligations under the contract become rights and obligations of the company, as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company.</dd> <dt>(5)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the company becomes the FAC's successor in law, in relation to the FAC's rights and obligations under a specified contract, immediately after the FAC's rights and obligations under the contract become rights and obligations of the company.</dd> <dt>(6)</dt><dd>A declaration under this section has effect accordingly.</dd> <dt>(7)</dt><dd>This section does not, by implication, limit section&#160;30.</dd> <dt>(8)</dt><dd>Any consideration payable for a transfer under this section is payable to the Commonwealth instead of to the FAC. </dd> </dl></dl>
 
-##### <a id="38"></a>38  Capital for the FAC following disposal of shares
+<dl compact=""><dl compact="">
 
-             (1)  This section applies if:
+Note:	A contract or instrument may be specified by name, by
 
-                     (a)  the Commonwealth disposes of all its shares in an airport-lessee company that was granted an airport lease under section 21; and
+inclusion in a specified class or in any other way.
 
-                     (b)  the Minister for Finance determines in writing that the FAC should be paid a specified amount of capital.
+ </dl></dl>
 
-(2)The Minister for Finance may authorise the payment by the Commonwealth to the FAC of the specified amount.
+<center>**
 
-##### <a id="39"></a>39  Appropriation of Consolidated Revenue Fund
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;5&#151;Transfer of the FAC's liabilities to airport-lessee companies </part>
+**</center>
 
-                   The Consolidated Revenue Fund is appropriated for the purposes of this Part.
+**
 
-## Part 7—Treatment of consideration payable by an airport-lessee company that is not owned by the Commonwealth
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 32  Simplified outline 
+**
 
-##### <a id="40"></a>40  Simplified outline
+ <dl compact=""><dl compact="">
 
-                   The following is a simplified outline of this Part:
+		The following is a simplified outline of this Part:
 
-* * *
+ </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
+*	If an airport lease is granted to a company, certain FAC liabilities may be transferred to the company. 
 
-Part applies if an airport-lessee company is not owned by the
+**
 
-Commonwealth.</li>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 33  Transfer of liabilities  
+**
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+ <dl compact=""><dl compact="">
 
-consideration becomes payable by the company to the Commonwealth for the grant
+<dt>(1)</dt><dd>This section applies to a liability of the FAC (other than a liability
 
-of the airport lease and the transfer or lease of any airport assets:</li>
+under a contract).</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified liability: </dd> </dl></dl>
 
-               (a)     the Commonwealth will pay an amount to the FAC; and
+	(a)	ceases to be a liability of the FAC immediately after the grant; and
+ 	(b)	becomes a liability of the company immediately after the grant.
 
-               (b)     the FAC will pay the Commonwealth an equivalent amount by way of return of capital; and
+<dl compact=""><dl compact="">
 
-               (c)     the Minister for Finance may determine that the FAC should be paid capital.
+<dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the
 
-* * *
+event that a specified company is granted an airport lease for a specified
 
-##### <a id="41"></a>41  When this Part applies
+airport under section&#160;21 or 22 on a specified day, a specified instrument
 
-                   This Part applies to an airport-lessee company if the company was granted an airport lease under section 22.
+creating a specified liability continues to have effect after the grant as if a
 
-##### <a id="42"></a>42  Commonwealth must pay an amount to the FAC
+reference in the instrument to the FAC or to the Commonwealth were a reference
 
-             (1)  This section applies if an airport-lessee company pays, or is liable to pay, consideration to the Commonwealth for:
+to the company.</dd> <dt>(4)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, the company becomes the FAC's successor in law in relation to a specified liability immediately after the liability becomes a liability of the company.</dd> <dt>(5)</dt><dd>A declaration under this section has effect accordingly. </dd> </dl></dl>
 
-                     (a)  the grant of the airport lease; and
+<center>Back to Top</center>
 
-                     (b)  the transfer or lease of any assets under section 23 or 24; and
+<dl compact=""><dl compact="">
 
-                     (c)  the transfer of any assets under section 30 or 31.
+Note:	A liability or instrument may be specified by name, by
 
-             (2)  When that consideration becomes payable, the Commonwealth must pay the FAC an amount determined in writing by the Minister for Finance.
+inclusion in a specified class or in any other way.
 
-             (3)  The amount payable under subsection (2) is payable by way of the provision of capital for the FAC.
+ </dl></dl>
 
-             (4)  If the Commonwealth pays an amount to the FAC under subsection (2), the FAC must pay the Commonwealth an amount equal to that amount.
+<center>**
 
-             (5)  The amount payable under subsection (2) may be set-off against the amount payable under subsection (4).
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;6&#151;Treatment of sale of shares in an airport-lessee company owned by the Commonwealth </part>
+**</center>
 
-             (6)  The amount payable under subsection (4) is payable by way of return of capital to the Commonwealth.
+**
 
-##### <a id="43"></a>43  Capital for the FAC after consideration becomes payable 
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 34  Simplified outline 
+**
 
-             (1)  This section applies if:
+ <dl compact=""><dl compact="">
 
-                     (a)  an airport-lessee company pays, or is liable to pay, to the Commonwealth an amount of consideration for:
+		The following is a simplified outline of this Part:
 
-                              (i)  the grant of the airport lease; and
+ </dl></dl>
 
-                             (ii)  the transfer or lease of any assets under section 23 or 24; and
+*	This Part applies if an airport-lessee company is owned by the Commonwealth.
 
-                            (iii)  the transfer of any assets under section 30 or 31; and
+*	Before the Commonwealth disposes of its shares in an airport-lessee company, the Minister for Finance may determine that:
 
-                     (b)  the Minister for Finance determines in writing that the FAC should be paid a specified amount of capital.
+	(a)	the FAC should be paid capital; and
+ 	(b)	the FAC should pay the Commonwealth an amount by way of return of capital.
 
-             (2)  The Minister for Finance may authorise the payment by the Commonwealth to the FAC of the specified amount.
+*	If the Commonwealth disposes of its shares in an airport-lessee company:
 
-##### <a id="44"></a>44  Appropriation of Consolidated Revenue Fund
+	(a)	the Commonwealth will pay an amount to the FAC; and
+ 	(b)	the FAC will pay the Commonwealth an equivalent amount by way of return of capital; and
+ 	(c)	the Minister for Finance may determine that the FAC should be paid capital. 
 
-                   The Consolidated Revenue Fund is appropriated for the purposes of this Part.
+**
 
-## Part 8—Special tax rules
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 35  When this Part applies 
+**
 
-### Division 1—Simplified outline
+ <dl compact=""><dl compact="">
 
-##### <a id="45"></a>45  Simplified outline
+		This Part applies to an airport-lessee company if the company was granted an
 
-                   The following is a simplified outline of this Part:
+airport lease under section&#160;21.
 
-* * *
+ </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     Certain
+**
 
-transactions under this Act are exempt from stamp duty and other taxes.</li>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 36  Commonwealth may pay the FAC an amount before disposal of shares 
+**
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<dl compact=""><dl compact="">
 
-income tax law is modified in its application to certain transactions under
+<dt>(1)</dt><dd>This section applies in relation to an airport-lessee company during the
 
-this Act.</li>
+period:
 
-* * *
+</dd> </dl></dl>
 
-### Division 2—Exemption from stamp duty and other taxes
+	(a)	beginning when the company was granted an airport lease under section&#160;21; and
+ 	(b)	ending at the company's sale time.
 
-##### <a id="46"></a>46  Exemption from stamp duty and other taxes
+<dl compact=""><dl compact="">
 
-             (1)  In this section:
+<dt>(2)</dt><dd>The Minister for Finance may determine in writing that the FAC should be
 
-                    <a name="exempt-matter"></a>**_exempt matter_** means:
+paid a specified amount of capital. The determination must specify a company as
 
-                     (a)  the grant of an airport lease by the Commonwealth under section 21; or
+the _nominated company_ in relation to the payment.</dd> <dt>(3)</dt><dd>The Minister for Finance may authorise the payment by the Commonwealth to the FAC of the amount specified under subsection&#160;(2).</dd> <dt>(4)</dt><dd>If, because of subsection&#160;(2), an amount (the _capital amount_) is payable to the FAC, the Minister for Finance may determine in writing that the FAC must pay a specified amount to the Commonwealth, so long as the specified amount does not exceed the capital amount.</dd> <dt>(5)</dt><dd>The amount payable because of subsection&#160;(2) may be set-off against the amount payable under subsection&#160;(4).</dd> <dt>(6)</dt><dd>The amount payable under subsection&#160;(4) is payable by way of return of capital to the Commonwealth. </dd> </dl></dl>
 
-                     (b)  an agreement relating to a grant mentioned in paragraph (a); or
+**
 
-                     (c)  the transfer of an asset or a liability under section 23, 24, 25, 30, 31 or 33 to a company that was granted an airport lease under section 21; or
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 37  Commonwealth must pay an amount to the FAC 
+**
 
-                     (d)  the lease of an asset under section 23 to a company that was granted an airport lease under section 21; or
+ <dl compact=""><dl compact="">
 
-                     (e)  an agreement relating to a lease mentioned in paragraph (d).
+<dt>(1)</dt><dd>This section applies if the Commonwealth disposes of all its shares in an
 
-             (2)  Stamp duty or other tax is not payable under a law of a State or Territory in respect of:
+airport-lessee company that was granted an airport lease under
 
-                     (a)  an exempt matter; or
+section&#160;21.</dd> <dt>(2)</dt><dd>When the consideration for those shares becomes payable, the Commonwealth must pay the FAC an amount determined in writing by the Minister for Finance, reduced by the amount (if any) payable because of subsection 36(2), where the company was the nominated company in relation to the payment made because of that subsection. </dd> <dt>(3)</dt><dd>The amount payable under subsection&#160;(2) is payable by way of the provision of capital for the FAC.</dd> <dt>(4)</dt><dd>If the Commonwealth pays an amount to the FAC under subsection&#160;(2), the FAC must pay the Commonwealth an amount equal to that amount.</dd> <dt>(5)</dt><dd>The amount payable under subsection&#160;(2) may be set-off against the amount payable under subsection&#160;(4).</dd> <dt>(6)</dt><dd>The amount payable under subsection&#160;(4) is payable by way of return of capital to the Commonwealth. </dd> </dl></dl>
 
-                     (b)  anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter.
+<center>Back to Top</center>
 
-##### <a id="47"></a>47  Airport-lessee company not liable to stamp duty on pre-grant instruments
+**
 
-             (1)  This section applies if, at the time a particular instrument was executed by the FAC, the FAC was exempt from stamp duty or other tax under a law of a State or Territory in respect of the instrument.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 38  Capital for the FAC following disposal of shares 
+**
 
-             (2)  To avoid doubt, an airport-lessee company whose airport lease is granted under section 21 or 22 is not liable to stamp duty or other tax under a law of a State or Territory in respect of:
+ <dl compact=""><dl compact="">
 
-                     (a)  the execution of the instrument; or
+<dt>(1)</dt><dd>This section applies if:
 
-                     (b)  a matter connected with the instrument, if the matter occurred before the grant of the airport lease concerned.
+</dd> </dl></dl>
 
-##### <a id="48"></a>48  Stamp duty—transfers of assets or liabilities to privately-owned companies
+	(a)	the Commonwealth disposes of all its shares in an airport-lessee company that was granted an airport lease under section&#160;21; and
+ 	(b)	the Minister for Finance determines in writing that the FAC should be paid a specified amount of capital.
 
-             (1)  This section applies if, as a result of a declaration under section 23, 24, 25, 30, 31 or 33, an asset or liability is transferred to a company immediately after the grant to the company of an airport lease under section 22.
+<dl compact=""><dl compact="">
 
-             (2)  This Act does not prevent a law of a State or Territory from imposing a liability to pay an amount of stamp duty or other tax because of that declaration if:
+<dt>(2)</dt><dd>The Minister for Finance may authorise the payment by the
 
-                     (a)  it is reasonable to expect that a corresponding amount of stamp duty or other tax would have been payable under a law of that State or Territory if the asset or liability that was transferred to the company because of the declaration had instead been transferred to the company by a written instrument executed by the parties to the transfer; and
+Commonwealth to the FAC of the specified amount.
 
-                     (b)  the first-mentioned amount does not exceed what it is reasonable to expect that the corresponding amount would have been.
+</dd> </dl></dl>
 
-### Division 3—Special income tax rules
+**
 
-##### <a id="48A"></a>48A  Definitions
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 39  Appropriation of Consolidated Revenue Fund 
+**
 
-                   In this Division:
+ <dl compact=""><dl compact="">
 
-                    <a name="depreci-asset"></a>**_depreciating asset_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
+		The Consolidated Revenue Fund is appropriated for the purposes of this Part.
 
-                    <a name="exempt-australian-govern-agenc"></a>**_exempt Australian government agency_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
+ </dl></dl>
 
-                    <a name="hold"></a>**_hold_** a depreciating asset has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
+<center>**
 
-                    <a name="plant"></a>**_plant_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;7&#151;Treatment of consideration payable by an airport-lessee company that is not owned by the Commonwealth </part>
+**</center>
 
-                    <a name="quasi-owner"></a>**_quasi-owner_** has the meaning given by the former section 42-310 of the _Income Tax Assessment Act 1997_.
+**
 
-                    <a name="quasi-ownership-right"></a>**_quasi-ownership right_** over land has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 40  Simplified outline 
+**
 
-##### <a id="49B"></a>49B  Special rules for fixtures that are depreciating assets—_Income Tax Assessment Act 1997_
+ <dl compact=""><dl compact="">
 
-             (1)  This section applies if:
+		The following is a simplified outline of this Part:
 
-                     (a)  a company obtains a lease relating to particular land under section 21, 22 or 23; and
+ </dl></dl>
 
-                     (b)  at the time the lease was obtained, a depreciating asset is attached to the land.
+*	This Part applies if an airport-lessee company is not owned by the Commonwealth.
 
-             (2)  If:
+*	If consideration becomes payable by the company to the Commonwealth for the grant of the airport lease and the transfer or lease of any airport assets:
 
-                     (a)  just before the land vested in the Commonwealth under Part 2:
+	(a)	the Commonwealth will pay an amount to the FAC; and
+ 	(b)	the FAC will pay the Commonwealth an equivalent amount by way of return of capital; and
+ 	(c)	the Minister for Finance may determine that the FAC should be paid capital. 
 
-                              (i)  the part of the land to which the depreciating asset was attached was held by another entity under a quasi-ownership right over land granted by an exempt Australian government agency; and
+**
 
-                             (ii)  the other entity was the holder of the asset; and
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 41  When this Part applies 
+**
 
-                     (b)  on the grant of the lease referred to in paragraph (1)(a), the other entity became a sub-lessee of the company;
+ <dl compact=""><dl compact="">
 
-then, so long as the other entity continues to hold the sub-lease of that part of the land from the company or a successor, the other entity is taken to hold the asset.
+		This Part applies to an airport-lessee company if the company was granted an
 
-             (3)  If:
+airport lease under section&#160;22.
 
-                     (a)  subsection (2) does not apply to the depreciating asset; and
+ </dl></dl>
 
-                     (b)  the FAC was the holder of the asset just before the land vested in the Commonwealth under Part 2;
+**
 
-that Division applies to the asset as if:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 42  Commonwealth must pay an amount to the FAC 
+**
 
-                     (c)  the company held the asset; and
+ <dl compact=""><dl compact="">
 
-                     (d)  the amount paid by the company for the grant of the lease were an amount paid for the acquisition of the right.
+<dt>(1)</dt><dd>This section applies if an airport-lessee company pays, or is liable to
 
-             (4)  However, the Minister for Finance may make a written determination of the cost of the asset referred to in subsection (3) for the purposes of Division 40 of the _Income Tax Assessment Act 1997_.
+pay, consideration to the Commonwealth for:
 
-Note:          If a determination is made, the cost of the asset will be determined under item 10 of the table in subsection 40-180(2) of the _Income Tax Assessment Act 1997_.
+</dd> </dl></dl>
 
-             (5)  The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of Subdivision 40-D of the _Income Tax Assessment Act 1997_ to the asset and to the FAC.
+	(a)	the grant of the airport lease; and
+ 	(b)	the transfer or lease of any assets under section&#160;23 or 24; and
+ 	(c)	the transfer of any assets under section&#160;30 or 31.
 
-             (6)  This section does not affect the operation of section 19 of the _Civil Aviation Legislation Amendment Act 1995_.
+<dl compact=""><dl compact="">
 
-             (7)  In this section:
+<dt>(2)</dt><dd>When that consideration becomes payable, the Commonwealth must pay the FAC
 
-                    <a name="entiti"></a>**_entity_** has the same meaning as in section 49A.
+an amount determined in writing by the Minister for Finance.</dd> <dt>(3)</dt><dd>The amount payable under subsection&#160;(2) is payable by way of the provision of capital for the FAC.</dd> <dt>(4)</dt><dd>If the Commonwealth pays an amount to the FAC under subsection&#160;(2), the FAC must pay the Commonwealth an amount equal to that amount.</dd> <dt>(5)</dt><dd>The amount payable under subsection&#160;(2) may be set-off against the amount payable under subsection&#160;(4).</dd> <dt>(6)</dt><dd>The amount payable under subsection&#160;(4) is payable by way of return of capital to the Commonwealth. </dd> </dl></dl>
 
-##### <a id="50B"></a>50B  Acquisition of depreciating asset from the Commonwealth—Division 40 of the _Income Tax Assessment Act 1997_
+**
 
-             (1)  This section applies to a depreciating asset that:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 43  Capital for the FAC after consideration becomes payable  
+**
 
-                     (a)  was transferred from the Commonwealth to a company under section 23; and
+ <dl compact=""><dl compact="">
 
-                     (b)  at the time of transfer, was not attached to land.
+<dt>(1)</dt><dd>This section applies if:
 
-             (2)  The Minister for Finance may make a written determination of the cost of the asset for the purposes of Division 40 of the _Income Tax Assessment Act 1997_.
+</dd> </dl></dl>
 
-Note:          If a determination is made, the cost of the plant will be determined under item 10 of the table in subsection 40-180(2) of the _Income Tax Assessment Act 1997_.
+	(a)	an airport-lessee company pays, or is liable to pay, to the 
+<center>Back to Top</center>
+ Commonwealth an amount of consideration for:
+ 	(i)	the grant of the airport lease; and
+ 	(ii)	the transfer or lease of any assets under section&#160;23 or 24; and
+ 	(iii)	the transfer of any assets under section&#160;30 or 31; and
+ 	(b)	the Minister for Finance determines in writing that the FAC should be paid a specified amount of capital.
 
-             (3)  The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of Subdivision 40-D of the _Income Tax Assessment Act 1997_ to the asset and to the FAC.
+<dl compact=""><dl compact="">
 
-##### <a id="51B"></a>51B  Acquisition of depreciating asset from the FAC—Division 40 of the _Income Tax Assessment Act 1997_
+<dt>(2)</dt><dd>The Minister for Finance may authorise the payment by the Commonwealth to
 
-             (1)  This section applies to a depreciating asset that was transferred from the FAC to a company under section 30.
+the FAC of the specified amount.
 
-             (2)  The Minister for Finance may make a written determination of the cost of the asset for the purposes of Division 40 of the _Income Tax Assessment Act 1997_.
+</dd> </dl></dl>
 
-Note:          If a determination is made, the cost of the plant will be determined under item 10 of the table in subsection 40-180(2) of the _Income Tax Assessment Act 1997_.
+**
 
-             (3)  The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of Subdivision 40-D of the _Income Tax Assessment Act 1997_ to the asset and to the FAC.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 44  Appropriation of Consolidated Revenue Fund 
+**
 
-##### <a id="52A"></a>52A  Consideration received by the FAC for transfer of assets—_Income Tax Assessment Act 1997_
+ <dl compact=""><dl compact="">
 
-             (1)  This section applies to an asset that was:
+		The Consolidated Revenue Fund is appropriated for the purposes of this Part.
 
-                     (a)  transferred from the FAC to the Commonwealth under section 11, 12 or 13; or
+ </dl></dl>
 
-                     (b)  transferred from the FAC to an airport-lessee company under section 30 or 31.
+<center>**
 
-             (2)  The Minister for Finance may make a written determination that the _Income Tax Assessment Act 1936_ and the _Income Tax Assessment Act 1997_ apply to the FAC as if the FAC had received consideration of an amount specified in the determination from the Commonwealth in respect of the transfer of a specified asset.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;8&#151;Special tax rules </part>
+**</center>
 
-Note:          If such a determination is relevant to working out a balancing adjustment, the termination value of the plant will be determined under item 13 or 14 of the table in former section 42-205 of the _Income Tax Assessment Act 1997_, or item 11 of the table in subsection 40-300(2) of that Act.
+<center>**
 
-             (3)  The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of former Subdivision 42-F of the _Income Tax Assessment Act 1997_, or Subdivision 40-D of that Act, to the asset and to the FAC.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;1&#151;Simplified outline </division> 
+**</center>
 
-             (4)  A determination made by the Minister for Finance under section 52 before the commencement of this subsection has effect as if it had also been made under this section for the purposes of the _Income Tax Assessment Act 1997_.
+**
 
-##### <a id="54A"></a>54A  Airport-lessee company to be capital works owner for the purposes of Division 43 of the _Income Tax Assessment Act 1997_ 
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 45  Simplified outline 
+**
 
-             (1)  For the purposes of Division 43 of the _Income Tax Assessment Act 1997_, if:
+ <dl compact=""><dl compact="">
 
-                     (a)  capital works are situated on land leased under an airport lease; and
+		The following is a simplified outline of this Part:
 
-                     (b)  there is a pool of construction expenditure for the capital works; and
+ </dl></dl>
 
-                     (c)  immediately before the land was transferred from the FAC to the Commonwealth under Part 2 of this Act, the FAC was the owner of the capital works for the purposes of Division 43 of the _Income Tax Assessment Act 1997_;
+*	Certain transactions under this Act are exempt from stamp duty and other taxes.
 
-then, so long as the airport-lessee company concerned continues to hold the airport lease, the airport-lessee company is taken to be the owner of the capital works.
+*	The income tax law is modified in its application to certain transactions under this Act.
 
-             (2)  In this section:
+<center>**
 
-                    <a name="pool-construct-expenditur"></a>**_pool of construction expenditure_** has the meaning given by section 43-85 of the _Income Tax Assessment Act 1997_.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;2&#151;Exemption from stamp duty and other taxes </division> 
+**</center>
 
-##### <a id="55"></a>55  Modification of capital allowances and capital gains tax provisions 
+**
 
-             (1)  This section applies if:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 46  Exemption from stamp duty and other taxes 
+**
 
-                     (a)  a company is granted an airport lease under section 21; and
+ <dl compact=""><dl compact="">
 
-                     (b)  the company’s sale time does not occur within 7 days after the grant.
+<dt>(1)</dt><dd>In this section:
 
-(2)The regulations may provide that:
+</dd> </dl></dl>
 
-                     (a)  the provisions of the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_ relating to depreciation or capital allowances; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  the provisions of either of those Acts relating to capital gains and capital losses;
+_exempt matter_ means:
 
-apply in relation to:
+ </dl></dl>
 
-                     (c)  the airport lease; and
+	(a)	the grant of an airport lease by the Commonwealth under section&#160;21; or
+ 	(b)	an agreement relating to a grant mentioned in paragraph&#160;(a); or
+ 	(c)	the transfer of an asset or a liability under section&#160;23, 24, 25, 30, 31 or 33 to a company that was granted an airport lease under section&#160;21; or
+ 	(d)	the lease of an asset under section&#160;23 to a company that was granted an airport lease under section&#160;21; or
+ 	(e)	an agreement relating to a lease mentioned in paragraph&#160;(d).
 
-                     (d)  assets transferred or leased to the company under section 23, 24, 30 or 31;
+<dl compact=""><dl compact="">
 
-subject to such modifications as are specified in the regulations.
+<dt>(2)</dt><dd>Stamp duty or other tax is not payable under a law of a State or Territory
 
-(3)  In this section:
+in respect of:
 
-                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
+</dd> </dl></dl>
 
-##### <a id="56"></a>56  Transfer of development allowance benefits
+	(a)	an exempt matter; or
+ 	(b)	anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter. 
 
-             (1)  This section applies if:
+**
 
-                     (a)  an airport lease is granted to a company under section 21 or 22; and
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 47  Airport-lessee company not liable to stamp duty on pre-grant instruments 
+**
 
-                     (b)  immediately before the airport was transferred to the Commonwealth under Part 2, the FAC was carrying out, or proposed to carry out, a project (within the meaning of the _Development Allowance Authority Act 1992_) at the airport.
+<dl compact=""><dl compact="">
 
-(2)The _Development Allowance Authority Act 1992_ has effect, in relation to the project, to the FAC and to the company, as if section 49 of that Act were repealed and the following section were substituted:
+<dt>(1)</dt><dd>This section applies if, at the time a particular instrument was executed
 
-“**49  Application for transfer**
+by the FAC, the FAC was exempt from stamp duty or other tax under a law of a
 
-                   If:
+State or Territory in respect of the instrument.</dd> <dt>(2)</dt><dd>To avoid doubt, an airport-lessee company whose airport lease is granted under section&#160;21 or 22 is not liable to stamp duty or other tax under a law of a State or Territory in respect of: </dd> </dl></dl>
 
-                     (a)  either of the following applies to the FAC (the **_transferor_**):
+	(a)	the execution of the instrument; or
+ 	(b)	a matter connected with the instrument, if the matter occurred before the grant of the airport lease concerned. 
+<center>Back to Top</center>
 
-                              (i)  plant expenditure is registered in the name of the FAC;
+**
 
-                             (ii)  the FAC holds a certificate in relation to plant expenditure; and
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 48  Stamp duty&#151;transfers of assets or liabilities to privately-owned companies 
+**
 
-                     (b)  the FAC has ceased, or proposes to cease, to carry out the project concerned; and
+<dl compact=""><dl compact="">
 
-                     (c)  the company (the **_transferee_**) has taken over, or proposes to take over, the completion of the project (with or without modification); and
+<dt>(1)</dt><dd>This section applies if, as a result of a declaration under
 
-                     (d)  either:
+section&#160;23, 24, 25, 30, 31 or 33, an asset or liability is transferred to
 
-                              (i)  the company has incurred, or proposes to incur, plant expenditure in carrying out the completion of the project (with or without modification); or
+a company immediately after the grant to the company of an airport lease under
 
-                             (ii)  both:
+section&#160;22.</dd> <dt>(2)</dt><dd>This Act does not prevent a law of a State or Territory from imposing a liability to pay an amount of stamp duty or other tax because of that declaration if: </dd> </dl></dl>
 
-                                        (A)  the company has incurred, or proposes to incur, expenditure in acquiring from the Commonwealth a unit of plant that was new in the hands of the FAC; and
+	(a)	it is reasonable to expect that a corresponding amount of stamp duty or other tax would have been payable under a law of that State or Territory if the asset or liability that was transferred to the company because of the declaration had instead been transferred to the company by a written instrument executed by the parties to the transfer; and
+ 	(b)	the first-mentioned amount does not exceed what it is reasonable to expect that the corresponding amount would have been.
 
-                                        (B)  the acquisition has taken place, or will take place, in the course of the company’s takeover, or proposed takeover, of the completion of the project (with or without modification);
+<center>**
 
-the company may apply to the DAA for a transfer of the benefits of the registration or certificate, as the case may be.”.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;3&#151;Special income tax rules </division> 
+**</center>
 
-## Part 9—Transfer of staff from the FAC to airport-lessee companies
+**
 
-### Division 1—Simplified outline
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 48A  Definitions 
+**
 
-##### <a id="57"></a>57  Simplified outline
+ <dl compact=""><dl compact="">
 
-                   The following is a simplified outline of this Part:
+		In this Division:
 
-* * *
+ </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+<def><dl compact=""><dl compact="">
 
-an airport lease is granted to a company, certain employees of the FAC will be
+_depreciating asset_ has the meaning given by subsection 995-1(1)
 
-transferred to the company.</li>
+of the _Income Tax Assessment Act 1997_. _exempt Australian government agency_ has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_. _hold_ a depreciating asset has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_. _plant_ has the meaning given by section&#160;42-18 of the _Income Tax Assessment Act 1997_. _quasi-owner_ has the meaning given by the former section&#160;42-310 of the _Income Tax Assessment Act 1997_. _quasi-ownership right_ over land has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.  </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     A
+**
 
-transferred employee will have terms and conditions of employment that are
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 49  Special depreciation rules for fixtures 
+**
 
-similar to those he or she had before the transfer.</li>
+ <dl compact=""><dl compact="">
 
-<li class="BoxList" style="margin-left:21.25pt">•     Those
+<dt>(1)</dt><dd>This section applies if:
 
-terms and conditions can be varied in accordance with relevant awards etc.</li>
+</dd> </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•     Before
+	(a)	a company obtains a lease relating to particular land under section&#160;21, 22 or 23; and
+ 	(b)	at the time the lease was obtained, a unit of property is affixed to the land.
 
-being transferred, employees will be given statements setting out particulars
+<dl compact=""><dl compact="">
 
-of accrued benefits.</li>
+<dt>(2)</dt><dd>If:
 
-<li class="BoxList" style="margin-left:21.25pt">•     Special
+</dd> </dl></dl>
 
-provision is made for:</li>
+	(a)	immediately before the land vested in the Commonwealth under Part&#160;2:
+ 	(i)	the property was affixed to a particular part of the land; and
+ 	(ii)	that part of the land was leased to another entity; and
+ 	(iii)	under section&#160;54AA of the _Income Tax Assessment Act 1936_, the provisions of that Act relating to depreciation applied to the property and to the other entity as if the other entity were the owner of the property; and
+ 	(b)	on the grant, the lessee of the lease mentioned in subparagraph&#160;(a)(ii) became a lessee of the company;
 
-               (a)     mobility rights; and
+then, so long as the other entity continues to hold the lease mentioned in subparagraph&#160;(a)(ii), section&#160;54AA of the _Income Tax Assessment Act 1936_ has effect, in relation to the property, as if:
 
-               (b)     long service leave; and
+	(c)	the lease mentioned in subparagraph&#160;(a)(ii) were a Crown lease; and
+ 	(d)	the other entity were the lessee under the Crown lease.
 
-               (c)     superannuation; and
+<dl compact=""><dl compact="">
 
-               (d)     the application of the _Safety, Rehabilitation and Compensation Act 1988_.
+<dt>(3)</dt><dd>If:
 
-* * *
+</dd> </dl></dl>
 
-### Division 2—Transfer of staff
+<center>Back to Top</center>
 
-##### <a id="58"></a>58  Transfer of staff from the FAC 
-
-             (1)  This section applies to an employee of the FAC.
-
-(2)The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 21 or 22 on a specified day, a specified employee:
-
-                     (a)  ceases to be employed by the FAC immediately after the grant; and
-
-                     (b)  is taken to have been engaged by the company as an employee of the company immediately after the grant.
-
-(3)The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section 22 on a specified day, a specified employee:
-
-                     (a)  ceases to be employed by the FAC immediately after the time ascertained in accordance with the instrument, being a time that occurs on that day and before the grant; and
-
-                     (b)  is taken to have been engaged by the company as an employee of the company immediately after that time. 
-
-             (4)  A declaration under this section has effect accordingly.
-
-             (5)  If subsection (2) applies to an employee, the employee’s **_transfer_**_time_ occurs immediately after the grant.
-
-             (6)  If subsection (3) applies to an employee, the employee’s **_transfer time_** occurs immediately after the time ascertained in accordance with the instrument.
-
-### Division 3—Terms and conditions
-
-##### <a id="59"></a>59  Terms and conditions of transferred employees
-
-             (1)  A person who is a transferred employee is taken:
-
-                     (a)  to have been engaged by the company concerned on the same terms and conditions as those that applied to the person, immediately before the employee’s transfer time, as an employee of the FAC; and
-
-                     (b)  to have accrued an entitlement to benefits, in connection with that engagement by the company concerned, that is equivalent to the entitlement that the person had accrued, as an employee of the FAC, immediately before the employee’s transfer time.
-
-(2)The service of a transferred employee as an employee of the company concerned is taken, for all purposes, to have been continuous with the service of the employee, immediately before the employee’s transfer time, as an employee of the FAC.
-
-(3)A transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the FAC as a result of this Part.
-
-(4)A reference in paragraph (1)(a) to terms and conditions is a reference to terms and conditions that are set out in:
-
-                     (a)  a written contract of employment; or
-
-                     (b)  an award (as defined by section 4 of the _Industrial Relations Act 1988_); or
-
-                     (c)  a certified agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
-
-                     (d)  an Australian Workplace Agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
-
-                     (e)  an enterprise flexibility agreement (as defined by section 4 of the _Workplace Relations Act 1996_ as in force immediately before the commencement of Schedule 9 to the _Workplace Relations and Other Legislation Amendment Act 1996_) that continues to have effect because of Part 2 of that Schedule.
-
-             (5)  This section has effect subject to this Part.
-
-##### <a id="60"></a>60  Variation of terms and conditions of employment
-
-             (1)  This Division does not prevent the terms and conditions of a transferred employee’s employment after the employee’s transfer time from being varied:
-
-                     (a)  in accordance with those terms and conditions; or
-
-                     (b)  by or under a law, award, determination or agreement.
-
-(2)In this section:
-
-                    <a name="vari"></a>**_vary_**, in relation to terms and conditions, includes:
-
-                     (a)  omitting any of those terms and conditions; or
-
-                     (b)  adding to those terms and conditions; or
-
-                     (c)  substituting new terms or conditions for any of those terms and conditions.
-
-##### <a id="61"></a>61  Statement of accrued benefits
-
-             (1)  Before the employment of an employee of the FAC is transferred under section 58, the FAC must give the employee a written statement setting out particulars of the benefits to which the employee has accrued an entitlement.
-
-(2)In any proceedings relating to paragraph 59(1)(b), the statement is prima facie evidence of the matters set out in the statement.
-
-(3)A failure by the FAC to comply with subsection (1) does not affect the validity of the transfer of the employment of the employee.
-
-### Division 4—Mobility rights
-
-##### <a id="62"></a>62  Cessation of mobility rights
-
-             (1)  If:
-
-                     (a)  Division 2 or 3 of Part IV of the _Public Service Act 1922_ applied to an employee of the FAC immediately before the employee’s transfer time; and
-
-                     (b)  the airport-lessee company to whom the employee was transferred was not a public authority (within the meaning of that Part) immediately before that time;
-
-then that Division ceases to apply to the employee at that time.
-
-             (2)  If:
-
-                     (a)  Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of the FAC immediately before the employee’s transfer time; and
-
-                     (b)  the airport-lessee company to whom the employee was transferred was not a public authority (within the meaning of that Part) immediately before that time;
+	(a)	subsection&#160;(2) does not apply to the property; and
+ 	(b)	the FAC was the owner of the property for the purposes of section&#160;54 of the _Income Tax Assessment Act 1936_ immediately before the land vested in the Commonwealth under Part&#160;2 of this Act;
 
 then:
 
-                     (c)  the _Officers’ Rights Declaration Act 1928_; and 
+	(c)	section&#160;54AA of the _Income Tax Assessment Act 1936_ has effect, in relation to the property, as if:
+ 	(i)	the company had acquired the lease from a prior holder of the lease; and
+ 	(ii)	the prior holder had acquired or constructed the property and affixed the property to the land; and
+ 	(iii)	a reference in that section to the consideration paid or given by the company for the acquisition of the lease were a reference to the consideration given by the company for the grant of the lease; and
+ 	(d)	section&#160;60 of the _Income Tax Assessment Act 1936_ has effect as if the company had acquired the property from the FAC instead of from another person; and
+ 	(e)	the Minister for Finance may make a written determination that the provisions of the _Income Tax Assessment Act 1936_ relating to depreciation have effect as if the depreciated value of the property at the time of the grant were equal to the amount specified in the determination.
 
-                     (d)  Division 4 of Part IV of the _Public Service Act 1922_; 
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>A determination under paragraph&#160;(3)(e) has effect accordingly.</dd> <dt>(5)</dt><dd>The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of section&#160;59 of the _Income Tax Assessment Act 1936_ to the property and to the FAC.</dd> <dt>(6)</dt><dd>This section does not affect the operation of section&#160;19 of the _Civil Aviation Legislation Amendment Act 1995_.</dd> <dt>(7)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_entity_ means any of the following:
+
+ </dl></dl>
+
+	(a)	a company;
+ 	(b)	a partnership;
+ 	(c)	a person in a capacity of trustee;
+ 	(d)	any other person. 
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 49A  Special depreciation rules for fixtures&#151;_Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl></dl>
+
+	(a)	a company obtains a lease relating to particular land under section&#160;21, 22 or 23; and
+ 	(b)	at the time the lease was obtained, a unit of plant is attached to the land.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	immediately before the land vested in the Commonwealth under Part&#160;2:
+ 	(i)	the part of the land to which the plant was attached was held by another entity under a quasi-ownership right over land granted by an exempt Australian government agency; and
+ 	(ii)	the other entity was the quasi-owner of the plant; and
+ 	(b)	on the grant of the lease referred to in paragraph&#160;(1)(a), the other entity became a sub-lessee of the company;
+
+then, so long as the other entity continues to hold the sub-lease of that part of the land from the company or a successor, the other entity:
+
+	(c)	is taken to hold a quasi-ownership right over the land granted by an exempt Australian government agency; and
+ 	(d)	is taken to satisfy paragraph 42-310(1)(b) of the _Income Tax Assessment Act 1997_ for the plant.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	subsection&#160;(2) does not apply to the plant; and
+ 	(b)	the FAC was the owner of the plant for the purposes of Division&#160;42 of the _Income Tax Assessment Act 1997_ immediately before the land vested in the Commonwealth under Part&#160;2;
+
+that Division applies to the plant as if:
+
+	(c)	the company satisfied paragraph 42-310(1)(b) of that Act for the plant; and
+
+<center>Back to Top</center>
+ 	(d)	the company held a quasi-ownership right over the land and that right was assigned to the company; and
+ 	(e)	the amount paid by the company for the grant of the lease were an amount paid for the acquisition of the right.
+
+<dl compact=""><dl compact="">
+
+Note:	If, as a result, the company is the quasi-owner of the
+
+plant, the cost of the plant to it will be determined under item&#160;4 in the
+
+table in section&#160;42-65 of that Act, unless item&#160;13 or 14 applies.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>However, the Minister for Finance may make a written determination of the
+
+cost of the plant referred to in subsection&#160;(3) for the purposes of
+
+Division&#160;42 of the _Income Tax Assessment Ac 1997_.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	If a determination is made, the cost of the plant will be
+
+determined under item&#160;13 or 14 in the table in section&#160;42-65 of that
+
+Act.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of Subdivision&#160;42-F of
+
+the _Income Tax Assessment Act 1997_ to the plant and to the FAC.</dd> <dt>(6)</dt><dd>This section does not affect the operation of section&#160;19 of the _Civil Aviation Legislation Amendment Act 1995_.</dd> <dt>(7)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_entity_ means any of the following:
+
+ </dl></dl>
+
+	(a)	a company;
+ 	(b)	a partnership;
+ 	(c)	a person in a capacity of trustee;
+ 	(d)	any other person. 
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 49B  Special rules for fixtures that are depreciating assets&#151;_Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl></dl>
+
+	(a)	a company obtains a lease relating to particular land under section&#160;21, 22 or 23; and
+ 	(b)	at the time the lease was obtained, a depreciating asset is attached to the land.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	just before the land vested in the Commonwealth under Part&#160;2:
+ 	(i)	the part of the land to which the depreciating asset was attached was held by another entity under a quasi-ownership right over land granted by an exempt Australian government agency; and
+ 	(ii)	the other entity was the holder of the asset; and
+ 	(b)	on the grant of the lease referred to in paragraph&#160;(1)(a), the other entity became a sub-lessee of the company;
+
+then, so long as the other entity continues to hold the sub-lease of that part of the land from the company or a successor, the other entity is taken to hold the asset.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	subsection&#160;(2) does not apply to the depreciating asset; and
+ 	(b)	the FAC was the holder of the asset just before the land vested in the Commonwealth under Part&#160;2;
+
+that Division applies to the asset as if:
+
+	(c)	the company held the asset; and
+ 	(d)	the amount paid by the company for the grant of the lease were an amount paid for the acquisition of the right.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>However, the Minister for Finance may make a written determination of the
+
+cost of the asset referred to in subsection&#160;(3) for the purposes of
+
+Division&#160;40 of the _Income Tax Assessment Act 1997_.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+Note:	If a determination is made, the cost of the asset will be
+
+determined under item&#160;10 of the table in subsection 40-180(2) of the
+
+_Income Tax Assessment Act 1997_.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of Subdivision&#160;40-D of
+
+the _Income Tax Assessment Act 1997_ to the asset and to the FAC.</dd> <dt>(6)</dt><dd>This section does not affect the operation of section&#160;19 of the _Civil Aviation Legislation Amendment Act 1995_.</dd> <dt>(7)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_entity_ has the same meaning as in section&#160;49A.
+
+ </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 50  Acquisition of depreciated property from the Commonwealth 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to a unit of property that:
+
+</dd> </dl></dl>
+
+	(a)	was transferred from the Commonwealth to a company under section&#160;23; and
+ 	(b)	at the time of the transfer, was not affixed to land.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Section&#160;60 of the _Income Tax Assessment Act 1936_ has effect as
+
+if the company had acquired the property from the FAC instead of from the
+
+Commonwealth.</dd> <dt>(3)</dt><dd>The Minister for Finance may make a written determination that the provisions of the _Income Tax Assessment Act 1936_ relating to depreciation have effect as if the depreciated value of the asset at the time of the transfer were equal to the amount specified in the determination.</dd> <dt>(4)</dt><dd>The determination has effect accordingly.</dd> <dt>(5)</dt><dd>The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of section&#160;59 of the _Income Tax Assessment Act 1936_ to the property and to the FAC. </dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 50A  Acquisition of depreciated plant from the Commonwealth&#151;_Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to a unit of plant that:
+
+</dd> </dl></dl>
+
+	(a)	was transferred from the Commonwealth to a company under section&#160;23; and
+ 	(b)	at the time of transfer, was not attached to land.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister for Finance may make a written determination of the cost of
+
+the plant for the purposes of Division&#160;42 of the _Income Tax Assessment Act 1997_.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	If a determination is made, the cost of the plant will be
+
+determined under item&#160;13 or 14 in the table in section&#160;42-65 of that
+
+Act.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of Subdivision&#160;42-F of
+
+the _Income Tax Assessment Act 1997_ to the plant and to the FAC.
+
+</dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 50B  Acquisition of depreciating asset from the Commonwealth&#151;Division&#160;40 of the _Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to a depreciating asset that:
+
+</dd> </dl></dl>
+
+	(a)	was transferred from the Commonwealth to a company under 
+<center>Back to Top</center>
+ section&#160;23; and
+ 	(b)	at the time of transfer, was not attached to land.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister for Finance may make a written determination of the cost of
+
+the asset for the purposes of Division&#160;40 of the _Income Tax Assessment Act 1997_.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	If a determination is made, the cost of the plant will be
+
+determined under item&#160;10 of the table in subsection 40-180(2) of the
+
+_Income Tax Assessment Act 1997_.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of Subdivision&#160;40-D of
+
+the _Income Tax Assessment Act 1997_ to the asset and to the FAC.
+
+</dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 51  Acquisition of depreciated property from the FAC 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to a unit of property that was transferred from the
+
+FAC to a company under section&#160;30.</dd> <dt>(2)</dt><dd>The Minister for Finance may make a written determination that the provisions of the _Income Tax Assessment Act 1936_ relating to depreciation have effect as if the depreciated value of the asset at the time of the transfer were equal to the amount specified in the determination.</dd> <dt>(3)</dt><dd>The determination has effect accordingly.</dd> <dt>(4)</dt><dd>The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of section&#160;59 of the _Income Tax Assessment Act 1936_ to the property and to the FAC. </dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 51A  Acquisition of depreciated plant from the FAC&#151;_Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to a unit of plant that was transferred from the FAC
+
+to a company under section&#160;30.</dd> <dt>(2)</dt><dd>The Minister for Finance may make a written determination of the cost of the plant for the purposes of Division&#160;42 of the _Income Tax Assessment Act 1997_. </dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	If a determination is made, the cost of the plant will be
+
+determined under item&#160;13 or 14 in the table in section&#160;42-65 of that
+
+Act.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of Subdivision&#160;42-F of
+
+the _Income Tax Assessment Act 1997_ to the plant and to the FAC.
+
+</dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 51B  Acquisition of depreciating asset from the FAC&#151;Division&#160;40 of the _Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to a depreciating asset that was transferred from the
+
+FAC to a company under section&#160;30.</dd> <dt>(2)</dt><dd>The Minister for Finance may make a written determination of the cost of the asset for the purposes of Division&#160;40 of the _Income Tax Assessment Act 1997_. </dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	If a determination is made, the cost of the plant will be
+
+determined under item&#160;10 of the table in subsection 40-180(2) of the
+
+_Income Tax Assessment Act 1997_.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of Subdivision&#160;40-D of
+
+the _Income Tax Assessment Act 1997_ to the asset and to the FAC.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 52  Consideration received by the FAC for transfer of assets to the Commonwealth or to an airport-lessee company 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to an asset that was:
+
+</dd> </dl></dl>
+
+	(a)	transferred from the FAC to the Commonwealth under section&#160;11, 12 or 13; or
+ 	(b)	transferred from the FAC to an airport-lessee company under section&#160;30 or 31.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister for Finance may make a written determination that the
+
+_Income Tax Assessment Act 1936_ has effect, in relation to the FAC, as if:
+
+</dd> </dl></dl>
+
+	(a)	the FAC had received consideration from the Commonwealth in respect of the transfer of a specified asset; and
+ 	(b)	that consideration was equal to the amount specified in the determination.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The determination has effect accordingly.</dd> <dt>(4)</dt><dd>The FAC must give the Minister for Finance such information as the Minister for Finance requires about the application of section&#160;59 of the _Income Tax Assessment Act 1936_ to the asset and to the FAC. </dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 52A  Consideration received by the FAC for transfer of assets&#151;_Income Tax Assessment Act 1997_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to an asset that was:
+
+</dd> </dl></dl>
+
+	(a)	transferred from the FAC to the Commonwealth under section&#160;11, 12 or 13; or
+ 	(b)	transferred from the FAC to an airport-lessee company under section&#160;30 or 31.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister for Finance may make a written determination that the
+
+_Income Tax Assessment Act 1936_ and the _Income Tax Assessment Act 1997_ apply to the FAC as if the FAC had received consideration of an amount
+
+specified in the determination from the Commonwealth in respect of the transfer
+
+of a specified asset.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	If such a determination is relevant to working out a
+
+balancing adjustment, the termination value of the plant will be determined
+
+under item&#160;13 or 14 of the table in former section&#160;42-205 of the
+
+_Income Tax Assessment Act 1997_, or item&#160;11 of the table in
+
+subsection 40-300(2) of that Act.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The FAC must give the Minister for Finance such information as the
+
+Minister for Finance requires about the application of former
+
+Subdivision&#160;42-F of the _Income Tax Assessment Act 1997_, or
+
+Subdivision&#160;40-D of that Act, to the asset and to the FAC.</dd> <dt>(4)</dt><dd>A determination made by the Minister for Finance under section&#160;52 before the commencement of this subsection has effect as if it had also been made under this section for the purposes of the _Income Tax Assessment Act 1997_. </dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 53  Airport-lessee company to be building owner for the purposes of Division&#160;10C of Part&#160;III of the _Income Tax Assessment Act 1936_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of Division&#160;10C of Part&#160;III of the _Income Tax Assessment Act 1936_, if:
+
+</dd> </dl></dl>
+
+	(a)	there is an amount of qualifying hotel expenditure or qualifying apartment expenditure in respect of an eligible building; and
+ 	(b)	the eligible building is situated on land leased under an airport lease; and
+ 	(c)	immediately before the land was transferred from the FAC to the Commonwealth under Part&#160;2 of this Act, the FAC was the owner of the 
+<center>Back to Top</center>
+ building for the purposes of Division&#160;10C of Part&#160;III of the _Income Tax Assessment Act 1936_;
+
+then, so long as the airport-lessee company concerned continues to hold the airport lease, the airport-lessee company is taken to be the owner of the building.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_eligible building_ has the same meaning as in Division&#160;10C of
+
+Part&#160;III of the _Income Tax Assessment Act 1936_. _qualifying apartment expenditure_ has the same meaning as in Division&#160;10C of Part&#160;III of the _Income Tax Assessment Act 1936_. _qualifying hotel expenditure_ has the same meaning as in Division&#160;10C of Part&#160;III of the _Income Tax Assessment Act 1936_.  </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 54  Airport-lessee company to be building owner for the purposes of Division&#160;10D of Part&#160;III of the _Income Tax Assessment Act 1936_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of Division&#160;10D of Part&#160;III of the _Income Tax Assessment Act 1936_, if:
+
+</dd> </dl></dl>
+
+	(a)	there is an amount of qualifying expenditure in respect of an eligible building; and
+ 	(b)	the eligible building is situated on land leased under an airport lease; and
+ 	(c)	immediately before the land was transferred from the FAC to the Commonwealth under Part&#160;2 of this Act, the FAC was the owner of the building for the purposes of Division&#160;10D of Part&#160;III of the _Income Tax Assessment Act 1936_;
+
+then, so long as the airport-lessee company concerned continues to hold the airport lease, the airport-lessee company is taken to be the owner of the building.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_eligible building_ has the same meaning as in Division&#160;10D of
+
+Part&#160;III of the _Income Tax Assessment Act 1936_. _qualifying expenditure_ has the same meaning as in Division&#160;10D of Part&#160;III of the _Income Tax Assessment Act 1936_.  </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 54A  Airport-lessee company to be capital works owner for the purposes of Division&#160;43 of the _Income Tax Assessment Act 1997_  
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of Division&#160;43 of the _Income Tax Assessment Act 1997_, if:
+
+</dd> </dl></dl>
+
+	(a)	capital works are situated on land leased under an airport lease; and
+ 	(b)	there is a pool of construction expenditure for the capital works; and
+ 	(c)	immediately before the land was transferred from the FAC to the Commonwealth under Part&#160;2 of this Act, the FAC was the owner of the capital works for the purposes of Division&#160;43 of the _Income Tax Assessment Act 1997_;
+
+then, so long as the airport-lessee company concerned continues to hold the airport lease, the airport-lessee company is taken to be the owner of the capital works.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_pool of construction expenditure_ has the meaning given by
+
+section&#160;43-85 of the _Income Tax Assessment Act 1997_.
+
+ </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 55  Modification of capital allowances and capital gains tax provisions  
+**
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl></dl>
+
+	(a)	a company is granted an airport lease under section&#160;21; and
+ 	(b)	the company's sale time does not occur within 7 days after the grant.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The regulations may provide that:
+
+</dd> </dl></dl>
+
+	(a)	the provisions of the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_ relating to depreciation or capital allowances; and
+ 	(b)	the provisions of either of those Acts relating to capital gains and capital losses;
+
+apply in relation to:
+
+	(c)	the airport lease; and
+ 	(d)	assets transferred or leased to the company under section&#160;23, 24, 30 or 31;
+
+subject to such modifications as are specified in the regulations.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_modifications_ includes additions, omissions and substitutions.
+
+ </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 56  Transfer of development allowance benefits 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl></dl>
+
+	(a)	an airport lease is granted to a company under section&#160;21 or 22; and
+ 	(b)	immediately before the airport was transferred to the Commonwealth under Part&#160;2, the FAC was carrying out, or proposed to carry out, a project (within the meaning of the _Development Allowance Authority Act 1992_) at the airport.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The _Development Allowance Authority Act 1992_ has
+
+effect, in relation to the project, to the FAC and to the company, as if
+
+section&#160;49 of that Act were repealed and the following section were
+
+substituted:</dd> 		"49  Application for transfer 		If:  </dl></dl>
+
+	(a)	either of the following applies to the FAC (the _transferor_):
+ 	(i)	plant expenditure is registered in the name of the FAC;
+ 	(ii)	the FAC holds a certificate in relation to plant expenditure; and
+ 	(b)	the FAC has ceased, or proposes to cease, to carry out the project concerned; and
+ 	(c)	the company (the _transferee_) has taken over, or proposes to take over, the completion of the project (with or without modification); and
+ 	(d)	either:
+ 	(i)	the company has incurred, or proposes to incur, plant expenditure in carrying out the completion of the project (with or without modification); or
+ 	(ii)	both:
+ 	(A)	the company has incurred, or proposes to incur, expenditure in acquiring from the Commonwealth a unit of plant that was new in the hands of the FAC; and
+ 	(B)	the acquisition has taken place, or will take place, in the course of the company's takeover, or proposed takeover, of the completion of the project (with or without modification);
+
+the company may apply to the DAA for a transfer of the benefits of the registration or certificate, as the case may be.".
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;9&#151;Transfer of staff from the FAC to airport-lessee companies </part>
+**</center>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;1&#151;Simplified outline </division> 
+**</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 57  Simplified outline 
+**
+
+ <dl compact=""><dl compact="">
+
+		The following is a simplified outline of this Part:
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+*	If an airport lease is granted to a company, certain employees of the FAC will be transferred to the company.
+
+*	A transferred employee will have terms and conditions of employment that are similar to those he or she had before the transfer.
+
+*	Those terms and conditions can be varied in accordance with relevant awards etc.
+
+*	Before being transferred, employees will be given statements setting out particulars of accrued benefits.
+
+*	Special provision is made for:
+
+	(a)	mobility rights; and
+ 	(b)	long service leave; and
+ 	(c)	superannuation; and
+ 	(d)	the application of the _Safety, Rehabilitation and Compensation Act 1988_.
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;2&#151;Transfer of staff </division> 
+**</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 58  Transfer of staff from the FAC  
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to an employee of the FAC.</dd> <dt>(2)</dt><dd>The Minister for Finance may, by written instrument, declare that, in the event that a specified company is granted an airport lease for a specified airport under section&#160;21 or 22 on a specified day, a specified employee: </dd> </dl></dl>
+
+	(a)	ceases to be employed by the FAC immediately after the grant; and
+ 	(b)	is taken to have been engaged by the company as an employee of the company immediately after the grant.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Minister for Finance may, by written instrument, declare
+
+that, in the event that a specified company is granted an airport lease for a
+
+specified airport under section&#160;22 on a specified day, a specified
+
+employee:
+
+</dd> </dl></dl>
+
+	(a)	ceases to be employed by the FAC immediately after the time ascertained in accordance with the instrument, being a time that occurs on that day and before the grant; and
+ 	(b)	is taken to have been engaged by the company as an employee of the company immediately after that time. 
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>A declaration under this section has effect accordingly.</dd> <dt>(5)</dt><dd>If subsection&#160;(2) applies to an employee, the employee's _transfer__time_ occurs immediately after the grant.</dd> <dt>(6)</dt><dd>If subsection&#160;(3) applies to an employee, the employee's _transfer time_ occurs immediately after the time ascertained in accordance with the instrument. </dd> </dl></dl>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;3&#151;Terms and conditions </division> 
+**</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 59  Terms and conditions of transferred employees 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person who is a transferred employee is taken:
+
+</dd> </dl></dl>
+
+	(a)	to have been engaged by the company concerned on the same terms and conditions as those that applied to the person, immediately before the employee's transfer time, as an employee of the FAC; and
+ 	(b)	to have accrued an entitlement to benefits, in connection with that engagement by the company concerned, that is equivalent to the entitlement that the person had accrued, as an employee of the FAC, immediately before the employee's transfer time.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The service of a transferred employee as an employee of the
+
+company concerned is taken, for all purposes, to have been continuous with the
+
+service of the employee, immediately before the employee's transfer time, as an
+
+employee of the FAC.</dd> <dt>(3)</dt><dd>A transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the FAC as a result of this Part.</dd> <dt>(4)</dt><dd>A reference in paragraph&#160;(1)(a) to terms and conditions is a reference to terms and conditions that are set out in: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	a written contract of employment; or
+ 	(b)	an award (as defined by section&#160;4 of the _Industrial Relations Act 1988_); or
+ 	(c)	a certified agreement (as defined by section&#160;4 of the _Workplace Relations Act 1996_); or
+ 	(d)	an Australian Workplace Agreement (as defined by section&#160;4 of the _Workplace Relations Act 1996_); or
+ 	(e)	an enterprise flexibility agreement (as defined by section&#160;4 of the _Workplace Relations Act 1996_ as in force immediately before the commencement of Schedule&#160;9 to the _Workplace Relations and Other Legislation Amendment Act 1996_) that continues to have effect because of Part&#160;2 of that Schedule.
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>This section has effect subject to this Part.
+
+</dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 60  Variation of terms and conditions of employment 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This Division does not prevent the terms and conditions of a transferred
+
+employee's employment after the employee's transfer time from being varied:
+
+</dd> </dl></dl>
+
+	(a)	in accordance with those terms and conditions; or
+ 	(b)	by or under a law, award, determination or agreement.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_vary_, in relation to terms and conditions, includes:
+
+ </dl></dl>
+
+	(a)	omitting any of those terms and conditions; or
+ 	(b)	adding to those terms and conditions; or
+ 	(c)	substituting new terms or conditions for any of those terms and conditions. 
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 61  Statement of accrued benefits 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Before the employment of an employee of the FAC is transferred under
+
+section&#160;58, the FAC must give the employee a written statement setting out
+
+particulars of the benefits to which the employee has accrued an entitlement.</dd> <dt>(2)</dt><dd>In any proceedings relating to paragraph 59(1)(b), the statement is prima facie evidence of the matters set out in the statement.</dd> <dt>(3)</dt><dd>A failure by the FAC to comply with subsection&#160;(1) does not affect the validity of the transfer of the employment of the employee. </dd> </dl></dl>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;4&#151;Mobility rights </division> 
+**</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 62  Cessation of mobility rights 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	Division&#160;2 or 3 of Part&#160;IV of the _Public Service Act 1922_ applied to an employee of the FAC immediately before the employee's transfer time; and
+ 	(b)	the airport-lessee company to whom the employee was transferred was not a public authority (within the meaning of that Part) immediately before that time;
+
+then that Division ceases to apply to the employee at that time.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	Division&#160;4 of Part&#160;IV of the _Public Service Act 1922_ applied to an employee of the FAC immediately before the employee's transfer time; and
+ 	(b)	the airport-lessee company to whom the employee was transferred was not a public authority (within the meaning of that Part) immediately before that time;
+
+then:
+
+	(c)	the _Officers&apos; Rights Declaration Act 1928_; and 
+ 	(d)	Division&#160;4 of Part&#160;IV of the _Public Service Act 1922_; 
 
 cease to apply to the employee at that time.
 
-### Division 5—Long service leave
+<center>Back to Top</center>
 
-##### <a id="63"></a>63  Long service leave rules set out in Schedule 1
+<center>**
 
-                   Schedule 1 has effect.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;5&#151;Long service leave </division> 
+**</center>
 
-### Division 6—Superannuation
+**
 
-##### <a id="64"></a>64  Superannuation rules set out in Schedule 2
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 63  Long service leave rules set out in Schedule&#160;1 
+**
 
-                   Schedule 2 has effect.
+ <dl compact=""><dl compact="">
 
-### Division 7—Safety, Rehabilitation and Compensation Act 1988
+		Schedule&#160;1 has effect.
 
-##### <a id="65"></a>65  _Safety, Rehabilitation and Compensation Act 1988_ rules set out in Schedule 3
+ </dl></dl>
 
-                   Schedule 3 has effect.
+<center>**
 
-## Part 10—FAC’s debts
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;6&#151;Superannuation </division> 
+**</center>
 
-### Division 1—Simplified outline
+**
 
-##### <a id="66"></a>66  Simplified outline
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 64  Superannuation rules set out in Schedule&#160;2 
+**
 
-                   The following is a simplified outline of this Part:
+ <dl compact=""><dl compact="">
 
-* * *
+		Schedule&#160;2 has effect.
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+ </dl></dl>
 
-Treasurer may call up a loan made by the Commonwealth to the FAC.</li>
+<center>**
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;7&#151;Safety, Rehabilitation and Compensation Act 1988 </division> 
+**</center>
 
-Commonwealth may take over the FAC’s obligations under a borrowing transaction
+**
 
-(other than a loan made by the Commonwealth to the FAC).</li>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 65  _Safety, Rehabilitation and Compensation Act 1988_ rules set out in Schedule&#160;3 
+**
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<dl compact=""><dl compact="">
 
-Commonwealth may give the FAC money to enable the FAC to discharge or
+		Schedule&#160;3 has effect.
 
-extinguish the FAC’s liability under a borrowing transaction (other than a loan
+ </dl></dl>
 
-made by the Commonwealth to the FAC).</li>
+<center>**
 
-* * *
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;10&#151;FAC's debts </part>
+**</center>
 
-### Division 2—Loans by the Commonwealth
+<center>**
 
-##### <a id="67"></a>67  Scope of Division
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;1&#151;Simplified outline </division> 
+**</center>
 
-                   This Division applies to a loan to the FAC that was made by the Commonwealth.
+**
 
-##### <a id="68"></a>68  Treasurer may declare that loan is due and payable
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 66  Simplified outline 
+**
 
-             (1)  The Treasurer may, by written instrument, declare that the principal amount of a specified loan, together with any accrued interest, becomes due and payable at a specified time. 
+ <dl compact=""><dl compact="">
 
-(2)The declaration has effect accordingly.
+		The following is a simplified outline of this Part:
 
-Note:          A loan may be specified by name, by inclusion in a specified class or in any other way.
+ </dl></dl>
 
-##### <a id="69"></a>69  Commonwealth may pay the FAC an amount equal to the amount owing
+*	The Treasurer may call up a loan made by the Commonwealth to the FAC.
 
-             (1)  If an amount becomes due and payable to the Commonwealth because of section 68, the Minister for Finance may determine in writing that the Commonwealth is liable to pay the FAC an amount equal to that amount.
+*	The Commonwealth may take over the FAC's obligations under a borrowing transaction (other than a loan made by the Commonwealth to the FAC).
 
-             (2)  The determination has effect accordingly.
+*	The Commonwealth may give the FAC money to enable the FAC to discharge or extinguish the FAC's liability under a borrowing transaction (other than a loan made by the Commonwealth to the FAC).
 
-             (3)  The amount payable under subsection (1) may be set-off against the amount that became due and payable because of section 68.
+<center>**
 
-             (4)  The amount payable under subsection (1) becomes part of the capital of the FAC.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;2&#151;Loans by the Commonwealth </division> 
+**</center>
 
-##### <a id="70"></a>70  Appropriation of Consolidated Revenue Fund 
+**
 
-                   The Consolidated Revenue Fund is appropriated for the purposes of this Division.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 67  Scope of Division 
+**
 
-### Division 3—Other borrowing transactions
+ <dl compact=""><dl compact="">
 
-##### <a id="71"></a>71  Scope of Division
+		This Division applies to a loan to the FAC that was made by the Commonwealth.
 
-                   This Division applies to a borrowing transaction of the FAC (other than a loan to which Division 2 applies).
+ </dl></dl>
 
-##### <a id="72"></a>72  Borrowing transactions
+**
 
-             (1)  For the purposes of this Division, a **_borrowing transaction_** is:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 68  Treasurer may declare that loan is due and payable 
+**
 
-                     (a)  a loan; or
+ <dl compact=""><dl compact="">
 
-                     (b)  any other transaction that gives rise to a borrowing.
+<dt>(1)</dt><dd>The Treasurer may, by written instrument, declare that the principal
 
-             (2)  For the purposes of this section, **_borrowing_** includes borrowing, or otherwise raising money, by dealing in securities.
+amount of a specified loan, together with any accrued interest, becomes due and
 
-             (3)  For the purposes of this section, the obtaining of credit is taken to be a borrowing of an amount equal to the value of the credit obtained.
+payable at a specified time. </dd> <dt>(2)</dt><dd>The declaration has effect accordingly. </dd> </dl></dl>
 
-##### <a id="73"></a>73  FAC’s borrowing transactions may become the Commonwealth’s borrowing transactions
+<dl compact=""><dl compact="">
 
-             (1)  The Treasurer may, by notice in the _Gazette_, declare that, at a specified time, the FAC’s obligations under a specified borrowing transaction:
+Note:	A loan may be specified by name, by inclusion in a
 
-                     (a)  cease to be obligations of the FAC; and
+specified class or in any other way.
 
-                     (b)  become obligations of the Commonwealth.
+ </dl></dl>
 
-             (2)  The declaration has effect accordingly.
+**
 
-             (3)  The Treasurer may authorise the payment of money by the Commonwealth to discharge obligations to which the declaration applies.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 69  Commonwealth may pay the FAC an amount equal to the amount owing 
+**
 
-Note:          A borrowing transaction may be specified by name, by inclusion in a specified class or in any other way.
+<dl compact=""><dl compact="">
 
-##### <a id="74"></a>74  Commonwealth takeover of certain obligations of the FAC
+<dt>(1)</dt><dd>If an amount becomes due and payable to the Commonwealth because of
 
-             (1)  This section applies to an obligation of the FAC under a borrowing transaction.
+section&#160;68, the Minister for Finance may determine in writing that the
 
-             (2)  The Treasurer may, on behalf of the Commonwealth, enter into a contract to take over an obligation.
+Commonwealth is liable to pay the FAC an amount equal to that amount.</dd> <dt>(2)</dt><dd>The determination has effect accordingly.</dd> <dt>(3)</dt><dd>The amount payable under subsection&#160;(1) may be set-off against the amount that became due and payable because of section&#160;68.</dd> <dt>(4)</dt><dd>The amount payable under subsection&#160;(1) becomes part of the capital of the FAC. </dd> </dl></dl>
 
-             (3)  If the Treasurer enters into a contract under subsection (2), the Treasurer may authorise the payment of money to discharge the Commonwealth’s obligations under the contract, whether by terminating those obligations or otherwise.
+<center>Back to Top</center>
 
-##### <a id="75"></a>75  Application of the _Loans Securities Act 1919_
+**
 
-                   Sections 5A, 5B, 5C and 5D (other than paragraphs (1)(c) and (2)(c)) of the _Loans Securities Act 1919_ apply in relation to an obligation that is taken over by the Commonwealth under section 73 or 74 as if that obligation were a borrowing of money outside Australia:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 70  Appropriation of Consolidated Revenue Fund  
+**
 
-                     (a)  that the Treasurer was authorised to make on behalf of the Commonwealth; and
+ <dl compact=""><dl compact="">
 
-                     (b)  that the Treasurer made accordingly.
+		The Consolidated Revenue Fund is appropriated for the purposes of this
 
-##### <a id="76"></a>76  Commonwealth takeover of obligations—payments by the FAC to the Commonwealth
+Division.
 
-             (1)  This section applies if the FAC’s obligations under a borrowing transaction are taken over under section 73 or 74.
+ </dl></dl>
 
-             (2)  The FAC must pay the Commonwealth an amount determined in writing by the Minister for Finance.
+<center>**
 
-             (3)  If the FAC pays the Commonwealth an amount under subsection (2), the Commonwealth must pay the FAC an amount equal to that amount.
+###  AIRPORTS (TRANSITIONAL) ACT 1996<division>Division&#160;3&#151;Other borrowing transactions </division> 
+**</center>
 
-             (4)  The amount payable under subsection (2) may be set-off against the amount payable under subsection (3).
+**
 
-             (5)  The amount payable under subsection (3) is payable by way of the provision of capital.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 71  Scope of Division 
+**
 
-##### <a id="77"></a>77  Commonwealth may pay the FAC an amount to enable the FAC to discharge or extinguish its liability under a borrowing transaction
+ <dl compact=""><dl compact="">
 
-             (1)  The Minister for Finance may, determine in writing that there is to be paid to the FAC, at a specified time, a specified amount.
+		This Division applies to a borrowing transaction of the FAC (other than a
 
-             (2)  The determination has effect accordingly.
+loan to which Division&#160;2 applies).
 
-             (3)  The amount is payable to the FAC subject to a condition that the amount is to be used by the FAC to discharge or extinguish the FAC’s liability under a borrowing transaction specified in the determination.
+ </dl></dl>
 
-Note:          A borrowing transaction may be specified by name, by inclusion in a specified class or in any other way.
+**
 
-##### <a id="78"></a>78  Appropriation of Consolidated Revenue Fund 
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 72  Borrowing transactions 
+**
 
-                   The Consolidated Revenue Fund is appropriated for the purposes of this Division.
+ <dl compact=""><dl compact="">
 
-## Part 11—Prosecutions
+<dt>(1)</dt><dd>For the purposes of this Division, a _borrowing transaction_
 
-##### <a id="79"></a>79  Simplified outline
+is:
 
-                   The following is a simplified outline of this Part:
+</dd> </dl></dl>
 
-* * *
+	(a)	a loan; or
+ 	(b)	any other transaction that gives rise to a borrowing.
 
-<li class="BoxList" style="margin-left:21.25pt">•     If
+<dl compact=""><dl compact="">
 
-the Commonwealth sells its shares in an airport-lessee company, the
+<dt>(2)</dt><dd>For the purposes of this section, _borrowing_ includes
 
-Director of Public Prosecutions can continue to deal with matters that occurred
+borrowing, or otherwise raising money, by dealing in securities.</dd> <dt>(3)</dt><dd>For the purposes of this section, the obtaining of credit is taken to be a borrowing of an amount equal to the value of the credit obtained. </dd> </dl></dl>
 
-when the company was owned by the Commonwealth.</li>
+**
 
-* * *
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 73  FAC's borrowing transactions may become the Commonwealth's borrowing transactions 
+**
 
-##### <a id="80"></a>80  Continuing application of the _Director of Public Prosecutions Act 1983_
+<dl compact=""><dl compact="">
 
-             (1)  This section applies to an airport-lessee company if the company was granted an airport lease under section 21.
+<dt>(1)</dt><dd>The Treasurer may, by notice in the _Gazette_, declare that, at a
 
-(2)If the _Director of Public Prosecutions Act 1983_ ceases to apply to particular acts, omissions or proceedings in connection with an airport-lessee company at the company’s sale time because the company ceases to be an authority of the Commonwealth for the purposes of that Act at that time, then, despite that cessation, that Act continues to apply in relation to:
+specified time, the FAC's obligations under a specified borrowing transaction:
 
-                     (a)  acts or omissions that occurred in relation to the company before the company’s sale time; and
+</dd> </dl></dl>
 
-                     (b)  civil remedies in respect of relevant matters relating to acts or omissions referred to in paragraph (a).
+	(a)	cease to be obligations of the FAC; and
+ 	(b)	become obligations of the Commonwealth.
 
-(3)In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="relev-matter"></a>**_relevant matter_** has the same meaning as in _the Director of Public Prosecutions Act 1983_.
+<dt>(2)</dt><dd>The declaration has effect accordingly.</dd> <dt>(3)</dt><dd>The Treasurer may authorise the payment of money by the Commonwealth to discharge obligations to which the declaration applies. </dd> </dl></dl>
 
-## Part 12—Airport-lessee company not to be an agency of the Commonwealth etc.
+<dl compact=""><dl compact="">
 
-##### <a id="81"></a>81  Simplified outline
+Note:	A borrowing transaction may be specified by name, by
 
-                   The following is a simplified outline of this Part:
+inclusion in a specified class or in any other way.
 
-* * *
+ </dl></dl>
 
-<li class="BoxList" style="margin-left:21.25pt">•    If
+**
 
-a Commonwealth-owned company is granted an airport lease, the company is
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 74  Commonwealth takeover of certain obligations of the FAC 
+**
 
-not treated as an agency of the Commonwealth.</li>
+ <dl compact=""><dl compact="">
 
-* * *
+<dt>(1)</dt><dd>This section applies to an obligation of the FAC under a borrowing
 
-##### <a id="82"></a>82  Airport-lessee company not to be an agency of the Commonwealth etc.
+transaction.</dd> <dt>(2)</dt><dd>The Treasurer may, on behalf of the Commonwealth, enter into a contract to take over an obligation.</dd> <dt>(3)</dt><dd>If the Treasurer enters into a contract under subsection&#160;(2), the Treasurer may authorise the payment of money to discharge the Commonwealth's obligations under the contract, whether by terminating those obligations or otherwise. </dd> </dl></dl>
 
-             (1)  This section applies to an airport-lessee company if the company was granted an airport lease under section 21.
+**
 
-(2)The airport-lessee company is not taken, for the purposes of a law, to be:
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 75  Application of the _Loans Securities Act 1919_ 
+**
 
-                     (a)  a Commonwealth authority; or
+ <dl compact=""><dl compact="">
 
-                     (b)  established for a public purpose or for a purpose of the Commonwealth; or
+		Sections&#160;5A, 5B, 5C and 5D (other than paragraphs&#160;(1)(c) and
 
-                     (c)  a public authority or an agency or instrumentality of the Crown;
+(2)(c)) of the _Loans Securities Act 1919_ apply in relation to an
+
+obligation that is taken over by the Commonwealth under section&#160;73 or 74
+
+as if that obligation were a borrowing of money outside Australia:
+
+ </dl></dl>
+
+	(a)	that the Treasurer was authorised to make on behalf of the Commonwealth; and
+ 	(b)	that the Treasurer made accordingly. 
+<center>Back to Top</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 76  Commonwealth takeover of obligations&#151;payments by the FAC to the Commonwealth 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies if the FAC's obligations under a borrowing
+
+transaction are taken over under section&#160;73 or 74.</dd> <dt>(2)</dt><dd>The FAC must pay the Commonwealth an amount determined in writing by the Minister for Finance.</dd> <dt>(3)</dt><dd>If the FAC pays the Commonwealth an amount under subsection&#160;(2), the Commonwealth must pay the FAC an amount equal to that amount.</dd> <dt>(4)</dt><dd>The amount payable under subsection&#160;(2) may be set-off against the amount payable under subsection&#160;(3).</dd> <dt>(5)</dt><dd>The amount payable under subsection&#160;(3) is payable by way of the provision of capital. </dd> </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 77  Commonwealth may pay the FAC an amount to enable the FAC to discharge or extinguish its liability under a borrowing transaction 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Minister for Finance may, determine in writing that there is to be
+
+paid to the FAC, at a specified time, a specified amount.</dd> <dt>(2)</dt><dd>The determination has effect accordingly.</dd> <dt>(3)</dt><dd>The amount is payable to the FAC subject to a condition that the amount is to be used by the FAC to discharge or extinguish the FAC's liability under a borrowing transaction specified in the determination. </dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A borrowing transaction may be specified by name, by
+
+inclusion in a specified class or in any other way.
+
+ </dl></dl>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 78  Appropriation of Consolidated Revenue Fund  
+**
+
+ <dl compact=""><dl compact="">
+
+		The Consolidated Revenue Fund is appropriated for the purposes of this
+
+Division.
+
+ </dl></dl>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;11&#151;Prosecutions </part>
+**</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 79  Simplified outline 
+**
+
+ <dl compact=""><dl compact="">
+
+		The following is a simplified outline of this Part:
+
+ </dl></dl>
+
+*	If the Commonwealth sells its shares in an airport-lessee company, the Director of Public Prosecutions can continue to deal with matters that occurred when the company was owned by the Commonwealth. 
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 80  Continuing application of the _Director of Public Prosecutions Act 1983_ 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to an airport-lessee company if the company was
+
+granted an airport lease under section&#160;21.</dd> <dt>(2)</dt><dd>If the _Director of Public Prosecutions Act 1983_ ceases to apply to particular acts, omissions or proceedings in connection with an airport-lessee company at the company's sale time because the company ceases to be an authority of the Commonwealth for the purposes of that Act at that time, then, despite that cessation, that Act continues to apply in relation to: </dd> </dl></dl>
+
+	(a)	acts or omissions that occurred in relation to the company before the company's sale time; and
+ 	(b)	civil remedies in respect of relevant matters relating to acts or omissions referred to in paragraph&#160;(a).
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_relevant matter_ has the same meaning as in _the Director of Public Prosecutions Act 1983_.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;12&#151;Airport-lessee company not to be an agency of the Commonwealth etc. </part>
+**</center>
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 81  Simplified outline 
+**
+
+ <dl compact=""><dl compact="">
+
+		The following is a simplified outline of this Part:
+
+ </dl></dl>
+
+*	If a Commonwealth-owned company is granted an airport lease, the company is not treated as an agency of the Commonwealth. 
+
+**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 82  Airport-lessee company not to be an agency of the Commonwealth etc. 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies to an airport-lessee company if the company was
+
+granted an airport lease under section&#160;21.</dd> <dt>(2)</dt><dd>The airport-lessee company is not taken, for the purposes of a law, to be: </dd> </dl></dl>
+
+	(a)	a Commonwealth authority; or
+ 	(b)	established for a public purpose or for a purpose of the Commonwealth; or
+ 	(c)	a public authority or an agency or instrumentality of the Crown;
 
 unless a law expressly provides otherwise.
 
-             (3)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="law"></a>**_law_** means:
+<dt>(3)</dt><dd>In this section:
 
-                     (a)  an Act of the Commonwealth or of a State or Territory; or
+</dd> </dl></dl>
 
-                     (b)  regulations or any other instrument made under such an Act.
+<def><dl compact=""><dl compact="">
 
-## Part 13—Miscellaneous
+_law_ means:
 
-##### <a id="83"></a>83  Simplified outline
+ </dl></dl>
 
-                   The following is a simplified outline of this Part:
+	(a)	an Act of the Commonwealth or of a State or Territory; or
+ 	(b)	regulations or any other instrument made under such an Act.
 
-* * *
+<center>**
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;13&#151;Miscellaneous </part>
+**</center>
 
-margin-left:21.25pt;margin-bottom:.0001pt">•    Provision
+**
 
-is made for the transfer of pending proceedings.</li>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 83  Simplified outline 
+**
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+ <dl compact=""><dl compact="">
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     The
+		The following is a simplified outline of this Part:
 
-operation of this Act is not to be regarded as placing a person in breach of
+ </dl></dl>
 
-contract etc.</li>
+*	Provision is made for the transfer of pending proceedings.
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+*	The operation of this Act is not to be regarded as placing a person in breach of contract etc.
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     The
+*	The Consolidated Revenue Fund is appropriated for purposes in connection with the grant of an airport lease to a Commonwealth-owned company.
 
-Consolidated Revenue Fund is appropriated for purposes in connection with the
+*	This Act does not modify any register kept by a land registration official.
 
-grant of an airport lease to a Commonwealth-owned company.</li>
+*	Declarations that are contingent on the grant of an airport lease may be varied or revoked before the grant.
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+*	Copies of declarations must be published in the _Gazette_.
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     This
+*	In order to provide a constitutional safety-net, compensation is payable in the event that the operation of this Act results in the acquisition of property otherwise than on just terms.
 
-Act does not modify any register kept by a land registration official.</li>
+*	Commonwealth records may only be transferred or otherwise dealt with in accordance with the provisions of the _Archives Act 1983_.
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+*	The permission of the Australian Archives is required for the transfer of Commonwealth records to airport-lessee companies.
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     Declarations
+*	This Act does not authorise the imposition of taxation.
 
-that are contingent on the grant of an airport lease may be varied or revoked
+*	Regulations may be made for the purposes of this Act. 
 
-before the grant.</li>
+**
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 84  Transfer of pending proceedings 
+**
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     Copies
+ <dl compact=""><dl compact="">
 
-of declarations must be published in the _Gazette_.</li>
+<dt>(1)</dt><dd>This section applies if, as a result of a declaration made by the Minister
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+for Finance under this Act, a person (the _successor_) becomes the
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     In
+successor in law of another person (the _original person_) at a
 
-order to provide a constitutional safety-net, compensation is payable in
+particular time in relation to a particular asset, liability, right, benefit or
 
-the event that the operation of this Act results in the acquisition of property
+obligation.</dd> <dt>(2)</dt><dd>If any proceedings to which the original person was a party: </dd> </dl></dl>
 
-otherwise than on just terms.</li>
+<center>Back to Top</center>
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+	(a)	were pending in any court or tribunal immediately before that time; and
+ 	(b)	related, in whole or in part, to the asset, liability, right, benefit or obligation, as the case may be;
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     Commonwealth
+then, unless the Minister for Finance otherwise determines in writing in relation to the proceedings, the successor is, by force of this subsection, substituted for the original person as a party to the proceedings to the extent to which the proceedings relate to the asset, liability, right, benefit or obligation, as the case requires. 
 
-records may only be transferred or otherwise dealt with in accordance with the
+**
 
-provisions of the _Archives Act 1983_.</li>
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 85  Operation of this Act does not place a person in breach of contract etc. 
+**
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+<dl compact=""><dl compact="">
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     The
+		To avoid doubt, the operation of this Act is not to be regarded as:
 
-permission of the Australian Archives is required for the transfer of
+ </dl></dl>
 
-Commonwealth records to airport-lessee companies.</li>
+	(a)	placing a person in breach of contract or confidence; or
+ 	(b)	otherwise making a person guilty of a civil wrong; or
+ 	(c)	placing a person in breach of any contractual provision prohibiting, restricting or regulating:
+ 	(i)	the assignment or transfer of any asset, liability, right or obligation; or
+ 	(ii)	the disclosure of any information; or
+ 	(d)	releasing any surety from any of the surety's obligations in relation to a liability or obligation that is transferred to the Commonwealth or an airport-lessee company under this Act. 
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+**
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     This
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 86  Appropriation&#151;grant of airport lease to Commonwealth-owned company 
+**
 
-Act does not authorise the imposition of taxation.</li>
+<dl compact=""><dl compact="">
 
-<li class="BoxList" style="margin-top:9.0pt;margin-right:0cm;margin-bottom:0cm;
+<dt>(1)</dt><dd>The Consolidated Revenue Fund is appropriated for the purposes of the
 
-margin-left:21.25pt;margin-bottom:.0001pt">•     Regulations
+making of either or both of the following payments:
 
-may be made for the purposes of this Act.</li>
+</dd> </dl></dl>
 
-* * *
+	(a)	a payment by the Commonwealth to a Commonwealth-owned company of an amount by way of a loan to enable the company to pay consideration for any or all or the following:
+ 	(i)	the grant of an airport lease under section&#160;21;
+ 	(ii)	the transfer or lease of assets under section&#160;23 or 24;
+ 	(iii)	the transfer of assets under section&#160;30 or 31;
+ 	(b)	a payment by the Commonwealth to a Commonwealth-owned company by way of consideration for the issue to the Commonwealth of shares in the company, where the whole or a part of the proceeds of the issue are to be applied by the company in paying consideration for any or all or the following:
+ 	(i)	the grant of an airport lease under section&#160;21;
+ 	(ii)	the transfer or lease of assets under section&#160;23 or 24;
+ 	(iii)	the transfer of assets under section&#160;30 or 31.
 
-##### <a id="84"></a>84  Transfer of pending proceedings
+<dl compact=""><dl compact="">
 
-             (1)  This section applies if, as a result of a declaration made by the Minister for Finance under this Act, a person (the **_successor_**) becomes the successor in law of another person (the **_original person_**) at a particular time in relation to a particular asset, liability, right, benefit or obligation.
+<dt>(2)</dt><dd>For the purposes of this section, a _Commonwealth-owned company_ is a company all of whose shares are beneficially owned by the
 
-             (2)  If any proceedings to which the original person was a party:
+Commonwealth.
 
-                     (a)  were pending in any court or tribunal immediately before that time; and
+</dd> </dl></dl>
 
-                     (b)  related, in whole or in part, to the asset, liability, right, benefit or obligation, as the case may be;
+**
 
-then, unless the Minister for Finance otherwise determines in writing in relation to the proceedings, the successor is, by force of this subsection, substituted for the original person as a party to the proceedings to the extent to which the proceedings relate to the asset, liability, right, benefit or obligation, as the case requires.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 87  This Act does not modify registers kept by land registration officials 
+**
 
-##### <a id="85"></a>85  Operation of this Act does not place a person in breach of contract etc.
+<dl compact=""><dl compact="">
 
-                   To avoid doubt, the operation of this Act is not to be regarded as:
+		This Act, in so far as it provides for the interpretation of references in
 
-                     (a)  placing a person in breach of contract or confidence; or
+other instruments, does not modify any register kept by a land registration
 
-                     (b)  otherwise making a person guilty of a civil wrong; or
+official under a law of a State or Territory.
 
-                     (c)  placing a person in breach of any contractual provision prohibiting, restricting or regulating:
+ </dl></dl>
 
-                              (i)  the assignment or transfer of any asset, liability, right or obligation; or
+**
 
-                             (ii)  the disclosure of any information; or
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 88  Declarations that are contingent on the grant of an airport lease may be varied or revoked before the grant 
+**
 
-                     (d)  releasing any surety from any of the surety’s obligations in relation to a liability or obligation that is transferred to the Commonwealth or an airport-lessee company under this Act.
+<dl compact=""><dl compact="">
 
-##### <a id="86"></a>86  Appropriation—grant of airport lease to Commonwealth-owned company
+<dt>(1)</dt><dd>This section applies to a declaration under this Act that has effect in
 
-             (1)  The Consolidated Revenue Fund is appropriated for the purposes of the making of either or both of the following payments:
+the event that a specified company is granted an airport lease for a specified
 
-                     (a)  a payment by the Commonwealth to a Commonwealth-owned company of an amount by way of a loan to enable the company to pay consideration for any or all or the following:
+airport on a specified day.</dd> <dt>(2)</dt><dd>To avoid doubt, the declaration may be varied or revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_, at any time before the specified day. </dd> </dl></dl>
 
-                              (i)  the grant of an airport lease under section 21;
+**
 
-                             (ii)  the transfer or lease of assets under section 23 or 24;
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 89  Copies of declarations to be published in the _Gazette_ 
+**
 
-                            (iii)  the transfer of assets under section 30 or 31;
+<dl compact=""><dl compact="">
 
-                     (b)  a payment by the Commonwealth to a Commonwealth-owned company by way of consideration for the issue to the Commonwealth of shares in the company, where the whole or a part of the proceeds of the issue are to be applied by the company in paying consideration for any or all or the following:
+<dt>(1)</dt><dd>This section applies to a declaration under any of the following
 
-                              (i)  the grant of an airport lease under section 21;
+provisions:
 
-                             (ii)  the transfer or lease of assets under section 23 or 24;
+</dd> </dl></dl>
 
-                            (iii)  the transfer of assets under section 30 or 31.
+<center>Back to Top</center>
 
-             (2)  For the purposes of this section, a **_Commonwealth-owned company_** is a company all of whose shares are beneficially owned by the Commonwealth.
+	(a)	section&#160;11;
+ 	(b)	section&#160;12;
+ 	(c)	section&#160;13;
+ 	(d)	section&#160;14;
+ 	(e)	section&#160;23;
+ 	(f)	section&#160;24;
+ 	(g)	section&#160;25;
+ 	(h)	section&#160;30;
+ 	(i)	section&#160;31;
+ 	(j)	section&#160;33;
+ 	(k)	section&#160;58.
 
-##### <a id="87"></a>87  This Act does not modify registers kept by land registration officials
+<dl compact=""><dl compact="">
 
-                   This Act, in so far as it provides for the interpretation of references in other instruments, does not modify any register kept by a land registration official under a law of a State or Territory.
+<dt>(2)</dt><dd>Within 21 days after the making of the declaration, a copy of the
 
-##### <a id="88"></a>88  Declarations that are contingent on the grant of an airport lease may be varied or revoked before the grant
+declaration is to be published in the _Gazette_.
 
-             (1)  This section applies to a declaration under this Act that has effect in the event that a specified company is granted an airport lease for a specified airport on a specified day.
+</dd> </dl></dl>
 
-             (2)  To avoid doubt, the declaration may be varied or revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_, at any time before the specified day.
+**
 
-##### <a id="89"></a>89  Copies of declarations to be published in the _Gazette_
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 90  Compensation&#151;constitutional safety-net 
+**
 
-             (1)  This section applies to a declaration under any of the following provisions:
+ <dl compact=""><dl compact="">
 
-                     (a)  section 11;
+<dt>(1)</dt><dd>If:
 
-                     (b)  section 12;
+</dd> </dl></dl>
 
-                     (c)  section 13;
-
-                     (d)  section 14;
-
-                     (e)  section 23;
-
-                      (f)  section 24;
-
-                     (g)  section 25;
-
-                     (h)  section 30;
-
-                      (i)  section 31;
-
-                      (j)  section 33;
-
-                     (k)  section 58.
-
-             (2)  Within 21 days after the making of the declaration, a copy of the declaration is to be published in the _Gazette_.
-
-##### <a id="90"></a>90  Compensation—constitutional safety-net
-
-             (1)  If:
-
-                     (a)  apart from this section, the operation of this Act would result in the acquisition of property from a person otherwise than on just terms; and
-
-                     (b)  the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
+	(a)	apart from this section, the operation of this Act would result in the acquisition of property from a person otherwise than on just terms; and
+ 	(b)	the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
 
 the Commonwealth is liable to pay compensation of a reasonable amount to the person in respect of the acquisition.
 
-             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+<dl compact=""><dl compact="">
 
-             (3)  In this section:
+<dt>(2)</dt><dd>If the Commonwealth and the person do not agree on the amount of the
 
-                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+compensation, the person may institute proceedings in the Federal Court of
 
-                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+Australia for the recovery from the Commonwealth of such reasonable amount of
 
-##### <a id="91"></a>91  Commonwealth records
+compensation as the court determines.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl></dl>
 
-             (1)  This Act does not authorise a Commonwealth record (within the meaning of the _Archives Act 1983_) to be transferred or otherwise dealt with except in accordance with the provisions of that Act. 
+<def><dl compact=""><dl compact="">
 
-             (2)  If an airport lease for an airport is granted to a company under section 21 or 22 of this Act, a Commonwealth record (within the meaning of the _Archives Act 1983_) must not be transferred to the company in connection with the operation of this Act in relation to the airport unless the Australian Archives has given permission for the transfer under paragraph 24(2)(b) of that Act.
+_acquisition of property_ has the same meaning as in paragraph
 
-##### <a id="92"></a>92  Act does not authorise the imposition of taxation
+51(xxxi) of the Constitution. _just terms_ has the same meaning as in paragraph 51(xxxi) of the Constitution.  </dl></dl>
 
-                   This Act does not authorise the imposition of taxation within the meaning of section 55 of the Constitution.
+**
 
-##### <a id="93"></a>93  Regulations
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 91  Commonwealth records 
+**
 
-                   The Governor-General may make regulations prescribing matters:
+ <dl compact=""><dl compact="">
 
-                     (a)  required or permitted by this Act to be prescribed; or
+<dt>(1)</dt><dd>This Act does not authorise a Commonwealth record (within the meaning of
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+the _Archives Act 1983_) to be transferred or otherwise dealt with except
 
-## Part 14—Amendment of the Federal Airports Corporation Act 1986
+in accordance with the provisions of that Act. </dd> <dt>(2)</dt><dd>If an airport lease for an airport is granted to a company under section&#160;21 or 22 of this Act, a Commonwealth record (within the meaning of the _Archives Act 1983_) must not be transferred to the company in connection with the operation of this Act in relation to the airport unless the Australian Archives has given permission for the transfer under paragraph 24(2)(b) of that Act. </dd> </dl></dl>
 
-##### <a id="94"></a>94  Amendments 
+**
 
-                   The _Federal Airports Corporation Act 1986_ is amended as set out in Schedule 4.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 92  Act does not authorise the imposition of taxation 
+**
 
-# Schedule 1—Long Service Leave
+ <dl compact=""><dl compact="">
 
-##### <a id="1"></a>1  Scope of Schedule 
+		This Act does not authorise the imposition of taxation within the meaning of
 
-             (1)  This Schedule applies in relation to an airport-lessee company if the company was granted an airport lease under section 21 or 22.
+section&#160;55 of the Constitution.
 
-             (2)  This Schedule applies to an employee of an airport-lessee company if the employee was transferred to the company under section 58.
+ </dl></dl>
 
-##### <a id="2"></a>2  Definitions
+**
 
-             (1)  Unless the contrary intention appears, expressions used in this Schedule that are also used in the Long Service Leave Act have the same meaning as in that Act.
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 93  Regulations 
+**
 
-(2)In this Schedule:
+ <dl compact=""><dl compact="">
 
-                    <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
+		The Governor-General may make regulations prescribing matters:
 
-                     (a)  the period that was, immediately before the employee’s transfer time, the employee’s period of service for the purposes of the Long Service Leave Act; and
+ </dl></dl>
 
-                     (b)  the period starting at the employee’s transfer time during which the employee continues to be an employee of the company.
+	(a)	required or permitted by this Act to be prescribed; or
+ 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-                    <a name="futur-long-servic-leav-right"></a>**_future long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under an award, determination, industrial agreement or law (other than this Act) after the employee’s transfer time in relation to service after that time.
+<center>**
 
-                    <a name="law"></a>**_law_** means:
+###  AIRPORTS (TRANSITIONAL) ACT 1996<part>Part&#160;14&#151;Amendment of the Federal Airports Corporation Act 1986 </part>
+**</center>
 
-                     (a)  a law of the Commonwealth, a State or a Territory; or
+<center>Back to Top</center>
 
-                     (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
+**
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** has the meaning given by clause 3\. 
+###  AIRPORTS (TRANSITIONAL) ACT 1996- SECT 94  Amendments  
+**
 
-##### <a id="3"></a>3  References to Long Service Leave Act
+ <dl compact=""><dl compact="">
 
-                   For the purposes of the application of this Schedule to a particular employee, a reference in this Schedule to the Long Service Leave Act is a reference to the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the employee’s transfer time.
+		The _Federal Airports Corporation Act 1986_ is amended as set out in
 
-##### <a id="4"></a>4  Long service leave for employees with less than 10 years service
+Schedule&#160;4.
 
-* * *
+ </dl></dl>
 
-**Summary of clause**
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996Schedule&#160;1&#151;Long Service Leave 
+**</center>
+
+1  Scope of Schedule 
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This Schedule applies in relation to an airport-lessee company if the
+
+company was granted an airport lease under section&#160;21 or 22.</dd> <dt>(2)</dt><dd>This Schedule applies to an employee of an airport-lessee company if the employee was transferred to the company under section&#160;58\. </dd> </dl></dl>
+
+2  Definitions
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Unless the contrary intention appears, expressions used in this Schedule
+
+that are also used in the Long Service Leave Act have the same meaning as in
+
+that Act.</dd> <dt>(2)</dt><dd>In this Schedule: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_combined service period_, in relation to an employee, means the
+
+total of:
+
+ </dl></dl>
+
+	(a)	the period that was, immediately before the employee's transfer time, the employee's period of service for the purposes of the Long Service Leave Act; and
+ 	(b)	the period starting at the employee's transfer time during which the employee continues to be an employee of the company.
+
+<def><dl compact=""><dl compact="">
+
+_future long service leave rights_, in relation to an employee,
+
+means any long service leave rights the employee acquires under an award,
+
+determination, industrial agreement or law (other than this Act) after the
+
+employee's transfer time in relation to service after that time. _law_ means:  </dl></dl>
+
+	(a)	a law of the Commonwealth, a State or a Territory; or
+ 	(b)	regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
+
+<def><dl compact=""><dl compact="">
+
+_Long Service Leave Act_ has the meaning given by clause&#160;3\. 
+
+ </dl></dl>
+
+3  References to Long Service Leave Act
+
+<dl compact=""><dl compact="">
+
+		For the purposes of the application of this Schedule to a particular
+
+employee, a reference in this Schedule to the Long Service Leave Act is a
+
+reference to the _Long Service Leave (Commonwealth Employees) Act 1976_ as
+
+in force immediately before the employee's transfer time.
+
+ </dl></dl>
+
+4  Long service leave for employees with less than 10 years service
+
+Summary of clause
 
 This clause provides that, in certain circumstances, an airport-lessee company may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
-* * *
+<dl compact=""><dl compact="">
 
-             (1)  This clause applies in relation to an employee if, at the employee’s transfer time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
+<dt>(1)</dt><dd>This clause applies in relation to an employee if, at the employee's
 
-             (2)  This clause does not apply in relation to an employee who dies while in the employment of an airport-lessee company. Clause 6 covers such employees.
+transfer time, the employee's period of service for the purposes of the Long
 
-             (3)  If the employee continues to be employed by an airport-lessee company after the employee’s transfer time until his or her combined service period is at least 10 years, the company may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subclause 7(1).
+Service Leave Act was less than 10 years.</dd> <dt>(2)</dt><dd>This clause does not apply in relation to an employee who dies while in the employment of an airport-lessee company. Clause&#160;6 covers such employees.</dd> <dt>(3)</dt><dd>If the employee continues to be employed by an airport-lessee company after the employee's transfer time until his or her combined service period is at least 10 years, the company may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subclause 7(1).</dd> <dt>(4)</dt><dd>If: </dd> </dl></dl>
 
-             (4)  If:
+<center>Back to Top</center>
 
-                     (a)  the employee stops being an employee of an airport-lessee company on or after reaching the minimum retirement age, or because of retrenchment; and
+	(a)	the employee stops being an employee of an airport-lessee company on or after reaching the minimum retirement age, or because of retrenchment; and
+ 	(b)	the employee's combined service period at the time when he or she stops being an employee of the company is at least one year;
 
-                     (b)  the employee’s combined service period at the time when he or she stops being an employee of the company is at least one year;
+the company may grant the employee long service leave on full salary for a period of up to the employee's long service leave credit under subclause 7(1).
 
-the company may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subclause 7(1).
+<dl compact=""><dl compact="">
 
-             (5)  If a period of long service leave may be granted to an employee under subclause (3) or (4), the company may, if the employee asks in writing, grant the employee long service leave on half salary for a period that is not more than twice the first-mentioned period.
+<dt>(5)</dt><dd>If a period of long service leave may be granted to an employee under
 
-             (6)  Long service leave granted in the circumstances set out in subclause (4) is to be taken so as to end immediately before the employee stops being an employee.
+subclause&#160;(3) or (4), the company may, if the employee asks in writing,
 
-             (7)  For the purposes of this clause, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
+grant the employee long service leave on half salary for a period that is not
 
-                     (a)  that section applied to the employee; and
+more than twice the first-mentioned period.</dd> <dt>(6)</dt><dd>Long service leave granted in the circumstances set out in subclause&#160;(4) is to be taken so as to end immediately before the employee stops being an employee.</dd> <dt>(7)</dt><dd>For the purposes of this clause, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section&#160;20 of the Long Service Leave Act if: </dd> </dl></dl>
 
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “clause 4 of Schedule 1 to the _Airports (Transitional) Act 1996_”.
+	(a)	that section applied to the employee; and
+ 	(b)	for the expression "section&#160;16 or 17" in that section there were substituted the expression "clause&#160;4 of Schedule&#160;1 to the _Airports (Transitional) Act 1996_".
+ 5  Payments in lieu of long service leave for employees with less than 10 years service
 
-##### <a id="5"></a>5  Payments in lieu of long service leave for employees with less than 10 years service
+Summary of clause
 
-* * *
+This clause provides that, in certain circumstances, an airport-lessee company must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under clause&#160;4.
 
-**Summary of clause**
+<dl compact=""><dl compact="">
 
-This clause provides that, in certain circumstances, an airport-lessee company must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under clause 4.
+<dt>(1)</dt><dd>This clause applies in relation to an employee if, at the employee's
 
-* * *
+transfer time, the employee's period of service for the purposes of the Long
 
-             (1)  This clause applies in relation to an employee if, at the employee’s transfer time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
+Service Leave Act was less than 10 years.</dd> <dt>(2)</dt><dd>This clause does not apply in relation to an employee who dies while in the employment of an airport-lessee company. Clause&#160;6 covers such employees.</dd> <dt>(3)</dt><dd>Subject to subclause&#160;(6), if the employee stops being an employee of an airport-lessee company on or after the day on which his or her combined service period reaches 10 years, the company must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subclause 7(2).</dd> <dt>(4)</dt><dd>Subject to subclause&#160;(6), if: </dd> </dl></dl>
 
-             (2)  This clause does not apply in relation to an employee who dies while in the employment of an airport-lessee company. Clause 6 covers such employees.
-
-             (3)  Subject to subclause (6), if the employee stops being an employee of an airport-lessee company on or after the day on which his or her combined service period reaches 10 years, the company must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subclause 7(2).
-
-             (4)  Subject to subclause (6), if:
-
-                     (a)  at a particular time, the employee stops being an employee of an airport-lessee company on or after reaching the minimum retiring age, or because of retrenchment; and
-
-                     (b)  at that time, the employee’s combined service period is at least one year;
+	(a)	at a particular time, the employee stops being an employee of an airport-lessee company on or after reaching the minimum retiring age, or because of retrenchment; and
+ 	(b)	at that time, the employee's combined service period is at least one year;
 
 the company must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subclause 7(2).
 
-             (5)  Subject to subclause (6), if:
+<dl compact=""><dl compact="">
 
-                     (a)  the employee stops being an employee of an airport-lessee company; and
+<dt>(5)</dt><dd>Subject to subclause&#160;(6), if:
 
-                     (b)  the company is satisfied that the employee left the company because of ill-health that justified his or her so leaving; and
+</dd> </dl></dl>
 
-                     (c)  when the employee left, his or her combined service period was at least one year;
+	(a)	the employee stops being an employee of an airport-lessee company; and
+ 	(b)	the company is satisfied that the employee left the company because of ill-health that justified his or her so leaving; and
+ 	(c)	when the employee left, his or her combined service period was at least one year;
 
 the company must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subclause 7(2).
 
-             (6)  An employee may, by written notice given to an airport-lessee company before the employee stops being an employee of the company:
+<dl compact=""><dl compact="">
 
-                     (a)  request the company not to make a payment to the employee under this clause; or
+<dt>(6)</dt><dd>An employee may, by written notice given to an airport-lessee company
 
-                     (b)  request the company to make a payment under subclause (3), (4) or (5) of a stated amount that is less than the amount that would otherwise be payable under that subclause.
+before the employee stops being an employee of the company:
 
-             (7)  The company must comply with a request made under subclause (6).
+</dd> </dl></dl>
 
-             (8)  For the purposes of this clause, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
+	(a)	request the company not to make a payment to the employee under this clause; or
+ 	(b)	request the company to make a payment under subclause&#160;(3), (4) or (5) of a stated amount that is less than the amount that would otherwise be payable under that subclause.
 
-                     (a)  that section applied to the employee; and
+<dl compact=""><dl compact="">
 
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “clause 5 of Schedule 1 to the _Airports (Transitional) Act 1996_”.
+<dt>(7)</dt><dd>The company must comply with a request made under subclause&#160;(6).</dd> <dt>(8)</dt><dd>For the purposes of this clause, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section&#160;21 of the Long Service Leave Act if: </dd> </dl></dl>
 
-##### <a id="6"></a>6  Payments on the death of an employee
+<center>Back to Top</center>
 
-* * *
+	(a)	that section applied to the employee; and
+ 	(b)	for the expression "sections&#160;16 and 17" in that section there were substituted the expression "clause&#160;5 of Schedule&#160;1 to the _Airports (Transitional) Act 1996_".
+ 6  Payments on the death of an employee
 
-**Summary of clause**
+Summary of clause
 
-This clause applies in relation to an employee if, at the employee’s transfer time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
+This clause applies in relation to an employee if, at the employee's transfer time, the employee's period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
-* * *
+<dl compact=""><dl compact="">
 
-             (1)  If, after the employee’s transfer time, the employee dies and immediately before his or her death:
+<dt>(1)</dt><dd>If, after the employee's transfer time, the employee dies and immediately
 
-                     (a)  the employee was an employee of an airport-lessee company; and
+before his or her death:
 
-                     (b)  the employee’s combined service period was at least one year; and
+</dd> </dl></dl>
 
-                     (c)  the employee had one or more dependants;
+	(a)	the employee was an employee of an airport-lessee company; and
+ 	(b)	the employee's combined service period was at least one year; and
+ 	(c)	the employee had one or more dependants;
 
 the company must make a payment to a dependant or to 2 or more dependants of the employee.
 
-             (2)  The total amount of the payment or payments is the amount that would have been payable to the employee under clause 5 if, on the day of his or her death, the employee had stopped being an employee of the company on or after reaching the minimum retiring age.
+<dl compact=""><dl compact="">
 
-             (3)  If subclause (1) applies, section 23 of the Long Service Leave Act has effect as if:
+<dt>(2)</dt><dd>The total amount of the payment or payments is the amount that would have
 
-                     (a)  that section applied to an employee of an airport-lessee company; and
+been payable to the employee under clause&#160;5 if, on the day of his or her
 
-                     (b)  a reference in that section to the approving authority were a reference to the company; and
+death, the employee had stopped being an employee of the company on or after
 
-                     (c)  for the expression “this Act” in that section there were substituted the expression “clause 6 of Schedule 1 to the _Airports (Transitional) Act 1996_”; and
+reaching the minimum retiring age.</dd> <dt>(3)</dt><dd>If subclause&#160;(1) applies, section&#160;23 of the Long Service Leave Act has effect as if: </dd> </dl></dl>
 
-                     (d)  for the expression “subsection 16(7) or 17(5)” in that section there were substituted the expression “clause 6 of Schedule 1 to the _Airports (Transitional) Act 1996_”.
+	(a)	that section applied to an employee of an airport-lessee company; and
+ 	(b)	a reference in that section to the approving authority were a reference to the company; and
+ 	(c)	for the expression "this Act" in that section there were substituted the expression "clause&#160;6 of Schedule&#160;1 to the _Airports (Transitional) Act 1996_"; and
+ 	(d)	for the expression "subsection 16(7) or 17(5)" in that section there were substituted the expression "clause&#160;6 of Schedule&#160;1 to the _Airports (Transitional) Act 1996_".
+ 7  Employee's long service leave credit for the purposes of clauses&#160;4 and 5 
 
-##### <a id="7"></a>7  Employee’s long service leave credit for the purposes of clauses 4 and 5 
+<dl compact=""><dl compact="">
 
-             (1)  For the purposes of clause 4, an employee’s long service leave credit is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
+<dt>(1)</dt><dd>For the purposes of clause&#160;4, an employee's long service leave credit
 
-                     (a)  starting when the employee started his or her period of service; and
+is equal to the long service leave credit that the employee would have under
 
-                     (b)  ending at the employee’s transfer time;
+the Long Service Leave Act for the period:
 
-if the employee had been retrenched at the employee’s transfer time.
+</dd> </dl></dl>
 
-             (2)  For the purposes of clause 5, an employee’s long service leave credit is the employee’s long service leave credit worked out under subclause (1) of this clause, reduced by any long service leave credit used under clause 4\. 
+	(a)	starting when the employee started his or her period of service; and
+ 	(b)	ending at the employee's transfer time;
 
-##### <a id="8"></a>8  Schedule not to affect an employee’s future long service leave rights
+if the employee had been retrenched at the employee's transfer time.
 
-                   To avoid doubt, it is declared that this Schedule does not affect an employee’s future long service leave rights.
+<dl compact=""><dl compact="">
 
-##### <a id="9"></a>9  Saving—Long Service Leave Act
+<dt>(2)</dt><dd>For the purposes of clause&#160;5, an employee's long service leave credit
 
-             (1)  This clause applies to an employee who, immediately before the employee’s transfer time, was an employee of the FAC whose period of service under the Long Service Leave Act was at least 10 years.
+is the employee's long service leave credit worked out under subclause&#160;(1)
 
-             (2)  Even though the employee ceases to be employed in Government Service for the purposes of the Long Service Leave Act, the employee’s accrued rights under that Act continue if the employee becomes an employee of an airport-lessee company at the employee’s transfer time. However, the employee is not entitled to receive any payment because he or she ceases to be in Government Service.
+of this clause, reduced by any long service leave credit used under
 
-             (3)  The Long Service Leave Act has effect after the employee’s transfer time as if the company were an approving authority for the purposes of that Act.
+clause&#160;4\. 
 
-# Schedule 2—Superannuation
+</dd> </dl></dl>
 
-## Part 1—When this Schedule applies
+8  Schedule not to affect an employee's future long service leave rights
 
-##### <a id="1"></a>1  When this Schedule applies
+<dl compact=""><dl compact="">
 
-                   This Schedule (other than Division 3 of Part 2) applies to an airport-lessee company if:
+		To avoid doubt, it is declared that this Schedule does not affect an
 
-                     (a)  the company was granted an airport lease under section 21; or
+employee's future long service leave rights.
 
-                     (b)  the company was granted an airport lease under section 22 and, at any time before the grant of the lease, a majority of the voting shares in the company were held by:
+ </dl></dl>
 
-                              (i)  the Commonwealth; or
+9  Saving&#151;Long Service Leave Act
 
-                             (ii)  a nominee of the Commonwealth.
+<dl compact=""><dl compact="">
 
-## Part 2—Superannuation schemes
+<dt>(1)</dt><dd>This clause applies to an employee who, immediately before the employee's
 
-### Division 1—Transfer of staff from the FAC
+transfer time, was an employee of the FAC whose period of service under the
 
-##### <a id="2"></a>2  Commonwealth-owned airport-lessee companies
+Long Service Leave Act was at least 10 years.</dd> <dt>(2)</dt><dd>Even though the employee ceases to be employed in Government Service for the purposes of the Long Service Leave Act, the employee's accrued rights under that Act continue if the employee becomes an employee of an airport-lessee company at the employee's transfer time. However, the employee is not entitled to receive any payment because he or she ceases to be in Government Service.</dd> <dt>(3)</dt><dd>The Long Service Leave Act has effect after the employee's transfer time as if the company were an approving authority for the purposes of that Act. </dd> </dl></dl>
 
-                   For the purposes of this Division, an airport-lessee company is **_Commonwealth-owned_** at a particular time if, and only if, that time is before the company’s sale time.
+<center>**
 
-##### <a id="3"></a>3  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
+###  AIRPORTS (TRANSITIONAL) ACT 1996Schedule&#160;2&#151;Superannuation  <center>[Back to Top](#top)</center> 
+**</center>
 
-             (1)  This clause applies in relation to an employee of a Commonwealth-owned airport-lessee company (the **_current company_**) if:
+<part>Part&#160;1&#151;When this Schedule applies</part>
 
-                     (a)  the employee was transferred to the current company, or any other company, under section 58; and
+1  When this Schedule applies
 
-                     (b)  immediately before the employee’s transfer time, the employee was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_; and
+<dl compact=""><dl compact="">
 
-                     (c)  either:
+		This Schedule (other than Division&#160;3 of Part&#160;2) applies to an
 
-                              (i)  since the employee’s transfer time, the employee has been continuously employed by the current company; or
+airport-lessee company if:
 
-                             (ii)  throughout the period beginning at the employee’s transfer time and ending immediately before the time when the employee last became an employee of the current company, each employer of the employee was a Commonwealth-owned airport-lessee company.
+ </dl></dl>
 
-             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment until:
+	(a)	the company was granted an airport lease under section&#160;21; or
+ 	(b)	the company was granted an airport lease under section&#160;22 and, at any time before the grant of the lease, a majority of the voting shares in the company were held by:
+ 	(i)	the Commonwealth; or
+ 	(ii)	a nominee of the Commonwealth.
 
-                     (a)  the employee ceases to be employed by the current company; or
+Part&#160;2&#151;Superannuation schemes 
 
-                     (b)  the sale time for the current company;
+<division>Division&#160;1&#151;Transfer of staff from the FAC</division>
+
+2  Commonwealth-owned airport-lessee companies
+
+<dl compact=""><dl compact="">
+
+		For the purposes of this Division, an airport-lessee company is
+
+_Commonwealth-owned_ at a particular time if, and only if, that
+
+time is before the company's sale time.
+
+ </dl></dl>
+
+3  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This clause applies in relation to an employee of a Commonwealth-owned
+
+airport-lessee company (the _current company_) if:
+
+</dd> </dl></dl>
+
+	(a)	the employee was transferred to the current company, or any other company, under section&#160;58; and
+ 	(b)	immediately before the employee's transfer time, the employee was a person to whom deferred benefits were applicable under section&#160;78 of the _Defence Force Retirement and Death Benefits Act 1973_; and
+ 	(c)	either:
+ 	(i)	since the employee's transfer time, the employee has been continuously employed by the current company; or
+ 	(ii)	throughout the period beginning at the employee's transfer time and ending immediately before the time when the employee last became an employee of the current company, each employer of the employee was a Commonwealth-owned airport-lessee company.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to
+
+continue in public employment until:
+
+</dd> </dl></dl>
+
+	(a)	the employee ceases to be employed by the current company; or
+ 	(b)	the sale time for the current company;
 
 whichever comes first.
 
-             (3)  Subclause (2) is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+<dl compact=""><dl compact="">
 
-             (4)  This clause does not prevent Division 2 of this Part from applying to the employee.
+<dt>(3)</dt><dd>Subclause&#160;(2) is subject to Division&#160;3 of Part&#160;IX of the
 
-Note:          Division 2 deals with the employee’s position after the sale time for the current company.
+_Defence Force Retirement and Death Benefits Act 1973_.</dd> <dt>(4)</dt><dd>This clause does not prevent Division&#160;2 of this Part from applying to the employee. </dd> </dl></dl>
 
-##### <a id="4"></a>4  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+<dl compact=""><dl compact="">
 
-             (1)  This clause applies in relation to an employee of a Commonwealth-owned airport-lessee company (the  **_current company_**) if:
+Note:	Division&#160;2 deals with the employee's position after
 
-                     (a)  the employee was transferred to the current company, or any other company, under section 58; and
+the sale time for the current company.
 
-                     (b)  immediately before the employee’s transfer time, a particular period of employment of the employee by the FAC was a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_. 
+ </dl></dl>
 
-             (2)  The period of employment continues to be a period of eligible employment for the purposes of that Division.
+4  Period of eligible employment for the purposes of Division&#160;3 of Part&#160;IX of the Defence Force Retirement and Death Benefits Act 1973
 
-### Division 2—Sale of airport-lessee companies owned by the Commonwealth
+<dl compact=""><dl compact="">
 
-##### <a id="5"></a>5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
+<dt>(1)</dt><dd>This clause applies in relation to an employee of a Commonwealth-owned
 
-             (1)  This clause applies in relation to an airport-lessee company if, immediately before the company’s sale time, an employee of the company was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
+airport-lessee company (the  _current company_) if:
 
-             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, after the company’s sale time, while the employee continues to be employed by the company.
+</dd> </dl></dl>
 
-             (3)  This clause is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+	(a)	the employee was transferred to the current company, or any other company, under section&#160;58; and
+ 	(b)	immediately before the employee's transfer time, a particular period of employment of the employee by the FAC was a period of eligible employment for the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_. 
 
-##### <a id="6"></a>6  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+<dl compact=""><dl compact="">
 
-             (1)  This clause applies in relation to an airport-lessee company if, immediately before the company’s sale time, a particular period of employment of a person by the company was a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+<dt>(2)</dt><dd>The period of employment continues to be a period of eligible employment
 
-             (2)  If employment by the company ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ at the company’s sale time, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
+for the purposes of that Division.
 
-### Division 3—Transfer of staff to airport-lessee companies that are not owned by the Commonwealth
+</dd> </dl></dl>
 
-##### <a id="7"></a>7  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
+<center>Back to Top</center>
 
-             (1)  This clause applies in relation to an employee of an airport-lessee company that was granted an airport lease under section 22 if:
+Division&#160;2&#151;Sale of airport-lessee companies owned by the Commonwealth
+ 5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
-                     (a)  the employee was transferred to the company under section 58; and
+<dl compact=""><dl compact="">
 
-                     (b)  immediately before the employee’s transfer time, the employee was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
+<dt>(1)</dt><dd>This clause applies in relation to an airport-lessee company if,
 
-             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, after the employee’s transfer time, while the employee continues to be employed by the company.
+immediately before the company's sale time, an employee of the company was a
 
-             (3)  This clause is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+person to whom deferred benefits were applicable under section&#160;78 of the
 
-##### <a id="8"></a>8  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+_Defence Force Retirement and Death Benefits Act 1973_.</dd> <dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to continue in public employment, after the company's sale time, while the employee continues to be employed by the company.</dd> <dt>(3)</dt><dd>This clause is subject to Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_. </dd> </dl></dl>
 
-             (1)  This clause applies in relation to an employee of an airport-lessee company that was granted an airport lease under section 22 if:
+6  Period of eligible employment for the purposes of Division&#160;3 of Part&#160;IX of the Defence Force Retirement and Death Benefits Act 1973
 
-                     (a)  the employee was transferred to the company under section 58; and
+<dl compact=""><dl compact="">
 
-                     (b)  immediately before the employee’s transfer time, a particular period of employment of the employee was a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+<dt>(1)</dt><dd>This clause applies in relation to an airport-lessee company if,
 
-             (2)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, a particular period of employment that begins at the employee’s transfer time continues to be a period of eligible employment for the purposes of that Division, so long as the period of employment is a period of employment by the company.
+immediately before the company's sale time, a particular period of employment
 
-## Part 3—The Crimes (Superannuation Benefits) Act 1989
+of a person by the company was a period of eligible employment for the purposes
 
-##### <a id="9"></a>9  Continuing application of the Crimes (Superannuation Benefits) Act 1989
+of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_.</dd> <dt>(2)</dt><dd>If employment by the company ceases to be eligible employment for the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_ at the company's sale time, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl></dl>
 
-Continuing application of Act
+Division&#160;3&#151;Transfer of staff to airport-lessee companies that are not owned by the Commonwealth
+ 7  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
-             (1)  Subject to subclause (2), if a person who was an employee of an airport-lessee company before the company’s sale time committed a corruption offence while such an employee, then, after the company’s sale time, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect of the offence as if the company continued to be a Commonwealth authority.
+<dl compact=""><dl compact="">
 
-Limitation on superannuation orders
+<dt>(1)</dt><dd>This clause applies in relation to an employee of an airport-lessee
 
-             (2)  A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by an airport-lessee company after the company’s sale time.
+company that was granted an airport lease under section&#160;22 if:
 
-Superannuation schemes
+</dd> </dl></dl>
 
-(3)A superannuation scheme in relation to which employer contributions or benefits are paid or payable by an airport-lessee company after the company’s sale time is not a superannuation scheme for the purposes of the application of the _Crimes (Superannuation Benefits) Act 1989_ to a corruption offence committed by a person after the company’s sale time.
+	(a)	the employee was transferred to the company under section&#160;58; and
+ 	(b)	immediately before the employee's transfer time, the employee was a person to whom deferred benefits were applicable under section&#160;78 of the _Defence Force Retirement and Death Benefits Act 1973_.
 
-Paragraph 19(3)(d) orders
+<dl compact=""><dl compact="">
 
-             (4)  Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to an airport-lessee company, an order made under that paragraph after the company’s sale time may only specify that an amount paid into the Consolidated Revenue Fund before the company’s sale time by or on behalf of the company belongs to the Commonwealth.
+<dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_, the employee is taken to
 
-Paragraph 19(4)(b) orders
+continue in public employment, after the employee's transfer time, while the
 
-             (5)  If:
+employee continues to be employed by the company.</dd> <dt>(3)</dt><dd>This clause is subject to Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_. </dd> </dl></dl>
 
-                     (a)  a person who was an employee of an airport-lessee company before the company’s sale time committed a corruption offence while such an employee; and
+8  Period of eligible employment for the purposes of Division&#160;3 of Part&#160;IX of the Defence Force Retirement and Death Benefits Act 1973
 
-                     (b)  the person was paid benefits before or after the company’s sale time out of the Consolidated Revenue Fund;
+<dl compact=""><dl compact="">
 
-then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to the corruption offence, an order made under that paragraph after the company’s sale time may only specify that an amount equal to the total benefits paid out of the Consolidated Revenue Fund be paid to the Commonwealth.
+<dt>(1)</dt><dd>This clause applies in relation to an employee of an airport-lessee
 
-Interpretation
+company that was granted an airport lease under section&#160;22 if:
 
-             (6)  Unless the contrary intention appears, an expression used in this clause that is also used in the _Crimes (Superannuation Benefits) Act 1989_ has the same meaning in this clause as it has in that Act.
+</dd> </dl></dl>
 
-## Part 4—The Superannuation Benefits (Supervisory Mechanisms) Act 1990
+	(a)	the employee was transferred to the company under section&#160;58; and
+ 	(b)	immediately before the employee's transfer time, a particular period of employment of the employee was a period of eligible employment for the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_.
 
-##### <a id="10"></a>10  An airport-lessee company is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+<dl compact=""><dl compact="">
 
-Eligible body notice
+<dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part&#160;IX of the _Defence Force Retirement and Death Benefits Act 1973_, a particular period of
 
-             (1)  A notice published in the _Gazette_ before an airport-lessee company’s sale time that declares the company to be an eligible body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, after the company’s sale time, as if the notice did not contain a reference to the company.
+employment that begins at the employee's transfer time continues to be a period
 
-Relevant body notice
+of eligible employment for the purposes of that Division, so long as the period
 
-             (2)  A notice published in the _Gazette_ before an airport-lessee company’s sale time that declares the company to be a relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, after the company’s sale time, as if the notice did not contain a reference to the company.
+of employment is a period of employment by the company.
 
-Amendment or revocation of notice
+</dd> </dl></dl>
 
-             (3)  Subclauses (1) and (2) do not prevent a declaration affected by either of those subclauses from being amended or revoked by the Minister.
+Part&#160;3&#151;The Crimes (Superannuation Benefits) Act 1989
 
-Definition
+<center>Back to Top</center>
 
-             (4)  In this clause:
+9  Continuing application of the Crimes (Superannuation Benefits) Act 1989
 
-                    <a name="minist"></a>**_Minister_** has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
+_Continuing application of Act_
 
- 
+<dl compact=""><dl compact="">
 
-# Schedule 3—Safety, Rehabilitation and Compensation Act 1988
+<dt>(1)</dt><dd>Subject to subclause&#160;(2), if a person who was an employee of an
 
-##### <a id="1"></a>1  Definitions 
+airport-lessee company before the company's sale time committed a corruption
 
-                   Unless the contrary intention appears, expressions used in this Schedule that are also used in the _Safety, Rehabilitation and Compensation Act 1988_ have the same meanings as in that Act.
+offence while such an employee, then, after the company's sale time, the
 
-##### <a id="2"></a>2  SRC Act continues to apply to transferred employees
+_Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation
 
-             (1)  This clause applies to a transferred employee.
+to the person in respect of the offence as if the company continued to be a
 
-             (2)  The _Safety, Rehabilitation and Compensation Act 1988_ continues to apply, after the employee’s transfer time, in relation to:
+Commonwealth authority.
 
-                     (a)  injuries suffered by the employee before the employee’s transfer time; and
+</dd> </dl></dl>
 
-                     (b)  loss of, or damage to, property incurred by the employee before the employee’s transfer time.
+_Limitation on superannuation orders_
 
-##### <a id="3"></a>3  Commonwealth liable to meet certain SRC Act liabilities and is taken to be the employer in certain circumstances under the SRC Act
+<dl compact=""><dl compact="">
 
-             (1)  This clause applies to a transferred employee.
+<dt>(2)</dt><dd>A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid
 
-             (2)  After the employee’s transfer time, the Commonwealth:
+or payable to a superannuation scheme by an airport-lessee company after the
 
-                     (a)  is liable to pay the liabilities of the FAC under section 128A of the _Safety, Rehabilitation and Compensation Act 1988_, in so far as they relate to the employee; and
+company's sale time.
 
-                     (b)  is taken to have been the employee’s employer before the employee’s transfer time for the purposes of the _Safety, Rehabilitation and Compensation Act 1988_.
+</dd> </dl></dl>
 
-             (3)  Paragraph (2)(b) has effect subject to clauses 5 and 6.
+_Superannuation schemes_
 
-##### <a id="4"></a>4  Airport-lessee company to co-operate with the Commonwealth
+<dl compact=""><dl compact="">
 
-                   After the employee’s transfer time, the airport-lessee company concerned must provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
+<dt>(3)</dt><dd>A superannuation scheme in relation to which employer
 
-##### <a id="5"></a>5  Section 40 of the SRC Act 
+contributions or benefits are paid or payable by an airport-lessee company
 
-                   After the employee’s transfer time, the airport-lessee company concerned is taken to be the relevant employer of the employee for the purposes of section 40 of the _Safety, Rehabilitation and Compensation Act 1988_.
+after the company's sale time is not a superannuation scheme for the purposes
 
-##### <a id="6"></a>6  Section 71 of the SRC Act 
+of the application of the _Crimes (Superannuation Benefits) Act 1989_ to a
 
-                   After the employee’s transfer time, the airport-lessee company concerned is taken to be a Commonwealth authority for the purposes of section 71 of the _Safety, Rehabilitation and Compensation Act 1988_.
+corruption offence committed by a person after the company's sale time.
 
-##### <a id="7"></a>7  Section 108C of the SRC Act
+</dd> </dl></dl>
 
-                   This Act does not prevent section 108C of the _Safety, Rehabilitation and Compensation Act 1988_ from applying to an airport-lessee company.
+_Paragraph 19(3)(d) orders_
 
-# Schedule 4—Amendment of the Federal Airports Corporation Act 1986
+<dl compact=""><dl compact="">
 
-* * *
+<dt>(4)</dt><dd>Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to an airport-lessee
 
-**Note:**
+company, an order made under that paragraph after the company's sale time may
 
-The amendments made by this Schedule are incorporated in the current compilation ComLaw _._
+only specify that an amount paid into the Consolidated Revenue Fund before the
 
-For access to the wording of the amendments made by this Schedule _see_ No. 36, 1996.
+company's sale time by or on behalf of the company belongs to the Commonwealth.
 
-* * *
+</dd> </dl></dl>
 
-# Notes to the _Airports (Transitional) Act 1996_
+_Paragraph 19(4)(b) orders_
 
-### Note 1
+<dl compact=""><dl compact="">
 
-The _Airports (Transitional) Act 1996_ as shown in this compilation comprises Act No. 36, 1996 amended as indicated in the tables below.
+<dt>(5)</dt><dd>If:
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+</dd> </dl></dl>
 
-All relevant information pertaining to application, saving or transitional provisions prior to 16 April 1998 is not included in this compilation. For subsequent information _see_ Table A. 
+	(a)	a person who was an employee of an airport-lessee company before the company's sale time committed a corruption offence while such an employee; and
+ 	(b)	the person was paid benefits before or after the company's sale time out of the Consolidated Revenue Fund;
 
-### Table of Acts
+then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, for the purposes of the application of that Act to the corruption offence, an order made under that paragraph after the company's sale time may only specify that an amount equal to the total benefits paid out of the Consolidated Revenue Fund be paid to the Commonwealth.
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="15%">
-  <col width="18%">
-  <col width="22%">
-  <col width="16%">
-</colgroup>
+_Interpretation_
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>Unless the contrary intention appears, an expression used in this clause
+
+that is also used in the _Crimes (Superannuation Benefits) Act 1989_ has
+
+the same meaning in this clause as it has in that Act.
+
+</dd> </dl></dl>
+
+Part&#160;4&#151;The Superannuation Benefits (Supervisory Mechanisms) Act 1990
+
+10  An airport-lessee company is not to be an eligible or relevant body for the purposes of the Superannuation Benefits (Supervisory Mechanisms) Act 1990
+
+_Eligible body notice_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A notice published in the _Gazette_ before an airport-lessee
+
+company's sale time that declares the company to be an eligible body for the
+
+purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, after the company's sale time, as if the notice did not
+
+contain a reference to the company.
+
+</dd> </dl></dl>
+
+_Relevant body notice_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A notice published in the _Gazette_ before an airport-lessee
+
+company's sale time that declares the company to be a relevant body for the
+
+purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ has effect, after the company's sale time, as if the notice did not
+
+contain a reference to the company.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+_Amendment or revocation of notice_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Subclauses&#160;(1) and (2) do not prevent a declaration affected by
+
+either of those subclauses from being amended or revoked by the Minister.
+
+</dd> </dl></dl>
+
+_Definition_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>In this clause:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Minister_ has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
+
+ </dl></dl>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996Schedule&#160;3&#151;Safety, Rehabilitation and Compensation Act 1988 
+**</center>
+
+1  Definitions 
+
+<dl compact=""><dl compact="">
+
+		Unless the contrary intention appears, expressions used in this Schedule that
+
+are also used in the _Safety, Rehabilitation and Compensation Act 1988_
+
+have the same meanings as in that Act.
+
+ </dl></dl>
+
+2  SRC Act continues to apply to transferred employees
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This clause applies to a transferred employee.</dd> <dt>(2)</dt><dd>The _Safety, Rehabilitation and Compensation Act 1988_ continues to apply, after the employee's transfer time, in relation to: </dd> </dl></dl>
+
+	(a)	injuries suffered by the employee before the employee's transfer time; and
+ 	(b)	loss of, or damage to, property incurred by the employee before the employee's transfer time.
+ 3  Commonwealth liable to meet certain SRC Act liabilities and is taken to be the employer in certain circumstances under the SRC Act
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This clause applies to a transferred employee.</dd> <dt>(2)</dt><dd>After the employee's transfer time, the Commonwealth: </dd> </dl></dl>
+
+	(a)	is liable to pay the liabilities of the FAC under section&#160;128A of the _Safety, Rehabilitation and Compensation Act 1988_, in so far as they relate to the employee; and
+ 	(b)	is taken to have been the employee's employer before the employee's transfer time for the purposes of the _Safety, Rehabilitation and Compensation Act 1988_.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Paragraph&#160;(2)(b) has effect subject to clauses&#160;5 and 6.
+
+</dd> </dl></dl>
+
+4  Airport-lessee company to co-operate with the Commonwealth
+
+<dl compact=""><dl compact="">
+
+		After the employee's transfer time, the airport-lessee company concerned must
+
+provide such reasonable co-operation and assistance as the Commonwealth
+
+requires to enable the Commonwealth to fulfil its obligations under
+
+sections&#160;36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
+
+ </dl></dl>
+
+5  Section&#160;40 of the SRC Act 
+
+<dl compact=""><dl compact="">
+
+		After the employee's transfer time, the airport-lessee company concerned is
+
+taken to be the relevant employer of the employee for the purposes of
+
+section&#160;40 of the _Safety, Rehabilitation and Compensation Act 1988_.
+
+ </dl></dl>
+
+6  Section&#160;71 of the SRC Act 
+
+<dl compact=""><dl compact="">
+
+		After the employee's transfer time, the airport-lessee company concerned is
+
+taken to be a Commonwealth authority for the purposes of section&#160;71 of the
+
+_Safety, Rehabilitation and Compensation Act 1988_.
+
+ </dl></dl>
+
+7  Section&#160;108C of the SRC Act
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+		This Act does not prevent section&#160;108C of the _Safety, Rehabilitation and Compensation Act 1988_ from applying to an airport-lessee company.
+
+ </dl></dl>
+
+<center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996Schedule&#160;4&#151;Amendment of the Federal Airports Corporation Act 1986 
+**</center>
+
+Note:
+ The amendments made by this Schedule are incorporated in the compilation on SCALEplus of the _Federal Airports Corporation Act 1986._
+ For access to the wording of the amendments made by this Schedule click  here.  <center>**
+
+###  AIRPORTS (TRANSITIONAL) ACT 1996<centreit>Notes to the _Airports (Transitional) Act 1996_ </centreit>
+**</center>    **Note 1**
+
+The _Airports (Transitional) Act 1996_ as shown in this compilation comprises Act No.&#160;36, 1996 amended as indicated in the Tables below.
+ For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No.&#160;55, 2001.
+ All relevant information pertaining to application, saving or transitional provisions prior to 16&#160;April 1998 is not included in this compilation. For subsequent information _see_ Table A. 
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Airports (Transitional) Act 1996</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Airports (Transitional) Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9 Oct 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9 Oct 1996</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Workplace Relations and Other Legislation Amendment Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>60, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Nov 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 11 (item 60): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;11 (item&#160;60): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items&#160;1, 2])</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Workplace Relations and Other Legislation Amendment Act (No.&#160;2) 1996</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>77, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Dec 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3 (items&#160;1, 2): <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment Act (No. 1) 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Aviation Legislation Amendment Act (No.&#160;1) 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>30, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Apr 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Apr 1997</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tax Law Improvement Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Tax Law Improvement Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>121, 1997</div>
+
   </td>
-  <td>
-    <div>8 July 1997</div>
+  <td colspan="1" align="left">
+    <div>8&#160;July 1997</div>
+
   </td>
-  <td>
-    <div>Schedule 12 (item 31): 1 July 1997 <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;12 (item&#160;31): 1&#160;July 1997 <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 1) 1998</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Taxation Laws Amendment Act (No.&#160;1) 1998</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>16, 1998</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>16 Apr 1998</div>
+
   </td>
-  <td>
-    <div>Schedule 10 (items 58–64): Royal Assent <i>(d)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;10 (items&#160;58-64): Royal Assent <i>(d)</i></div>
+
   </td>
-  <td>
-    <div>Sch. 10 (item 64) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 10 (item&#160;64) \[ <i>see</i>Table A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment Act (No. 1) 1998</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Aviation Legislation Amendment Act (No.&#160;1) 1998</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>95, 1998</div>
+
   </td>
-  <td>
-    <div>23 July 1998</div>
+  <td colspan="1" align="left">
+    <div>23&#160;July 1998</div>
+
   </td>
-  <td>
-    <div>Schedule 6: 9 Oct 1996 <i>(e)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;6: 9 Oct 1996 <i>(e)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 6) 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Taxation Laws Amendment Act (No.&#160;6) 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>54, 1999</div>
+
   </td>
-  <td>
-    <div>5 July 1999</div>
+  <td colspan="1" align="left">
+    <div>5&#160;July 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 4 (items 1–5): Royal Assent <i>(f)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;4 (items&#160;1-5): Royal Assent <i>(f)</i></div>
+
   </td>
-  <td>
-    <div>Sch. 4 (item 5) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 4 (item&#160;5) \[ <i>see</i>Table A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequential and Transitional) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporations (Repeals, Consequential and Transitional) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>55, 2001</div>
+
   </td>
-  <td>
-    <div>28 June 2001</div>
+  <td colspan="1" align="left">
+    <div>28&#160;June 2001</div>
+
   </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 26): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285) <i>(g)</i></div>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14 and Schedule&#160;3 (item&#160;26): 15&#160;July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285) <i>(g)</i></div>
+
   </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>New Business Tax System (Capital Allowances—Transitional and Consequntial) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>New Business Tax System (Capital Allowances&#151;Transitional and Consequntial) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>77, 2001</div>
+
   </td>
-  <td>
-    <div>30 June 2001</div>
+  <td colspan="1" align="left">
+    <div>30&#160;June 2001</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (items 1–9, 488(1)): Royal Assent <i>(h)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2 (items&#160;1-9, 488(1)): Royal Assent <i>(h)</i></div>
+
   </td>
-  <td>
-    <div>Sch. 2 (item 488(1)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 2, 3) and 
-Schedule 6 (items 1, 6–11): 
-Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-1, 6–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+  <td colspan="1" align="left">
+    <div>Sch. 2 (item&#160;488(1)) (am. by 119, 2002, Sch. 3 \[item&#160;97]) \[ <i>see</i>Table A]</div>
 
-_(a)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 11 (item 60) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(2) of which provides as follows:
-
-                 (2) Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
-
-_(b)_    The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
-
-                 (4) The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
-
-         The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
-
-_(c)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 12 (item 31) only of the _Tax Law Improvement Act 1997_, subsection 2(5) of which provides as follows:
-
-                 (5) If there is no note specifying the commencement of an item in Schedule 12, the item commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
-
-_(d)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 10 (items 58–63) only of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-
-_(e)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 6 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(4) of which provides as follows:
-
-                 (4)   Schedule 6 is taken to have commenced on 9 October 1996, immediately after the commencement of the _Airports (Transitional) Act 1996_.
-
-_(f)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 4 (items 1–4) only of the _Taxation Laws Amendment Act (No. 6) 1999_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-
-_(g)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 3 (item 26) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-_(h)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 2 (items 1–9) only of the _New Business Tax System (Capital Allowances—Transitionals and Consequential) Act 2001_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>as amended by</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Taxation Laws Amendment Act (No.&#160;5) 2002</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>119, 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2 Dec 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3 (item&#160;97): <i>(i)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;11 (item&#160;60) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(2) of which provides as follows:
+
+	(2)	Subject to subsection&#160;(3), the items of the Schedules, other than Schedule&#160;5, item&#160;1 of Schedule&#160;9, items&#160;2 and 3 of Schedule&#160;12, item&#160;90 of Schedule&#160;16 and the items of Schedule&#160;19, commence on a day or days to be fixed by Proclamation.
+
+_(b)_	The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule&#160;3 (items&#160;1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
+
+	(4)	The items of Schedule&#160;3 are taken to have commenced immediately after the Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent.
+
+	The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25&#160;November 1996.
+ _(c)_	The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;12 (item&#160;31) only of the _Tax Law Improvement Act 1997_, subsection 2(5) of which provides as follows:
+
+	(5)	If there is no note specifying the commencement of an item in Schedule&#160;12, the item commences on 1&#160;July 1997 immediately after the commencement of the Income Tax Assessment Act 1997.
+
+_(d)_	The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;10 (items&#160;58-63) only of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to subsection&#160;(2), this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_ The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;6 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(4) of which provides as follows:
+
+	(4)	Schedule&#160;6 is taken to have commenced on 9&#160;October 1996, immediately after the commencement of the _Airports (Transitional) Act 1996_.
+
+_(f)_ The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;4 (items&#160;1-4) only of the _Taxation Laws Amendment Act (No. 6) 1999_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to subsection&#160;(2), this Act commences on the day on which it receives the Royal Assent.
+
+_(g)_ The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;3 (item&#160;26) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+	(3)	Subject to subsections&#160;(4) to (10), Schedule&#160;3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(h)_ The _Airports (Transitional) Act 1996_ was amended by Schedule&#160;2 (items&#160;1-9) only of the _New Business Tax System (Capital AllowancesTransitionals and Consequential) Act 2001_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to subsection&#160;(2), this Act commences on the day on which it receives the Royal Assent.
+
+_(i)_ The _New Business Tax System (Capital AllowancesTransitional and Consequential) Act 2001_ was amended by Schedule&#160;3 (item&#160;97) only of the _Taxation Laws Amendment Act (No. 5) 2002_, subsection 2(1) (item&#160;9) of which provides as follows:
+
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Commencement information</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Column 1</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 2</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 3</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Provision(s)</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Commencement</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Date/Details</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>9\. Items&#160;79 to 99 of Schedule&#160;3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Immediately after the commencement of section&#160;2 of the <i>New Business Tax System (Capital Allowances&#151;Transitional and Consequential) Act 2001</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>30&#160;June 2001</div>
+
+  </td>
+</tr></table>**Table <center>Back to Top</center> of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;55, 2001</div>
+
   </td>
 </tr>
-<thead>
-  <tr>
-    <td>
-      <div>S. 30</div>
-    </td>
-    <td>
-      <div>am. No. 30, 1997</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 20</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;95, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>S. 30</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>am. No.&#160;30, 1997</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 48A</div>
+
   </td>
-  <td>
-    <div>ad. No. 16, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 2001; No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;16, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 49</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 49A</div>
+
   </td>
-  <td>
-    <div>ad. No. 16, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 1999</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;16, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;54, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 49B</div>
+
   </td>
-  <td>
-    <div>ad. No. 77, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 50A</div>
+
   </td>
-  <td>
-    <div>ad. No. 16, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;16, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 50B</div>
+
   </td>
-  <td>
-    <div>ad. No. 77, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 51A</div>
+
   </td>
-  <td>
-    <div>ad. No. 16, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;16, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 51B</div>
+
   </td>
-  <td>
-    <div>ad. No. 77, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 52A</div>
+
   </td>
-  <td>
-    <div>ad. No. 16, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;16, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;77, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Note to s. 52A(2)</div>
+
   </td>
-  <td>
-    <div>rs. No. 77, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 54A</div>
+
   </td>
-  <td>
-    <div>ad. No. 121, 1997</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;121, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Heading to s. 55</div>
+
   </td>
-  <td>
-    <div>am. No. 77, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 55</div>
+
   </td>
-  <td>
-    <div>am. No. 16, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;16, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;77, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 59</div>
+
   </td>
-  <td>
-    <div>am. No. 60, 1996</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;60, 1996</div>
+
   </td>
-</tr></table>
+</tr></table>  <center>**
 
-## Table A
+###  Table A 
+**</center>  **Table A**
 
-### Application, saving or transitional provisions
+**Application, saving or transitional provisions**
 
-_Taxation Laws Amendment Act (No. 1) 1998  (No. 16, 1998) _
+_Taxation Laws Amendment Act (No. 1) 1998_  (No.&#160;16, 1998) 
 
-## Schedule 10
+**Schedule&#160;10**
 
-## 64  Application
+**64  Application**
 
 The amendments made by this Part apply to assessments for the 1997-98 income year and later income years.
 
-* * *
+_Taxation Laws Amendment Act (No. 6) 1999_ (No.&#160;54, 1999)
 
-_Taxation Laws Amendment Act (No. 6) 1999 (No. 54, 1999)_
+**5  Application**
 
-## 5  Application
+The amendments made by items&#160;1 to 4 apply to assessments for the 1997-98 income year and later income years.
 
-The amendments made by items 1 to 4 apply to assessments for the 1997-98 income year and later income years.
+_New Business Tax System (Capital AllowancesTransitional and Consequential) Act 2001_(No.&#160;77, 2001)
 
-* * *
+**Schedule&#160;2**
+ **488  Application**
 
-_New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001 (No. 77, 2001)_
+(1)	Subject to this item, the amendments made by this Schedule apply to:
 
-## 488  Application
+	(a)	depreciating assets:
+ 	(i)	you start to hold under a contract entered into after 30&#160;June 2001; or
+ 	(ii)	you constructed where the construction started after that day; or
+ 	(iii)	you start to hold in some other way after that day; and
+ 	(b)	expenditure that does not form part of the cost of a depreciating asset incurred after that day. 
 
-(1)        Subject to subitem (2), the amendments made by this Schedule apply to:
+</def>
 
-                     (a)  depreciating assets:
+</def></def></def>
 
-                              (i)  you start to hold under a contract entered into after 30 June 2001; or
+</def>
 
-                             (ii)  you constructed where the construction started after that day; or
+</def>
 
-                            (iii)  you start to hold in some other way after that day; and
+</def>
 
-                     (b)  expenditure that does not form part of the cost of a depreciating asset incurred after that day.
+</def>
 
-* * *
+</def>
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
+</def></def></def>
 
-## Schedule 6
+</def>
 
-## 1  Application of Schedule 1 and 2 amendments
+</def></def>
 
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
+</def></def>
 
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
+</def>
 
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
+</def>
 
-## 6  Object
+</def>
 
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
 
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
- 
