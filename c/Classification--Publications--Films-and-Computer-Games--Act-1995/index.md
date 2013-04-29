@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00533/Html/8972d4b1-b742-436b-9663-df3d5af6f0a7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00351/Html/21b9ca65-b04f-412d-ab7a-7aa1c87b9cd8_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 14 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 6 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 [**Note**: Part 10 ceases to have effect on 18 August 2012, _see_ section 115]
 
@@ -487,8 +487,6 @@ but does not include:
                      (b)  for a computer game—M or a higher classification.
 
                     <a name="convenor"></a>**_Convenor_** means the Convenor of the Review Board.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="decision"></a>**_decision_** means a decision of the Board:
 
@@ -2230,7 +2228,7 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
 ##### <a id="52"></a>52  Responsibilities and powers of the Director
 
-                   The Director is responsible for ensuring that the business of the Board is conducted in an orderly and efficient way and, for that purpose, the Director may give directions as to the arrangement of the business of the Board.
+                   The Director is responsible for ensuring that the business of the Board is conducted in an orderly and efficient way and, for that purpose, the Director may give directions as to the arrangement of the business of the Board.
 
 ##### <a id="53"></a>53  Powers of Director under State/Territory laws
 
@@ -2382,7 +2380,7 @@ the Governor‑General may, with the member’s consent, retire the member from 
 
                      (b)  has not reached his or her retiring age (within the meaning of that Act);
 
-cannot be retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+cannot be retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (5)  In spite of anything in this Act, a member who:
 
@@ -2390,7 +2388,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
                      (b)  is under 60;
 
-cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
           (5A)  In spite of anything in this Act, a member who:
 
@@ -2398,7 +2396,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
                      (b)  is under 60;
 
-cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
              (6)  This section applies to a temporary member as if references to the Governor‑General were references to the Minister.
 
@@ -2476,7 +2474,7 @@ the Deputy Director is to act as the Director during the vacancy, absence or ina
 
 ### Division 2—Responsibilities and powers of the Convenor
 
-##### <a id="77"></a>77  Responsibilities and powers of the Convenor
+##### <a id="77"></a>77  Responsibilities and powers of the Convenor
 
                    The Convenor is responsible for ensuring that the business of the Review Board is conducted in an orderly and efficient way and, subject to section 78, the Convenor may give directions as to the arrangement of the business of the Review Board or the constitution of the Review Board for the purpose of considering a particular matter.
 
@@ -2576,7 +2574,7 @@ the Governor‑General may, with the member’s consent, retire the member from 
 
                      (b)  has not reached his or her retiring age (within the meaning of that Act);
 
-cannot be retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+cannot be retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (5)  In spite of anything in this Act, a member of the Review Board who:
 
@@ -2584,7 +2582,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
                      (b)  is under 60;
 
-cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
              (6)  In spite of anything in this Act, a member of the Review Board who:
 
@@ -2592,7 +2590,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
                      (b)  is under 60;
 
-cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="84"></a>84  Acting appointments
 
@@ -3692,40 +3690,6 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 362–369) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 28–30): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Classification (Publications, Films and Computer Games) Act 1995_ was amended by Schedule 2 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
@@ -3849,61 +3813,6 @@ _(d)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
 </tr></table>
 
-_(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -3948,7 +3857,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; No. 111, 2000; No. 13, 2001; No. 61, 2004; Nos. 27 and 179, 2007; No. 69, 2008; No. 8, 2010; Nos. 5 and 58, 2011</div>
+    <div>am. No. 34, 1997; No. 111, 2000; No. 13, 2001; No. 61, 2004; Nos. 27 and 179, 2007; No. 69, 2008; No. 8, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4860,7 +4769,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4964,7 +4873,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 83</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5303,60 +5212,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>rep. No. 61, 2004</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 362  At the end of subsection 66(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Director, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 363  At the end of subsection 66(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments of the Director, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 364  At the end of subsection 66(3)
-
-Add:
-
-Note:          For rules that apply to acting appointments of members, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 365  Subsection 66(4)
-
-Repeal the subsection.
-
-## 366  At the end of subsection 84(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Convenor, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 367  At the end of subsection 84(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments of the Convenor, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 368  At the end of subsection 84(3)
-
-Add:
-
-Note:          For rules that apply to acting appointments of members of the Review Board, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 369  Subsection 84(4)
-
-Repeal the subsection.
-
-As at 14 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5800,21 +5655,5 @@ To avoid doubt:
                      (a)  the repeal of sections of an Act by this Schedule does not have retrospective effect; and
 
                      (b)  section 8 of the _Acts Interpretation Act 1901_ applies to the repeal (unaffected by any contrary intention).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
