@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00269/Html/ea16e0fc-77bd-49bf-bf57-a50d91150499_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00216/Html/62a0fdc1-a4a6-47be-9bf0-f247c2febeb3_files/image001.gif)
 
 # Naval Defence Act 1910
 
 **Act No. 30 of 1910 as amended**
 
-This compilation was prepared on 1 March 2012
+This compilation was prepared on 7 February 2012
  taking into account amendments up to Act No. 183 of 2011
 
 The text of any of those amendments not in force 
@@ -208,8 +208,6 @@ from the obligation to render, during a training period, the whole or part of th
 
              (1)  The body known immediately before the commencement of this subsection as the Naval Reserve Cadets is continued in existence with the new name, Australian Navy Cadets.
 
-Constitution of the Australian Navy Cadets
-
              (2)  The Australian Navy Cadets consists of:
 
                      (a)  persons appointed in accordance with the regulations to be officers in that body;
@@ -218,37 +216,25 @@ Constitution of the Australian Navy Cadets
 
                      (c)  subject to subsections (5) and (6), persons who volunteer, and are accepted, in accordance with the regulations as cadets in that body.
 
-Relationship to the Navy
-
              (3)  A person appointed to be an officer or instructor in the Australian Navy Cadets does not become a member of the Navy by virtue of that appointment.
 
-             (4)  A cadet in the Australian Navy Cadets is not a member of the Navy.
+             (4)  A cadet is not a member of the Navy.
 
-Age requirements for cadets
-
-             (5)  A person is not entitled to volunteer, or to be accepted, as a cadet unless he or she:
+             (5)  A person is not entitled to volunteer, or to be accepted, as a cadet unless he:
 
                      (a)  has attained such age as is prescribed; and
 
                      (b)  has not attained the age of 20 years.
 
-             (6)  A person ceases to be a cadet when he or she attains the age of 21 years or such lower age as is prescribed.
+             (6)  A person ceases to be a cadet when he attains the age of 21 years or such lower age as is prescribed.
 
-Regulations about the Australian Navy Cadets
-
-             (7)  The regulations may make provision for or in relation to the organization, maintenance, regulation, control and discipline of the Australian Navy Cadets and, in particular, for and in relation to:
-
-                     (a)  the periods and conditions of service of members, other than conditions of service with respect to which determinations under section 58B of the Defence Act may be made; and
-
-                     (b)  the promotion of members.
+             (7)  The regulations may make provision for or in relation to the organization, maintenance, regulation, control and discipline of the Australian Navy Cadets and, in particular, for and in relation to the periods and conditions of service of members, other than conditions of service with respect to which determinations under section 58B of the Defence Act may be made.
 
              (8)  In subsection (7), **_member_** means an officer, instructor or cadet in the Australian Navy Cadets.
 
 ##### <a id="39"></a>39  Administration of the Australian Navy Cadets
 
-             (1)  Subject to the regulations, to any determinations in force under section 58B of the Defence Act, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Navy is to administer the Australian Navy Cadets.
-
-             (2)  A direction of the Chief of the Defence Force under subsection (1) is subject to, and must be in accordance with, any directions of the Minister.
+                   Subject to the regulations, to any determinations in force under section 58B of the Defence Act and to the directions of the Minister, the Chief of Navy shall administer the Australian Navy Cadets.
 
 ## Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment
 
@@ -314,19 +300,9 @@ and where, in a determination, provision is made in contravention of this subsec
 
 ##### <a id="44B"></a>44B  Delegation<span style="font-size:9.0pt; font-weight:normal"> </span>
 
-Delegation by the Chief of Navy
+             (3)  The Chief of Navy may, by instrument in writing, delegate to an officer all or any of his powers under section 32A.
 
-             (3)  The Chief of Navy may, by instrument in writing, delegate to an officer all or any of his or her powers under section 32A.
-
-Delegation by the Chief of the Defence Force
-
-          (3A)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force, his or her power under subsection 39(1).
-
-Delegation by the authorized person
-
-             (4)  The authorized person may, by instrument in writing, delegate to a person all or any of his or her powers under Part VI.
-
-General provisions about delegations
+             (4)  The authorized person may, by instrument in writing, delegate to a person all or any of his powers under Part VI.
 
              (5)  A delegation under this section may be made either generally or otherwise as provided in the instrument of delegation.
 
@@ -339,8 +315,6 @@ General provisions about delegations
              (8)  A delegation under this section continues in force notwithstanding a change in the occupancy of, or a vacancy in, the office of the person who made the delegation.
 
              (9)  A document purporting to be a copy of an instrument of delegation under this section and purporting to bear the signature, or a facsimile of the signature, of the person who made the delegation and an endorsement in writing that the delegation is, or was on a specified date, in force, is, upon mere production in a court or otherwise for any purpose arising under this Act, _prima facie_ evidence that the delegation was duly made in the terms set out in the document and is, or was on the date specified, in force.
-
-Definition of **authorized person**
 
            (10)  In this section, **_authorized person_** has the same meaning as in section 40.
 
@@ -679,7 +653,7 @@ Ss. 78 and 87: 9 Feb 1976 ( <i>see Gazette</i>1976, No. S24) <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 65(2), (4), (5), 68(2), (3), 69(2), 72(2), 74(2), 76(2), 81(2) and 82(2) 
-S. 65(3) (am. by 164, 1984, s. 120)</div>
+S. 65(3) (am. by 164, 1984, s. 120)</div>
   </td>
 </tr>
 <tr>
@@ -1092,7 +1066,7 @@ Remainder: Royal Assent</div>
 Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s.4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s.4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -1177,7 +1151,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i><
     <div>Schedule 19 (item 32): Royal Assent <i>(o)</i></div>
   </td>
   <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
   </td>
 </tr>
 <tr>
@@ -1220,7 +1194,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i><
 Amendment Act (No. 1) 1997</div>
   </td>
   <td>
-    <div>1, 1997</div>
+    <div>No. 1, 1997</div>
   </td>
   <td>
     <div>19 Feb 1997</div>
@@ -1313,10 +1287,10 @@ Schedule 3 (item 2): Royal Assent <i>(r)</i></div>
     <div>22 Mar 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 12–15, 19, 27–31, 67, 68, 75–77): 22 Mar 2002 
-Schedule 3: 19 Apr 2001 ( <i>see</i>s. 2(4)) 
+    <div>Schedule 2 (items 12–15, 19, 27–31, 67, 68, 75–77): 22 Mar 2002 
+Schedule 3: 19 Apr 2001 ( <i>see</i>s. 2(4)) 
 Schedule 4: Royal Assent 
-Remainder: 19 Apr 2001</div>
+Remainder: 19 Apr 2001</div>
   </td>
   <td>
     <div>Sch. 2 (items 
@@ -1338,8 +1312,8 @@ Remainder: 19 Apr 2001</div>
 Schedule 1 (items 107–109): 15 Dec 2001</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 109) \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
+    <div>S. 4 and Sch. 1 (item 109) \[ <i>see</i>Table A] 
+S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
   </td>
 </tr>
 <tr>
@@ -1442,7 +1416,7 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
     <div>Schedule 7: <i>(v)</i></div>
   </td>
   <td>
-    <div>Sch. 7 (items 6, 7) (ad. by SLI 2009 No. 165, Sch. 2 \[item 3]) \[ <i>see</i>Note 1 and Table A]</div>
+    <div>Sch. 7 (items 6, 7) (ad. by SLI 2009 No. 165, Sch. 2 \[item 3]) \[ <i>see</i>Note 1 and Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1456,7 +1430,7 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
     <div>6 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 36–52): 1 Mar 2012 ( <i>see</i>F2012L00395)</div>
+    <div>Schedule 1 (items 36–52): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 42) \[ <i>see</i>Table A]</div>
@@ -3428,22 +3402,6 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 38(2), (3)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 38(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38</div>
   </td>
   <td>
@@ -3455,7 +3413,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 135, 2003; No. 121, 2005; No. 183, 2011</div>
+    <div>am. No. 96, 1975; No. 133, 1979; No. 135, 2003; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3479,7 +3437,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 133, 1979; No. 1, 1997; No. 135, 2003; No. 183, 2011</div>
+    <div>am. No. 133, 1979; No. 1, 1997; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3599,7 +3557,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 115, 1983; Nos. 87 and 104, 1988; No. 199, 1991; No. 60, 1996; No. 121, 2005; No. 54, 2009</div>
+    <div>am. No. 96, 1975; No. 133, 1979; No. 115, 1983; Nos. 87 and 104, 1988; No. 199, 1992; No. 60, 1996; No. 121, 2005; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3780,30 +3738,6 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 44B(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 44B(4), (5)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 44B(10)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 44B</div>
   </td>
   <td>
@@ -3839,7 +3773,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 76, 1986; No. 65, 1987; No. 1, 1997; No. 116, 1999; No. 10, 2001; No. 183, 2011</div>
+    <div>am. No. 164, 1984; No. 76, 1986; No. 65, 1987; No. 1, 1997; No. 116, 1999; No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3972,6 +3906,108 @@ Schedules</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
+
+The following amendments commence on 6 June 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 36  Before subsection 38(2)
+
+Insert:
+
+Constitution of the Australian Navy Cadets
+
+## 37  Before subsection 38(3)
+
+Insert:
+
+Relationship to the Navy
+
+## 38  Subsection 38(4)
+
+After “cadet”, insert “in the Australian Navy Cadets”.
+
+## 39  Before subsection 38(5)
+
+Insert:
+
+Age requirements for cadets
+
+## 40  Subsections 38(5) and (6)
+
+After “he”, insert “or she”.
+
+## 41  Subsection 38(7)
+
+Repeal the subsection, substitute:
+
+Regulations about the Australian Navy Cadets
+
+             (7)  The regulations may make provision for or in relation to the organization, maintenance, regulation, control and discipline of the Australian Navy Cadets and, in particular, for and in relation to:
+
+                     (a)  the periods and conditions of service of members, other than conditions of service with respect to which determinations under section 58B of the Defence Act may be made; and
+
+                     (b)  the promotion of members.
+
+## 43  Section 39
+
+Before “Subject”, insert “(1)”.
+
+## 44  Section 39
+
+Omit “and to the directions of the Minister, the Chief of Navy shall”, substitute “, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Navy is to”.
+
+## 45  At the end of section 39
+
+Add:
+
+             (2)  A direction of the Chief of the Defence Force under subsection (1) is subject to, and must be in accordance with, any directions of the Minister.
+
+## 46  Before subsection 44B(3)
+
+Insert:
+
+Delegation by the Chief of Navy
+
+## 47  Subsection 44B(3)
+
+After “his”, insert “or her”.
+
+## 48  After subsection 44B(3)
+
+Insert:
+
+Delegation by the Chief of the Defence Force
+
+          (3A)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force, his or her power under subsection 39(1).
+
+## 49  Before subsection 44B(4)
+
+Insert:
+
+Delegation by the authorized person
+
+## 50  Subsection 44B(4)
+
+After “his”, insert “or her”.
+
+## 51  Before subsection 44B(5)
+
+Insert:
+
+General provisions about delegations
+
+## 52  Before subsection 44B(10)
+
+Insert:
+
+Definition of **authorized person**
+
+As at the 7 February 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3988,7 +4024,7 @@ Sections 13K and 13M of the _Naval Defence Act 1910_ as in force before the co
 
 _Defence Legislation Amendment (Flexible Career Practices) Act 2000 (No. 113, 2000)_
 
-##### <a id="4"></a>4  Application of amendments
+##### <a id="4"></a>4  Application of amendments
 
                    The amendments made by items 3, 4, 5, 8, 9 and 11 of Schedule 1 do not apply in relation to appointments made before the commencement of this Act.
 
@@ -4079,6 +4115,8 @@ Subsection 42D(3) of the _Naval Defence Act 1910_ applies as if a reference in t
 * * *
 
 _Defence Legislation Amendment Act 2011 (No. 183, 2011)_
+
+The following provision commences on 6 June 2012 unless proclaimed earlier:
 
 ## Schedule 1
 
