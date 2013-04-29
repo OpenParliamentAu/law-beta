@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00693/Html/0ffb8fdf-5b0a-43d3-b22b-03b1934aa57e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00248/Html/5ba77f00-0d38-41a3-bbea-9e180bd5e372_files/image001.gif)
 
 # Australian National Maritime Museum Act 1990
 
 **Act No. 90 of 1990 as amended**
 
-This compilation was prepared on 26 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1107,23 +1107,6 @@ of Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 195–202) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1474,52 +1457,6 @@ _(e)_     The _Australian__National Maritime Museum__Act 1990_ was amend
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 195  Subsection 3(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 196  At the end of subsections 18(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 197  Subsections 18(3) and (4)
-
-Repeal the subsections.
-
-## 198  Subsection 38(1)
-
-Omit “(1)”.
-
-## 199  Paragraph 38(1)(b)
-
-Omit “Director;”, substitute “Director.”.
-
-## 200  Subsection 38(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 201  At the end of subsection 38(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 202  Subsection 38(2)
-
-Repeal the subsection.
-
-As at 26 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1606,21 +1543,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
