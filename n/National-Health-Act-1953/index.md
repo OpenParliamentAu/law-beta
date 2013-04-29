@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 31 January 2013
- taking into account amendments up to Act No. 174 of 2012
+This compilation was prepared on 22 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
  and (3B) cease to have effect on 30 June 2015, _see_ section 90(3C)
@@ -2785,7 +2785,7 @@ Special patient contribution
 
                    The **_proportional ex‑manufacturer price_** for a pack quantity (other than the pricing quantity) of a listed brand of a pharmaceutical item on a day is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image002.gif)
 
 where:
 
@@ -4045,7 +4045,7 @@ the Secretary is taken, immediately after the commencement of section 20 of th
 
              (3)  An appointment under subsection (2) shall be on a part‑time basis.
 
-             (4)  A person is not eligible to be appointed as Chairperson unless the person is a Deputy President of the Fair Work Commission.
+             (4)  A person is not eligible to be appointed as Chairperson unless the person is a Deputy President of Fair Work Australia.
 
 ##### <a id="98B"></a>98B  Functions of Tribunal
 
@@ -4069,7 +4069,11 @@ the Secretary is taken, immediately after the commencement of section 20 of th
 
              (4)  The Tribunal may approve criteria that it considers to be appropriate for use in determining the nature or magnitude of fees or other amounts referred to in paragraph (2)(c), and may, at any time, vary or revoke such criteria.
 
-             (5)  In determining fees or other amounts referred to in paragraph (2)(c), and in approving criteria under subsection (4), the Tribunal must have regard to national minimum wage orders of the Fair Work Commission, and, in particular, any statements by the Commission about the effect of wage increases on productivity, inflation and levels of employment.
+             (5)  In determining fees or other amounts referred to in paragraph (2)(c), and in approving criteria under subsection (4), the Tribunal must have regard to:
+
+                     (a)  national minimum wage orders of Fair Work Australia, and, in particular, any statements by Fair Work Australia about the effect of wage increases on productivity, inflation and levels of employment; or
+
+                     (b)  if no such order has been made—the last wage‑setting decision of the Australian Fair Pay Commission.
 
 ##### <a id="98BA"></a>98BA  Inquiries by Tribunal
 
@@ -4291,7 +4295,7 @@ to be paid by the Commonwealth for the supply of a pharmaceutical benefit to a p
 
              (9)  Ministerial determinations for the purposes of subsection (8) are disallowable instruments within the meaning of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="99AAA"></a>99AAA  Claim for payment relating to supply of benefits
+##### <a id="99AAA"></a>99AAA  Claim for payment relating to supply of benefits
 
              (1)  In this section:
 
@@ -4583,7 +4587,7 @@ Apportioning if pricing quantity changes
 
              (6)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
 
 where:
 
@@ -4779,13 +4783,13 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image004.gif)
 
 Apportioning if pricing quantity changes
 
              (7)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
 
 where:
 
@@ -4869,7 +4873,7 @@ Apportioning if pricing quantity changes
 
           (4B)  If the pricing quantity of the related brand of the related item on the day before the reduction day is different from the pricing quantity of the related brand of the related item on the reduction day, then, for the purposes of subparagraphs (3)(a)(ii), (3)(b)(ii), (4)(a)(ii) and (4)(b)(ii), the approved ex‑manufacturer price of the related brand of the related item on the day before the reduction day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
 
 where:
 
@@ -4913,7 +4917,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image004.gif)
 
 Section does not limit Minister’s powers
 
@@ -4981,7 +4985,7 @@ Apportioning if pricing quantity changes
 
              (5)  If the pricing quantity of the existing brand of the existing item on the day before the reduction day is different from the pricing quantity of the existing brand of the existing item on the reduction day, then, for the purposes of subsection (4), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the reduction day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
 
 where:
 
@@ -5256,7 +5260,7 @@ Apportioning if pricing quantity changes
 
           (2A)  If the pricing quantity of the listed brand of the pharmaceutical item on the day before the reduction day is different from the pricing quantity of the listed brand of the pharmaceutical item on the reduction day, then, for the purposes of subsection (1) and paragraph (2)(b), the approved ex‑manufacturer price of the listed brand of the pharmaceutical item on the day before the reduction day is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image003.gif)
 
 where:
 
@@ -5838,7 +5842,7 @@ Claimed price reduction
 
 then, on the reduction day the claimed price for that pack quantity of the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image005.gif)
 
 where:
 
@@ -5852,7 +5856,7 @@ Apportioning if pricing quantity changes
 
           (4A)  If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity of the brand of the pharmaceutical item on the reduction day, then, for the purposes of subsections (3) and (4), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is taken to be the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image006.gif)
 
 where:
 
@@ -5902,7 +5906,7 @@ Claimed price reduction
 
 then, on the reduction day the claimed price for that pack quantity of the new brand of the existing item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image007.gif)
 
 where:
 
@@ -6004,7 +6008,7 @@ Guaranteed period
 
                              (ii)  a brand of a pharmaceutical item that is bioequivalent or biosimilar to the guaranteed brand of the guaranteed item;
 
-                            the new price day referred to in paragraph 99AED(2)(d);
+                            the new price day referred to in paragraph 99AED(2)(d);
 
                      (d)  the day that is the first whole day on which the guaranteed brand is not a listed brand of the guaranteed item.
 
@@ -6220,11 +6224,11 @@ for a brand of a pharmaceutical item that has an approved ex‑manufacturer pric
 
              (1)  Subject to this Part, a member holds office for such period (not exceeding 3 years) as is, and on such terms and conditions as are, specified in the instrument of his or her appointment, but is eligible for re‑appointment.
 
-             (2)  If the holder of the office of Chairperson ceases to be a Deputy President of the Fair Work Commission he or she ceases to hold the office of Chairperson.
+             (2)  If the holder of the office of Chairperson ceases to be a Deputy President of Fair Work Australia he or she ceases to hold the office of Chairperson.
 
 ##### <a id="99B"></a>99B  Remuneration and allowances
 
-             (1)  The Chairperson shall not be paid remuneration or allowances in his or her capacity as Chairperson but, for the purposes of the payment of travelling expenses to him or her, his or her duties as Deputy President of the Fair Work Commission shall be deemed to include his or her duties as Chairperson of the Tribunal.
+             (1)  The Chairperson shall not be paid remuneration or allowances in his or her capacity as Chairperson but, for the purposes of the payment of travelling expenses to him or her, his or her duties as Deputy President of Fair Work Australia shall be deemed to include his or her duties as Chairperson of the Tribunal.
 
              (2)  An additional member shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by that Tribunal is in operation, the additional member shall be paid such remuneration as is prescribed.
 
@@ -6248,7 +6252,7 @@ for a brand of a pharmaceutical item that has an approved ex‑manufacturer pric
 
 ##### <a id="99D"></a>99D  Acting Chairperson
 
-             (1)  The Governor‑General may appoint a person who holds office as a Deputy President of the Fair Work Commission to act as Chairperson of the Tribunal:
+             (1)  The Governor‑General may appoint a person who holds office as a Deputy President of Fair Work Australia to act as Chairperson of the Tribunal:
 
                      (a)  during a vacancy in the office of Chairperson; or
 
@@ -6264,7 +6268,7 @@ Note:          For rules that apply to acting appointments, se
 
              (9)  A person shall not continue to act as Chairperson by virtue of a direction under subsection (7) for a period of more than 12 months.
 
-           (10)  The appointment of a person under subsection (1) and a direction in relation to a person under subsection (7) cease to have effect if the person ceases to hold office as a Deputy President of the Fair Work Commission.
+           (10)  The appointment of a person under subsection (1) and a direction in relation to a person under subsection (7) cease to have effect if the person ceases to hold office as a Deputy President of Fair Work Australia.
 
 ##### <a id="99E"></a>99E  Acting additional member
 
@@ -6402,7 +6406,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image008.gif)
 
 where:
 
@@ -6416,7 +6420,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image009.gif)
 
 where:
 
@@ -7548,7 +7552,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image010.gif)
 
 where:
 
@@ -13691,23 +13695,6 @@ Schedule 4 (item 654): <i>(zzzi)</i></div>
   <td>
     <div>Schedule 1 (items 90–92): Royal Assent 
 Schedule 5 (items 6–9): 20 Oct 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 1282–1287): 1 Jan 2013</div>
   </td>
   <td>
     <div>—</div>
@@ -29490,7 +29477,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 175, 1989; No. 88, 1992; No. 54, 2009; No. 174, 2012</div>
+    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 175, 1989; No. 88, 1992; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -29514,7 +29501,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 53, 1985; No. 94, 1986; No. 87, 1988; No. 24, 1995; No. 75, 2000; SLI 2006 No. 50; No. 111, 2007; No. 54, 2009; Nos. 87 and 174, 2012</div>
+    <div>am. No. 53, 1985; No. 94, 1986; No. 87, 1988; No. 24, 1995; No. 75, 2000; SLI 2006 No. 50; No. 111, 2007; No. 54, 2009; No. 87, 2012</div>
   </td>
 </tr>
 <tr>
@@ -30574,7 +30561,7 @@ Div. 3B of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 106, 1990; No. 88, 1992; No. 54, 2009; No. 174, 2012</div>
+    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 106, 1990; No. 88, 1992; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -30598,7 +30585,7 @@ Div. 3B of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 88, 1992 (as am. by No. 12, 1994); No. 43, 1996; No. 54, 2009; No. 174, 2012</div>
+    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 88, 1992 (as am. by No. 12, 1994); No. 43, 1996; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -30646,7 +30633,7 @@ Div. 3B of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 88, 1992; No. 54, 2009; No. 46, 2011; No. 174, 2012</div>
+    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 88, 1992; No. 54, 2009; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -34275,7 +34262,7 @@ Step 2—Work out the ex‑manufacturer price for the agreed quantity
 
 (5)       Work out the **_price to pharmacists_** for the relevant quantity of the relevant brand of the pharmaceutical item as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image011.gif)
 
 where:
 
@@ -34289,7 +34276,7 @@ where:
 
 (6)       If the price to pharmacists for the relevant quantity of the relevant brand of the pharmaceutical item is less than, or equal to, $1,000, then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image012.gif)
 
 where:
 
@@ -34305,7 +34292,7 @@ where:
 
 then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image013.gif)
 
 where:
 
@@ -34321,7 +34308,7 @@ where:
 
 then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image014.gif)
 
 where:
 
@@ -34337,7 +34324,7 @@ Step 3—Work out the proportional ex‑manufacturer price
 
 (9)       Work out the **_proportional ex‑manufacturer price_** for the pricing quantity of the relevant brand of the pharmaceutical item on the commencement day as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00083/Html/93fcc3ad-db1d-4492-b264-1a7170506db8_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00846/Html/43987170-173b-47fc-b936-0f84d9b07828_files/image015.gif)
 
 where:
 
