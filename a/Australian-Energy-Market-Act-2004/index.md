@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00600/Html/AusEnergyMarketAct2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00303/Html/AusEnergyMarketAct2004_image001.gif)
 
 # Australian Energy Market Act 2004
 
 **Act No. 99 of 2004 as amended**
 
-This compilation was prepared on 25 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 60 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -219,7 +219,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="australian-energi-regul"></a>**_Australian Energy Regulator_** means the body established by section 44AE of the _Trade Practices Act 1974_.
 
-                    <a name="coastal-water"></a>**_coastal waters_**, in relation to Western Australia, means so much of the scheduled area (within the meaning of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_) for Western Australia as consists of:
+                    <a name="coastal-water"></a>**_coastal waters_**, in relation to Western Australia, means so much of the scheduled area (within the meaning of the _Offshore Petroleum Act 2006_) for Western Australia as consists of:
 
                      (a)  the territorial sea; and
 
@@ -259,7 +259,7 @@ For this purpose, assume that the breadth of the territorial sea of Australia ha
 
                     <a name="natur-ga"></a>**_natural gas_** has the same meaning as in the National Gas (Commonwealth) Law.
 
-                    <a name="offshor-area"></a>**_offshore area_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="offshor-area"></a>**_offshore area_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum Act 2006_.
 
                     <a name="offshor-western-australian-pipelin"></a>**_offshore Western Australian pipeline_** means a pipeline (within the meaning of the National Gas (Commonwealth) Law) for transporting natural gas from one or more points of origination in the offshore area of Western Australia to one or more points of termination in:
 
@@ -1060,23 +1060,6 @@ Schedule 2 (item 9): <i>(b)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>117, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): 22 Nov 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 4) of the _Energy Legislation Amendment Act 2006_ provides as follows:
@@ -1354,7 +1337,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 17 and 60, 2006; No. 45, 2007; Nos. 60 and 117, 2008</div>
+    <div>am. Nos. 17 and 60, 2006; No. 45, 2007; No. 60, 2008</div>
   </td>
 </tr>
 <tr>
