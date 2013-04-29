@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00035/Html/AgriculturalVetsChemAct94_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00538/Html/AgriculturalVetsChemAct94_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals Act 1994
 
 **Act No. 36 of 1994 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 3 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -246,7 +246,7 @@ Recognising:
 
              (2)  The provisions of that Code as so applying are in addition to, and do not affect, the _Industrial Chemicals (Notification and Assessment) Act 1989_, the _Food Standards Australia New Zealand Act 1991_ and the _Therapeutic Goods Act 1989_.
 
-             (3)  The powers to require the recall of chemical products that are conferred on the APVMA under that Code as so applying are in addition to, and do not affect, the powers conferred by section 122 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth.
+             (3)  The powers to require the recall of chemical products that are conferred on the APVMA under that Code as so applying are in addition to, and do not affect, the powers conferred by section 65F of the _Trade Practices Act 1974_.
 
              (4)  The provisions of that Code as so applying that require the APVMA to give brief particulars of reasons for decisions do not affect the obligations of the APVMA under section 28 of the _Administrative Appeals Tribunal Act 1975_ or section 13 of the _Administrative Decisions (Judicial Review) Act 1977_.
 
@@ -576,7 +576,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (item 151): 1 Jan 2011</div>
+    <div>Schedule 6 (item 151): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -663,7 +663,7 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 152, 1995; No. 81, 2001; No. 79, 2004; No. 103, 2010</div>
+    <div>am. No. 152, 1995; No. 81, 2001; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -730,6 +730,20 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
     <div>am. No. 79, 2004</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 151  Subsection 7(3)
+
+Omit “section 65F of the _Trade Practices Act 1974_”, substitute “section 122 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth”.
+
+As at 3 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
