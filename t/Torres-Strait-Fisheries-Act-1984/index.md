@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00398/Html/TorresStraitFish1984_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00346/Html/TorresStraitFish1984_WD02_image001.gif)
 
-# Torres Strait Fisheries Act 1984
+# Torres  Strait Fisheries Act 1984
 
 **Act No. 23 of 1984 as amended**
 
-This compilation was prepared on 10 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 11 May 2010
+ taking into account amendments up to Act No. 39 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -3839,7 +3839,7 @@ HAVE AGREED as follows:
 
                     (iii)  maintain traditional customary associations with areas or features in or in the vicinity of the Protected Zone in relation to their subsistence or livelihood or social, cultural or religious activities.
 
-     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2010C00398/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
+     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2010C00346/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
 
      3.    In this Treaty, the expression “in and in the vicinity of the Protected Zone” describes an area the outer limits of which might vary according to the context in which the expression is used. 
 
@@ -10463,7 +10463,7 @@ Note:          This clause corresponds closely to section 26
 
 Note:          This clause corresponds closely to section 261AG of the _Migration Act 1958_.
 
-##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non-citizen
+##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non-citizen
 
                    If the non-citizen requests that the identification test be carried out by an authorised officer of the same sex as the non-citizen, the test must only be carried out by an authorised officer of the same sex as the non-citizen.
 
@@ -11085,8 +11085,6 @@ Note:          This clause corresponds closely to paragraph 33
 
 The _Torres Strait__Fisheries Act 1984_ as shown in this compilation comprises Act No. 23, 1984 amended as indicated in the Tables below. 
 
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
@@ -11510,24 +11508,6 @@ Schedule 2 (items 13–18): 22 July 2008</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td colspan="2">
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 5 (items 77, 78): \[ <i>see (g)</i>and Note 3] 
-Schedule 7: <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -11708,65 +11688,6 @@ _(f)_      Subsection 2(1) (item 57) of the _Statute Law Revision Ac
   <td>
     <div>
       26 July 2007
-    </div>
-  </td>
-</tr></table>
-
-_(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>
-      <b>
-        Provision(s)
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>
-        Commencement
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>
-        Date/Details
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -13616,25 +13537,7 @@ Repeal the section, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 10 June 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 5
-
-## 77  Paragraph 42(2)(e) of Schedule 2
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner under the _Privacy Act 1988_”.
-
-## 78  Paragraph 53(2)(g) of Schedule 2
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-As at 10 June 2010 the amendments are not incorporated in this compilation.
+As at 11 May 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
