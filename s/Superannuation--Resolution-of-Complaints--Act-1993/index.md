@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00104/Html/SupernResComplnts1993_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00167/Html/SupernResComplnts1993_WD02_image001.gif)
 
 # Superannuation (Resolution of Complaints) Act 1993
 
 **Act No. 80 of 1993 as amended**
 
-This compilation was prepared on 25 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 29 March 2007
+ taking into account amendments up to Act No. 9 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,235 +18,235 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Definition of decision made by a trustee, insurer, RSA provider or another decision-maker
+[4](#4).            Definition of decision made by a trustee, insurer, RSA provider or another decision-maker  7
 
-[4AA](#4AA).      Application of the _Criminal Code_
+[4AA](#4AA).      Application of the _Criminal Code_                                                       7
 
-[4A](#4A).         Act applies to certain exempt public sector superannuation schemes
+[4A](#4A).         Act applies to certain exempt public sector superannuation schemes 7
 
-[4B](#4B).         Modified meanings of _beneficiary_, _member_ etc 
+[4B](#4B).         Modified meanings of _beneficiary_, _member_ etc                                   8
 
-[5](#5).            Act does not apply to an excluded fund
+[5](#5).            Act does not apply to an excluded fund                                              8
 
-[5A](#5A).         Severable operation of Act so far as complaints concerning death benefits are concerned
+[5A](#5A).         Severable operation of Act so far as complaints concerning death benefits are concerned      8
 
 **Part 2—Establishment and constitution of the Superannuation Complaints Tribunal**
 
-[6](#6).            Establishment
+[6](#6).            Establishment                                                                                    10
 
-[7](#7).            Membership
+[7](#7).            Membership                                                                                      10
 
-[7A](#7A).         Tribunal Chairperson
+[7A](#7A).         Tribunal Chairperson                                                                         10
 
-[8](#8).            Eligibility for appointment
+[8](#8).            Eligibility for appointment                                                                11
 
-[9](#9).            Constitution of Tribunal
+[9](#9).            Constitution of Tribunal                                                                    11
 
-[10](#10).          Disclosure of interests
+[10](#10).          Disclosure of interests                                                                       12
 
 **Part 3—Objectives and functions of the Tribunal**
 
-[11](#11).          Tribunal objectives
+[11](#11).          Tribunal objectives                                                                            14
 
-[12](#12).          Functions
+[12](#12).          Functions                                                                                           14
 
-[13](#13).          Tribunal to issue a memorandum explaining how complaints are to be dealt with
+[13](#13).          Tribunal to issue a memorandum explaining how complaints are to be dealt with  14
 
 **Part 4—Complaints, procedural matters relating to complaints and complaints the Tribunal cannot deal with**
 
-[14AA](#14AA).    Complaints may be made about discretionary or non-discretionary decisions
+[14AA](#14AA).    Complaints may be made about discretionary or non-discretionary decisions       16
 
-[14](#14).          Complaints about decisions of trustees other than decisions to admit persons to life policy funds
+[14](#14).          Complaints about decisions of trustees other than decisions to admit persons to life policy funds      16
 
-[14A](#14A).       Complaints about decisions of trustees to admit persons to life policy funds
+[14A](#14A).       Complaints about decisions of trustees to admit persons to life policy funds       18
 
-[15](#15).          Who may make a complaint under section 14
+[15](#15).          Who may make a complaint under section 14                                   19
 
-[15A](#15A).       Complaints about conduct of insurers concerning sale of annuity policies
+[15A](#15A).       Complaints about conduct of insurers concerning sale of annuity policies             20
 
-[15B](#15B).       Complaints about decisions of insurers under annuity policies
+[15B](#15B).       Complaints about decisions of insurers under annuity policies        21
 
-[15C](#15C).       Who may make a complaint under section 15B
+[15C](#15C).       Who may make a complaint under section 15B                                22
 
-[15CA](#15CA).    Complaints about statements given to Commissioner of Taxation by superannuation provider
+[15CA](#15CA).    Complaints about statements given to Commissioner of Taxation by superannuation provider            23
 
-[15D](#15D).       Tribunal cannot deal with certain complaints
+[15D](#15D).       Tribunal cannot deal with certain complaints                                    24
 
-[15E](#15E).        Complaints about conduct of RSA providers concerning opening of RSAs
+[15E](#15E).        Complaints about conduct of RSA providers concerning opening of RSAs           25
 
-[15F](#15F).        Complaints about decisions of RSA providers
+[15F](#15F).        Complaints about decisions of RSA providers                                 26
 
-[15G](#15G).       Who may make a complaint under section 15F
+[15G](#15G).       Who may make a complaint under section 15F                                 28
 
-[15H](#15H).       Complaints about conduct of insurers concerning sale of insurance benefits
+[15H](#15H).       Complaints about conduct of insurers concerning sale of insurance benefits          29
 
-[15J](#15J).        Complaints about decisions of insurers
+[15J](#15J).        Complaints about decisions of insurers                                             30
 
-[15K](#15K).       Who may make a complaint under section 15J
+[15K](#15K).       Who may make a complaint under section 15J                                 32
 
-[16](#16).          Tribunal to help complainants to make complaints
+[16](#16).          Tribunal to help complainants to make complaints                          33
 
-[17](#17).          Notification procedures on receipt of a complaint
+[17](#17).          Notification procedures on receipt of a complaint                            33
 
-[17A](#17A).       Notification procedures relating to other persons joined or seeking to be joined as parties
+[17A](#17A).       Notification procedures relating to other persons joined or seeking to be joined as parties    35
 
-[18](#18).          Parties to a complaint
+[18](#18).          Parties to a complaint                                                                        36
 
-[19](#19).          Tribunal not to deal with complaint unless the complainant has attempted to have the matter resolved
+[19](#19).          Tribunal not to deal with complaint unless the complainant has attempted to have the matter resolved               39
 
-[20](#20).          Tribunal not to deal with complaint if subject matter of complaint is subject of court proceedings
+[20](#20).          Tribunal not to deal with complaint if subject matter of complaint is subject of court proceedings      40
 
-[21](#21).          Withdrawal of complaint
+[21](#21).          Withdrawal of complaint                                                                   40
 
-[22](#22).          Power to treat a complaint as having been withdrawn
+[22](#22).          Power to treat a complaint as having been withdrawn                      40
 
-[22A](#22A).       Tribunal may refer complaint or part complaint to other complaint-handling body
+[22A](#22A).       Tribunal may refer complaint or part complaint to other complaint-handling body               41
 
-[23](#23).          Right to representation in relation to a complaint
+[23](#23).          Right to representation in relation to a complaint                             42
 
-[24](#24).          Giving material documents to the Tribunal
+[24](#24).          Giving material documents to the Tribunal                                       42
 
-[24AA](#24AA).    Complaint against superannuation provider: giving material documents to the Tribunal
+[24AA](#24AA).    Complaint against superannuation provider: giving material documents to the Tribunal        44
 
-[24A](#24A).       Other parties may join a complaint
+[24A](#24A).       Other parties may join a complaint                                                   45
 
-[25](#25).          Power to obtain information and documents
+[25](#25).          Power to obtain information and documents                                     47
 
-[26](#26).          Operation and implementation of a decision that is subject to a complaint
+[26](#26).          Operation and implementation of a decision that is subject to a complaint            49
 
 **Part 5—Conciliation of complaints**
 
-[27](#27).          Inquiries by Tribunal
+[27](#27).          Inquiries by Tribunal                                                                         53
 
-[28](#28).          Tribunal may require attendance at conciliation conferences
+[28](#28).          Tribunal may require attendance at conciliation conferences            53
 
-[29](#29).          Conferences may be conducted by telephone or other means of communication
+[29](#29).          Conferences may be conducted by telephone or other means of communication   54
 
-[30](#30).          Statements at conference to be privileged
+[30](#30).          Statements at conference to be privileged                                          54
 
-[31](#31).          Tribunal to implement settlements
+[31](#31).          Tribunal to implement settlements                                                    54
 
 **Part 6—Review of decisions or conduct complained of** 
 
     **Division 1—Preliminary procedures**
 
-[32](#32).          Arrangements for review meetings
+[32](#32).          Arrangements for review meetings                                                    56
 
     **Division 2—How the Tribunal informs itself about the decision or conduct under review**
 
-[33](#33).          Submissions to Tribunal
+[33](#33).          Submissions to Tribunal                                                                    57
 
-[34](#34).          Tribunal meetings
+[34](#34).          Tribunal meetings                                                                              57
 
-[35](#35).          Tribunal may allow telephone and other submissions
+[35](#35).          Tribunal may allow telephone and other submissions                      57
 
     **Division 3—The review meeting**
 
-[36](#36).          Meeting procedure
+[36](#36).          Meeting procedure                                                                             58
 
-[37](#37).          Tribunal powers—complaints under section 14
+[37](#37).          Tribunal powers—complaints under section 14                               58
 
-[37A](#37A).       Tribunal powers—complaints under section 14A
+[37A](#37A).       Tribunal powers—complaints under section 14A                            59
 
-[37B](#37B).       Tribunal powers—complaints under section 15A
+[37B](#37B).       Tribunal powers—complaints under section 15A                            61
 
-[37C](#37C).       Tribunal powers—complaints under section 15B
+[37C](#37C).       Tribunal powers—complaints under section 15B                             62
 
-[37CA](#37CA).    Tribunal powers: complaint under section 15CA
+[37CA](#37CA).    Tribunal powers: complaint under section 15CA                             63
 
-[37D](#37D).       Tribunal powers—complaints under section 15E
+[37D](#37D).       Tribunal powers—complaints under section 15E                             64
 
-[37E](#37E).        Tribunal powers—complaints under section 15F
+[37E](#37E).        Tribunal powers—complaints under section 15F                             66
 
-[37F](#37F).        Tribunal powers—complaints under section 15H
+[37F](#37F).        Tribunal powers—complaints under section 15H                            67
 
-[37G](#37G).       Tribunal powers—complaints under section 15J
+[37G](#37G).       Tribunal powers—complaints under section 15J                              69
 
-[38](#38).          Meeting to be private
+[38](#38).          Meeting to be private                                                                        70
 
-[39](#39).          Reference of questions of law to Federal Court
+[39](#39).          Reference of questions of law to Federal Court                                71
 
-[40](#40).          Tribunal to give reasons
+[40](#40).          Tribunal to give reasons                                                                     71
 
-[41](#41).          Operation of determination
+[41](#41).          Operation of determination                                                               71
 
     **Division 4—Other procedural matters**
 
-[42](#42).          Adjournment of review meetings
+[42](#42).          Adjournment of review meetings                                                       72
 
-[43](#43).          Evidence of determination
+[43](#43).          Evidence of determination                                                                 72
 
     **Division 5—Notification of determination and appeal rights**
 
-[44](#44).          Notification of determination
+[44](#44).          Notification of determination                                                            73
 
-[45](#45).          Notification of appeal rights
+[45](#45).          Notification of appeal rights                                                              74
 
 **Part 7—Appeals**
 
-[46](#46).          Appeals to Federal Court of Australia from determinations of the Tribunal
+[46](#46).          Appeals to Federal Court of Australia from determinations of the Tribunal          75
 
-[47](#47).          Operation and implementation of a determination that is subject to appeal
+[47](#47).          Operation and implementation of a determination that is subject to appeal           75
 
-[48](#48).          Sending of documents to, and disclosure of documents by, the Federal Court
+[48](#48).          Sending of documents to, and disclosure of documents by, the Federal Court       77
 
 **Part 8—Administrative provisions** 
 
     **Division 1—Administrative provisions relating to Tribunal Chairperson and Deputy Chairperson**
 
-[49](#49).          Terms and conditions of appointment
+[49](#49).          Terms and conditions of appointment                                              78
 
-[50](#50).          Remuneration and allowances
+[50](#50).          Remuneration and allowances                                                            78
 
-[51](#51).          Leave of absence
+[51](#51).          Leave of absence                                                                                78
 
-[52](#52).          Resignation
+[52](#52).          Resignation                                                                                        79
 
-[53](#53).          Termination of appointment
+[53](#53).          Termination of appointment                                                             79
 
-[54](#54).          Acting Tribunal Chairperson or Deputy Chairperson
+[54](#54).          Acting Tribunal Chairperson or Deputy Chairperson                      79
 
     **Division 2—Administrative provisions relating to other Tribunal members**
 
-[55](#55).          Terms and conditions of appointment
+[55](#55).          Terms and conditions of appointment                                              81
 
-[56](#56).          Remuneration and allowances
+[56](#56).          Remuneration and allowances                                                            81
 
-[57](#57).          Resignation
+[57](#57).          Resignation                                                                                        81
 
-[58](#58).          Termination of appointment
+[58](#58).          Termination of appointment                                                             81
 
 **Part 9—Miscellaneous**
 
-[59](#59).          Certain powers of the Tribunal to be exercised by Tribunal Chairperson or staff member
+[59](#59).          Certain powers of the Tribunal to be exercised by Tribunal Chairperson or staff member    83
 
-[60](#60).          Legal professional privilege
+[60](#60).          Legal professional privilege                                                               83
 
-[61](#61).          Liability for damages
+[61](#61).          Liability for damages                                                                         84
 
-[62](#62).          Staff and facilities
+[62](#62).          Staff and facilities                                                                              84
 
-[63](#63).          Secrecy
+[63](#63).          Secrecy                                                                                               85
 
-[64](#64).          Reference by Tribunal Chairperson of contraventions of the law or of the governing rules of a fund to APRA or ASIC or both
+[64](#64).          Reference by Tribunal Chairperson of contraventions of the law or of the governing rules of a fund to APRA or ASIC or both                                                                                               86
 
-[64A](#64A).       Reference by Tribunal Chairperson of breaches of terms and conditions to APRA or ASIC or both
+[64A](#64A).       Reference by Tribunal Chairperson of breaches of terms and conditions to APRA or ASIC or both    87
 
-[65](#65).          Failure of a party to a complaint to comply with a determination or direction by the Tribunal
+[65](#65).          Failure of a party to a complaint to comply with a determination or direction by the Tribunal            87
 
-[66](#66).          Conduct by directors, servants and agents
+[66](#66).          Conduct by directors, servants and agents                                        88
 
-[67](#67).          Annual report
+[67](#67).          Annual report                                                                                    89
 
-[68](#68).          Regulations
+[68](#68).          Regulations                                                                                        89
 
 **Notes** 
 
@@ -2716,7 +2716,7 @@ that reveals personal information relating to an individual unless the individua
 
              (7)  A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
 
-             (8)  A reference in this section to an offence against this Act includes a reference to an offence created by section 6 of the _Crimes Act 1914_, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the _Criminal Code_, being an offence that relates to this Act.
+             (8)  A reference in this section to an offence against this Act includes a reference to an offence created by section 6 of the _Crimes Act 1914_, or section 11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_, being an offence that relates to this Act.
 
 ##### <a id="67"></a>67  Annual report
 
@@ -2823,11 +2823,8 @@ Remainder: Royal Assent</div>
     <div>12 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 5 (items 1–7, 
-10–12, 25–71, 
-73–78, 95(a)–(c), 96(a), (b), 97–102): Royal Assent <i>(b)</i> 
-Schedule 5 (items 8, 9, 
-13–24, 72, 79–94, 95(d), 96(c)): 19 Apr 1996 ( <i>see Gazette</i>1996, No. GN15) <i>(b)</i></div>
+    <div>Schedule 5 (items 1–7, 10–12, 25–71, 73–78, 95(a)–(c), 96(a), (b), 97–102): Royal Assent <i>(b)</i> 
+Schedule 5 (items 8, 9, 13–24, 72, 79–94, 95(d), 96(c)): 19 Apr 1996 ( <i>see Gazette</i>1996, No. GN15) <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 5 (items 70, 76)</div>
@@ -3230,26 +3227,9 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   <td>
     <div>Sch. 4 (item 16) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 29): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_    Subsection 2(4) of the _Superannuation Industry (Supervision) Legislation Amendment Act 1994_ provides as follows:
+_(a)_     Subsection 2(4) of the _Superannuation Industry (Supervision) Legislation Amendment Act 1994_ provides as follows:
 
                  (4)   Divisions 1 and 2 of Part 3 commence, or are taken to have commenced, as the case requires, immediately after the commencement of the _Superannuation (Resolution of Complaints) Act 1993._
 
@@ -3463,6 +3443,8 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     </div>
   </td>
 </tr></table>
+
+ 
 
 ## Table of Amendments
 
@@ -4412,7 +4394,7 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 146, 2001; No. 4, 2010</div>
+    <div>am. No. 146, 2001</div>
   </td>
 </tr></table>
 
