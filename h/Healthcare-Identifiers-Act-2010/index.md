@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00453/Html/c0347685-0677-438d-8273-feca3a1e7c79_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00384/Html/e0e9d9a9-0d5b-433e-83e7-80c33cce5325_files/image001.gif)
 
 # Healthcare Identifiers Act 2010
 
 **Act No. 72 of 2010 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -160,8 +160,6 @@ Note:          The Minister must, in certain circumstances, de
 
                    In this Act:
 
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
                     <a name="contract-servic-provid"></a>**_contracted service provider_**, of a healthcare provider, means an entity that provides:
 
                      (a)  information technology services relating to the communication of health information; or
@@ -228,10 +226,6 @@ Example:    A public hospital, or a corporation that runs a medical centre
 
 Note:          In 2010, the text of the Statement was accessible through the National Health and Medical Research Council website (www.nhmrc.gov.au).
 
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
-
                     <a name="identified-healthcar-provid"></a>**_identified healthcare provider_** means a healthcare provider who has been assigned a healthcare identifier under section 9.
 
                     <a name="identifying-inform"></a>**_identifying information_** has the meaning given by section 7.
@@ -247,8 +241,6 @@ Note:          In 2010, the text of the Statement was accessib
                      (a)  an Act or legislative instrument; or
 
                      (b)  an Act or legislative instrument of a State or Territory.
-
-                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="ministeri-council"></a>**_Ministerial Council_** has the meaning given by:
 
@@ -320,7 +312,7 @@ Note:          In 2010, the text of the Agreement was accessib
 
                     <a name="seed-organis"></a>**_seed organisation_** has the meaning given by subsections 9A(3) and (4).
 
-                    <a name="servic-oper"></a>**_service operator_** means the Chief Executive Medicare.
+                    <a name="servic-oper"></a>**_service operator_** means the Chief Executive Officer of Medicare Australia.
 
                     <a name="sole-practition"></a>**_sole practitioner_** means a person who is both an individual healthcare provider and a healthcare provider organisation.
 
@@ -420,9 +412,9 @@ Example: The 2nd of twins.
 
 Note:          A sole practitioner may be assigned:
 
-(a)    a healthcare identifier of the type mentioned in paragraph (3)(a); and
+(a)           a healthcare identifier of the type mentioned in paragraph (3)(a); and
 
-(b)    a different healthcare identifier of the type mentioned in paragraph (3)(b).
+(b)           a different healthcare identifier of the type mentioned in paragraph (3)(b).
 
              (4)  In exercising a power under subsection (1), the service operator is not required to consider whether a healthcare provider or healthcare recipient agrees to having a healthcare identifier assigned to the healthcare provider or healthcare recipient.
 
@@ -604,7 +596,7 @@ Note:          This section does not apply to a decision to as
 
              (2)  Each of the following is a **_data source_**:
 
-                     (a)  the Human Services Department;
+                     (a)  Medicare Australia;
 
                      (b)  the Veterans’ Affairs Department;
 
@@ -615,12 +607,6 @@ Note:          This section does not apply to a decision to as
                      (a)  to collect the information; and
 
                      (b)  to use the information for the purpose of assigning a healthcare identifier to the healthcare provider or healthcare recipient.
-
-             (4)  This section does not apply to identifying information if:
-
-                     (a)  the data source is the Human Services Department; and
-
-                     (b)  the identifying information was not obtained in connection with a medicare program.
 
 ##### <a id="13"></a>13  Disclosure by national registration authority
 
@@ -720,9 +706,9 @@ Note:          A defendant bears an evidential burden in relat
 
 Note 1:       Section 24 authorises a healthcare provider to use, or to disclose, a healthcare identifier:
 
-(a)    for the purpose of communicating or managing health information, as part of the provision of healthcare to a healthcare recipient; or
+(a)           for the purpose of communicating or managing health information, as part of the provision of healthcare to a healthcare recipient; or
 
-(b)    for certain other purposes.
+(b)           for certain other purposes.
 
                    The authorisation extends to certain employees and contracted service providers of the healthcare provider: see section 36.
 
@@ -946,7 +932,7 @@ Note 2:       Part 6 (sunsetting) of the _Legislative Instruments 
 
 ##### <a id="33"></a>33  Consultation with Ministerial Council about regulations
 
-                   Before the Governor‑General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council.
+                   Before the Governor‑General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council.
 
 ##### <a id="34"></a>34  Annual reports by service operator
 
@@ -1196,7 +1182,7 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 152–158): 1 July 2011</div>
+    <div>Schedule 4 (items 152–158): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1226,46 +1212,6 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div><b>Part 4</b></div>
@@ -1314,5 +1260,59 @@ of Assent</div>
     <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 152  Section 5
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 153  Section 5
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 154  Section 5
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Medicare) Act 1973_.
+
+## 155  Section 5
+
+Insert:
+
+                    <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 156  Section 5 (definition of _service operator_)
+
+Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
+
+## 157  Paragraph 12(2)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  the Human Services Department;
+
+## 158  At the end of section 12
+
+Add:
+
+             (4)  This section does not apply to identifying information if:
+
+                     (a)  the data source is the Human Services Department; and
+
+                     (b)  the identifying information was not obtained in connection with a medicare program.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
  
