@@ -1,104 +1,101 @@
-![](http://www.comlaw.gov.au/Details/C2010C00197/Html/d975dc19-c137-4ad6-9051-8ea28b0e177f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00338/Html/MutualRecog1992_image001.gif)
 
 # Mutual Recognition Act 1992
 
 **Act No. 198 of 1992 as amended**
 
-This compilation was prepared on 16 March 2010
- taking into account amendments up to SLI 2010 No. 41
+This compilation was prepared on 10 October 2000
+ taking into account amendments up to Statutory Rules 1993 No. 139
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Principal purpose                                                                                 1
+[3](#3).            Principal purpose                                                                                1
 
-[4](#4).            Interpretation                                                                                        1
+[4](#4).            Interpretation                                                                                       1
 
-[5](#5).            Application of this Act to States                                                           3
+[5](#5).            Application of this Act to States                                                        3
 
-[6](#6).            Operation of this Act                                                                            3
+[6](#6).            Operation of this Act                                                                          3
 
 [7](#7).            Crown bound                                                                                       3
 
 **Part 2—Goods**
 
-[8](#8).            Mutual recognition                                                                               4
+[8](#8).            Mutual recognition                                                                              4
 
-[9](#9).            Entitlement to sell goods                                                                      4
+[9](#9).            Entitlement to sell goods                                                                     4
 
-[10](#10).          Requirements that do not need to be complied with                             4
+[10](#10).          Requirements that do not need to be complied with                           4
 
-[11](#11).          Requirements that do need to be complied with                                   5
+[11](#11).          Requirements that do need to be complied with                                 5
 
 [12](#12).          Defences to offences regarding sale                                                     6
 
-[13](#13).          Goods that comply with local law                                                        6
+[13](#13).          Goods that comply with local law                                                      6
 
 [14](#14).          Permanent exemptions                                                                         7
 
-[15](#15).          Temporary exemptions                                                                         7
+[15](#15).          Temporary exemptions                                                                       7
 
 **Part 3—Occupations** 
 
     **Division 1—Preliminary**
 
-[16](#16).          Mutual recognition                                                                               8
+[16](#16).          Mutual recognition                                                                              8
 
-[17](#17).          Entitlement to carry on occupation                                                       8
+[17](#17).          Entitlement to carry on occupation                                                     8
 
-[18](#18).          Application of this Part                                                                        9
+[18](#18).          Application of this Part                                                                       9
 
     **Division 2—Entitlement to registration**
 
-[19](#19).          Notification to local registration authority                                          10
+[19](#19).          Notification to local registration authority                                        10
 
-[20](#20).          Entitlement to registration and continued registration                         11
+[20](#20).          Entitlement to registration and continued registration                       11
 
-[21](#21).          Action following notice                                                                      12
+[21](#21).          Action following notice                                                                     12
 
-[22](#22).          Postponement of registration                                                              12
+[22](#22).          Postponement of registration                                                            12
 
 [23](#23).          Refusal of registration                                                                        13
 
-[24](#24).          Notification of decision                                                                      13
+[24](#24).          Notification of decision                                                                     13
 
     **Division 3—Interim arrangements**
 
 [25](#25).          Deemed registration                                                                           14
 
-[26](#26).          Duration of deemed registration                                                         14
+[26](#26).          Duration of deemed registration                                                        14
 
-[27](#27).          Activities under deemed registration                                                  14
+[27](#27).          Activities under deemed registration                                                 14
 
     **Division 4—Equivalent occupations**
 
-[28](#28).          Equivalent occupations                                                                       16
+[28](#28).          Equivalent occupations                                                                      16
 
 [29](#29).          General principles                                                                              16
 
-[30](#30).          Declarations as to equivalent occupations                                          16
+[30](#30).          Declarations as to equivalent occupations                                         16
 
-[31](#31).          Declarations by Tribunal                                                                    16
+[31](#31).          Declarations by Tribunal                                                                   16
 
-[32](#32).          Declarations by Ministers                                                                  17
+[32](#32).          Declarations by Ministers                                                                 17
 
     **Division 5—General provisions**
 
-[33](#33).          Disciplinary action                                                                             19
+[33](#33).          Disciplinary action                                                                            19
 
 [34](#34).          Review of decisions                                                                           19
 
@@ -108,25 +105,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37](#37).          Furnishing information                                                                      20
 
-[38](#38).          Receiving information                                                                        21
+[38](#38).          Receiving information                                                                        20
 
-[39](#39).          General responsibilities of local registration authorities                     21
+[39](#39).          General responsibilities of local registration authorities                    21
 
 [40](#40).          Fees                                                                                                    21
 
-[41](#41).          Formalities requiring personal attendance                                          22
+[41](#41).          Formalities requiring personal attendance                                         21
 
-[42](#42).          Saving                                                                                                22
+[42](#42).          Saving                                                                                                 22
 
 **Part 4—General**
 
-[43](#43).          References to participating jurisdictions                                             23
+[43](#43).          References to participating jurisdictions                                           23
 
-[44](#44).          Application of mutual recognition principle                                       23
+[44](#44).          Application of mutual recognition principle                                     23
 
-[45](#45).          Machinery provisions regarding limitations etc                                  23
+[45](#45).          Machinery provisions regarding limitations etc                                23
 
-[46](#46).          Determining place of production                                                        24
+[46](#46).          Determining place of production                                                       24
 
 [47](#47).          Amendment of Schedules                                                                  24
 
@@ -135,6 +132,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule 2—Permanent exemptions: laws relating to goods** 
 
 **Notes** 
+
+ 
 
 ## An Act to provide for the recognition within each State and Territory of the Commonwealth of regulatory standards adopted elsewhere in Australia regarding goods and occupations
 
@@ -188,9 +187,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="requir"></a>**_requirements_**, when used in relation to goods, means requirements, prohibitions, restrictions or conditions.
 
-                    <a name="sell"></a>**_sell_** includes sell by wholesale or retail, and includes distribute for sale, expose or offer for sale or have in possession for sale or agree to sell, and includes barter, and includes supply by way of exchange, lease, hire or hire‑purchase.
+                    <a name="sell"></a>**_sell_** includes sell by wholesale or retail, and includes distribute for sale, expose or offer for sale or have in possession for sale or agree to sell, and includes barter, and includes supply by way of exchange, lease, hire or hire-purchase.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital Territory or the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital   Territory or the Northern Territory.
 
                     <a name="substant-registr"></a>**_substantive registration_** means registration under a law of a State, but does not include deemed registration.
 
@@ -222,7 +221,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  This Part deals with goods produced in or imported into a State and their sale in another State.
 
-             (3)  In this Part, the first‑mentioned State is called **_the first State_** and the other State is called **_the second State_**.
+             (3)  In this Part, the first-mentioned State is called **_the first State_** and the other State is called **_the second State_**.
 
 ##### <a id="9"></a>9  Entitlement to sell goods
 
@@ -296,13 +295,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  Nothing in this Part requires the labelling of goods as mentioned in section 12 if (apart from this Act) they comply with the relevant requirements imposed by or under the law of the second State.
 
-##### <a id="14"></a>14  Permanent exemptions
+##### <a id="14"></a>14  Permanent exemptions
 
              (1)  This Part does not apply to goods described in Schedule 1.
 
              (2)  This Part does not affect the operation of laws described in Schedule 2.
 
-             (3)  Unless otherwise stated in Schedule 2, a law described in that Schedule includes any amendment or replacement of that law, but only to the extent that the amendment or replacement deals with the same subject‑matter.
+             (3)  Unless otherwise stated in Schedule 2, a law described in that Schedule includes any amendment or replacement of that law, but only to the extent that the amendment or replacement deals with the same subject-matter.
 
 ##### <a id="15"></a>15  Temporary exemptions
 
@@ -322,7 +321,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  This Part deals with the ability of a person who is registered in connection with an occupation in a State to carry on an equivalent occupation in another State.
 
-             (3)  In this Part, the first‑mentioned State is called **_the first State_**, and the other State is called **_the second State_**.
+             (3)  In this Part, the first-mentioned State is called **_the first State_**, and the other State is called **_the second State_**.
 
 ##### <a id="17"></a>17  Entitlement to carry on occupation
 
@@ -588,9 +587,9 @@ Residence or domicile in a particular State is not to be a prerequisite for or a
 
 ##### <a id="37"></a>37  Furnishing information
 
-             (1)  A local registration authority of a State must furnish without delay any information reasonably required by a local registration authority of another State about a person substantively registered under a law of the first‑mentioned State.
+             (1)  A local registration authority of a State must furnish without delay any information reasonably required by a local registration authority of another State about a person substantively registered under a law of the first-mentioned State.
 
-             (2)  The obligation imposed under this section does not apply unless the authority of the other State notifies the authority of the first‑mentioned State that the information is required in connection with:
+             (2)  The obligation imposed under this section does not apply unless the authority of the other State notifies the authority of the first-mentioned State that the information is required in connection with:
 
                      (a)  a notice lodged by a person seeking registration; or
 
@@ -598,7 +597,7 @@ Residence or domicile in a particular State is not to be a prerequisite for or a
 
                      (c)  actual or possible disciplinary action against the person.
 
-             (3)  The authority of the first‑mentioned State may provide the information, despite any law relating to secrecy or confidentiality.
+             (3)  The authority of the first-mentioned  State may provide the information, despite any law relating to secrecy or confidentiality.
 
              (4)  Nothing in this section affects any obligation or power to provide information apart from this section.
 
@@ -642,7 +641,7 @@ If a local registration authority receives information under section 37, the i
 
                      (a)  a State (other than a Territory) for which there is in force an Act of its Parliament that refers to the Parliament of the Commonwealth the power to enact this Act, or that adopts this Act, under paragraph (xxxvii) of section 51 of the Commonwealth Constitution; or
 
-                     (b)  a Territory (being the Australian Capital Territory or the Northern Territory) for which there is in force an Act of its legislature that requests the Parliament of the Commonwealth to enact this Act or that enables this Act to apply in relation to it.
+                     (b)  a Territory (being the Australian   Capital Territory or the Northern Territory) for which there is in force an Act of its legislature that requests the Parliament of the Commonwealth to enact this Act or that enables this Act to apply in relation to it.
 
 ##### <a id="44"></a>44  Application of mutual recognition principle
 
@@ -674,7 +673,7 @@ If a local registration authority receives information under section 37, the i
 
 ##### <a id="47"></a>47  Amendment of Schedules
 
-             (1)  The Governor‑General may make regulations amending the Schedules.
+             (1)  The Governor-General may make regulations amending the Schedules.
 
              (2)  No such regulation may be made unless the designated person for each of the then participating jurisdictions has published a notice in the official gazette of the jurisdiction setting out the terms of the proposed regulation and requesting that it be made.
 
@@ -704,71 +703,69 @@ Subsection 14(2)
 
                      (c)  it is reasonably likely that the goods would introduce or substantially assist the introduction of the disease, organism, variety, disorder or other thing into the State or area; and
 
-                     (d)  it is reasonably likely that that introduction would have a long‑term and substantially detrimental effect on the whole or any part of the State.
+                     (d)  it is reasonably likely that that introduction would have a long-term and substantially detrimental effect on the whole or any part of the State.
 
               2.  A law of a State to the extent that it is enacted or made substantially for the purpose of protecting a species or other class of animals or plants from extinction in the State and that it prohibits or restricts the possession, sale, killing or capture of animals or plants of that species or other class in the State.
 
-              3.  _Ozone Protection Act 1991_ of the Australian Capital Territory. 
+              3.  _Ozone Protection Act 1991_ of the Australian   Capital Territory. 
 
-              4.  _Weapons Act 1991_ of the Australian Capital Territory.
+              4.  _Weapons Act 1991_ of the Australian   Capital Territory.
 
-              5.  _Ozone Protection Act 1989_ of New South Wales.
+              5.  _Ozone Protection Act 1989_ of New   South Wales.
 
               6.  _Clean Air Act 1963_ of Queensland, Part 4A.
 
-              7.  Hazardous Substances (Chlorofluorocarbons and Other Ozone Layer Depleting Substances) Regulation 1988 under the _Health Act 1937‑1988_ of Queensland.
+              7.  Hazardous Substances (Chlorofluorocarbons and Other Ozone Layer Depleting Substances) Regulation 1988 under the _Health Act 1937-1988_ of Queensland.
 
-              8.  _Beverage Container Act, 1975_ of South Australia.
+              8.  _Beverage Container Act, 1975_ of South   Australia.
 
               9.  Clean Air Act, 1984 of South Australia, Part IIIA.
 
-            10.  A law of Tasmania to the extent that it relates to the possession, sale or capture of abalone, crayfish or scallops of a certain minimum size.
+             10.  A law of Tasmania to the extent that it relates to the possession, sale or capture of abalone, crayfish or scallops of a certain minimum size.
 
-            11.  _Chlorofluorocarbons and other Ozone Depleting Substances Control Act 1988_ of Tasmania.
+             11.  _Chlorofluorocarbons and other Ozone Depleting Substances Control Act 1988_ of Tasmania.
 
-            12.  _Environment Protection Act 1970_ of Victoria, section 16 (in relation to ozone depleting substances), paragraphs 41 (2) (d) and 71(1)(gba).
+             12.  _Environment Protection Act 1970_ of   Victoria, section 16 (in relation to ozone depleting substances), paragraphs 41 (2) (d) and 71(1)(gba).
 
-            13.  Environmental Protection Regulations 1987 under the _Environmental Protection Act 1986_ of Western Australia.
+             13.  Environmental Protection Regulations 1987 under the _Environmental Protection Act 1986_ of Western Australia.
 
-            14.  _Business Franchise (“X” Videos) Act 1990_ of the Australian Capital Territory.
+             14.  _Business Franchise (“X” Videos) Act 1990_ of the Australian Capital Territory.
 
-            15.  _Classification of Publications Ordinance 1983_ of the Australian Capital Territory.
+             15.  _Classification of Publications Ordinance 1983_ of the Australian Capital Territory.
 
-            16.  _Crimes Act, 1900_ of the Australian Capital Territory, section 92NB.
+             16.  _Crimes Act, 1900_ of the Australian   Capital Territory, section 92NB 
 
-            17.  _Film Classification Act 1971_ of the   Australian Capital Territory. 
+             17.  _Film Classification Act 1971_ of the Australian Capital Territory. 
 
-            18.  _Publications Control Act 1989_ of the Australian Capital Territory. 
+             18.  _Publications Control Act 1989_ of the Australian Capital Territory. 
 
-            19.  Film and Video Tape Classification Act 1984 of New South Wales.
+             19.  Film and Video Tape Classification Act 1984 of New South Wales.
 
-            20.  Indecent Articles and Classified Publications Act 1975 of New South Wales.
+             20.  Indecent Articles and Classified Publications Act 1975 of New South Wales.
 
-            21.  _Classification of Publications and Films Act_ of the Northern Territory.
+             21.  _Classification of Publications and Films Act_ of the Northern Territory.
 
-            22.  _Classification of Films Act 1991_ of   Queensland.
+             22.  _Classification of Films Act 1991_ of   Queensland.
 
-            23.  _Classification of Publications Act 1991_ of Queensland.
+             23.  _Classification of Publications Act 1991_ of Queensland.
 
-            24.  Classification of Films for Public Exhibition Act, 1971 of South Australia and regulations under the Act.
+             24.  Classification of Films for Public Exhibition Act, 1971 of South Australia and regulations under the Act.
 
-            25.  Classification of Publications Act, 1974 of South Australia and regulations under the Act.
+             25.  Classification of Publications Act, 1974 of South Australia and regulations under the Act.
 
-            26.  _Summary Offences Act, 1953_ of South Australia, sections 33 and 35.
+             26.  _Summary Offences Act, 1953_ of South   Australia, sections 33 and 35.
 
-            27.  _Classification of Publications Act_ 1984 of Tasmania.
+             27.  _Classification of Publications Act_ 1984 of Tasmania.
 
-            28.  _Classification of Films and Publications Act_ 1990 of Victoria.
+             28.  _Classification of Films and Publications Act_ 1990 of Victoria.
 
-            29.  _Censorship of Films Act 1947_ of Western Australia.
+             29.  _Censorship of Films Act 1947_ of Western   Australia.
 
-            30.  _Indecent Publications and Articles Act 1902_ of Western Australia. 
+             30.  _Indecent Publications and Articles Act 1902_ of Western Australia. 
 
-            31.  _Video Tapes Classification and Control Act 1987_ of Western Australia.
+             31.  _Video Tapes Classification and Control Act 1987_ of Western Australia.
 
-            32.  _Ozone Protection Act_ of the Northern Territory. 
-
-            33.  _Summary Offences Act 1953_ of South Australia, section 9B
+             32.  _Ozone Protection Act_ of the Northern   Territory. 
 
 # Notes to the _Mutual Recognition Act 1992_
 
@@ -776,7 +773,7 @@ Subsection 14(2)
 
 The _Mutual Recognition Act 1992_ as shown in this compilation comprises Act No. 198, 1992 amended as indicated in the Tables below.
 
-The _Mutual Recognition Act 1992_ was amended by the _Mutual Recognition Act 1992_ (Amendment) Regulations (SR 1993 No. 139) and the _Mutual Recognition Act 1992 Amendment Regulations 2010 (No. 1)_(SLI 2010 No. 41). The amendments are incorporated in this compilation.
+The _Mutual Recognition Act 1992_ was amended by the Mutual Recognition Act 1992 (Amendment) Regulations. The amendment is incorporated in this compilation.
 
 ### Table of Acts
 
@@ -845,6 +842,8 @@ of Assent</div>
   </td>
 </tr></table>
 
+ 
+
 ## Table of Amendments
 
 <table>
@@ -859,21 +858,21 @@ of Assent</div>
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
 </thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. Statutory Rule 1993 No. 139; SLI 2010 No. 41</div>
+    <div>am. Statutory Rule 1993 No. 139</div>
   </td>
 </tr></table>
 
