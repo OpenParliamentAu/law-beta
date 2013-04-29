@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
 
 # Defence Force (Home Loans Assistance) Act 1990
 
 **Act No. 14 of 1991 as amended**
 
-This compilation was prepared on 5 December 2006
- taking into account amendments up to Act No. 137 of 2006
+This compilation was prepared on 22 November 2006
+ taking into account amendments up to Act No. 45 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -247,7 +247,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full-time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
 
                     where:
 
@@ -259,15 +259,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
 
 Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
 
 Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
 
                     <a name="continu-full-time-servic"></a>**_continuous full-time service_** means an unbroken period of full-time service by a member in the Defence Force.
 
@@ -351,7 +351,7 @@ Note:          See section 7 for some special circumstances 
 
                     <a name="famili-court"></a>**_Family Court_** means the Family Court of Australia.
 
-                    <a name="finish-dai"></a>**_finishing day_** means 31 December 2007.
+                    <a name="finish-dai"></a>**_finishing day_** means 31 December 2006.
 
                     <a name="govern-author"></a>**_government authority_** means an authority (including a local governing body) established for a public purpose by or under a law of the Commonwealth, or of a State or Territory.
 
@@ -1184,7 +1184,7 @@ where:
 
              (3)  The monthly subsidy amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
 
 where:
 
@@ -2066,7 +2066,7 @@ In this Agreement except where the context otherwise requires:
 
           (b)     for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a — b) ![](http://www.comlaw.gov.au/Details/C2006C00683/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
+P = (a — b) ![](http://www.comlaw.gov.au/Details/C2006C00676/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
 
 Where 
 
@@ -3938,23 +3938,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Home Loans Assistance) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>137, 2006</div>
-  </td>
-  <td>
-    <div>30 Nov 2006</div>
-  </td>
-  <td>
-    <div>30 Nov 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amended by Part 7 (section 88) only of the _Veterans’ Affairs Legislation Amendment Act 1992_, paragraph 2 (1) (f) of which provides as follows:
@@ -4098,7 +4081,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006</div>
+    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004</div>
   </td>
 </tr>
 <tr>
