@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image001.gif)
 
 # Television Licence Fees Act 1964
 
 **Act No. 118 of 1964 as amended**
 
-This compilation was prepared on 1 July 2005
+This compilation was prepared on 8 April 2005
 taking into account amendments up to Act No. 48 of 2005
 
 The text of any of those amendments not in force
@@ -60,7 +60,7 @@ Attorney-General’s Department, Canberra
 
              (1)  In this Act:
 
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+                    <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established by the _Broadcasting Services Act 1992_.
 
                     <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the televising, by the service provided under the licence, of advertisements or other matter.
 
@@ -98,35 +98,35 @@ a fee of an amount equal to the relevant percentage of the gross earnings in res
 
                      (a)  where those gross earnings are less than $5,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image002.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image002.gif)</sub>
 
                      (b)  where those gross earnings are not less than $5,000,000 but are less than $6,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image003.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image003.gif)</sub>
 
                      (c)  where those gross earnings are not less than $6,000,000 but are less than $7,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image004.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image004.gif)</sub>
 
                      (d)  where those gross earnings are not less than $7,000,000 but are less than $10,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image005.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image005.gif)</sub>
 
                      (e)  where those gross earnings are not less than $10,000,000 but are less than $20,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image006.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image006.gif)</sub>
 
                       (f)  where those gross earnings are not less than $20,000,000 but are less than $45,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image007.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image007.gif)</sub>
 
                      (g)  where those gross earnings are not less than $45,000,000 but are less than $75,000,000—the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image008.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image008.gif)</sub>
 
                      (h)  where those gross earnings are not less than $75,000,000— whichever is the lesser of 9% or the percentage ascertained in accordance with the formula:
 
-                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image009.gif)</sub>
+                            <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image009.gif)</sub>
 
 where **_A_** is the number of dollars in those gross earnings.
 
@@ -166,41 +166,41 @@ section 6 applies in relation to the fee payable on the anniversary referred to 
 
 (a)  where **_A_** is less than $5,000,000—the percentage ascertained in accordance with the formula:
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image010.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image010.gif)</sub>
 
                                          (b)  where **_A_** is not less than $5,000,000 but is less than $6,000,000—the percentage ascertained in accordance with the formula: 
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image011.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image011.gif)</sub>
 
                                          (c)  where **_A_** is not less than $6,000,000 but is less than $7,000,000—the percentage ascertained in accordance with the formula: 
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image012.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image012.gif)</sub>
 
                                          (d)  where **_A_** is not less than $7,000,000 but is less than $10,000,000—the percentage ascertained in accordance with the formula: 
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image013.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image013.gif)</sub>
 
                                          (e)  where **_A_** is not less than $10,000,000 but is less than $20,000,000—the percentage ascertained in accordance with the formula:
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image014.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image014.gif)</sub>
 
                                           (f)  where **_A_** is not less than $20,000,000 but is less than $45,000,000—the percentage ascertained in accordance with the formula: 
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image015.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image015.gif)</sub>
 
                                          (g)  where **_A_** is not less than $45,000,000 but is less than $75,000,000—the percentage ascertained in accordance with the formula:
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image016.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image016.gif)</sub>
 
                                          (h)  where **_A_** is not less than $75,000,000—whichever is the lesser of 9% or the percentage ascertained in accordance with the formula:
 
-                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image017.gif)</sub>
+                                               <sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image017.gif)</sub>
 
 where:
 
                     <a name=""></a>**_A_** is the amount ascertained in accordance with the formula 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image018.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image018.gif)</sub>
 
                     <a name=""></a>**_B_** is the number of dollars in the gross earnings in respect of the licence during the period; and 
 
@@ -210,7 +210,7 @@ where:
 
              (1)  On 31 December 1999, a licensee must pay a fee that is calculated in accordance with the formula in this subsection:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image019.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image019.gif)</sub>
 
 where:
 
@@ -220,7 +220,7 @@ where:
 
              (2)  On 31 December 2000, a licensee must pay a fee that is calculated in accordance with the formula in this subsection:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image019.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image019.gif)</sub>
 
 where:
 
@@ -230,7 +230,7 @@ where:
 
              (3)  On 31 December 2001, a licensee must pay a fee that is calculated in accordance with the formula in this subsection:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00385/Html/4ED38C5ACEFF28EFCA25702600167E6B/$FILE/image020.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00291/Html/228D16062B7291DBCA256FE4000626F3/$FILE/image020.gif)</sub>
 
 where:
 
@@ -242,13 +242,13 @@ where:
 
 ##### <a id="7"></a>7  Earnings of subsidiary companies etc.
 
-                   Where the ACMA is of the opinion that:
+                   Where the ABA is of the opinion that:
 
                      (a)  an amount, or part of an amount, earned during any period by a person other than a licensee would, if the licensee and that person were the same person, form part of the gross earnings in respect of the licence in respect of that period for the purposes of this Act; and
 
                      (b)  a relationship exists between the licensee and the other person (whether by reason of any shareholding or of any agreement or arrangement, or for any other reason) of such a kind that the amount or the part of the amount, as the case may be, should, for the purposes of this Act, be treated as part of the gross earnings in respect of the licence in respect of that period;
 
-the ACMA may direct that the amount or the part of the amount, as the case may be, shall be so treated.
+the ABA may direct that the amount or the part of the amount, as the case may be, shall be so treated.
 
 ##### <a id="8"></a>8  Regulations
 
@@ -602,12 +602,103 @@ of Assent
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+      <div>Schedules 1 and 2: \[ <i>see</i> <i>(a)</i>, Note 2 and Table A] 
 Remainder: Royal Assent 
 </div>
     </td>
     <td>
       <div>Sch. 2 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_ Subsection 2(1) (item 2) of the _Television Licence Fees Amendment Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedules 1 and 2
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 2 and Table A]
+      </div>
     </td>
   </tr>
 </tbody></table>
@@ -674,7 +765,7 @@ Remainder: Royal Assent
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 69, 1985; No. 14, 1987; No. 105, 1992; No. 141, 1997; No. 48, 2005</div>
+      <div>am. No. 69, 1985; No. 14, 1987; No. 105, 1992; No. 141, 1997</div>
     </td>
   </tr>
   <tr>
@@ -738,7 +829,7 @@ Remainder: Royal Assent
       <div>S. 7</div>
     </td>
     <td>
-      <div>am. No. 69, 1985; No. 141, 1997; No. 48, 2005</div>
+      <div>am. No. 69, 1985; No. 141, 1997</div>
     </td>
   </tr>
   <tr>
@@ -768,11 +859,38 @@ Remainder: Royal Assent
 </tbody></table>
 
 
+### Note 2
+
+_Television Licence Fees Amendment Act 2005 (No. 48, 2005)_
+
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 4(1) (definition of _ABA_)
+
+Repeal the definition.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+
+## 3  Section 7
+
+Omit “ABA” (wherever occurring), substitute “ACMA”.
+
+As at 8 April 2005 the amendments are not incorporated in this compilation.
+
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Television Licence Fees Amendment Act 2005 (No. 48, 2005)_
+
+The following provisions commence on 1 July 2005 unless proclaimed earlier:
 
 ## Schedule 2
 
