@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00370/Html/TherapeuticGoodsCharges1989_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00016/Html/TherapeuticGoodsCharges1989_image001.gif)
 
 # Therapeutic Goods (Charges) Act 1989
 
 **Act No. 22 of 1990 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 53 of 2010
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 96 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -215,24 +215,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Therapeutic Goods (Charges) Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>53, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -290,40 +272,6 @@ Remainder: Royal Assent</div>
     <div>am. No. 25, 2002; No. 96, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Therapeutic Goods (Charges) Amendment Act 2010 (No. 53, 2010)_
-
-The following amendments commence at the same time as Schedule 1 to the _Therapeutic Goods Amendment (2009 Measures No. 3) Act 2010_:
-
-## Schedule 1
-
-## 1  After subsection 3(1)
-
-Insert:
-
-          (1A)  For the purposes of this Act, if a suspension of the registration or listing of therapeutic goods has effect under Part 3-2 of the _Therapeutic Goods Act 1989_, the goods are taken to be included in the Register under that Part.
-
-          (1B)  For the purposes of this Act, if a suspension of a biological from the Register has effect under Part 3-2A of the _Therapeutic Goods Act 1989_, the biological is taken to be included in the Register under that Part.
-
-## 2  Subsection 3(2)
-
-Omit “However, for”, substitute “For”.
-
-## 3  After subsection 4(1A)
-
-Insert:
-
-       (1AA)  An annual charge of such amount as is prescribed is payable in respect of the inclusion of a biological in the Register under Part 3-2A of the Therapeutic Goods Act that has effect at any time during a financial year.
-
-## 4  After subsection 4(4)
-
-Insert:
-
-          (4A)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, a biological is included in the part of the Register for biologicals included under Part 3-2A, this section has effect as if the biological had been included in the Register under Part 3-2A of that Act.
-
-As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
