@@ -1,144 +1,145 @@
-![](http://www.comlaw.gov.au/Details/C2009C00317/Html/58c138af-015a-48e7-ab06-af9c5f21744b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00107/Html/6EDA2ED96D5FE751CA25714700157E5A/$FILE/image001.gif)
 
 # Dairy Industry Service Reform Act 2003
 
 **Act No. 32 of 2003 as amended**
 
-This compilation was prepared on 10 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 27 March 2006
+taking into account amendments up to SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           1
 
-[4](#4).            Crown to be bound
+[4](#4).            Crown to be bound                                                                              2
 
-[5](#5).            External Territories
+[5](#5).            External Territories                                                                              2
 
-[6](#6).            Extraterritorial operation
+[6](#6).            Extraterritorial operation                                                                     2
 
 **Part 2—Provision of levy information to the Australian Dairy Corporation**
 
-[7](#7).            Provision of levy information to the Australian Dairy Corporation
+[7](#7).            Provision of levy information to the Australian Dairy Corporation   3
 
 **Part 3—Privatisation of dairy corporations** 
 
     **Division 1—Definitions**
 
-[8](#8).            Definitions
+[8](#8).            Definitions                                                                                           5
 
     **Division 2—Registration of the Australian Dairy Corporation as a Corporations Act company**
 
-[9](#9).            Application for registration
+[9](#9).            Application for registration                                                                 7
 
-[10](#10).          Funding contract before registration
+[10](#10).          Funding contract before registration                                                    7
 
-[11](#11).          Registration as a company under the Corporations Act
+[11](#11).          Registration as a company under the Corporations Act                     8
 
-[12](#12).          Operation of the Corporations Act after conversion time
+[12](#12).          Operation of the Corporations Act after conversion time                  8
 
-[13](#13).          Accounting records
+[13](#13).          Accounting records                                                                              8
 
-[14](#14).          Dairy Australia Limited not to be a Commonwealth authority etc 
+[14](#14).          Dairy Australia Limited not to be a Commonwealth authority etc     9
 
     **Division 3—Transfer of assets and liabilities of the Dairy Research and Development Corporation**
 
-[15](#15).          Transfer of assets and liabilities
+[15](#15).          Transfer of assets and liabilities                                                        10
 
-[16](#16).          Transfer of pending proceedings
+[16](#16).          Transfer of pending proceedings                                                       10
 
-[17](#17).          Exemption from stamp duty etc 
+[17](#17).          Exemption from stamp duty etc                                                        10
 
-[18](#18).          References in certain instruments
+[18](#18).          References in certain instruments                                                      11
 
-[19](#19).          Certificates in relation to assets
+[19](#19).          Certificates in relation to assets                                                         11
 
     **Division 4—Transferring employees of dairy corporations** 
 
         **Subdivision A—Preliminary**
 
-[20](#20).          Transfer of staff
+[20](#20).          Transfer of staff                                                                                 13
 
-[21](#21).          Terms and conditions of transferring employees
+[21](#21).          Terms and conditions of transferring employees                              13
 
-[22](#22).          Variation of terms and conditions of employment
+[22](#22).          Variation of terms and conditions of employment                            14
 
         **Subdivision B—Application of the Safety, Rehabilitation and Compensation Act**
 
-[23](#23).          Expressions defined in SRC Act
+[23](#23).          Expressions defined in SRC Act                                                        15
 
-[24](#24).          Continued application of SRC Act
+[24](#24).          Continued application of SRC Act                                                    15
 
-[25](#25).          Commonwealth liability to meet certain SRC Act liabilities
+[25](#25).          Commonwealth liability to meet certain SRC Act liabilities             15
 
-[26](#26).          SRC Act: rehabilitation provisions
+[26](#26).          SRC Act: rehabilitation provisions                                                    15
 
-[27](#27).          Premiums under the SRC Act
+[27](#27).          Premiums under the SRC Act                                                            16
 
         **Subdivision C—Maternity leave provisions**
 
-[28](#28).          Maternity leave starting before conversion time
+[28](#28).          Maternity leave starting before conversion time                               17
 
-[29](#29).          Maternity leave starting after conversion time
+[29](#29).          Maternity leave starting after conversion time                                  17
 
         **Subdivision D—Provisions relating to superannuation**
 
-[30](#30).          Application of Superannuation Acts
+[30](#30).          Application of Superannuation Acts                                                 18
 
-[31](#31).          Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+[31](#31).          Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ 18
 
         **Subdivision E—Provisions relating to long service leave**
 
-[32](#32).          Expressions defined in Long Service Leave Act
+[32](#32).          Expressions defined in Long Service Leave Act                                18
 
-[33](#33).          Long service leave for employees with less than 10 years service
+[33](#33).          Long service leave for employees with less than 10 years service    18
 
-[34](#34).          Payments in lieu of long service leave for employees with less than 10 years service
+[34](#34).          Payments in lieu of long service leave for employees with less than 10 years service            19
 
-[35](#35).          Payments on the death of an employee
+[35](#35).          Payments on the death of an employee                                             20
 
-[36](#36).          Employee’s long service leave credit for the purposes of sections 33 and 34
+[36](#36).          Employee’s long service leave credit for the purposes of sections 33 and 34         21
 
-[37](#37).          Employees with at least 10 years service
+[37](#37).          Employees with at least 10 years service                                          22
 
-[38](#38).          Division not to affect post‑commencement long service leave rights
+[38](#38).          Division not to affect post-commencement long service leave rights 22
 
     **Division 5—Other provisions**
 
-[39](#39).          Operation of Archives Act
+[39](#39).          Operation of Archives Act                                                                23
 
-[40](#40).          Certificates etc  taken to be authentic etc 
+[40](#40).          Certificates etc  taken to be authentic etc                                          23
 
 **Part 4—Other provisions**
 
-[41](#41).          Delegation
+[41](#41).          Delegation                                                                                          24
 
-[42](#42).          Compensation for acquisition of property
+[42](#42).          Compensation for acquisition of property                                        24
 
-[43](#43).          Regulations
+[43](#43).          Regulations                                                                                        25
 
 **Schedule 1—Amendments and repeals** 
 
-Part 1—Amendment of Dairy Produce Act 1986                                        26
+Part 1—Amendment of Dairy Produce Act 1986                                              26
 
 Dairy Produce Act 1986                                                                                           26
 
-Part 2—Amendment of other Acts                                                                      49
+Part 2—Amendment of other Acts                                                                           49
 
 Administrative Decisions (Judicial Review) Act 1977                                       49
 
@@ -150,13 +151,14 @@ Primary Industries Levies and Charges Collection Act 1991       �
 
 Safety, Rehabilitation and Compensation Act 1988                                          50
 
-Part 3—Repeal of regulations                                                                                 51
+Part 3—Repeal of regulations                                                                                     51
 
 Dairy Research and Development Corporation Regulations 1990                 51
 
-Part 4—Transitional provisions                                                                              52
+Part 4—Transitional provisions                                                                                  52
 
 **Notes** 
+
 
 ## An Act relating to the dairy industry, and for related purposes
 
@@ -220,34 +222,38 @@ Part 4—Transitional provisions               �
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1.
-      Sections 1 to 43 and anything in this Act not elsewhere covered by this
-        table
-    </div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent</div>
-  </td>
-  <td>
-    <div>15 April 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Schedule 1</div>
-  </td>
-  <td>
-    <div>A single day to be fixed by Proclamation</div>
-  </td>
-  <td>
-    <div>1 July 2003
+<tbody>
+  <tr>
+    <td>
+      <div>1.
+        Sections 1 to 43 and anything in this Act not elsewhere covered by this
+          table
+      </div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent</div>
+    </td>
+    <td>
+      <div>15 April 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Schedule 1</div>
+    </td>
+    <td>
+      <div>A single day to be fixed by Proclamation</div>
+    </td>
+    <td>
+      <div>1 July 2003
 
 (s 2(1),
-      <i>Gazette</i>2003, S228)</div>
-  </td>
-</tr></table>
+        <i>Gazette</i>2003, S228)
+
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -267,7 +273,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="6"></a>6  Extraterritorial operation
 
-                   This Act applies both within and outside   Australia.
+                   This Act applies both within and outside Australia.
 
 ## Part 2—Provision of levy information to the Australian Dairy Corporation
 
@@ -575,6 +581,8 @@ Other
 
 (2)In this section:
 
+                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
+
                     <a name="law"></a>**_law_** means:
 
                      (a)  a law of the Commonwealth or of a State or Territory; or
@@ -613,7 +621,7 @@ Other
 
 ##### <a id="26"></a>26  SRC Act: rehabilitation provisions
 
-             (1)  If a transferring employee had, before the conversion time, suffered an injury resulting in an incapacity for work or an impairment, Dairy Australia Limited must, after that time, provide such reasonable co‑operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the SRC Act in relation to the transferring employee.
+             (1)  If a transferring employee had, before the conversion time, suffered an injury resulting in an incapacity for work or an impairment, Dairy Australia Limited must, after that time, provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the SRC Act in relation to the transferring employee.
 
              (2)  After the conversion time, Dairy Australia Limited is, for the purposes of section 40 of the SRC Act, taken to be the relevant employer of each transferring employee.
 
@@ -705,7 +713,7 @@ the Secretary of the Department may, in writing, direct that an amount equal to 
 
 Dairy Australia Limited may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 36(1).
 
-             (5)  If a period of long service leave may be granted to an employee under subsection (3) or (4), Dairy Australia Limited may, if the employee asks in writing, grant the employee long service leave on half salary for a period not longer than twice the first‑mentioned period.
+             (5)  If a period of long service leave may be granted to an employee under subsection (3) or (4), Dairy Australia Limited may, if the employee asks in writing, grant the employee long service leave on half salary for a period not longer than twice the first-mentioned period.
 
              (6)  Long service leave granted in the circumstances set out in subsection (4) must be taken so as to end immediately before the employee stops being an employee.
 
@@ -735,7 +743,7 @@ Dairy Australia Limited must pay him or her an amount equal to full salary in re
 
                      (a)  the employee stops being an employee of Dairy Australia Limited; and
 
-                     (b)  Dairy Australia Limited is satisfied that the employee left Dairy Australia Limited’s employment because of ill‑health that justified his or her so leaving; and
+                     (b)  Dairy Australia Limited is satisfied that the employee left Dairy Australia Limited’s employment because of ill-health that justified his or her so leaving; and
 
                      (c)  when the employee left, his or her combined service period was at least one year;
 
@@ -793,11 +801,13 @@ if the employee had been retrenched at the conversion time.
 
              (3)  The Long Service Leave Act has effect after the conversion time in relation to the employee’s rights under that Act that accrued before the conversion time, as if Dairy Australia Limited were an approving authority for the purposes of that Act.
 
-##### <a id="38"></a>38  Division not to affect post‑commencement long service leave rights
+##### <a id="38"></a>38  Division not to affect post-commencement long service leave rights
 
-             (1)  This Division does not affect an employee’s post‑commencement long service leave rights.
+             (1)  This Division does not affect an employee’s post-commencement long service leave rights.
 
 (2)In this section:
+
+                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
 
                     <a name="law"></a>**_law_** means:
 
@@ -805,7 +815,7 @@ if the employee had been retrenched at the conversion time.
 
                      (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
 
-                    <a name="post-commenc-long-servic-leav-right"></a>**_post‑commencement long service leave rights_** means any long service leave rights the employee acquires after the conversion time under an award, determination, industrial agreement or law (other than this Act).
+                    <a name="post-commenc-long-servic-leav-right"></a>**_post-commencement long service leave rights_** means any long service leave rights the employee acquires after the conversion time under an award, determination, industrial agreement or law (other than this Act).
 
 ### Division 5—Other provisions
 
@@ -857,7 +867,7 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
 
 ##### <a id="43"></a>43  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -868,6 +878,7 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
                      (a)  the amendments or repeals made by this Act; and
 
                      (b)  the enactment of this Act.
+
 
 ###### Schedule 1—Amendments and repeals
 
@@ -1199,7 +1210,7 @@ Note:          This means that research and development expend
 
 and the amount of the unmatched R&amp;D excess is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00317/Html/58c138af-015a-48e7-ab06-af9c5f21744b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00107/Html/6EDA2ED96D5FE751CA25714700157E5A/$FILE/image002.gif)
 
 ### Division 2—Industry services body
 
@@ -1397,9 +1408,9 @@ Repeal the subsections, substitute:
 
              (2)  If:
 
-                     (a)  the subsidiary company is wound‑up; and
+                     (a)  the subsidiary company is wound-up; and
 
-                     (b)  the liabilities of the subsidiary company payable on the winding‑up are not able to be met in full from the assets of the subsidiary company;
+                     (b)  the liabilities of the subsidiary company payable on the winding-up are not able to be met in full from the assets of the subsidiary company;
 
 the industry services body is liable to meet those liabilities, to the extent that they are not able to be met out of the assets of the subsidiary company, as if the liabilities had been incurred by the industry services body.
 
@@ -1559,7 +1570,7 @@ _Note:       The heading to clause 70 is altered by omitting “Co
 
 Omit “Corporation” (first occurring), substitute “industry services body”.
 
-## 88  Subclause 70(2) of Schedule 2
+## 88  Subclause 70(2) of Schedule 2
 
 Omit “Corporation or of the Managing Director”, substitute “industry services body”.
 
@@ -1679,7 +1690,7 @@ be kept by the industry services body in an account or accounts with an Australi
 
                     <a name="australian-adi"></a>**_Australian ADI_** means:
 
-                     (a)  an ADI (authorised deposit‑taking institution) within the meaning of the _Banking Act 1959_; or
+                     (a)  an ADI (authorised deposit-taking institution) within the meaning of the _Banking Act 1959_; or
 
                      (b)  a person who carries on State banking within the meaning of paragraph 51(xiii) of the Constitution.
 
@@ -1717,7 +1728,7 @@ Omit “Corporation”, substitute “industry services body”.
 
 _Note:       The heading to clause 84 is altered by omitting “Corporation” and substituting “industry services body”._
 
-## 111  Subclause 85(1) of Schedule 2
+## 111  Subclause 85(1) of Schedule 2
 
 Omit “Corporation”, substitute “industry services body”.
 
@@ -1829,17 +1840,18 @@ Section 119 of the _Dairy Produce Act 1986_ as in force before the commencemen
 
 ## 129  Final annual reports
 
-(1)       For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
+(1)        For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
 
-(2)       For the purposes of this item, the final reporting period is to be treated as a financial year.
+(2)        For the purposes of this item, the final reporting period is to be treated as a financial year.
 
-(3)       In this item:
+(3)        In this item:
 
 **_final reporting period_** means the period that:
 
                      (a)  started on 1 July 2002; and
 
                      (b)  ends at the commencement of this item.
+
 
 # Notes to the _Dairy Industry Service Reform Act 2003_
 
@@ -1867,11 +1879,13 @@ The _Dairy Industry Service Reform Act 2003_ was amended by the _Workplace Relat
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1881,129 +1895,45 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Dairy Industry Service Reform Act 2003</div>
-  </td>
-  <td>
-    <div>32, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2003 ( <i>see</i> <i>Gazette</i>2003, S228) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 2, 3): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (item 10) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
+<tbody>
   <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
+    <td>
+      <div>Dairy Industry Service Reform Act 2003</div>
+    </td>
+    <td>
+      <div>32, 2003</div>
+    </td>
+    <td>
+      <div>15 Apr 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 July 2003 ( <i>see</i> <i>Gazette</i>2003, S228) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
+      <div> </div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
+      <div></div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2‑4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -2028,61 +1958,16 @@ _(a)_ Subsection 2(1) (item 10) of the _Fair Work (State Referral and Conseque
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
  
