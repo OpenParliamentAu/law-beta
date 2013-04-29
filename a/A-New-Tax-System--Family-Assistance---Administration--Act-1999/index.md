@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 20 January 2012
- taking into account amendments up to Act No. 141 of 2011
+This compilation was prepared on 10 January 2013
+ taking into account amendments up to Act No. 169 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,8 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Parliamentary Counsel, Canberra
 
 # Contents
 
@@ -150,6 +149,24 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32AE](#32AE).     Non‑entitlement to payment of family tax benefit after 3 or more variations under subsection 28(2)
 
+        **Subdivision CB—Non‑entitlement to FTB on estimated income basis**
+
+[32AF](#32AF).     Non‑entitlement to FTB on estimated income basis—review of income during 2 consecutive income years
+
+[32AG](#32AG).    Exception—greater than nil rate of FTB for later income year
+
+[32AH](#32AH).    Exception—resumption of eligibility for FTB
+
+[32AI](#32AI).      Exception—income support payments
+
+[32AJ](#32AJ).     Exception—new FTB child
+
+[32AK](#32AK).    Exception—couple separates
+
+[32AL](#32AL).     Exception—special circumstances
+
+[32AM](#32AM).   Exception—determined circumstances
+
         **Subdivision D—FTB reconciliation conditions**
 
 [32A](#32A).       FTB Part A supplement and FTB Part B supplement to be disregarded unless and until individual has satisfied the FTB reconciliation conditions
@@ -212,7 +229,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35E](#35E).        Payment of advance
 
-    **Division 3—Baby bonus and maternity immunisation allowance**
+    **Division 2A—Schoolkids bonus**
+
+[35F](#35F).        Entitlement to schoolkids bonus
+
+[35G](#35G).       Payment of schoolkids bonus
+
+    **Division 3—Baby bonus**
 
 [36](#36).          Need for a claim
 
@@ -220,9 +243,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          How to claim
 
-[38A](#38A).       Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance in normal circumstances to be effective
+[38A](#38A).       Tax file number requirement to be satisfied for claims for baby bonus in normal circumstances to be effective
 
-[38B](#38B).       Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance because of the death of another individual to be effective
+[38B](#38B).       Tax file number requirement to be satisfied for claims for baby bonus because of the death of another individual to be effective
 
 [39](#39).          Restrictions on claiming
 
@@ -244,9 +267,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47](#47).          Payment of baby bonus
 
-[47AA](#47AA).    Payment of maternity immunisation allowance
-
-[47AB](#47AB).    Other rules about payments of baby bonus and maternity immunisation allowance
+[47AB](#47AB).    Other rules about payments of baby bonus
 
 [47A](#47A).       Variation of determination where certain statements under section 38A made
 
@@ -514,7 +535,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61A](#61A).       Variation where failure to notify that the service has ceased to provide care to child
 
-        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of  Part 6**
+        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6**
 
 [62](#62).          Variation where failure to provide information relevant to conditional eligibility etc 
 
@@ -576,31 +597,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4AA—Child care rebate** 
 
-        **Subdivision AAA—Election to have child care rebate paid in various ways**
+        **Subdivision AAA—Election to have child care rebate paid in various ways** 
 
-65EAAAAIndividual may elect to have child care rebate paid in various 
- ways
+65EAAAA  Individual may elect to have child care rebate paid in various ways
 
-65EAAABPeriod in which election has effect
+65EAAAB  Period in which election has effect
 
-65EAAACWhere no election made for an income year
+65EAAAC  Where no election made for an income year
 
-        **Subdivision AAB—Weekly payments of child care rebate**
+        **Subdivision AAB—Weekly payments of child care rebate** 
 
-65EAAAWeekly payments of child care rebate
+65EAAA  Weekly payments of child care rebate
 
-65EAABWhere individual elects to have child care rebate paid weekly 
- to approved child care service
+65EAAB  Where individual elects to have child care rebate paid weekly to approved child care service
 
-65EAACWhere individual elects to have child care rebate paid weekly 
- into own bank account
+65EAAC  Where individual elects to have child care rebate paid weekly into own bank account
 
-65EAADRevising a calculation of weekly child care rebate
+65EAAD  Revising a calculation of weekly child care rebate
 
-65EAAEIf weekly payment is to an approved child care service, notice 
- of revised calculation must be given to the service
+65EAAE  If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
 
-65EAAFEffect of revised calculation—payment to the individual
+65EAAF  Effect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -639,6 +656,62 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 4C—Back to school bonus and single income family bonus**
 
 [65H](#65H).       Payment of back to school bonus and single income family bonus
+
+    **Division 4CA—ETR payment**
+
+[65HA](#65HA).    Payment of ETR payment
+
+    **Division 4D—Clean energy advance**
+
+[65J](#65J).        Payment of clean energy advance
+
+    **Division 4E—Single income family supplement** 
+
+        **Subdivision A—Making claims**
+
+[65K](#65K).       Need for a claim
+
+[65KA](#65KA).    How to claim
+
+[65KB](#65KB).     Tax file number requirement to be satisfied for claims for a past period
+
+[65KC](#65KC).     Tax file number requirement to be satisfied for claim in substitution because of the death of another individual
+
+[65KD](#65KD).    Restrictions on claims for payment for a past period
+
+[65KE](#65KE).     Restrictions on bereavement claims
+
+[65KF](#65KF).     Claim may be withdrawn or varied
+
+        **Subdivision B—Determination of claims and payment of single income family supplement**
+
+[65KG](#65KG).    Secretary must determine claim
+
+[65KH](#65KH).    Restriction on determining claim where income tax assessment not made
+
+[65KI](#65KI).      Restriction on determining claim where income tax return not lodged
+
+[65KJ](#65KJ).      Restriction on determining claim where tax file number not provided etc 
+
+[65KK](#65KK).     Determination of past period entitlement claim
+
+[65KL](#65KL).     Determination of bereavement entitlement claim
+
+[65KM](#65KM).    Determination that no entitlement
+
+[65KN](#65KN).    When determination is in force
+
+[65KO](#65KO).    Notice of determination
+
+[65KP](#65KP).     Payment of single income family supplement—no claim required
+
+[65KQ](#65KQ).    Payment of single income family supplement—claim required
+
+[65KR](#65KR).     Secretary’s power to request tax file numbers
+
+[65KS](#65KS).     Variation of past period determinations where failure to provide tax file number
+
+[65KT](#65KT).     Notice of variation of determination
 
     **Division 5—Payment protection and garnishee orders**
 
@@ -697,6 +770,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [71J](#71J).        Debts arising in respect of economic security strategy payment to families
 
 [71K](#71K).       Debts arising in respect of back to school bonus or single income family bonus
+
+[71L](#71L).        Debts arising in respect of clean energy advance
+
+[71M](#71M).      Debts arising in respect of ETR payment
 
 [73](#73).          Debts arising from AAT stay orders
 
@@ -783,6 +860,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [105](#105).        Secretary may review certain decisions on own initiative
 
 [105A](#105A).     Review of determination or variation—taking account of FTB Part A supplement or FTB Part B supplement
+
+[105B](#105B).     Review of instalment determination—taking account of clean energy supplements
 
 [106](#106).        Notice of review decision to be given
 
@@ -872,9 +951,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [129](#129).        Exercise by Secretary of powers under section 154
 
-        **Subdivision BC—Pre‑hearing conferences**
+        **Subdivision BC—Directions hearings**
 
-[129A](#129A).     Pre‑hearing conferences
+[129A](#129A).     Directions hearings
 
 [129B](#129B).     Powers of SSAT if parties reach agreement
 
@@ -884,15 +963,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [131](#131).        Hearing in private
 
-[133](#133).        Restrictions on disclosure of information obtained at hearing
-
         **Subdivision D—Other procedural matters**
 
 [134](#134).        Adjournment of SSAT hearings
 
-[135](#135).        Withdrawal of application for review
+[135](#135).        Dismissal of application for review by SSAT
 
-[136](#136).        Dismissal of an application
+[136](#136).        Dismissal of application for review on request of party
 
 [137](#137).        Presiding member at SSAT hearing
 
@@ -911,6 +988,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
         **Subdivision F—Correction of errors in decisions or statements of reasons**
 
 [141B](#141B).     Correction of errors in decisions or statements of reasons
+
+        **Subdivision G—Restrictions on disclosure of information**
+
+[141C](#141C).     Orders restricting disclosure of information
+
+[141D](#141D).     Varying an order to permit certain disclosures
+
+[141E](#141E).      Orders restricting secondary disclosures of information
 
     **Division 4—Review by the Administrative Appeals Tribunal** 
 
@@ -1310,19 +1395,18 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGAConduct contravening more than one civil penalty provision
+219TSGA  Conduct contravening more than one civil penalty 
+ provision
 
-219TSGBCivil proceedings after criminal proceedings
+219TSGB  Civil proceedings after criminal proceedings
 
-219TSGCCriminal proceedings during civil proceedings
+219TSGC  Criminal proceedings during civil proceedings
 
-219TSGDCriminal proceedings after civil proceedings
+219TSGD  Criminal proceedings after civil proceedings
 
-219TSGEEvidence given in proceedings for penalty not admissible in 
- criminal proceedings
+219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
 
-219TSGFMinister requiring person to assist in applications for civil 
- penalty orders
+219TSGF  Minister requiring person to assist in applications for civil penalty orders
 
     **Division 2—Infringement notices**
 
@@ -1558,9 +1642,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a claim for payment of family tax benefit by instalment; or
 
-                     (b)  a claim for payment of baby bonus in normal circumstances; or
-
-                     (c)  a claim for payment of maternity immunisation allowance in normal circumstances;
+                     (b)  a claim for payment of baby bonus in normal circumstances;
 
 means the day occurring 97 days before the day that, on the day the claim is made, is the expected day on which the child to whom the claim relates will become an FTB child of the claimant. It does not matter whether the child becomes such an FTB child on the expected day.
 
@@ -1569,6 +1651,8 @@ means the day occurring 97 days before the day that, on the day the claim is mad
                     <a name="enrolled"></a>**_enrolled_** in relation to a child to whom an approved child care service provides care, has the meaning given by subsections 219A(2) and 219AA(2).
 
                     <a name="entitled-paid-famili-tax-benefit-instal"></a>**_entitled to be paid family tax benefit by instalment_**: a person is so entitled at a particular time if a determination under section 16 in relation to the person is in force at that time under which the person is entitled to be paid family tax benefit at or after that time.
+
+                    <a name="estimated-incom-basi"></a><a name="estimated-incom-basi"></a>**_estimated income basis_**:family tax benefit is worked out on an **_estimated income basis_**if it is worked out on the basis referred to in subsection 20(1), (2A) or (3).
 
                     <a name="execut-offic"></a>**_executive officer_**, in relation to an operator of an approved centre based long day care service, means a person, by whatever name called and whether or not a director of the operator, who is concerned in, or takes part in, the management of the operator.
 
@@ -1611,6 +1695,8 @@ means the day occurring 97 days before the day that, on the day the claim is mad
                      (c)  in respect of an overpayment of an amount payable by the person by an assessment made under Part IV of the _Income Tax Assessment Act 1936_ because of:
 
                               (i)  subsection 106U(1) of the _Higher Education Funding Act 1988_; or
+
+                            (ia)  section 154‑60 of the _Higher Education Support Act 2003_; or
 
                              (ii)  section 154‑60 of the _Higher Education Support Act 2003_; or
 
@@ -1686,6 +1772,8 @@ Note:          See also subsection (4B).
 
                     <a name="princip-member"></a>**_Principal Member_** means the Principal Member of the Social Security Appeals Tribunal.
 
+Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the Social Security Appeals Tribunal.
+
                     <a name="protect-inform"></a>**_protected information_**means:
 
                      (a)  information about a person that:
@@ -1722,6 +1810,12 @@ Note:          See also subsection (4B).
 
                     <a name="ssat"></a>**_SSAT_** means the Social Security Appeals Tribunal.
 
+Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
+
+                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT (and includes the Principal Member).
+
+Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
+
                     <a name="taxabl-incom"></a>**_taxable income %_**, in respect of an individual, means the taxable income % calculated in respect of the individual under Part 4 of Schedule 2 to the Family Assistance Act.
 
                     <a name="tax-file-number"></a>**_tax file number_** has the same meaning as in Part VA of the _Income Tax Assessment Act 1936_.
@@ -1744,11 +1838,17 @@ Note:          See also subsection (4B).
 
                             (iii)  if the claim is for payment of child care benefit for a past period for care provided by an approved child care service—any partner of the claimant during the past period; or
 
-                     (c)  in relation to a claim for baby bonus or maternity immunisation allowance in normal circumstances under Division 3 of Part 3, means:
+                     (c)  in relation to a claim for baby bonus in normal circumstances under Division 3 of Part 3, means:
 
                               (i)  the claimant; and
 
-                             (ii)  the claimant’s partner (if any) at the time of the claim.
+                             (ii)  the claimant’s partner (if any) at the time of the claim; or
+
+                     (d)  in relation to a claim for single income family supplement under Division 4E of Part 3, means:
+
+                              (i)  the claimant; and
+
+                             (ii)  if the claim is for payment of single income family supplement for a past period—any partner of the claimant during the past period.
 
                     <a name="tfn-determin-person"></a>**_TFN determination person_** means:
 
@@ -1762,7 +1862,9 @@ Note:          See also subsection (4B).
 
                               (i)  a determination under which the claimant who is an individual is conditionally eligible for child care benefit by fee reduction—the claimant or any partner of the claimant at any time since the determination was made; or
 
-                             (ii)  a determination under which the claimant who is an individual is entitled to be paid child care benefit for a past period for care provided by an approved child care service—the claimant or any partner of the claimant during the past period.
+                             (ii)  a determination under which the claimant who is an individual is entitled to be paid child care benefit for a past period for care provided by an approved child care service—the claimant or any partner of the claimant during the past period; or
+
+                     (c)  in relation to single income family supplement and a determination under which the claimant is entitled to be paid single income family supplement for a past period—the claimant or any partner of the claimant during the past period.
 
                     <a name="tfn-substitut-person"></a>**_TFN substitution person_**, in relation to a claim:
 
@@ -1770,7 +1872,9 @@ Note:          See also subsection (4B).
 
                      (b)  by an individual for payment of child care benefit by single payment/in substitution because of the death of another individual for care provided by an approved child care service based on eligibility for an amount of child care benefit under section 46 of the Family Assistance Act; or
 
-                     (c)  by an individual for payment of baby bonus or maternity immunisation allowance in substitution because of the death of another individual;
+                     (c)  by an individual for payment of baby bonus in substitution because of the death of another individual; or
+
+                     (d)  by an individual for payment of single income family supplement by single payment/in substitution because of the death of another individual based on eligibility for an amount of single income family supplement under section 57GG of the Family Assistance Act;
 
 means the deceased individual and any partner of the deceased individual during the period in respect of which the payment is claimed.
 
@@ -2292,6 +2396,8 @@ Note:          Section 20C affects the meaning of this provi
 
 the Secretary may determine the individual’s rate of family tax benefit on the basis of an estimate by the Secretary of the amount needed.
 
+Note:          If family tax benefit is worked out on the basis referred to in subsection (1), (2A) or (3), it is referred to in this Act as being worked out on an **_estimated income basis_** (see the definition of this term in subsection 3(1)).
+
 ##### <a id="20A"></a>20A  Indexed estimates
 
              (1)  The Secretary may calculate an indexed estimate for an individual under subsection (5), with a start day chosen by the Secretary, if:
@@ -2316,7 +2422,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
 
 where:
 
@@ -2370,7 +2476,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
 
 where:
 
@@ -2437,6 +2543,8 @@ under subsection 20A(2) or 20B(2) with a start day that has arrived or passed (o
 ##### <a id="21"></a>21  When determination is in force
 
              (1)  Subject to this section, a determination under this Division comes into force when it is made and remains in force at all times afterwards.
+
+          (1A)  A determination under paragraph 19(a) may be expressed to come into force on a day before it is made (but not earlier than the day the claim concerned is made).
 
 Effect of later determination on certain instalment determinations
 
@@ -3292,7 +3400,7 @@ Step 5.   Work out the **_daily overpayment rate_** by dividing the amount w
 
 ##### <a id="32AA"></a>32AA  Non‑payment of family tax benefit for non‑lodgment of tax returns
 
-             (1)  If the Secretary varies a determination under subsection 28(2) in relation to a claimant, the Secretary must not make a payment of family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) to:
+             (1)  If the Secretary varies a determination under subsection 28(2) in relation to a claimant, the Secretary must not make a payment of family tax benefit (worked out on an estimated income basis) to:
 
                      (a)  the claimant during a prohibited period for the claimant (see section 32AB); and
 
@@ -3520,7 +3628,7 @@ Determinations are not legislative instruments
 
                      (b)  the claimant was required to lodge an income tax return for the cancellation income year concerned but has not done so when the claimant becomes a member of that couple;
 
-then, during a prohibited period for the claimant and while the claimant and the new partner are members of the same couple, the Secretary must not make a payment of family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) to the new partner.
+then, during a prohibited period for the claimant and while the claimant and the new partner are members of the same couple, the Secretary must not make a payment of family tax benefit (worked out on an estimated income basis) to the new partner.
 
 Note:          For **_relevant partner_** see section 32AA.
 
@@ -3530,7 +3638,7 @@ Note:          For **_relevant partner_** see section 32AA.
 
 Claimant
 
-             (2)  The claimant is not entitled to be paid family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) for a period if, throughout that period, both subsections (3) and (4) of this section apply in relation to one or more of the cancellation income years concerned.
+             (2)  The claimant is not entitled to be paid family tax benefit (worked out on an estimated income basis) for a period if, throughout that period, both subsections (3) and (4) of this section apply in relation to one or more of the cancellation income years concerned.
 
 Note 1:       For **_cancellation income year_** see subsection 28(1).
 
@@ -3548,7 +3656,7 @@ Note:          For **_relevant partner_** see section 32AA.
 
 Partner
 
-             (5)  If the claimant is a member of a couple, the claimant’s partner is not entitled to be paid family tax benefit (worked out on the basis referred to in subsection 20(1), (2A) or (3)) for a period if, throughout that period, both subsections (6) and (7) of this section apply in relation to one or more of the cancellation income years concerned.
+             (5)  If the claimant is a member of a couple, the claimant’s partner is not entitled to be paid family tax benefit (worked out on an estimated income basis) for a period if, throughout that period, both subsections (6) and (7) of this section apply in relation to one or more of the cancellation income years concerned.
 
 Note 1:       For **_cancellation income year_** see subsection 28(1).
 
@@ -3573,6 +3681,322 @@ Exceptions
            (10)  A period specified in a determination under subsection (8) or (9) may be a period beginning before, on or after the day the determination is made.
 
            (11)  A determination made under subsection (8) or (9) is not a legislative instrument.
+
+#### Subdivision CB—Non‑entitlement to FTB on estimated income basis
+
+##### <a id="32AF"></a>32AF  Non‑entitlement to FTB on estimated income basis—review of income during 2 consecutive income years
+
+Scope of Subdivision
+
+             (1)  This Subdivision applies in relation to an individual if:
+
+                     (a)  there are 2 consecutive income years (each of which is a **_consecutive year_**) in which there are one or more days for which the individual was entitled to be paid family tax benefit worked out on an estimated income basis; and
+
+                     (b)  in respect of each consecutive year, the Secretary, under section 105, reviews the rate of family benefit the individual was entitled to be paid for those days on the basis of the individual’s adjusted taxable income as finally determined in respect of the consecutive year by the Secretary; and
+
+                     (c)  as a result of the review and in respect of each consecutive year, the Secretary determines either or both of the following:
+
+                              (i)  the individual’s Part A rate of family tax benefit is nil for those days because of the individual’s adjusted taxable income, and there are no other days in either consecutive year for which the individual was entitled to be paid the Part A rate;
+
+                             (ii)  the individual’s Part B rate of family tax benefit is nil for those days because of subclause 28B(1) of Schedule 1 to the Family Assistance Act.
+
+Note:          Family tax benefit may be worked out on an estimated income basis under subsection 20(1), (2A) or (3) (see definition of **_estimated income basis_** in subsection 3(1)).
+
+Basic non‑entitlement rule
+
+             (2)  Subject to this Subdivision:
+
+                     (a)  if subparagraph (1)(c)(i) applies—the individual is not entitled, on and after the exclusion day, to be paid the Part A rate of family tax benefit worked out on an estimated income basis; and
+
+                     (b)  if subparagraph (1)(c)(ii) applies—the individual is not entitled, on and after the exclusion day, to be paid the Part B rate of family tax benefit worked out on an estimated income basis.
+
+             (3)  For the purposes of this Subdivision, the **_exclusion day_**, in relation to an individual, is:
+
+                     (a)  either:
+
+                              (i)  if the later of the consecutive years is 2010‑11—1 July 2012; or
+
+                             (ii)  in any other case—1 July of the first income year after the later of the consecutive years; or
+
+                     (b)  if the Secretary determines a later day in relation to the individual—the later day.
+
+             (4)  A determination under paragraph (3)(b) is not a legislative instrument.
+
+Position of individual’s partner
+
+             (5)  While paragraph (2)(a) applies in relation to the individual, the individual’s partner (if any) is not entitled to be paid the Part A rate of family tax benefit worked out on an estimated income basis.
+
+             (6)  While paragraph (2)(b) applies in relation to the individual, the individual’s partner (if any) is not entitled to be paid the Part B rate of family tax benefit worked out on an estimated income basis.
+
+Multiple applications of section
+
+             (7)  Sections 32AG to 32AM do not prevent this section applying again in relation to the individual in respect of 2 consecutive income years, either or both of which are different from the 2 consecutive income years the subject of the previous application of this section.
+
+##### <a id="32AG"></a>32AG  Exception—greater than nil rate of FTB for later income year
+
+Scope
+
+             (1)  This section applies if, in respect of an income year (the **_payment year_**) after the later of the consecutive years, the Secretary, taking into account the individual’s adjusted taxable income as finally determined in respect of the payment year by the Secretary, determines either or both of the following on a day (the **_payment day_**):
+
+                     (a)  the individual’s Part A rate of family tax benefit is greater than nil on one or more days in the payment year;
+
+                     (b)  the individual’s Part B rate of family tax benefit is greater than nil on one or more days in the payment year.
+
+Payment day is in same income year as exclusion day
+
+             (2)  If the payment day is in the income year in which the exclusion day occurs, then:
+
+                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) is taken not to have applied in relation to the individual; and
+
+                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) is taken not to have applied in relation to the individual.
+
+Example:    Assume that under section 32AF the consecutive years are 2009‑10 and 2010‑11\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
+
+                   Assume that on 1 November 2012 the Secretary determines, under subsection (1), that the individual’s Part A rate and Part B rate of family tax benefit are greater than nil on one or more days in 2011‑12\. The payment day is 1 November 2012.
+
+                   Under subsection (2), subsection 32AF(2) is taken not to have prevented the individual from being entitled, on and after 1 July 2012, to be paid family tax benefit worked out on an estimated income basis.
+
+Payment day is in income year later than that of exclusion day
+
+             (3)  If the payment day is in an income year that is later than the income year in which the exclusion day occurs, then:
+
+                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) ceases to apply in relation to the individual on 1 July of the later income year; and
+
+                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) ceases to apply in relation to the individual on 1 July of the later income year.
+
+Example:    Assume that under section 32AF the consecutive years are 2009‑10 and 2010‑11\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
+
+                   Assume that on 1 November 2013 the Secretary determines, under subsection (1), that the individual’s Part A rate and Part B rate of family tax benefit are greater than nil on one or more days in 2011‑12\. The payment day is 1 November 2013.
+
+                   Under subsection (3), subsection 32AF(2) ceases to prevent the individual from being entitled, on and after 1 July 2013, to be paid family tax benefit worked out on an estimated income basis.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
+
+##### <a id="32AH"></a>32AH  Exception—resumption of eligibility for FTB
+
+Scope
+
+             (1)  This section applies if:
+
+                     (a)  the individual is not eligible for family tax benefit for the whole of an income year (the **_applicable year_**) that is after the later of the consecutive years (other than because of the individual’s income or the individual’s partner’s income); and
+
+                     (b)  after the applicable year, the individual makes a claim for family tax benefit in relation to the income year (the **_current year_**) in which the claim is made; and
+
+                     (c)  the Secretary has finally determined the individual’s adjusted taxable income in respect of the applicable year; and
+
+                     (d)  the Secretary is satisfied that, if the Secretary were to take into account that adjusted taxable income, either or both of the following would apply in respect of one or more days in the current year:
+
+                              (i)  the individual’s Part A rate of family tax benefit would be greater than nil;
+
+                             (ii)  the individual’s Part B rate of family tax benefit would be greater than nil, or would be nil (other than because of subclause 28B(1) of Schedule 1 to the Family Assistance Act).
+
+Exclusion day is in current year
+
+             (2)  If the exclusion day is in the current year, then:
+
+                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) is taken not to have applied in relation to the individual; and
+
+                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) is taken not to have applied in relation to the individual.
+
+Example:    Assume that under section 32AF the consecutive years are 2009‑10 and 2010‑11\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
+
+                   Assume that the individual is not eligible for family tax benefit for the whole of 2011‑12 (the applicable year). Assume that in 2012‑13 (the current year) the individual makes a claim for family tax benefit for 2012‑13.
+
+                   Assume that the Secretary is satisfied that, if the Secretary were to take into account the individual’s final adjusted taxable income for 2011‑12, the individual’s Part A rate and Part B rate of family tax benefit would be greater than nil on one or more days in 2012‑13.
+
+                   Under subsection (2), subsection 32AF(2) is taken not to have prevented the individual from being entitled, on and after 1 July 2012, to be paid family tax benefit worked out on an estimated income basis.
+
+Current year is later than that of exclusion day
+
+             (3)  If the current year is later than the income year in which the exclusion day occurs, then:
+
+                     (a)  if this section applies in relation to the Part A rate of family tax benefit—paragraph 32AF(2)(a) ceases to apply in relation to the individual on 1 July of the current year; and
+
+                     (b)  if this section applies in relation to the Part B rate of family tax benefit—paragraph 32AF(2)(b) ceases to apply in relation to the individual on 1 July of the current year.
+
+Example:    Assume that under section 32AF the consecutive years are 2010‑11 and 2011‑12\. Assume that the individual is not entitled, on and after 1 July 2012, to be paid the Part A rate and Part B rate of family tax benefit worked out on an estimated income basis. The exclusion day is 1 July 2012.
+
+                   Assume that the individual is not eligible for family tax benefit for the whole of 2012‑13 (the applicable year). Assume that in 2013‑14 (the current year) the individual makes a claim for family tax benefit for 2013‑14.
+
+                   Assume that the Secretary is satisfied that, if the Secretary were to take into account the individual’s final adjusted taxable income for 2012‑13, the individual’s Part A rate and Part B rate of family tax benefit would be greater than nil on one or more days in 2013‑14.
+
+                   Under subsection (3), subsection 32AF(2) ceases to prevent the individual from being entitled, on and after 1 July 2013, to be paid family tax benefit worked out on an estimated income basis.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
+
+##### <a id="32AI"></a>32AI  Exception—income support payments
+
+Scope
+
+             (1)  This section applies if, on a day (the **_income support day_**) after the later of the consecutive years, the individual, or the individual’s partner (if any), is receiving support (**_income support_**), in the form of a social security pension, a social security benefit, a service pension or income support supplement.
+
+Trigger day is on or before exclusion day
+
+             (2)  If the trigger day is on or before the exclusion day, subsection 32AF(2) is taken not to apply to the individual.
+
+Trigger day is after exclusion day
+
+             (3)  If the trigger day is after the exclusion day, subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
+
+Trigger day for income support payments
+
+             (4)  In this section:
+
+                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
+
+                     (a)  the earliest income support day; and
+
+                     (b)  1 July of the income year the Secretary becomes aware that the individual, or the individual’s partner, is receiving the income support.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
+
+##### <a id="32AJ"></a>32AJ  Exception—new FTB child
+
+Scope
+
+             (1)  This section applies if, on a day (the **_FTB child day_**) after the later of the consecutive years:
+
+                     (a)  the individual has an FTB child; and
+
+                     (b)  the child was not an FTB child of the individual at any time during the consecutive years.
+
+Trigger day is on or before exclusion day
+
+             (2)  If the trigger day is on or before the exclusion day, subsection 32AF(2) is taken not to apply to the individual.
+
+Trigger day is after exclusion day
+
+             (3)  If the trigger day is after the exclusion day, subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
+
+Trigger day for new FTB child
+
+             (4)  In this section:
+
+                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
+
+                     (a)  the earliest FTB child day; and
+
+                     (b)  1 July of the income year the Secretary becomes aware of the existence of the FTB child.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
+
+##### <a id="32AK"></a>32AK  Exception—couple separates
+
+Scope
+
+             (1)  This section applies if:
+
+                     (a)  at the end of the later of the consecutive years, the individual is a member of a couple; and
+
+                     (b)  on any later day (a **_separation day_**) the individual ceases to be a member of that couple.
+
+Note:          Paragraph (b) may apply more than once, for example if the couple separates, then reconciles, then again separates.
+
+Trigger day is on or before exclusion day
+
+             (2)  If the trigger day is on or before the exclusion day, subsection 32AF(2) is taken not to apply to the individual.
+
+Trigger day is after exclusion day
+
+             (3)  If the trigger day is after the exclusion day, subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
+
+Reconciliation of separated couple
+
+             (4)  However, if on any day (the **_reconciliation day_**) after a separation day, the individual again becomes a member of that couple, then subsection 32AF(2) applies in relation to the individual as if the reconciliation day were the exclusion day.
+
+Note:          This subsection may apply more than once, for example if the couple separates, then reconciles, then again separates and reconciles.
+
+Trigger day for separation
+
+             (5)  In this section:
+
+                    <a name="trigger-dai"></a>**_trigger day_**, in relation to a particular separation day, means the later of:
+
+                     (a)  the separation day; and
+
+                     (b)  1 July of the income year the Secretary becomes aware that the individual has (on that separation day) ceased to be a member of that couple.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
+
+##### <a id="32AL"></a>32AL  Exception—special circumstances
+
+Scope
+
+             (1)  This section applies if the Secretary is satisfied that:
+
+                     (a)  on a day (the **_special circumstances day_**) after the later of the consecutive years, special circumstances exist in relation to the individual, the individual’s partner (if any) or both; and
+
+                     (b)  those circumstances did not exist at the end of the later of the consecutive years; and
+
+                     (c)  those circumstances make it inappropriate to prevent the individual from being entitled to be paid the Part A rate and the Part B rate of family tax benefit worked out on an estimated income basis.
+
+Trigger day is on or before exclusion day
+
+             (2)  If the trigger day is on or before the exclusion day, the Secretary must determine that subsection 32AF(2) is taken not to apply to the individual.
+
+Trigger day is after exclusion day
+
+             (3)  If the trigger day is after the exclusion day, the Secretary must determine that subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
+
+Secretary’s determinations—general
+
+             (4)  A determination under subsection (2) or (3):
+
+                     (a)  has effect in accordance with its terms; and
+
+                     (b)  is not a legislative instrument.
+
+Trigger day for special circumstances
+
+             (5)  In this section:
+
+                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
+
+                     (a)  the special circumstances day; and
+
+                     (b)  1 July of the income year the Secretary becomes aware of the existence of the special circumstances.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
+
+##### <a id="32AM"></a>32AM  Exception—determined circumstances
+
+Scope
+
+             (1)  This section applies if the Secretary is satisfied that:
+
+                     (a)  on a day (the **_determined circumstances day_**) after the later of the consecutive years, circumstances determined in an instrument under subsection (2) exist in relation to the individual, the individual’s partner (if any) or both; and
+
+                     (b)  the determined circumstances make it inappropriate to prevent the individual from being entitled to be paid the Part A rate and the Part B rate of family tax benefit worked out on an estimated income basis.
+
+             (2)  The Minister may, by legislative instrument, determine circumstances for the purposes of paragraph (1)(a).
+
+Trigger day is on or before exclusion day
+
+             (3)  If the trigger day is on or before the exclusion day, the Secretary must determine that subsection 32AF(2) is taken not to apply to the individual.
+
+Trigger day is after exclusion day
+
+             (4)  If the trigger day is after the exclusion day, the Secretary must determine that subsection 32AF(2) ceases to apply to the individual on and from the trigger day.
+
+Secretary’s determinations—general
+
+             (5)  A determination under subsection (3) or (4):
+
+                     (a)  has effect in accordance with its terms; and
+
+                     (b)  is not a legislative instrument.
+
+Trigger day for determined circumstances
+
+             (6)  In this section:
+
+                    <a name="trigger-dai"></a>**_trigger day_** means the later of:
+
+                     (a)  the determined circumstances day; and
+
+                     (b)  1 July of the income year the Secretary becomes aware of the existence of the determined circumstances.
+
+Note:          For the meaning of **_consecutive year_**, see subsection 32AF(1). For the meaning of **_exclusion day_**, see subsection 32AF(3).
 
 #### Subdivision D—FTB reconciliation conditions
 
@@ -3605,6 +4029,14 @@ unless and until:
 Note 1:       If those provisions are disregarded, they will be taken into account when the determination or variation is reviewed under section 105—see section 105A.
 
 Note 2:       To work out when the first individual has satisfied the FTB reconciliation conditions, see section 32B.
+
+             (3)  Subsection (2) does not apply for the purposes of working out the following:
+
+                     (a)  the amount of a clean energy advance;
+
+                     (b)  the amount of the clean energy supplement (Part A) under Subdivision A or B of Division 2AA of Part 5 of Schedule 1 to the Family Assistance Act;
+
+                     (c)  the amount of the clean energy supplement (Part B) under Division 2B of Part 4 of that Schedule.
 
 ##### <a id="32B"></a>32B  When FTB reconciliation conditions are satisfied
 
@@ -3930,7 +4362,7 @@ is not required to lodge an income tax return for the relevant income year.
 
                      (b)  the individual has made an effective request under section 34 for a family tax benefit advance; and
 
-                     (c)  on the advance assessment day, the individual’s Part A rate (disregarding clauses 5 and 25A of Schedule 1 to the Family Assistance Act) is equal to or exceeds the amount that would, under clause 26 of that Schedule, be the FTB child rate for an FTB child who had not turned 18 if:
+                     (c)  on the advance assessment day, the individual’s Part A rate (disregarding clauses 5 and 25A of Schedule 1 to the Family Assistance Act) is equal to or exceeds the amount that would, under clause 26 of that Schedule, be the FTB child rate if:
 
                               (i)  the individual’s Part A rate were required to be worked out using Part 3 of that Schedule; and
 
@@ -4111,11 +4543,29 @@ Definitions
 
              (2)  This section is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
 
-### Division 3—Baby bonus and maternity immunisation allowance
+### Division 2A—Schoolkids bonus
+
+##### <a id="35F"></a>35F  Entitlement to schoolkids bonus
+
+                   If an individual is eligible under Division 1A of Part 3 of the Family Assistance Act for schoolkids bonus on a bonus test day, the individual is entitled to schoolkids bonus on the bonus test day.
+
+##### <a id="35G"></a>35G  Payment of schoolkids bonus
+
+             (1)  If an individual is entitled to schoolkids bonus on a bonus test day, the Secretary must pay the payment to the individual in a single lump sum:
+
+                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the payment.
+
+             (2)  If, on the bonus test day, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis, the Secretary must not pay the schoolkids bonus to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that bonus test day.
+
+### Division 3—Baby bonus
 
 ##### <a id="36"></a>36  Need for a claim
 
-                   The only way that a person can become entitled to be paid baby bonus or maternity immunisation allowance is to make a claim in accordance with this Division.
+                   The only way that a person can become entitled to be paid baby bonus is to make a claim in accordance with this Division.
 
 ##### <a id="37"></a>37  Who can claim
 
@@ -4125,9 +4575,9 @@ Definitions
 
              (1)  An individual (the **_claimant_**) may make a claim for payment of:
 
-                     (a)  baby bonus or maternity immunisation allowance in normal circumstances; or
+                     (a)  baby bonus in normal circumstances; or
 
-                     (b)  baby bonus or maternity immunisation allowance because of the death of another individual.
+                     (b)  baby bonus because of the death of another individual.
 
              (2)  A claim is not effective unless:
 
@@ -4149,9 +4599,9 @@ Definitions
 
                             for the 6 month period mentioned in paragraph 36(2)(d), (3)(e), (4)(c) or (5)(d) of the Family Assistance Act; and
 
-                     (b)  in the case of a claim for baby bonus or maternity immunisation allowance in normal circumstances—the tax file number requirement in section 38A has been satisfied in relation to the claim; and
+                     (b)  in the case of a claim for baby bonus in normal circumstances—the tax file number requirement in section 38A has been satisfied in relation to the claim; and
 
-                     (c)  in the case of a claim by an individual for baby bonus or maternity immunisation allowance because of the death of another individual—the tax file number requirement in section 38B has been satisfied in relation to the claim.
+                     (c)  in the case of a claim by an individual for baby bonus because of the death of another individual—the tax file number requirement in section 38B has been satisfied in relation to the claim.
 
           (2A)  A claim is not effective if it is made before the early claim day.
 
@@ -4163,7 +4613,7 @@ Estimate of adjusted taxable income
 
                      (b)  disregard subclause 2(2) and clauses 3 and 3A of that Schedule.
 
-##### <a id="38A"></a>38A  Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance in normal circumstances to be effective
+##### <a id="38A"></a>38A  Tax file number requirement to be satisfied for claims for baby bonus in normal circumstances to be effective
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 38(2)(b) (which states what is required for certain claims to be effective).
 
@@ -4217,7 +4667,7 @@ Exemption from tax file number requirement
 
                              (ii)  a statement by the person under subsection (4) or (5).
 
-##### <a id="38B"></a>38B  Tax file number requirement to be satisfied for claims for baby bonus or maternity immunisation allowance because of the death of another individual to be effective
+##### <a id="38B"></a>38B  Tax file number requirement to be satisfied for claims for baby bonus because of the death of another individual to be effective
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 38(2)(c) (which states what is required for claims in substitution because of the death of another individual to be effective).
 
@@ -4269,7 +4719,7 @@ Exemption from tax file number requirement
 
 “Normal circumstances” entitlement must not already have been determined, or be awaiting determination, on a previous claim
 
-             (1)  A claim for payment of baby bonus or maternity immunisation allowance in normal circumstances is not effective if the claimant has previously made such a claim based on the same circumstances (whether or not the claim has yet been determined).
+             (1)  A claim for payment of baby bonus in normal circumstances is not effective if the claimant has previously made such a claim based on the same circumstances (whether or not the claim has yet been determined).
 
           (1A)  However, subsection (1) does not apply to a claim for payment of baby bonus in respect of a child if:
 
@@ -4303,132 +4753,9 @@ Extension of 52 week period in subsection (2)
 
 subsection (2) of this section does not apply if the claim for payment of baby bonus is made within the period of 13 weeks after the day on which the notice is given.
 
-“Normal circumstances” maternity immunisation allowance claim
-
-             (4)  A claim for payment of maternity immunisation allowance in normal circumstances is not effective if it is made after the time specified in the following table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="44%">
-  <col width="46%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Normal</b>
-        <b>circumstances maternity immunisation allowance claim</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If the claim is based on eligibility for the allowance under:</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the claim is not effective if it is made after:</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Subsection 39(2) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>2 years after the birth of the child</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Subsection 39(2A) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>5 years after the birth of the child</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Subsection 39(3) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>5 years after the delivery of the child</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Subsection 39(4) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>the later of:</div>
-    <div>(a) 2 years after the death of the child; and</div>
-    <div>(b) 5 years after the birth of the child</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Subsection 39(5) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>4 years after the birth of the child</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Subsection 39(6) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>(a) if subsection 39(7) of that Act applies—2 years beginning on the day
-      of the arrival mentioned in paragraph 39(6)(d) of that Act; or</div>
-    <div>(b) if subsection 39(8) of that Act applies—2 years after the death of
-      the child</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Subsection 39(9) of the Family Assistance Act</div>
-  </td>
-  <td>
-    <div>the later of:</div>
-    <div>(a) 2 years after the death of the child; and</div>
-    <div>(b) 5 years after the birth of the child</div>
-  </td>
-</tr></table>
-
 “Bereavement” entitlement must not already have been determined, or be awaiting determination, on a previous claim
 
-             (5)  A claim for payment of baby bonus or maternity immunisation allowance because of the death of another individual is not effective if the claimant has previously made such a claim because of the death of that individual (whether or not the claim has yet been determined).
+             (5)  A claim for payment of baby bonus because of the death of another individual is not effective if the claimant has previously made such a claim because of the death of that individual (whether or not the claim has yet been determined).
 
 ##### <a id="40"></a>40  Claim may be withdrawn
 
@@ -4486,80 +4813,6 @@ the Secretary must not determine the claim for baby bonus until one of the follo
 
                      (e)  the claim for parental leave pay is withdrawn under section 61 of that Act.
 
-Deferral of “normal circumstances” maternity immunisation allowance determination pending birth etc. of child
-
-          (4A)  If:
-
-                     (a)  the claim is one for payment of maternity immunisation allowance in normal circumstances, based on eligibility for the allowance under subsection 39(2), (2A) or (5) of the Family Assistance Act, or subsection 39(6) of that Act (where subsection 39(7) of that Act applies), in respect of a child; and
-
-                     (b)  at the time the determination would otherwise be made, the child is not an FTB child of the claimant; and
-
-                     (c)  the Secretary is satisfied that, at the time the determination would otherwise be made, if the child were to become an FTB child of the claimant, the claimant:
-
-                              (i)  would be likely to be eligible for family tax benefit in respect of the child; or
-
-                             (ii)  would be likely to be so eligible except that the claimant’s rate of family tax benefit, worked out under Division 1 of Part 4 of the Family Assistance Act, would be nil;
-
-the Secretary must not determine the claim for maternity immunisation allowance until the earlier of the following:
-
-                     (d)  the time when the child becomes an FTB child of the claimant, or is stillborn;
-
-                     (e)  28 days after the day that, on the day the claim is made, is the expected day on which the child to whom the claim relates will become an FTB child of the claimant.
-
-Deferral of “normal circumstances” maternity immunisation allowance determination because of ineligibility
-
-             (5)  If:
-
-                     (a)  the claim is one for payment of maternity immunisation allowance in normal circumstances, based on eligibility for the allowance under subsection 39(2), (2A) or (5) of the Family Assistance Act, or subsection 39(6) of that Act (where subsection 39(7) of that Act applies), in respect of a child; and
-
-                     (b)  at the time the determination would otherwise be made on the claim:
-
-                              (i)  the claimant is not eligible for maternity immunisation allowance under subsection 39(2), (2A), (5) or (6) of that Act in respect of the child; and
-
-                             (ii)  the child is an FTB child of the claimant; and
-
-                            (iii)  the claimant is eligible for family tax benefit in respect of the child or would be so eligible except that the claimant’s rate of family tax benefit, worked out under Division 1 of Part 4 of the Family Assistance Act, is nil;
-
-the Secretary must not determine the claim until after the time mentioned in subsection (6).
-
-             (6)  The time for the purposes of subsection (5) is:
-
-                     (a)  if the claim is based on eligibility for the allowance under subsection 39(2) of the Family Assistance Act:
-
-                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(2) of that Act in respect of the child before the end of 2 years after the child was born—the time when the claimant becomes so eligible; or
-
-                             (ii)  in any other case—2 years after the child was born; or
-
-                     (b)  if the claim is based on eligibility for the allowance under subsection 39(2A) of the Family Assistance Act:
-
-                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(2A) of that Act in respect of the child before the end of 5 years after the child was born—the time when the claimant becomes so eligible; or
-
-                             (ii)  in any other case—5 years after the child was born; or
-
-                     (c)  if the claim is based on eligibility for the allowance under subsection 39(5) of the Family Assistance Act:
-
-                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(5) of that Act in respect of the child before the end of 4 years after the child was born—the time when the claimant becomes so eligible; or
-
-                             (ii)  in any other case—4 years after the child was born; or
-
-                     (d)  if the claim is based on eligibility for the allowance under subsection 39(6) of the Family Assistance Act (where subsection 39(7) of that Act applies):
-
-                              (i)  if the claimant becomes eligible for maternity immunisation allowance under subsection 39(6) of that Act (where subsection 39(7) of that Act applies) in respect of the child before the end of 2 years beginning on the day of the arrival mentioned in paragraph 39(6)(d) of that Act—the time when the claimant becomes so eligible; or
-
-                             (ii)  in any other case—2 years beginning on the day of the arrival mentioned in paragraph 39(6)(d) of that Act.
-
-Effect of section 22A of the Family Assistance Act
-
-             (7)  If the claim is one for payment of maternity immunisation allowance in normal circumstances, based on eligibility for the allowance under subsection 39(6) of the Family Assistance Act (where subsection 39(7) of that Act applies), then, for the purposes of paragraphs (4A)(b), (c) and (d) and subparagraphs (5)(b)(ii) and (iii) of this section, the following provisions are to be disregarded:
-
-                     (a)  paragraph (a) of item 1 of the table in subsection 22A(1) of the Family Assistance Act;
-
-                     (b)  paragraphs (a) and (c) of item 2 of that table;
-
-                     (c)  item 3 of that table.
-
-Note:          Section 22A of the Family Assistance Act sets out exceptions to when an individual can be an FTB child of another individual. This subsection removes some of those exceptions.
-
 ##### <a id="41A"></a>41A  Restriction on determining claim where tax file number not provided etc.
 
 Statement that TFN claim person or TFN substitution person does not know what his or her tax file number is etc.
@@ -4602,37 +4855,25 @@ the Secretary can only determine the claim concerned if:
 
                    If:
 
-                     (a)  the claim is one for payment of baby bonus or maternity immunisation allowance in normal circumstances; and
+                     (a)  the claim is one for payment of baby bonus in normal circumstances; and
 
-                     (b)  the Secretary is satisfied that the claimant is eligible for:
+                     (b)  the Secretary is satisfied that the claimant is eligible for baby bonus in accordance with Subdivision A of Division 2 of Part 3 of the Family Assistance Act in respect of the child to whom the claim relates;
 
-                              (i)  baby bonus in accordance with Subdivision A of Division 2 of Part 3 of the Family Assistance Act; or
-
-                             (ii)  maternity immunisation allowance in accordance with Subdivision A of Division 3 of that Act;
-
-                            as the case requires, in respect of the child to whom the claim relates;
-
-the Secretary must determine that the claimant is entitled to be paid the baby bonus or maternity immunisation allowance and must determine the amount of the baby bonus or maternity immunisation allowance that the claimant is entitled to be paid.
+the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
 
 ##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
 
                    If:
 
-                     (a)  the claim is one for payment of baby bonus or maternity immunisation allowance because of the death of another individual; and
+                     (a)  the claim is one for payment of baby bonus because of the death of another individual; and
 
-                     (b)  the Secretary is satisfied that the claimant is, in the circumstances covered by the claim, eligible for:
+                     (b)  the Secretary is satisfied that the claimant is, in the circumstances covered by the claim, eligible for baby bonus in accordance with Subdivision B of Division 2 of Part 3 of the Family Assistance Act;
 
-                              (i)  baby bonus in accordance with Subdivision B of Division 2 of Part 3 of the Family Assistance Act; or
-
-                             (ii)  maternity immunisation allowance in accordance with Subdivision B of Division 3 of that Act;
-
-                            as the case requires;
-
-the Secretary must determine that the claimant is entitled to be paid the baby bonus or maternity immunisation allowance and must determine the amount of the baby bonus or maternity immunisation allowance that the claimant is entitled to be paid.
+the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
 
 ##### <a id="44"></a>44  Determination that no entitlement
 
-                   If the Secretary is not satisfied as mentioned in section 42 or 43, the Secretary must determine that the claimant is not entitled to be paid baby bonus or maternity immunisation allowance in respect of the child to whom the claim relates, or in the circumstances covered by the claim, as the case requires.
+                   If the Secretary is not satisfied as mentioned in section 42 or 43, the Secretary must determine that the claimant is not entitled to be paid baby bonus in respect of the child to whom the claim relates, or in the circumstances covered by the claim, as the case requires.
 
 ##### <a id="45"></a>45  When determination is in force
 
@@ -4642,9 +4883,9 @@ the Secretary must determine that the claimant is entitled to be paid the baby b
 
              (1)  The Secretary must give notice of the determination to the claimant, stating:
 
-                     (a)  whether the claimant is entitled to be paid baby bonus or maternity immunisation allowance under the determination; and
+                     (a)  whether the claimant is entitled to be paid baby bonus under the determination; and
 
-                     (b)  if the claimant is entitled—the amount of the baby bonus or maternity immunisation allowance and how it is to be paid; and
+                     (b)  if the claimant is entitled—the amount of the baby bonus and how it is to be paid; and
 
                      (c)  that the claimant may apply for review of the determination in the manner set out in Part 5.
 
@@ -4682,11 +4923,13 @@ Upfront part
 
           (2A)  The **_upfront part_** is the following amount:
 
-                     (a)  if the claimant becomes eligible for baby bonus in the 2011‑2012 financial year—$879.77;
+                     (a)  if the claimant becomes eligible for baby bonus between 1 July 2011 and 31 August 2012—$879.77;
 
-                     (b)  if the claimant becomes eligible for baby bonus in the 2012‑2013 financial year or a later financial year—the amount worked out as follows:
+                     (b)  if the claimant becomes eligible for baby bonus between 1 September 2012 and 30 June 2015—$846.20;
 
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image003.gif)
+                     (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -4750,25 +4993,15 @@ Definitions
 
                      (b)  each successive period of 7 days.
 
-##### <a id="47AA"></a>47AA  Payment of maternity immunisation allowance
-
-             (1)  If the claimant is entitled to be paid maternity immunisation allowance, the Secretary must pay it to the claimant, at such time as the Secretary considers appropriate and to the credit of a bank account nominated and maintained by the claimant.
-
-Note:          Section 47AB provides for rounding of the amounts of payments.
-
-Alternative payment arrangements
-
-             (2)  The Secretary may direct that the whole or a part of an amount that is to be paid for the purposes of subsection (1) is to be paid in a way different from that provided for by that subsection. If the Secretary gives the direction, the amount is to be paid in accordance with the direction (despite that subsection).
-
-##### <a id="47AB"></a>47AB  Other rules about payments of baby bonus and maternity immunisation allowance
+##### <a id="47AB"></a>47AB  Other rules about payments of baby bonus
 
 Rounding of payments
 
-             (1)  If an amount to be paid under section 47 or 47AA is not a whole number of cents, it must be rounded to the nearest cent (rounding 0.5 cents upwards).
+             (1)  If an amount to be paid under section 47 is not a whole number of cents, it must be rounded to the nearest cent (rounding 0.5 cents upwards).
 
-Relationship of sections 47 and 47AA with other provisions
+Relationship of section 47 with other provisions
 
-             (2)  Sections 47 and 47AA are subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
+             (2)  Section 47 is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
 
 ##### <a id="47A"></a>47A  Variation of determination where certain statements under section 38A made
 
@@ -4776,7 +5009,7 @@ Relationship of sections 47 and 47AA with other provisions
 
                      (a)  a TFN claim person has made a statement of the kind set out in subsection 38A(4); and
 
-                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus or maternity immunisation allowance in normal circumstances; and
+                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus in normal circumstances; and
 
                      (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has no tax file number;
 
@@ -4786,13 +5019,13 @@ the consequence in subsection (3) applies.
 
                      (a)  a TFN claim person has made a statement of the kind set out in subsection 38A(5); and
 
-                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus or maternity immunisation allowance in normal circumstances; and
+                     (b)  a determination is in force under which the claimant is entitled to be paid baby bonus in normal circumstances; and
 
                      (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has not applied for a tax file number, that an application by the person for a tax file number has been refused or that the person has withdrawn an application for a tax file number;
 
 the consequence in subsection (3) applies.
 
-             (3)  For the purposes of subsection (1) or (2), the consequence is that the Secretary may vary the determination so that it has the effect that the claimant is not entitled to be paid baby bonus or maternity immunisation allowance, as the case may be.
+             (3)  For the purposes of subsection (1) or (2), the consequence is that the Secretary may vary the determination so that it has the effect that the claimant is not entitled to be paid baby bonus.
 
              (4)  If:
 
@@ -6196,7 +6429,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
 
 where:
 
@@ -6250,7 +6483,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image002.gif)
 
 where:
 
@@ -7503,8 +7736,7 @@ Consequence of Secretary later finding out that child is receiving care from the
 
 the Secretary must vary the determination to undo the effect mentioned in subsection (1).
 
-#### Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of 
- Part 6
+#### Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6
 
 ##### <a id="62"></a>62  Variation where failure to provide information relevant to conditional eligibility etc.
 
@@ -7870,7 +8102,7 @@ then the variation has effect only from the start of the income year that preced
 
 ##### <a id="64F"></a>64F  Form of application
 
-                   An application under this Subdivision must:
+                   An application under this Subdivision must:
 
                      (a)  be made in the form and manner; and
 
@@ -8698,6 +8930,548 @@ Note:          The individual does not have to make a claim fo
 
 Note:          The individual does not have to make a claim for the bonus.
 
+### Division 4CA—ETR payment
+
+##### <a id="65HA"></a>65HA  Payment of ETR payment
+
+             (1)  If an individual is entitled to an ETR payment, the Secretary must pay the payment to the individual in a single lump sum:
+
+                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the payment.
+
+             (2)  If, on 8 May 2012, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis, the Secretary must not pay the ETR payment to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
+
+### Division 4D—Clean energy advance
+
+##### <a id="65J"></a>65J  Payment of clean energy advance
+
+             (1)  Subject to this section, if an individual is entitled to a clean energy advance, the Secretary must pay the advance to the individual in a single lump sum:
+
+                     (a)  on the day that the Secretary considers to be the earliest day on which it is reasonably practicable for the advance to be paid; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the advance.
+
+             (2)  If:
+
+                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1), (1A) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
+
+                     (b)  on that day, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis;
+
+then the Secretary must not pay the clean energy advance to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
+
+             (3)  If:
+
+                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) is on or after 1 July 2013; and
+
+                     (b)  in relation to one or more days in the 2012‑13 income year, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis;
+
+then the Secretary must not pay the clean energy advance to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to those days.
+
+### Division 4E—Single income family supplement
+
+#### Subdivision A—Making claims
+
+##### <a id="65K"></a>65K  Need for a claim
+
+             (1)  Subject to subsection (2), the only way that an individual can become entitled to be paid single income family supplement is to make a claim in accordance with this Division.
+
+             (2)  If:
+
+                     (a)  in relation to a period in an income year:
+
+                              (i)  a determination under section 16 or 17 is in force in respect of an individual as a claimant; or
+
+                             (ii)  a determination under section 18 is in force in respect of an individual because the Secretary is satisfied that the individual is eligible for family tax benefit under section 32 of the Family Assistance Act; and
+
+                     (b)  the individual’s rate of family tax benefit payable under the determination in relation to that period takes into account one or more FTB children of the individual;
+
+the individual is not required to make a claim for single income family supplement in relation to that period.
+
+##### <a id="65KA"></a>65KA  How to claim
+
+             (1)  An individual (a **_claimant_**) may make a claim:
+
+                     (a)  for payment of single income family supplement for a past period; or
+
+                     (b)  for payment of single income family supplement by single payment/in substitution because of the death of another individual.
+
+Form etc. of claim
+
+             (2)  To be effective:
+
+                     (a)  a claim must:
+
+                              (i)  be made in a form and manner; and
+
+                             (ii)  contain any information; and
+
+                            (iii)  be accompanied by any documents;
+
+                            required by the Secretary; and
+
+                     (b)  in the case of a claim for payment of single income family supplement for a past period—the tax file number requirement in section 65KB must be satisfied in relation to the claim; and
+
+                     (c)  in the case of a claim for payment of single income family supplement in substitution because of the death of another individual—the tax file number requirement in section 65KC must be satisfied in relation to the claim.
+
+##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
+
+             (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(b) (which states what is required for certain claims to be effective).
+
+             (2)  Subject to subsection (7), the requirement is that a statement of one of the kinds set out in subsections (3), (4) and (5) must be made in relation to each TFN claim person.
+
+Statement of tax file number
+
+             (3)  The first kind of statement that can be made is a statement of the TFN claim person’s tax file number. Regardless of who the TFN claim person is, this kind of statement can be made by the claimant only.
+
+Statement that TFN claim person does not know what his or her tax file number is etc.
+
+             (4)  The second kind of statement that can be made is a statement by the TFN claim person that the person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner of Taxation to inform the person of his or her tax file number; and
+
+                     (c)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+Statement that an application for a tax file number is pending
+
+             (5)  The third kind of statement that can be made is a statement by the TFN claim person that the person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
+How statement to be given
+
+             (6)  A statement made by the claimant must be in the claim. A statement made by any other TFN claim person must be in a document, in a form approved by the Secretary, that the claimant gives the Secretary together with the claim.
+
+Exemption from tax file number requirement
+
+             (7)  The Secretary may determine that the requirement in subsection (2) does not apply to a TFN claim person if:
+
+                     (a)  the person is, or was, the claimant’s partner; and
+
+                     (b)  the claimant cannot obtain from the person:
+
+                              (i)  the person’s tax file number; or
+
+                             (ii)  a statement by the person under subsection (4) or (5).
+
+##### <a id="65KC"></a>65KC  Tax file number requirement to be satisfied for claim in substitution because of the death of another individual
+
+             (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(c) (which states what is required for claims in substitution because of the death of another individual to be effective).
+
+             (2)  Subject to subsections (7) and (8), the requirement is that a statement of one of the kinds set out in subsections (3), (4) and (5) must be made in relation to each TFN substitution person.
+
+Statement of tax file number
+
+             (3)  The first kind of statement that can be made is a statement of a TFN substitution person’s tax file number. Regardless of who the TFN substitution person is, this kind of statement can be made by the claimant only.
+
+Statement that TFN substitution person does not know what his or her tax file number is etc.
+
+             (4)  The second kind of statement that can be made is a statement by a TFN substitution person who was the deceased individual’s partner during the period in respect of which the payment is claimed to the effect that the TFN substitution person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner of Taxation to inform the person of his or her tax file number; and
+
+                     (c)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+Statement that an application for a tax file number is pending
+
+             (5)  The third kind of statement that can be made is a statement by a TFN substitution person who was the deceased individual’s partner during the period in respect of which the payment is claimed to the effect that the TFN substitution person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
+How statement to be given
+
+             (6)  A statement made by the claimant must be made in the claim. A statement made by a TFN substitution person must be in a document, in a form approved by the Secretary, that the claimant gives the Secretary together with the claim.
+
+Exemption from tax file number requirement
+
+             (7)  The Secretary may determine that the requirement in subsection (2) does not apply in relation to a TFN substitution person if the claimant does not know the person’s tax file number.
+
+             (8)  The Secretary may determine that the requirement in subsection (2) does not apply in relation to a TFN substitution person if the claimant cannot obtain a statement referred to in subsection (4) or (5) in respect of the person.
+
+##### <a id="65KD"></a>65KD  Restrictions on claims for payment for a past period
+
+Restriction where previous claim
+
+             (1)  A claim for payment of single income family supplement for a past period is not effective if the claimant has previously made a claim for payment of single income family supplement for any of the past period (whether or not the claim has yet been determined).
+
+Other restrictions
+
+             (2)  A claim for payment of single income family supplement for a past period is not effective if:
+
+                     (a)  the period does not fall wholly within one income year; or
+
+                     (b)  the period does fall wholly within one income year but the claim is made after the end of the 2 income years immediately following that income year.
+
+             (3)  A claim for payment of single income family supplement for a past period is not effective if the period occurs in the income year in which the claim is made.
+
+##### <a id="65KE"></a>65KE  Restrictions on bereavement claims
+
+Restriction where previous claim
+
+             (1)  A claim for payment of single income family supplement by single payment/in substitution because of the death of another individual is not effective if the claimant has previously made a claim for payment of single income family supplement because of the death of that individual (whether or not the claim has yet been determined).
+
+Other restrictions
+
+             (2)  If a claim for payment of single income family supplement by single payment/in substitution because of the death of another individual is based on eligibility for an amount of single income family supplement under section 57GF or 57GG of the Family Assistance Act, the claim is not effective if it is made after the end of the income year following the one in which the death occurred.
+
+##### <a id="65KF"></a>65KF  Claim may be withdrawn or varied
+
+             (1)  A claimant may withdraw or vary a claim before the claim is determined.
+
+             (2)  The claimant may only do so in a manner determined by the Secretary.
+
+             (3)  If a claim is withdrawn, it is taken never to have been made.
+
+#### Subdivision B—Determination of claims and payment of single income family supplement
+
+##### <a id="65KG"></a>65KG  Secretary must determine claim
+
+                   If an effective claim is made, the Secretary must determine the claim in accordance with this Subdivision. If a claim is not effective, it is taken not to have been made.
+
+##### <a id="65KH"></a>65KH  Restriction on determining claim where income tax assessment not made
+
+             (1)  If, in relation to a claim for payment of single income family supplement made by an individual:
+
+                     (a)  the claim is for payment of that supplement for a past period; and
+
+                     (b)  the past period falls in an income year (the **_past period income year_**) that is one of the 2 income years before the one in which the claim is made; and
+
+                     (c)  either or both of subsections (2) and (3) apply;
+
+the Secretary can only determine the claim if each assessment concerned has been made.
+
+             (2)  This subsection applies if:
+
+                     (a)  the claimant is required to lodge an income tax return for the past period income year; and
+
+                     (b)  at the time the claim is made, an assessment has not been made under the _Income Tax Assessment Act 1936_ of the tax payable on the claimant’s taxable income for the past period income year.
+
+             (3)  This subsection applies if:
+
+                     (a)  a person is the claimant’s partner at any time during the past period; and
+
+                     (b)  that person is required to lodge an income tax return for the past period income year; and
+
+                     (c)  at the time the claim is made, an assessment has not been made under the _Income Tax Assessment Act 1936_ of the tax payable on that person’s taxable income for the past period income year.
+
+##### <a id="65KI"></a>65KI  Restriction on determining claim where income tax return not lodged
+
+             (1)  If, in relation to a claim for payment of single income family supplement made by an individual:
+
+                     (a)  the claim is for payment of that supplement for a past period; and
+
+                     (b)  the past period falls in an income year (the **_past period income year_**) that is one of the 2 income years before the one in which the claim is made; and
+
+                     (c)  either or both of subsections (2) and (3) apply;
+
+then the claim is taken never to have been made.
+
+             (2)  This subsection applies if:
+
+                     (a)  the claimant is required to lodge an income tax return for the past period income year; and
+
+                     (b)  the claimant has not lodged the return before the end of the 2 income years immediately following the past period income year.
+
+             (3)  This subsection applies if:
+
+                     (a)  a person is the claimant’s partner at any time during the past period; and
+
+                     (b)  that person is required to lodge an income tax return for the past period income year; and
+
+                     (c)  that person has not lodged the return before the end of the 2 income years immediately following the past period income year.
+
+##### <a id="65KJ"></a>65KJ  Restriction on determining claim where tax file number not provided etc.
+
+Statement that TFN claim person or TFN substitution person does not know what his or her tax file number is etc.
+
+             (1)  If:
+
+                     (a)  a TFN claim person makes a statement of the kind set out in subsection 65KB(4); or
+
+                     (b)  a TFN substitution person makes a statement of the kind set out in subsection 65KC(4);
+
+the Secretary can only determine the claim concerned if:
+
+                     (c)  within 28 days after the claim is made, the Commissioner of Taxation tells the Secretary the person’s tax file number; or
+
+                     (d)  28 days pass after the claim is made without the Commissioner of Taxation telling the Secretary that the person has no tax file number.
+
+Statement that an application for a tax file number is pending
+
+             (2)  If:
+
+                     (a)  a TFN claim person makes a statement of the kind set out in subsection 65KB(5); or
+
+                     (b)  a TFN substitution person makes a statement of the kind set out in subsection 65KC(5);
+
+the Secretary can only determine the claim concerned if:
+
+                     (c)  within 28 days after the claim is made, the Commissioner of Taxation tells the Secretary the person’s tax file number; or
+
+                     (d)  28 days pass after the claim is made without the Commissioner of Taxation telling the Secretary that:
+
+                              (i)  the person has not applied for a tax file number; or
+
+                             (ii)  an application by the person for a tax file number has been refused; or
+
+                            (iii)  the person has withdrawn an application for a tax file number.
+
+             (3)  If, after the 28 days mentioned in subsection (1) or (2) have passed, the Secretary cannot, because of that subsection, determine the claim, the claim is taken never to have been made.
+
+##### <a id="65KK"></a>65KK  Determination of past period entitlement claim
+
+                   If:
+
+                     (a)  the claim is one for payment of single income family supplement for a past period; and
+
+                     (b)  the Secretary is satisfied that the claimant was eligible for single income family supplement:
+
+                              (i)  for the whole of the period in accordance with Subdivision A of Division 6 of Part 3 of the Family Assistance Act; or
+
+                             (ii)  for part of the period in accordance with that Subdivision and for the remainder of the period in accordance with section 57GE of that Act;
+
+the Secretary must determine that the claimant is entitled to be paid single income family supplement for the past period.
+
+##### <a id="65KL"></a>65KL  Determination of bereavement entitlement claim
+
+                   If:
+
+                     (a)  the claim is one for payment of single income family supplement by single payment/in substitution because of the death of another individual; and
+
+                     (b)  the Secretary is satisfied that the claimant is eligible for single income family supplement under section 57GF or 57GG of the Family Assistance Act;
+
+the Secretary must determine that the claimant is entitled to be paid the single income family supplement.
+
+##### <a id="65KM"></a>65KM  Determination that no entitlement
+
+                   If the Secretary is not satisfied as mentioned in section 65KK or 65KL, the Secretary must determine that the claimant is not entitled to be paid single income family supplement for the past period or because of the death of the other individual, as the case requires.
+
+##### <a id="65KN"></a>65KN  When determination is in force
+
+                   A determination under this Division comes into force when it is made and remains in force at all times afterwards.
+
+##### <a id="65KO"></a>65KO  Notice of determination
+
+             (1)  The Secretary must give notice of a determination under this Subdivision to the claimant, stating:
+
+                     (a)  whether the claimant is entitled to be paid single income family supplement under the determination; and
+
+                     (b)  if the claimant is so entitled—the amount of the supplement and how it is to be paid; and
+
+                     (c)  that the claimant may apply for review of the determination in the manner set out in Part 5.
+
+             (2)  The determination is not ineffective by reason only that the requirements of subsection (1) are not complied with.
+
+##### <a id="65KP"></a>65KP  Payment of single income family supplement—no claim required
+
+             (1)  Subject to this section, if an individual is not required to make a claim for single income family supplement in relation to a period (the **_past period_**) in an income year (the **_past period income year_**), the Secretary must pay any amount of single income family supplement the individual is eligible for in relation to that past period:
+
+                     (a)  on the day that the Secretary considers to be the earliest day on which it is reasonably practicable for the amount to be paid; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          Subsection 65K(2) sets out when a claim for single income family supplement is not required.
+
+             (2)  If either or both of the following apply:
+
+                     (a)  the individual is required to lodge an income tax return for the past period income year;
+
+                     (b)  the following apply:
+
+                              (i)  a person is the individual’s partner at any time during the past period;
+
+                             (ii)  that person is required to lodge an income tax return for the past period income year;
+
+then the amount of single income family supplement cannot be paid to the individual unless, in relation to each person who is required to lodge an income tax return for that income year, an assessment has been made under the _Income Tax Assessment Act 1936_ of the tax payable on that person’s taxable income for that income year.
+
+             (3)  If either or both of the following apply:
+
+                     (a)  the individual is required to lodge an income tax return for the past period income year, but the individual has not lodged the return before the end of the 2 income years immediately following the past period income year;
+
+                     (b)  the following apply:
+
+                              (i)  a person is the individual’s partner at any time during the past period;
+
+                             (ii)  that person is required to lodge an income tax return for the past period income year;
+
+                            (iii)  that person has not lodged the return before the end of the 2 income years immediately following the past period income year;
+
+then the amount of single income family supplement is not to be paid to the individual.
+
+             (4)  This section is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
+
+##### <a id="65KQ"></a>65KQ  Payment of single income family supplement—claim required
+
+             (1)  If an individual is entitled to be paid an amount of single income family supplement under a determination on a claim for payment of single income family supplement:
+
+                     (a)  for a past period; or
+
+                     (b)  by single payment/in substitution because of the death of another individual;
+
+the Secretary must pay the amount to the individual at such time and in such manner as the Secretary considers appropriate.
+
+             (2)  This section is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
+
+##### <a id="65KR"></a>65KR  Secretary’s power to request tax file numbers
+
+             (1)  If a determination is in force under which the claimant is entitled to be paid single income family supplement for a past period, the Secretary may request the claimant to give the Secretary, within 28 days of the request being made, a written statement, in relation to a specified TFN determination person, of whichever of the kinds set out in subsections (2), (3) and (4) the claimant chooses.
+
+Statement of tax file number
+
+             (2)  The first kind of statement that can be made is a statement of the TFN determination person’s tax file number. Regardless of who the TFN determination person is, this kind of statement can be made by the claimant only.
+
+Statement that TFN person does not know what his or her tax file number is etc.
+
+             (3)  The second kind of statement that can be made is a statement by the TFN determination person that the person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner of Taxation to inform the person of his or her tax file number; and
+
+                     (c)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+Statement that an application for a tax file number is pending
+
+             (4)  The third kind of statement that can be made is a statement by the TFN determination person that the person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
+##### <a id="65KS"></a>65KS  Variation of past period determinations where failure to provide tax file number
+
+Non‑compliance with request
+
+             (1)  If:
+
+                     (a)  the Secretary makes a request under subsection 65KR(1); and
+
+                     (b)  the claimant does not comply with the request within 28 days of the request being made;
+
+then, subject to subsection (2), the consequence in subsection (7) applies.
+
+Exemption from request under subsection 65KR(1)
+
+             (2)  The Secretary may determine that the consequence in subsection (7) does not apply if:
+
+                     (a)  the TFN determination person concerned is or was the claimant’s partner; and
+
+                     (b)  the claimant cannot obtain from the person:
+
+                              (i)  the person’s tax file number; or
+
+                             (ii)  a statement by the person under subsection 65KR(3) or (4).
+
+Statement made by TFN determination person under subsection 65KR(3)
+
+             (3)  If:
+
+                     (a)  the Secretary makes a request under subsection 65KR(1); and
+
+                     (b)  by the end of 28 days after the request is made, the claimant gives the Secretary a statement by the TFN determination person of the kind set out in subsection 65KR(3); and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN determination person has no tax file number;
+
+the consequence in subsection (7) applies.
+
+Statement made by TFN determination person under subsection 65KR(4)
+
+             (4)  If:
+
+                     (a)  the Secretary makes a request under subsection 65KR(1); and
+
+                     (b)  by the end of 28 days after the request is made, the claimant gives the Secretary a statement by the TFN determination person of the kind set out in subsection 65KR(4); and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN determination person has not applied for a tax file number, that an application by the person for a tax file number has been refused or that the person has withdrawn an application for a tax file number;
+
+the consequence in subsection (7) applies.
+
+Statement made by TFN claim person under subsection 65KB(4)
+
+             (5)  If:
+
+                     (a)  a TFN claim person has made a statement of the kind set out in subsection 65KB(4); and
+
+                     (b)  a determination is in force under which the claimant is entitled to be paid single income family supplement for a past period; and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has no tax file number;
+
+the consequence in subsection (7) applies.
+
+Statement made by TFN claim person under subsection 65KB(5)
+
+             (6)  If:
+
+                     (a)  a TFN claim person has made a statement of the kind set out in subsection 65KB(5); and
+
+                     (b)  a determination is in force under which the claimant is entitled to be paid single income family supplement for a past period; and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has not applied for a tax file number, that an application by the person for a tax file number has been refused or that the person has withdrawn an application for a tax file number;
+
+the consequence in subsection (7) applies.
+
+Consequence—variation of determination
+
+             (7)  For the purposes of subsection (1), (3), (4), (5) or (6), the consequence is that the Secretary may, if the determination is one under which the claimant is entitled to be paid single income family supplement for a past period, vary the determination so that it has the effect that the claimant is not entitled to be paid single income family supplement for any day in the past period.
+
+Consequence of Secretary later becoming aware of tax file number
+
+             (8)  If:
+
+                     (a)  under subsection (7), the Secretary varies the determination; and
+
+                     (b)  the Secretary finds out the tax file number of the TFN determination person or TFN claim person, as the case requires, at any time after the variation takes place;
+
+the Secretary must vary the determination to undo the effect mentioned in subsection (7).
+
+##### <a id="65KT"></a>65KT  Notice of variation of determination
+
+             (1)  The Secretary must give notice of any variation of a determination under this Subdivision to the claimant, stating the effect of the variation and that the claimant may apply for review of the decision involved in the manner set out in Part 5.
+
+             (2)  The variation is not ineffective by reason only that the requirements of subsection (1) are not complied with.
+
 ### Division 5—Payment protection and garnishee orders
 
 ##### <a id="66"></a>66  Protection of payments under this Part
@@ -8708,13 +9482,15 @@ Note:          The individual does not have to make a claim fo
 
                      (b)  family tax benefit advances;
 
-                     (c)  baby bonus;
+                   (ba)  schoolkids bonus;
 
-                     (d)  maternity immunisation allowance;
+                     (c)  baby bonus;
 
                      (e)  child care benefit;
 
                     (ea)  child care rebate;
+
+                   (eb)  single income family supplement;
 
                       (f)  payments under section 219Q or subsection 219QA(2) in respect of fee reduction;
 
@@ -8728,7 +9504,11 @@ Note:          The individual does not have to make a claim fo
 
                      (h)  economic security strategy payment to families;
 
-                      (i)  back to school bonus or single income family bonus.
+                      (i)  back to school bonus or single income family bonus;
+
+                      (j)  clean energy advance;
+
+                     (k)  ETR payment.
 
              (2)  Subsection (1) has effect subject to:
 
@@ -8836,7 +9616,7 @@ Step 2.   Subtract from the step 1 amount the total amount withdrawn from th
 
 ##### <a id="70"></a>70  Debts due to the Commonwealth
 
-                   If an amount has been paid by way of family assistance, one‑off payment to families, a payment under section 219Q, subsection 219QA(2), section 219QC or subsection 219QD(2), a payment of an enrolment advance under section 219RA, a payment under section 219RD, economic security strategy payment to families, back to school bonus or single income family bonus, the amount is a debt due to the Commonwealth only to the extent to which a provision of:
+                   If an amount has been paid by way of family assistance, one‑off payment to families, a payment under section 219Q, subsection 219QA(2), section 219QC or subsection 219QD(2), a payment of an enrolment advance under section 219RA, a payment under section 219RD, economic security strategy payment to families, back to school bonus, single income family bonus, a clean energy advance or ETR payment, the amount is a debt due to the Commonwealth only to the extent to which a provision of:
 
                      (a)  this Act; or
 
@@ -8850,7 +9630,7 @@ No entitlement to amount
 
              (1)  If:
 
-                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus or maternity immunisation allowance (the **_assistance_**) in respect of a period or event; and
+                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus, single income family supplement or schoolkids bonus (the **_assistance_**) in respect of a period or event; and
 
                      (b)  the person was not entitled to the assistance in respect of that period or event;
 
@@ -9550,6 +10330,90 @@ Situation in which part of amount is a debt
 
 the amount by which the relevant payment would have been reduced is a debt due to the Commonwealth by the recipient.
 
+##### <a id="71L"></a>71L  Debts arising in respect of clean energy advance
+
+             (1)  This section applies in relation to an individual who has been paid  a clean energy advance.
+
+             (2)  For the purposes of this section, the **_relevant determination_** in relation to the individual is the determination referred to in paragraph 103(1)(a) or (2)(a) or 104(1)(a) of the Family Assistance Act.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the advance was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to a day in the period starting on 1 July 2012 and ending on 30 June 2013, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the advance was paid, the advance would not have been paid;
+
+the amount of the advance is a debt due to the Commonwealth by the individual.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the advance was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to a day in the period starting on 1 July 2012 and ending on 30 June 2013, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the advance was paid, the amount of the advance would have been reduced;
+
+the amount by which the advance would have been reduced is a debt due to the Commonwealth by the individual.
+
+##### <a id="71M"></a>71M  Debts arising in respect of ETR payment
+
+             (1)  This section applies in relation to an individual who has been paid an ETR payment.
+
+             (2)  For the purposes of this section, each of the following is a **_relevant determination_** in relation to the individual:
+
+                     (a)  if the ETR payment was made because, at that time, subsection 102A(1) of the Family Assistance Act applied to the individual—the determination referred to in paragraph 102A(1)(a) of that Act;
+
+                     (b)  if the ETR payment was made because, at that time, subsection 102A(2) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 102A(2)(a), (b), (c) and (e) of the Family Assistance Act was paid;
+
+                     (c)  if the ETR payment was made because, at that time, subsection 102A(3) of the Family Assistance Act applied to the individual—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
+
+                     (d)  if the ETR payment was made because, at that time, subsection 102A(4) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied:
+
+                              (i)  paragraphs 102A(4)(a), (c), (d) and (f) of the Family Assistance Act was paid; or
+
+                             (ii)  paragraphs 102A(4)(b), (c), (d) and (f) of the Family Assistance Act was paid, if that instalment was paid to the individual;
+
+                     (e)  if the ETR payment was made because, at that time, subsection 102D(1) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 102D(1)(a), (b) and (c) of the Family Assistance Act was paid;
+
+                      (f)  if the ETR payment was made because, at that time, subsection 102D(2) of the Family Assistance Act applied to the individual—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
+
+                     (g)  if the ETR payment was made because, at that time, subsection 102D(3) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied:
+
+                              (i)  paragraphs 102D(3)(a), (c) and (d) of the Family Assistance Act was paid; or
+
+                             (ii)  paragraphs 102D(3)(b), (c) and (d) of the Family Assistance Act was paid, if that instalment was paid to the individual;
+
+                     (h)  if the ETR payment was made because, at that time, subsection 102F(1) of the Family Assistance Act applied to the individual—the determination referred to in paragraph 102F(1)(a) of that Act.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the ETR payment was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to 8 May 2012, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the ETR payment was paid, the ETR payment would not have been paid;
+
+the amount of the ETR payment is a debt due to the Commonwealth by the individual.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the ETR payment was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to 8 May 2012, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the ETR payment was paid, the amount of the ETR payment would have been reduced;
+
+the amount by which the ETR payment would have been reduced is a debt due to the Commonwealth by the individual.
+
 ##### <a id="73"></a>73  Debts arising from AAT stay orders
 
                    If:
@@ -9566,7 +10430,7 @@ the difference between the amount that was in fact paid to the person and the am
 
                    If:
 
-                     (a)  an amount of family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus or single income family bonus is paid by cheque; and
+                     (a)  an amount of family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment is paid by cheque; and
 
                      (b)  a person other than the payee obtains possession of the cheque from the payee; and
 
@@ -9852,7 +10716,7 @@ Note:       For **_child care service payment_** see subsection 3(1)
 
                     <a name="debt"></a>**_debt_** means:
 
-                     (a)  a debt due to the Commonwealth under section 71, 71A, 71B, 71C, 71CAA, 71CAB, 71CA, 71CB, 71CAC, 71D, 71E, 71G, 71GA, 71GB, 71H, 71I, 71J, 71K, 73, 74, 76, 77, 78 or 80; or
+                     (a)  a debt due to the Commonwealth under section 71, 71A, 71B, 71C, 71CAA, 71CAB, 71CA, 71CB, 71CAC, 71D, 71E, 71G, 71GA, 71GB, 71H, 71I, 71J, 71K, 71L, 71M, 73, 74, 76, 77, 78 or 80; or
 
                      (b)  a debt due to the Commonwealth for which a person is liable because of section 75.
 
@@ -9962,7 +10826,7 @@ action may be taken under this section to apply an income tax refund payable to 
 
              (6)  A determination under subsection (2) is not a legislative instrument.
 
-##### <a id="88"></a>88  Legal proceedings
+##### <a id="88"></a>88  Legal proceedings
 
              (1)  If, under section 82, a debt is recoverable by the Commonwealth by means of legal proceedings, the debt is recoverable by the Commonwealth in a court of competent jurisdiction.
 
@@ -10076,7 +10940,7 @@ action under that section for the recovery of the debt may be commenced within t
 
 action under section 89 for the recovery of the debt may be commenced within the period of 6 years after the end of the activity or action referred to in paragraph (b).
 
-##### <a id="91"></a>91  Arrangement for payment of debt by instalments
+##### <a id="91"></a>91  Arrangement for payment of debt by instalments
 
              (1)  The Secretary may, on behalf of the Commonwealth, enter into an arrangement with a person, other than an approved child care service, who owes a debt under which the person is to pay the debt, or the outstanding amount of the debt, by instalments in accordance with the terms of the arrangement.
 
@@ -10200,7 +11064,11 @@ the Secretary may give a written notice to the institution setting out the matte
 
                     <a name="famili-assist-payment"></a>**_family assistance payment_** means:
 
-                     (a)  a payment of a benefit, allowance or advance that constitutes family assistance within the meaning of the Family Assistance Act; or
+                     (a)  a payment of family tax benefit, baby bonus, child care benefit or family tax benefit advance; or
+
+                    (aa)  a payment of single income family supplement; or
+
+                   (ab)  a payment of schoolkids bonus; or
 
                      (b)  a payment under section 219Q or subsection 219QA(2) (payments in respect of fee reduction); or
 
@@ -10220,7 +11088,11 @@ the Secretary may give a written notice to the institution setting out the matte
 
                      (d)  a payment of economic security strategy payment to families; or
 
-                     (e)  a payment of back to school bonus or single income family bonus.
+                     (e)  a payment of back to school bonus or single income family bonus; or
+
+                      (f)  a payment of clean energy advance; or
+
+                     (g)  a payment of ETR payment.
 
 ### Division 4—Non‑recovery of debts
 
@@ -10420,7 +11292,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00145/Html/2e57c1a4-906b-4ce5-aa5b-1ddb7a7e072c_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00030/Html/f02f49ab-5551-44a7-bf0b-b070208c0289_files/image004.gif)
 
 where:
 
@@ -10592,6 +11464,36 @@ Note:          To work out when the first individual has satis
 
              (3)  Paragraph (2)(f) does not limit the scope of the review.
 
+##### <a id="105B"></a>105B  Review of instalment determination—taking account of clean energy supplements
+
+             (1)  This section applies if:
+
+                     (a)  a determination under section 16 is in force in a quarter under which an individual is entitled to be paid family tax benefit by instalment; and
+
+                     (b)  disregarding subsection (2) of this section, an election made by the individual under subsection 58A(1) of the Family Assistance Act is in force on one or more days in that quarter.
+
+             (2)  After the end of that quarter:
+
+                     (a)  for the purposes of subsection 105(1), the Secretary is taken to be satisfied that there is sufficient reason to review the determination; and
+
+                     (b)  the Secretary must exercise the power conferred by subsection 105(1) to review the determination; and
+
+                     (c)  the review must be done by assuming that:
+
+                              (i)  Division 2B of Part 4 of Schedule 1 to the Family Assistance Act and Division 2AA of Part 5 of that Schedule applied in relation to those days; and
+
+                             (ii)  the election was not in force on those days.
+
+Note:          Those Divisions deal with clean energy supplement (Part A) and clean energy supplement (Part B).
+
+Definition
+
+             (3)  In this section:
+
+                    <a name="quarter"></a>**_quarter_**  means a period of 3 months beginning on 1 July, 1 October, 1 January or 1 April.
+
+Note:          This section applies in relation to the quarter beginning on 1 July 2013 and all later quarters: see item 34 of Schedule 2 to the **_Clean Energy (Household Assistance Amendments) Act_**_2011_.
+
 ##### <a id="106"></a>106  Notice of review decision to be given
 
 Notice of review decision to be given if original decision relates to determination of conditional eligibility etc.
@@ -10666,7 +11568,7 @@ Notice to be given of other review decisions
 
                      (b)  the review decision is in respect of any other original decision that, under section 104, may be reviewed (other than a review decision referred to in subsection (1) or (2));
 
-the Secretary must give notice of the review decision to the person whose entitlement, or possible entitlement, to family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus or single income family bonus is affected by the decision.
+the Secretary must give notice of the review decision to the person whose entitlement, or possible entitlement, to family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment is affected by the decision.
 
 Notice must state effect of review decision
 
@@ -10698,7 +11600,7 @@ Meaning of determination decision
 
 ##### <a id="107"></a>107  Date of effect of certain decisions made under section 105
 
-             (1)  Subject to subsections (3), (3A) and (3B), if:
+             (1)  Subject to subsections (3), (3A), (3B), (3C) and (3D), if:
 
                      (a)  the Secretary reviews, under section 105, a decision (the **_original decision_**) relating to the payment to a person of family tax benefit by instalment; and
 
@@ -10764,7 +11666,19 @@ on the basis of the return lodged by each such person before the end of the inco
 
                              (ii)  at any time, the Secretary is satisfied that section 61A of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day.
 
-          (3B)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsection 61A(1) or (2) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
+          (3B)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
+
+          (3C)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the following apply:
+
+                     (a)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
+
+                     (b)  the review is undertaken because:
+
+                              (i)  before the end of the second income year after the income year in which the FTB child turned 1, 2 or 5 (as the case requires), the Secretary becomes aware of information suggesting that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day; and
+
+                             (ii)  at any time, the Secretary is satisfied that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day.
+
+          (3D)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61B(4) of that Act.
 
              (4)  In this section:
 
@@ -10830,7 +11744,7 @@ Decisions that may and may not be reviewed under section 109A
 
                       (f)  except as mentioned in subsection (3), a determination about a person’s entitlement to child care benefit or a person’s CCB % under section 50J, if that determination:
 
-                              (i)  is not a determination made under section 50J, because of the operation of subsection 55(2), or an entitlement determination made under section 53D, because of the application of subsection 55(2), or a determination varied under section 60E; and
+                              (i)  is not a determination made under section 50J, because of the application of subsection 55(2), or an entitlement determination made under section 53D, because of the operation of subsection 55A(2), or a determination varied under section 60E; and
 
                              (ii)  is wholly or partly based on an estimate of the amount of adjusted taxable income in a particular income year, to the extent that the determination is so based; or
 
@@ -11018,7 +11932,7 @@ Further exceptions
 
                      (h)  a determination decision that a person is or is not entitled to be paid child care benefit by single payment/in substitution because of the death of another individual for care provided by a registered carer if the death occurred in the income year in which the application was made or in the previous income year (a determination of entitlement or no entitlement is made under section 53D or 53E).
 
-             (4)  An application under section 109A for review of a decision (other than an excepted decision) relating to the payment to a person of family assistance, or of one‑off payment to families, economic security strategy payment to families, back to school bonus or single income family bonus, may also be made after the 52 weeks mentioned in subsection (1), if:
+             (4)  An application under section 109A for review of a decision (other than an excepted decision) relating to the payment to a person of family assistance, or of one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment, may also be made after the 52 weeks mentioned in subsection (1), if:
 
                      (a)  the application for review is made because of an assessment, by the Commissioner of Taxation, of taxable income for a particular income year of any relevant person made on the basis of an income tax return for that person and that particular income year lodged before the end of the next income year; or
 
@@ -11042,11 +11956,21 @@ Further exceptions
 
                             (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 4; or
 
-                     (e)  the family assistance is family tax benefit and the application for review is made because of subsection 61A(1) or (2) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
+                     (e)  the family assistance is family tax benefit and the application for review is made because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act; or
+
+                      (f)  the family assistance is family tax benefit and the following apply:
+
+                              (i)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
+
+                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
+
+                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 1, 2 or 5 (as the case requires); or
+
+                     (g)  the family assistance is family tax benefit and the application for review is made because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61B(4) of that Act.
 
              (5)  In subsection (4), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
 
-                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus or single income family bonus, or CCB %; and
+                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment, or CCB %; and
 
                      (b)  so far as paragraph (4)(c) is concerned—to any person (including the first‑mentioned person) whose entitlement to child support is relevant in determining the first‑mentioned person’s rate of family tax benefit.
 
@@ -11110,7 +12034,17 @@ the date of effect of the review decision is:
 
                             (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 4; or
 
-                     (e)  the application for review is made because of subsection 61A(1) or (2) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61A(3) of that Act.
+                     (e)  the application for review is made because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61A(3) of that Act; or
+
+                      (f)  the following apply:
+
+                              (i)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person mentioned in paragraph (1)(a) of this section, an FTB child of the person and a day;
+
+                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
+
+                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 1, 2 or 5 (as the case requires); or
+
+                     (g)  the application for review is made because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61B(4) of that Act.
 
              (4)  In subsection (3), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
 
@@ -11202,7 +12136,9 @@ the Secretary may declare:
 
 ##### <a id="110"></a>110  SSAT objective
 
-                   In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
+             (1)  In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
+
+             (2)  That objective must also be pursued by the Principal Member in performing or exercising his or her functions and powers under this Act.
 
 ##### <a id="111"></a>111  Application for review by SSAT
 
@@ -11251,6 +12187,8 @@ a person whose interests are affected by the decision may apply to the SSAT for 
                           (ixa)  paragraph 65EAAAA(2)(a);
 
                           (ixb)  subsection 65EAAB(3) or 65EAAE(4);
+
+                          (ixc)  subsection 65KA(2);
 
                              (x)  paragraph 219AB(1)(a);
 
@@ -11374,7 +12312,7 @@ the Secretary may declare:
 
                      (b)  stops having effect if:
 
-                              (i)  the application to the SSAT for review of the adverse decision is withdrawn; or
+                              (i)  the application to the SSAT for review of the adverse decision is dismissed; or
 
                              (ii)  the review of the adverse decision is determined by the SSAT; or
 
@@ -11488,11 +12426,13 @@ the Secretary or the SSAT, as the case requires, may, if satisfied that it is re
 
                      (b)  before determination of the review, an officer varies the decision or sets it aside and substitutes a new decision;
 
-the person may either:
+the person may:
 
-                     (c)  proceed with the application for review of the decision as varied or the new decision, as the case may be; or
+                     (c)  proceed with the application for review of the decision as varied or the new decision; or
 
-                     (d)  withdraw the application under section 135.
+                     (d)  request the Principal Member to dismiss the application under section 135; or
+
+                     (e)  notify, under section 136, the SSAT that the application is discontinued or withdrawn.
 
 ##### <a id="118"></a>118  Parties to SSAT review
 
@@ -11501,6 +12441,8 @@ the person may either:
                      (a)  the applicant; and
 
                      (b)  the Secretary; and
+
+                     (c)  for a review of a care percentage decision—each person who is a responsible person (within the meaning of the _Child Support (Assessment) Act 1989_) for the child to whom the decision relates; and
 
                       (f)  any other person who has been made a party to the review under subsection (4).
 
@@ -11558,17 +12500,7 @@ the Secretary must send a copy of the document or the part of the document to an
 
 ##### <a id="120"></a>120  Parties to be given a statement about the decision under review
 
-             (1)  The Principal Member must give each party (other than the Secretary) a copy of the statement referred to in paragraph 119(3)(a).
-
-             (2)  The Principal Member may make an order directing a person who has received a copy of a statement in accordance with subsection (1):
-
-                     (a)  not to disclose information in the statement; or
-
-                     (b)  not to disclose information in the statement except in the circumstances or for the purposes specified in the order.
-
-             (3)  An order under subsection (2) must be made by written notice given to the person to whom it is directed.
-
-             (4)  A person who contravenes an order under subsection (2) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
+                   The Principal Member must give each party (other than the Secretary) a copy of the statement referred to in paragraph 119(3)(a).
 
 ##### <a id="121"></a>121  Arrangements for hearing of application
 
@@ -11610,7 +12542,9 @@ the Principal Member must take reasonable steps to give the person written notic
 
              (2)  Subject to section 125, a party to a review of a decision may make oral or written submissions to the SSAT or both oral and written submissions.
 
-             (3)  The party may have another person make submissions to the SSAT on behalf of the party.
+             (3)  The party may, with the permission of the Principal Member, have another person make submissions to the SSAT on the party’s behalf.
+
+          (3A)  In deciding whether to grant permission under subsection (3), the Principal Member must have regard to the wishes of the parties and the need to protect their privacy.
 
              (4)  The Principal Member may determine that submissions to the SSAT by the party or the party’s representative are to be made by telephone or by means of other electronic communications equipment.
 
@@ -11694,7 +12628,7 @@ Agency representative may request permission to make oral submissions etc.
 
 The request must explain how such submissions would assist the SSAT.
 
-             (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member having regard to the objective laid down by section 110, such submissions would assist the SSAT.
+             (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member, such submissions would assist the SSAT.
 
 SSAT may order agency representative to make oral submissions etc.
 
@@ -11702,9 +12636,11 @@ SSAT may order agency representative to make oral submissions etc.
 
                      (a)  oral submissions to the SSAT; or
 
+                    (aa)  written submissions to the SSAT; or
+
                      (b)  both oral and written submissions to the SSAT;
 
-if, in the opinion of the Principal Member having regard to the objective laid down by section 110, such submissions would assist the SSAT.
+if, in the opinion of the Principal Member, such submissions would assist the SSAT.
 
 Oral submissions by telephone etc.
 
@@ -11784,13 +12720,13 @@ Notice to set out the effect of offence provisions
 
              (2)  The Secretary must comply with a request under subsection (1) as soon as practicable and, in any event, within 7 days after the request is made.
 
-#### Subdivision BC—Pre‑hearing conferences
+#### Subdivision BC—Directions hearings
 
-##### <a id="129A"></a>129A  Pre‑hearing conferences
+##### <a id="129A"></a>129A  Directions hearings
 
-             (1)  Before the hearing of a review commences, the Principal Member may convene one or more conferences with the parties to the review if he or she considers that it would assist in the conduct and consideration of the review to do so.
+             (1)  Before the hearing of a review commences, the Principal Member may convene one or more directions hearings with the parties to the review if he or she considers that it would assist in the conduct and consideration of the review to do so.
 
-             (2)  At a conference, the Principal Member may:
+             (2)  At a directions hearing, the Principal Member may:
 
                      (a)  fix a day or days for the hearing; and
 
@@ -11798,31 +12734,13 @@ Notice to set out the effect of offence provisions
 
                      (c)  give directions about the time within which evidence is to be brought before the SSAT; and
 
-                     (d)  give directions about what evidence is to be brought before the SSAT.
-
-             (3)  Paragraph (2)(d) does not limit the evidence that may be brought before the SSAT.
-
-Restrictions on disclosure of information obtained at a conference
-
-             (4)  The Principal Member may make an order directing a party to the review who is present at a conference:
-
-                     (a)  not to disclose information obtained by the party at the conference; or
-
-                     (b)  not to disclose information obtained by the party at the conference except in the circumstances, or for the purposes, specified in the order.
-
-             (5)  A person commits an offence if:
-
-                     (a)  the person is given an order under subsection (4); and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+                     (d)  give directions about what information is to be given to the SSAT.
 
 ##### <a id="129B"></a>129B  Powers of SSAT if parties reach agreement
 
              (1)  If:
 
-                     (a)  at a pre‑hearing conference under section 129A with the parties to a review, the parties agree to the terms of a decision of the SSAT:
+                     (a)  at a directions hearing under section 129A with the parties to a review, the parties agree to the terms of a decision of the SSAT:
 
                               (i)  in the review; or
 
@@ -11854,9 +12772,7 @@ the SSAT may act in accordance with whichever of subsection (2) or (3) is rele
 
                      (a)  is not bound by legal technicalities, legal forms or rules of evidence; and
 
-                     (b)  is to act as speedily as a proper consideration of the review allows; and
-
-                     (c)  in determining what a proper consideration of the review requires, must have regard to the objective laid down by section 110.
+                     (b)  is to act as speedily as a proper consideration of the review allows.
 
              (2)  The SSAT may inform itself on any matter relevant to a review of a decision in any manner it considers appropriate.
 
@@ -11868,18 +12784,6 @@ the SSAT may act in accordance with whichever of subsection (2) or (3) is rele
 
              (3)  In giving directions under subsection (2), the Principal Member must have regard to the wishes of the parties and the need to protect their privacy.
 
-##### <a id="133"></a>133  Restrictions on disclosure of information obtained at hearing
-
-             (1)  The Principal Member may make an order directing a person who is present at the hearing of a review:
-
-                     (a)  not to disclose information obtained by the person in the course of the hearing; or
-
-                     (b)  not to disclose information obtained by the person in the course of the hearing except in the circumstances, or for the purposes, specified in the order.
-
-             (2)  A person who contravenes an order under subsection (1) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
-
-             (3)  Strict liability applies to the element of an offence against subsection (2) that an order is an order under subsection (1).
-
 #### Subdivision D—Other procedural matters
 
 ##### <a id="134"></a>134  Adjournment of SSAT hearings
@@ -11890,49 +12794,73 @@ the SSAT may act in accordance with whichever of subsection (2) or (3) is rele
 
                      (a)  the hearing has already been adjourned on 2 or more occasions; or
 
-                     (b)  the SSAT is satisfied that to grant an adjournment would be inconsistent with the pursuit of the objective laid down by section 110; or
-
                      (c)  a declaration under section 112 is in force in relation to the decision under review.
 
-##### <a id="135"></a>135  Withdrawal of application for review
+##### <a id="135"></a>135  Dismissal of application for review by SSAT
 
-             (1)  An applicant for review of a decision may withdraw the application at any time.
+             (1)  The Principal Member may, on the request of a party or on his or her own initiative, dismiss an application for review of a decision if:
 
-             (2)  An applicant may withdraw an application by:
+                     (a)  the decision is not reviewable under this Part; or
 
-                     (a)  sending by any means, or delivering, written notice of withdrawal of the application to:
+                     (b)  the application is frivolous or vexatious; or
 
-                              (i)  an office of the SSAT; or
+                     (c)  all of the parties consent; or
 
-                             (ii)  an office of the Department; or
+                     (d)  the Principal Member is satisfied:
 
-                            (iii)  an office of another agency, where the Secretary has approved the office for the purposes of this subparagraph; or
+                              (i)  after having communicated with each party; or
 
-                     (b)  going to an office of the SSAT and orally withdrawing the application; or
+                             (ii)  after having made reasonable attempts to communicate with each party and having failed to do so;
 
-                     (c)  contacting an office of the SSAT by telephone and orally withdrawing the application.
+                            or a combination of both, that none of the parties intend to proceed with the application; or
 
-             (3)  If a person withdraws an application in accordance with paragraph (2)(b) or (c), the person who receives the oral withdrawal must make a written record of the day on which the withdrawal was made.
+                     (e)  all of the parties fail to attend the hearing.
 
-             (4)  If a person withdraws an application by sending or delivering written notice of withdrawal to an office of an agency, the head of the agency must send notice of the withdrawal to the Principal Member as soon as practicable and, in any event, not later than 7 days after the notice of withdrawal is received at the office of the agency.
+             (2)  The Principal Member may dismiss an application under paragraph (1)(b) only if:
 
-##### <a id="136"></a>136  Dismissal of an application
+                     (a)  one of the following applies:
 
-             (1)  If:
+                              (i)  the Principal Member has received and considered submissions from the applicant for review;
 
-                     (a)  a person makes an application to the SSAT for review of a decision; and
+                             (ii)  the Principal Member has otherwise communicated with the applicant in relation to the grounds of the application;
 
-                     (b)  the Principal Member is satisfied:
+                            (iii)  the Principal Member has made reasonable attempts to communicate with the applicant in relation to the grounds of the application and has failed to do so; and
 
-                              (i)  after having communicated with the person; or
+                     (b)  all of the parties (other than the applicant) consent to the dismissal.
 
-                             (ii)  after having made reasonable attempts to communicate with the person and having failed to do so;
+             (3)  If the Principal Member dismisses an application under subsection (1) (other than under paragraph (1)(b)), a party to the review may:
 
-                            that the person does not intend to proceed with the application;
+                     (a)  within 28 days after receiving notification that the application has been dismissed; or
 
-the Principal Member may dismiss the application.
+                     (b)  within such longer period as the Principal Member, in special circumstances, allows;
 
-             (2)  If the Principal Member dismisses an application under subsection (1), the application is taken to have been withdrawn at the time at which the application was dismissed.
+request that the Principal Member reinstate the application.
+
+             (4)  If the Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+
+             (5)  If it appears to the Principal Member that an application has been dismissed under subsection (1) in error, he or she may, on the request of a party to the review or on his or her own initiative, reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+
+             (6)  This section does not apply in relation to a party if the party is the Secretary.
+
+##### <a id="136"></a>136  Dismissal of application for review on request of party
+
+             (1)  An applicant for review may notify the SSAT at any time that the application for review is discontinued or withdrawn.
+
+             (2)  If the applicant orally notifies the SSAT, the person who receives the notification must make a written record of the day on which the notification was given.
+
+             (3)  If notification is given under subsection (1), the Principal Member is taken to have dismissed the application.
+
+             (4)  If the Principal Member dismisses an application under subsection (3), a party to the review may:
+
+                     (a)  within 28 days after receiving notification that the application has been dismissed; or
+
+                     (b)  within such longer period as the Principal Member, in special circumstances, allows;
+
+request that the Principal Member reinstate the application.
+
+             (5)  If the Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
+
+             (6)  This section does not apply in relation to a party if the party is the Secretary.
 
 ##### <a id="137"></a>137  Presiding member at SSAT hearing
 
@@ -11967,8 +12895,6 @@ the Principal Member may dismiss the application.
                      (b)  a direction under subsection (1) of this section.
 
              (6)  A direction under subsection (4) may be given before or after the hearing of the particular review has commenced.
-
-             (7)  Directions under this section must have due regard to the objective laid down by section 110.
 
 ##### <a id="140"></a>140  Costs of review
 
@@ -12095,6 +13021,68 @@ Examples of obvious errors
                      (a)  an obvious clerical or typographical error in the text of the decision or statement; and
 
                      (b)  an inconsistency between the decision and the statement.
+
+#### Subdivision G—Restrictions on disclosure of information
+
+##### <a id="141C"></a>141C  Orders restricting disclosure of information
+
+             (1)  The Principal Member may make an order directing a person:
+
+                     (a)  not to disclose information specified in the order; or
+
+                     (b)  not to disclose information specified in the order except in the circumstances, or for the purposes, specified in the order; or
+
+                     (c)  not to disclose information specified in the order, except to a specified person or class of persons.
+
+             (2)  An order may only specify information that has been disclosed to the person for purposes relating to a review under this Part.
+
+             (3)  A person commits an offence if:
+
+                     (a)  the Principal Member makes an order under subsection (1) in relation to the person; and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (4)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure referred to in subsection (2) was made.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="141D"></a>141D  Varying an order to permit certain disclosures
+
+             (1)  A person in relation to whom an order has been made under subsection 141C(1) may request the Principal Member to vary the order to allow the person to disclose particular information specified in the order:
+
+                     (a)  in particular circumstances or for particular purposes; or
+
+                     (b)  to a particular person or class of persons.
+
+             (2)  The Principal Member may vary the order in accordance with the request.
+
+             (3)  This section does not limit the Principal Member’s power to vary or revoke an order.
+
+Note:          For variation and revocation apart from under this section, see subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+##### <a id="141E"></a>141E  Orders restricting secondary disclosures of information
+
+             (1)  If an order (the **_primary order_**) under subsection 141C(1) directs a person not to disclose information specified in the order, except to any of the following (an **_authorised recipient_**):
+
+                     (a)  a specified person;
+
+                     (b)  a member of a specified class of persons;
+
+the Principal Member may make another order, directing an authorised recipient not to disclose the information specified in the primary order.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the Principal Member makes an order under subsection (1) in relation to the person; and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (3)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure of the information in accordance with the primary order was made.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
 ### Division 4—Review by the Administrative Appeals Tribunal
 
@@ -12549,6 +13537,8 @@ Note:          The tax file number must first have been provid
                      (a)  discloses particulars of the individual’s adjusted taxable income for that income year under subsection (5); or
 
                      (b)  receives a notice under subsection (3) that the Secretary understands that the individual is not required to lodge an income tax return for that income year.
+
+             (8)  If the tax file number of an individual, or of the partner of an individual, is provided to the Secretary under Division 4E of Part 3, this section applies as if a reference to the amounts included in the individual’s adjusted taxable income were a reference to the individual’s taxable income or the individual’s partner’s taxable income (as the case requires).
 
 ##### <a id="154B"></a>154B  Providing information to assist debt recovery
 
@@ -14736,6 +15726,12 @@ Note 1:       This is a civil penalty provision. Part 8C provides 
 
 Note 2:       Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents.
 
+          (6A)  However, a person that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ need not comply with a notice given to the person under this section to the extent that:
+
+                     (a)  the notice requires the person to provide particular financial information to the Secretary; and
+
+                     (b)  the person has provided, or provides, that particular financial information to the Commissioner of the ACNC under that Act before the end of the period specified under paragraph (3)(b).
+
              (7)  For the purposes of:
 
                      (a)  paragraph (1)(d) of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_; and
@@ -15486,9 +16482,9 @@ Note:          For **_child care service payment_** see subsec
 
                      (c)  family tax benefit by single payment/in substitution because of the death of another individual; or
 
-                     (d)  baby bonus; or
+                    (ca)  schoolkids bonus; or
 
-                     (e)  maternity immunisation allowance; or
+                     (d)  baby bonus; or
 
                       (f)  child care benefit by fee reduction; or
 
@@ -15498,11 +16494,17 @@ Note:          For **_child care service payment_** see subsec
 
                    (ha)  child care rebate; or
 
+                   (hb)  single income family supplement; or
+
                       (i)  one‑off payment to families; or
 
                       (j)  economic security strategy payment to families; or
 
-                     (k)  back to school bonus or single income family bonus.
+                     (k)  back to school bonus or single income family bonus; or
+
+                      (l)  clean energy advance; or
+
+                    (m)  ETR payment.
 
 ### Division 2—Appointment of nominees
 
@@ -16454,6 +17456,14 @@ Note:          This section does not abrogate or affect the la
 
                      (b)  Division 2 of Part 8C (infringement notices).
 
+             (5)  The Secretary may delegate to an APS employee in the Department administered by the Minister administering the _Veterans’ Entitlements Act 1986_ all or any of the powers of the Secretary under the family assistance law that relate to the schoolkids bonus, to the extent that eligibility for that bonus is because of a payment of an education allowance under:
+
+                     (a)  the Veterans’ Children Education Scheme; or
+
+                     (b)  the Military Rehabilitation and Compensation Act Education and Training Scheme.
+
+Note:          The expression **_APS employee_** is defined in section 2B of the _Acts Interpretation Act 1901_.
+
 ##### <a id="221A"></a>221A  Committees
 
              (1)  The Minister may in writing establish committees for the purposes of the family assistance law.
@@ -16526,7 +17536,7 @@ is:
 
                      (e)  left at the address of the place of residence or business of the person last known to the Secretary; or
 
-                      (f)  sent by prepaid post to the address of the person last know to the Secretary;
+                      (f)  sent by prepaid post to the address of the person last known to the Secretary;
 
 notice of the decision is taken, for the purposes of the family assistance law, to have been given to the person.
 
@@ -16831,7 +17841,7 @@ of Assent</div>
     <div>8 July 1999</div>
   </td>
   <td>
-    <div>Ss. 1, 2 and 235(5): Royal Assent Remainder: ( <i>see</i>s. 2(2))</div>
+    <div>Ss. 1, 2 and 235(5): Royal Assent Remainder: 1 July 2000 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div></div>
@@ -16914,7 +17924,7 @@ of Assent</div>
     <div>Schedules 2, 5 and 6: <i>(d)</i></div>
   </td>
   <td>
-    <div>Sch. 5 and 6</div>
+    <div>Schs. 5 and 6</div>
   </td>
   <td>
     <div></div>
@@ -17216,7 +18226,7 @@ Schedule 2 (items 84–86): <i>(g)</i></div>
     <div>8 Dec 2004</div>
   </td>
   <td>
-    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
+    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
   </td>
   <td>
     <div>Sch. 4 (item 44)</div>
@@ -17346,7 +18356,7 @@ Sch. 2 (item 35)</div>
 Schedule 4: 1 July 2006</div>
   </td>
   <td>
-    <div>Sch. 2 (item 20), Sch. 4 (item 2) and Sch. 5 (items 6, 7)</div>
+    <div>Sch. 2 (item 20), Sch. 4 (item 2) and Sch. 5 (items 6, 7)</div>
   </td>
   <td>
     <div></div>
@@ -17408,9 +18418,8 @@ Schedule 11: 1 July 2002</div>
 Schedule 5 (items 78–89) and Schedule 8 (items 92–109, 145(1)): 1 July 2008</div>
   </td>
   <td>
-    <div>Sch. 8 (item 145(1)) 
-Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
-Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16])</div>
+    <div>Sch. 8 (item 145(1)) Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16])</div>
   </td>
   <td>
     <div></div>
@@ -17710,7 +18719,7 @@ S. 2(1) (items
   </td>
   <td>
     <div>Sch. 2 (item 7) 
-Ss. 4–7 (rep. by 93, 2010, Sch. 1 \[item 3])</div>
+Ss. 4–7 (rep. by 93, 2010, Sch. 1 \[item 3])</div>
   </td>
   <td>
     <div></div>
@@ -17798,7 +18807,7 @@ Schedule 4: 26 June 2008 Schedule 5 (item 23): 1 Jan 2009</div>
 32–35, 36(1), 
 37–40), Sch. 3 (items 26, 27), Sch. 4 (items 86, 87) and Sch. 5 (items 
 27, 29–31) 
-Sch. 2 (item 36(2)) (am. by 50, 2009, Sch. 1 \[items 15, 39])</div>
+Sch. 2 (item 36(2)) (am. by 50, 2009, Sch. 1 \[items 15, 39])</div>
   </td>
   <td>
     <div></div>
@@ -17859,7 +18868,7 @@ Sch. 2 (item 36(2)) (am. by 50, 2009, Sch. 1 \[items 15, 39])</div>
 Schedule 2 (items 16–21, 22(1), 24–34, 43, 44): 1 Jan 2009</div>
   </td>
   <td>
-    <div>S. 4, Sch. 2 (items 22(1), 34, 44) and Sch. 6 (item 15)</div>
+    <div>S. 4, Sch. 2 (items 22(1), 34, 44) and Sch. 6 (item 15)</div>
   </td>
   <td>
     <div></div>
@@ -17916,7 +18925,7 @@ Schedule 2 (items 16–21, 22(1), 24–34, 43, 44): 1 Jan 2009</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 10–14): 1 Jan 2009</div>
+    <div>Schedule 1 (items 10–14): 1 Jan 2009</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -18020,9 +19029,10 @@ Remainder: Royal Assent</div>
     <div>24 June 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 11–15, 23–38, 42, 43), Schedule 2 (items 11–22), Schedule 3 and Schedule 5 (items 2–12): Royal Assent 
+    <div>Schedule 1 (items 11–15, 
+23–38, 42, 43), Schedule 2 (items 11–22), Schedule 3 and Schedule 5 (items 2–12): Royal Assent 
 Schedule 4 (items 1–9): 25 June 2009 
-Schedule 4 (items 10–14): 24 Dec 2009 
+Schedule 4 (items 10–14): 24 Dec 2009 
 Schedule 5 (items 13–19): 22 July 2009</div>
   </td>
   <td>
@@ -18430,7 +19440,7 @@ Schedule 2 (item 4) and Schedule 3 (items 1–6): 22 Aug 2011
 Schedule 4 (item 4): <i>(o)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 34), Sch. 3 (item 6), Sch. 4 (item 7) and Sch. 5 (item 21) 
+    <div>Sch. 1 (item 34), Sch. 3 (item 6), Sch. 4 (item 7) and Sch. 5 (item 21) 
 S. 2(1) (item 5) (rs. by 32, 2011, Sch. 4 \[item 658]) 
 S. 2(1) (items 
 6–12) (ad. by 32, 2011, Sch. 4 \[item 658])</div>
@@ -18550,12 +19560,119 @@ S. 2(1) (items
     <div>29 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 4–14, 
-33, 34(1), 47): \[ <i>see</i>Note 2 and Table A] 
-Schedule 8 (items 6–17): \[ <i>see (r)</i>,Note 2 and Table A]</div>
+    <div>Schedule 2 (items 4–14, 33, 34(1), 47): 14 May 2012 
+Schedule 8 (items 6–17): <i>(r)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 34(1)) and Sch. 8 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment Act 2012</div>
+  </td>
+  <td>
+    <div>49, 2012</div>
+  </td>
+  <td>
+    <div>26 May 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–6, 
+15–45, 52), Schedule 3 (items 3–10) and Schedule 6 (items 29–32): 1 July 2012 
+Schedule 2 (items 3, 4) and Schedule 6 (items 26, 27): Royal Assent 
+Schedule 6 (item 28): <i>(s)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 52), Sch. 3 (item 10) and Sch. 6 (item 27)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>50, 2012</div>
+  </td>
+  <td>
+    <div>26 May 2012</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–13) and Schedule 2 (items 13–17): 27 May 2012 
+Schedule 1 (item 25) and Schedule 2 (item 22): <i>(t)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>98, 2012</div>
+  </td>
+  <td>
+    <div>29 June 2012</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 14, 17(1)): 1 Jan 2013 
+Schedule 7 (item 15): 30 June 2012</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 17(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012</div>
+  </td>
+  <td>
+    <div>154, 2012</div>
+  </td>
+  <td>
+    <div>17 Nov 2012</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–28, 
+159–162): 15 Dec 2012 
+Schedule 5 (item 60) and Schedule 6 (item 7): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 
+159–162)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
+  </td>
+  <td>
+    <div>169, 2012</div>
+  </td>
+  <td>
+    <div>3 Dec 2012</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 148): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
   </td>
   <td>
     <div></div>
@@ -18897,4 +20014,2540 @@ _(j)_      Subsection 2(1) (items 2 and 4) of the _Family Assistance
 
 _(k)_     Subsection 2(1) (item 3) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
 
-                 (1)   Each provision of this Act specifi
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Family Assistance Legislation Amendment (Child Care) Act 2010</i>for the
+        commencement of item 5 of Schedule 5 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      16 May 2009
+    </div>
+  </td>
+</tr></table>
+
+_(l)_      Subsection 2(1) (item 3) of the _Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to the
+        <i>Family Assistance Legislation Amendment (Participation Requirement) Act
+          2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2010
+    </div>
+  </td>
+</tr></table>
+
+_(m)_ Subsection 2(1) (item 4) of the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, items 13 to 15
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 6 of Schedule 2 to the
+        <i>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2010
+    </div>
+  </td>
+</tr></table>
+
+_(n)_ Subsection 2(1) (items 25 and 27–32) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      25\. Schedule 2, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      27\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provision(s) covered by table item 25.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      28\. Schedule 3, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      29\. Schedule 3, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      30\. Schedule 3, item 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      31\. Schedule 3, items 4 and 5
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      32\. Schedule 3, items 6 to 10
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr></table>
+
+_(o)_     Subsection 2(1) (item 6) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 4, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if item 655 of Schedule 4 to the
+        <i>Human Services Legislation Amendment Act 2011</i>commences before the
+        day after this Act receives the Royal Assent, the provision(s) do not commence
+        at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr></table>
+
+_(p)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      7B. Schedule 4, Part 6
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+    <div>
+      However, if section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences before the day this Act receives the Royal
+        Assent, the provision(s) do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      25 July 2011
+    </div>
+  </td>
+</tr></table>
+
+_(q)_     Subsection 2(1) (items 3 and 4) of the _Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 8 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 2, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      21 April 2011
+    </div>
+  </td>
+</tr></table>
+
+_(r)_     Subsection 2(1) (items 6 and 16) of the **_Clean Energy (Household Assistance Amendments) Act 2011_** provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 2
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+        <i>.</i>
+
+    </div>
+    <div>
+      However, if section 3 of the
+        <i>Clean Energy Act 2011</i>does not commence before 14 May 2012, the provision(s)
+        do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      16\. Schedule 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 6.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+_(s)_     Subsection 2(1) (item 17) of the _Family Assistance and Other Legislation Amendment Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      17\. Schedule 6, item 28
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 2 to the
+        <i>Clean Energy (Household Assistance Amendments) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+_(t)_      Subsection 2(1) (items 3 and 5) of the _Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 3 to the
+        <i>Family Assistance and Other Legislation Amendment Act 2012</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2012
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      5\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 3 to the
+        <i>Family Assistance and Other Legislation Amendment Act 2012</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2012
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. Nos. 45 and 138, 2000; No. 47, 2001; Nos. 30 and 150, 2003; No. 59, 2004; No. 111, 2005; Nos. 36 and 82, 2006; Nos. 82 and 118, 2007; No. 53, 2008; Nos. 48 and 50, 2009; Nos. 34, 38, 65 and 105, 2010; Nos. 5, 25, 32, 53, 79, 120 and 141, 2011; Nos. 49 and 154, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 179, 1999; No. 45, 2000; No. 122, 2003; No. 33, 2004; No. 63, 2008; No. 48, 2009; No. 38, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 48, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15B</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 16(4)</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 16(5), (6)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 20</div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 20</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 20A, 20B</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20C</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 137, 2001; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(4)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 28B(2), (3)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 29(2)</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005; No. 129, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 30B</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 31(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 31A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 31C, 31D</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 31E</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31E</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CA of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AA</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2009; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32AB, 32AC</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AD</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32AE</div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AE</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CB of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AF</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AG</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AH</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AI</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AK</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AL</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AM</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32A</div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32A</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005; No. 61, 2005; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32B, 32C</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32D</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32E–32H</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32J</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32K</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006; No. 34, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32L</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32M, 32N</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32P</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32Q</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32R</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 61, 2005; No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 95, 2002; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35B</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35C, 35D</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35E</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35F</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35G</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007; No. 63, 2008; No. 105, 2010; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38A</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38B</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38B</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(2)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(3)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 61, 2005; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010; No. 53, 2011; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(3)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(7)</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010; No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(2)</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 130, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(5)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 82 and 130, 2007; No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011; Nos. 49 and 98, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47AA</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47AB</div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead to s. 47AB(2)</div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47AB</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; No. 49, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47B</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47C</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49A, 49B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 53, 2008; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49E, 49F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49G, 49H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49K–49N</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50D–50G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50K</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50L, 50M</div>
+  </td>
+  <td>
+    <div>ad
