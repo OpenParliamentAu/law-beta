@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 15 March 2011
+This compilation was prepared on 1 January 2011
  taking into account amendments up to Act No. 140 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,8 +32,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Standard telephone service
 
-[6A](#6A).         When a standard telephone service is supplied in fulfilment of the universal service obligation
-
 [7](#7).            Application of this Act
 
 [7A](#7A).         Application of the _Criminal Code_
@@ -47,8 +45,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [8A](#8A).         Objects
 
 [8B](#8B).         Special meaning of _Australia_
-
-[8BA](#8BA).      Special meaning of _standard telephone service_
 
 [8C](#8C).         Meaning of _service area_
 
@@ -66,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Universal service obligation
 
-[9A](#9A).         Reasonable accessibility of prescribed carriage services
+[9A](#9A).         Determinations of what is necessary to ensure reasonable accessibility
 
 [9B](#9B).         What is a _service obligation_?
 
@@ -121,26 +117,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [12E](#12E).        Effect of certain agreements under the _Telstra Corporation Act 1991_
 
 [12EA](#12EA).     Exclusive access to universal service subsidy
-
-        **Subdivision BA—Standard telephone service requirements**
-
-[12EB](#12EB).     Performance standards
-
-[12EC](#12EC).     Performance benchmarks
-
-        **Subdivision BB—Payphone requirements**
-
-[12ED](#12ED).     Performance standards
-
-[12EE](#12EE).     Performance benchmarks
-
-[12EF](#12EF).     Rules about the location of payphones
-
-[12EG](#12EG).     Rules about the process for public consultation on the location or removal of payphones
-
-[12EH](#12EH).     Rules about the process for resolution of complaints about the location or removal of payphones
-
-[12EI](#12EI).      Directions by the ACMA about the removal of payphones
 
         **Subdivision C—Policy statements and standard marketing plans of primary universal service providers**
 
@@ -364,7 +340,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22B](#22B).       How the ACMA is to comply with a request
 
-[22C](#22C).       Minister’s information‑gathering powers
+[22C](#22C).       Minister’s information-gathering powers
 
 [22D](#22D).       Minister may modify way in which this Division applies
 
@@ -688,9 +664,7 @@ Industry Ombudsman scheme.</li>
 
 is made for the protection of residential customers of carriage service
 
-providers against failure by the providers to supply standard telephone
-
-services.</li>
+providers against failure by the providers to supply standard telephone services.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -780,10 +754,6 @@ Telstra complies with this Act.</li>
 
                     <a name="particip-person"></a>**_participating person_** for an eligible revenue period has the meaning given by section 20A.
 
-                    <a name="payphon-carriag-servic"></a>**_payphone carriage service_** means a carriage service supplied by means of a payphone.
-
-                    <a name="price-relat-term-condition"></a>**_price‑related terms and conditions_** means terms and conditions relating to price or a method of ascertaining price.
-
                     <a name="primari-univers-servic-provid"></a>**_primary universal service provider_** has the meaning given by section 12A.
 
                     <a name="rtirc"></a>**_RTIRC_** means the Regional Telecommunications Independent Review Committee established by section 158R.
@@ -816,8 +786,6 @@ Telstra complies with this Act.</li>
 
                     <a name="univers-servic-subsidi"></a>**_universal service subsidy_** has the meaning given by section 16.
 
-                    <a name="voip-servic"></a>**_VOIP service_** means a carriage service that enables a voice call to originate on customer equipment by means of the internet protocol.
-
 ##### <a id="6"></a>6  Standard telephone service
 
              (1)  A reference in a particular provision of this Act to a **_standard telephone service_** is a reference to a carriage service for each of the following purposes:
@@ -826,9 +794,9 @@ Telstra complies with this Act.</li>
 
                      (b)  if:
 
-                              (i)  voice telephony is not practical for a particular end‑user with a disability (for example, because the user is deaf or has a hearing and/or speech impairment); and
+                              (i)  voice telephony is not practical for a particular end-user with a disability (for example, because the user has a hearing impairment); and
 
-                             (ii)  another form of communication that is equivalent to voice telephony (for example, communication by means of a device that enables text‑based communication) would be required to be supplied to the end‑user in order to comply with the _Disability Discrimination Act 1992_;
+                             (ii)  another form of communication that is equivalent to voice telephony (for example, communication by means of a teletypewriter) would be required to be supplied to the end-user in order to comply with the _Disability Discrimination Act 1992_;
 
                             the purpose of that form of communication;
 
@@ -844,7 +812,7 @@ where:
 
                      (g)  to the extent that the service is for a particular purpose referred to in paragraph (c)—the service has the characteristics (if any) declared by the regulations to be the designated characteristics in relation to that service for the purposes of that provision.
 
-             (2)  A service passes the connectivity test if an end‑user supplied with the service for a purpose mentioned in paragraph (1)(a), (b) or (c) is ordinarily able to communicate, by means of the service, with each other end‑user who is supplied with the same service for the same purpose, whether or not the end‑users are connected to the same telecommunications network.
+             (2)  A service passes the connectivity test if an end-user supplied with the service for a purpose mentioned in paragraph (1)(a), (b) or (c) is ordinarily able to communicate, by means of the service, with each other end-user who is supplied with the same service for the same purpose, whether or not the end-users are connected to the same telecommunications network.
 
              (3)  The following are examples of purposes that could be declared by regulations made for the purposes of paragraph (1)(c):
 
@@ -852,7 +820,7 @@ where:
 
                      (b)  the purpose of tone signalling.
 
-             (4)  In making a recommendation to the Governor‑General at a particular time about the making of regulations for the purposes of paragraph (1)(c), the Minister must have regard to the following matters:
+             (4)  In making a recommendation to the Governor-General at a particular time about the making of regulations for the purposes of paragraph (1)(c), the Minister must have regard to the following matters:
 
                      (a)  whether a carriage service for the purpose proposed to be declared by the regulations can be supplied using the same infrastructure as is, at that time, being used by universal service providers to supply a standard telephone service for the purpose referred to in paragraph (1)(a);
 
@@ -864,57 +832,13 @@ where:
 
                     <a name="act"></a>**_this Act_** includes the _Telecommunications Act 1997_.
 
-##### <a id="6A"></a>6A  When a standard telephone service is supplied in fulfilment of the universal service obligation
-
-Mobile and VOIP services
-
-             (1)  For the purposes of this Act, if:
-
-                     (a)  a standard telephone service is supplied _,_ or proposed to be supplied, to a customer by a primary universal service provider; and
-
-                     (b)  the service is:
-
-                              (i)  a public mobile telecommunications service; or
-
-                             (ii)  a VOIP service;
-
-the service is taken not to be supplied in fulfilment of the universal service obligation unless, before the customer entered into an agreement with the primary universal service provider for the supply of the service:
-
-                     (c)  the provider notified the customer, in writing, that the service is supplied in fulfilment of the universal service obligation; and
-
-                     (d)  the notice complied with such requirements (if any) as are specified in a determination under subsection (2).
-
-             (2)  The ACMA may, by legislative instrument, determine requirements for the purposes of paragraph (1)(d).
-
-Other services
-
-             (3)  For the purposes of this Act, if:
-
-                     (a)  a standard telephone service (the **_relevant service_**) is supplied, or proposed to be supplied, to a customer by a primary universal service provider; and
-
-                     (b)  the relevant service is not:
-
-                              (i)  a public mobile telecommunications service; or
-
-                             (ii)  a VOIP service;
-
-the relevant service is taken not to be supplied in fulfilment of the universal service obligation if, before the customer entered into an agreement with the primary universal service provider for the supply of the relevant service:
-
-                     (c)  the customer was given the option of being supplied with another standard telephone service by the provider on the basis that the other standard telephone service would be supplied in fulfilment of the universal service obligation; and
-
-                     (d)  the customer has, by written notice given to the provider, acknowledged that the relevant service is not supplied in fulfilment of the universal service obligation; and
-
-                     (e)  the notice complied with such requirements (if any) as are specified in a determination under subsection (4).
-
-             (4)  The ACMA may, by legislative instrument, determine requirements for the purposes of paragraph (3)(e).
-
 ##### <a id="7"></a>7  Application of this Act
 
                    The following provisions of the _Telecommunications Act 1997_ apply to this Act in a corresponding way to the way in which they apply to that Act:
 
                      (a)  section 8 (Crown to be bound);
 
-                     (b)  section 9 (extra‑territorial application);
+                     (b)  section 9 (extra-territorial application);
 
                      (c)  section 10 (extension to external Territories);
 
@@ -1026,12 +950,6 @@ The key elements of the universal service regime are as follows:
 
              (2)  The definition of **_Australia_** in section 7 of the _Telecommunications Act 1997_ does not apply to this Part.
 
-##### <a id="8BA"></a>8BA  Special meaning of _standard telephone service_
-
-             (1)  A reference in this Part to a **_standard telephone service_** is a reference to a **_standard telephone service_** (within the meaning of section 6) that has the characteristics (if any) specified in a determination under subsection (2).
-
-             (2)  The Minister may, by legislative instrument, determine specified characteristics for the purposes of subsection (1).
-
 ##### <a id="8C"></a>8C  Meaning of _service area_
 
                    For the purposes of this Part, a **_service area_** is:
@@ -1048,7 +966,7 @@ regardless of size.
 
              (1)  For the purposes of this Part, a **_claim period_** is:
 
-                     (a)  the 2000‑2001 financial year and each later financial year; or
+                     (a)  the 2000-2001 financial year and each later financial year; or
 
                      (b)  if the Minister determines in writing another period—the other period.
 
@@ -1090,31 +1008,39 @@ regardless of size.
 
                      (c)  to ensure that prescribed carriage services are reasonably accessible to all people in Australia on an equitable basis, wherever they reside or carry on business.
 
-             (2)  The obligation mentioned in paragraph (1)(a) includes the obligation to supply standard telephone services to people in Australia on request.
+             (2)  To the extent necessary to achieve the obligation mentioned in subsection (1), the universal service obligation includes:
 
-          (2A)  The obligation mentioned in paragraph (1)(b) includes the obligation to supply, install and maintain payphones in Australia.
+                     (a)  the supply of standard telephone services to people in Australia on request; and
 
-          (2B)  The obligation mentioned in paragraph (1)(c) includes the obligation to supply prescribed carriage services to people in Australia on request.
+                     (b)  the supply, installation and maintenance of payphones in Australia; and
 
-          (2C)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service to a person on request unless the request complies with the requirements (if any) set out in a determination under subsection (2D).
+                     (c)  the supply of prescribed carriage services to people in Australia on request.
 
-          (2D)  The Minister may, by legislative instrument, determine requirements for the purposes of subsection (2C).
+             (3)  The Minister may make a written determination that the universal service obligation includes the supply, installation and maintenance of payphones at specified locations in Australia. The determination has effect accordingly and a copy of the determination must be published in the _Gazette_.
 
-          (2E)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service in the circumstances (if any) specified in a determination under subsection (3).
+             (4)  An obligation does not arise under paragraph (2)(a) in relation to particular equipment, goods or services the supply of which is treated under section 9E as the supply of a standard telephone service if the customer concerned requests not to be supplied with the equipment, goods or services.
 
-             (3)  The Minister may, by legislative instrument, determine circumstances for the purposes of subsection (2E).
+             (5)  An obligation does not arise under paragraph (2)(c) in relation to particular equipment, goods or services the supply of which is treated under section 9F as the supply of a prescribed carriage service if the customer concerned requests not to be supplied with the equipment, goods or services.
 
-             (4)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to particular equipment, goods or services the supply of which is treated under section 9E as the supply of a standard telephone service if the customer concerned requests not to be supplied with the equipment, goods or services.
+             (6)  To avoid doubt, an obligation arising under paragraph (2)(a) in relation to customer equipment requires the customer concerned to be given the option of hiring the equipment.
 
-             (5)  An obligation does not arise under paragraph (1)(c) or subsection (2B) in relation to particular equipment, goods or services the supply of which is treated under section 9F as the supply of a prescribed carriage service if the customer concerned requests not to be supplied with the equipment, goods or services.
+##### <a id="9A"></a>9A  Determinations of what is necessary to ensure reasonable accessibility
 
-             (6)  To avoid doubt, an obligation arising under paragraph (1)(a) or subsection (2) in relation to customer equipment requires the customer concerned to be given the option of hiring the equipment.
+             (1)  The Minister may determine in writing for the purpose of paragraph 9(1)(a) what is, or is not, necessary to ensure that standard telephone services are reasonably accessible as mentioned in that paragraph.
 
-##### <a id="9A"></a>9A  Reasonable accessibility of prescribed carriage services
+             (2)  The Minister may determine in writing, for the purpose of paragraph 9(1)(b), what is, or is not, necessary to ensure that payphones are reasonably accessible as mentioned in that paragraph, including:
 
-             (1)  The Minister may determine in writing, for the purpose of paragraph 9(1)(c), what is, or is not, necessary to ensure that prescribed carriage services are reasonably accessible as mentioned in that paragraph.
+                     (a)  criteria for determining the locations of payphones; and
 
-             (2)  A determination under subsection (1) is a legislative instrument.
+                     (b)  the process for public consultation on the location of payphones; and
+
+                     (c)  the process for resolution of any complaints about the location of payphones.
+
+             (3)  The Minister may determine in writing, for the purpose of paragraph 9(1)(c), what is, or is not, necessary to ensure that prescribed carriage services are reasonably accessible as mentioned in that paragraph.
+
+             (4)  Subsection 9(3) and subsection (2) of this section do not limit the generality of one another.
+
+             (5)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="9B"></a>9B  What is a _service obligation_?
 
@@ -1158,7 +1084,7 @@ regardless of size.
 
                               (i)  that customer equipment;
 
-                             (ii)  if other customer equipment is supplied, instead of the first‑mentioned customer equipment, in order to comply with the _Disability Discrimination Act 1992_—that other customer equipment; and
+                             (ii)  if other customer equipment is supplied, instead of the first-mentioned customer equipment, in order to comply with the _Disability Discrimination Act 1992_—that other customer equipment; and
 
                      (b)  if paragraph (a) does not apply—whichever of the following is applicable:
 
@@ -1286,7 +1212,7 @@ Note:          A determination that the Minister is taken to h
 
                      (b)  another person, who is or was a universal service provider for the area in respect of the obligation, is determined to be a former provider  under subsection (2B).
 
-Note:        The Minister may be taken to have made a determination under section 12A if an agreement is made under section 56 or 57 of the _Telstra Corporation Act 1991_: see section 12E.
+Note:       The Minister may be taken to have made a determination under section 12A if an agreement is made under section 56 or 57 of the _Telstra Corporation Act 1991_: see section 12E.
 
              (2)  This section also applies if:
 
@@ -1420,7 +1346,7 @@ Note:          A determination that the Minister is taken to h
 
 ##### <a id="12C"></a>12C  Obligations of primary universal service providers
 
-             (1)  A primary universal service provider for a universal service area in respect of a service obligation must:
+             (1)  A primary universal service provider for a universal service area in respect of a service obligation must take all reasonable steps to:
 
                      (a)  fulfil that service obligation, so far as it relates to that area; and
 
@@ -1512,354 +1438,6 @@ for that area in respect of that service obligation.
 
              (3)  This section applies despite anything else in this Part.
 
-#### Subdivision BA—Standard telephone service requirements
-
-##### <a id="12EB"></a>12EB  Performance standards
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the terms and conditions of the supply of a standard telephone service to a customer, other than price‑related terms and conditions;
-
-                     (b)  the reliability of a standard telephone service supplied to a customer;
-
-                     (c)  the supply of a temporary standard telephone service to a customer;
-
-                     (d)  the maximum period within which a primary universal service provider must supply a standard telephone service following the making of a request by a prospective customer;
-
-                     (e)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a standard telephone service following the making of a report by a customer about the fault or service difficulty;
-
-                      (f)  any other matter concerning the supply, or proposed supply, of a standard telephone service to a customer or prospective customer.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Compliance
-
-             (4)  A primary universal service provider must comply with a standard in force under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (5)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Service supplied in fulfilment of the universal service obligation
-
-             (6)  This section does not apply to a standard telephone service unless the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
-
-Note:          See also section 6A (when a standard telephone service is supplied in fulfilment of the universal service obligation).
-
-Determination is a legislative instrument
-
-             (7)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EC"></a>12EC  Performance benchmarks
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the terms and conditions of the supply of a standard telephone service to a customer, other than price‑related terms and conditions;
-
-                     (b)  the reliability of a standard telephone service supplied to a customer;
-
-                     (c)  the supply of a temporary standard telephone service to a customer;
-
-                     (d)  the maximum period within which a primary universal service provider must supply a standard telephone service following the making of a request by a prospective customer;
-
-                     (e)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a standard telephone service following the making of a report by a customer about the fault or service difficulty;
-
-                      (f)  any other matter concerning the supply, or proposed supply, of a standard telephone service to a customer or prospective customer.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the instrument.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-Performance benchmarks
-
-             (6)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by a primary universal service provider with a standard in force under subsection (1).
-
-             (7)  An instrument under subsection (6) may be of general application or may be limited as provided in the instrument.
-
-             (8)  Subsection (7) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Provider must meet or exceed minimum benchmarks
-
-             (9)  A primary universal service provider must meet or exceed a minimum benchmark set by an instrument under subsection (6).
-
-Clause 1 of Schedule 1 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (10)  Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ requires carriers to comply with this Act.
-
-Clause 1 of Schedule 2 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (11)  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
-
-#### Subdivision BB—Payphone requirements
-
-##### <a id="12ED"></a>12ED  Performance standards
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the characteristics of a payphone carriage service;
-
-                     (b)  the supply, installation or maintenance of a payphone;
-
-                     (c)  the supply of a payphone carriage service;
-
-                     (d)  the reliability of a payphone;
-
-                     (e)  the reliability of a payphone carriage service;
-
-                      (f)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone following the making of a report about a fault or service difficulty;
-
-                     (g)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone carriage service following the making of a report about a fault or service difficulty;
-
-                     (h)  the handling of requests for the removal of a payphone;
-
-                      (i)  any other matter concerning:
-
-                              (i)  the supply, installation or maintenance of a payphone; or
-
-                             (ii)  the supply of a payphone carriage service.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Compliance
-
-             (4)  A primary universal service provider must comply with a determination under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (5)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (6)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EE"></a>12EE  Performance benchmarks
-
-Determination
-
-             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
-
-                     (a)  the characteristics of a payphone carriage service;
-
-                     (b)  the supply, installation or maintenance of a payphone;
-
-                     (c)  the supply of a payphone carriage service;
-
-                     (d)  the reliability of a payphone;
-
-                     (e)  the reliability of a payphone carriage service;
-
-                      (f)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone following the making of a report about a fault or service difficulty;
-
-                     (g)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone carriage service following the making of a report about a fault or service difficulty;
-
-                     (h)  the handling of requests for the removal of a payphone;
-
-                      (i)  any other matter concerning:
-
-                              (i)  the supply, installation or maintenance of a payphone; or
-
-                             (ii)  the supply of a payphone carriage service.
-
-             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-Performance benchmarks
-
-             (6)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by a primary universal service provider with a standard in force under subsection (1).
-
-             (7)  An instrument under subsection (6) may be of general application or may be limited as provided in the instrument.
-
-             (8)  Subsection (7) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-Provider must meet or exceed minimum benchmarks
-
-             (9)  A primary universal service provider must meet or exceed a minimum benchmark set by an instrument under subsection (6).
-
-Clause 1 of Schedule 1 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (10)  Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ requires carriers to comply with this Act.
-
-Clause 1 of Schedule 2 to the Telecommunications Act 1997 does not apply to a breach of a standard
-
-           (11)  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
-
-Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
-
-##### <a id="12EF"></a>12EF  Rules about the location of payphones
-
-             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the places or areas in which payphones are to be located.
-
-Compliance
-
-             (2)  A primary universal service provider must comply with a determination under subsection (1).
-
-             (3)  If a primary universal service provider complies with a determination under subsection (1), the provider is taken to have complied with an obligation under paragraph 9(1)(b) or subsection 9(2A), to the extent to which the obligation relates to the location of payphones.
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EG"></a>12EG  Rules about the process for public consultation on the location or removal of payphones
-
-             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the process for public consultation on the location or removal of payphones.
-
-             (2)  The Minister must ensure that a determination under subsection (1) provides that, if:
-
-                     (a)  a primary universal service provider makes a decision to remove a payphone from a particular location; and
-
-                     (b)  that payphone is the only payphone at that location;
-
-then:
-
-                     (c)  the provider must undertake a process for public consultation on the removal of that payphone; and
-
-                     (d)  if, in accordance with that process, a person makes a submission to the provider—the provider must notify the person, in writing, of the outcome of that process.
-
-Compliance
-
-             (3)  A primary universal service provider must comply with a determination under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (4)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (5)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EH"></a>12EH  Rules about the process for resolution of complaints about the location or removal of payphones
-
-             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the process for resolution of complaints about the location or removal of payphones.
-
-Compliance
-
-             (2)  A primary universal service provider must comply with a determination under subsection (1).
-
-Determination prevails over inconsistent instruments
-
-             (3)  Each of the following instruments:
-
-                     (a)  an approved policy statement for a primary universal service provider;
-
-                     (b)  an approved standard marketing plan for a primary universal service provider;
-
-has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
-
-Determination is a legislative instrument
-
-             (4)  A determination under subsection (1) is a legislative instrument.
-
-##### <a id="12EI"></a>12EI  Directions by the ACMA about the removal of payphones
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  a primary universal service provider has made a decision to remove a payphone from a particular location; and
-
-                     (b)  a person notifies the ACMA, in writing, that the person objects to the removal; and
-
-                     (c)  the ACMA is satisfied that:
-
-                              (i)  the removal would breach, or has breached, a determination under subsection 12EF(1); or
-
-                             (ii)  the provider has breached a determination under subsection 12EG(1) in relation to the removal.
-
-Direction
-
-             (2)  If the payphone has not been removed, the ACMA may, by written notice given to the provider, direct the provider not to remove the payphone from that location.
-
-             (3)  If the payphone has been removed, the ACMA may, by written notice given to the provider, direct the provider:
-
-                     (a)  to supply and install a payphone at that location; and
-
-                     (b)  to do so within the period specified in the notice.
-
-             (4)  A period specified under paragraph (3)(b) must not be shorter than 30 days after the notice is given.
-
-             (5)  A direction under subsection (2) or (3) must not be inconsistent with a determination under subsection 12EF(1).
-
-Compliance
-
-             (6)  A primary universal service provider must comply with a direction under subsection (2) or (3).
-
-Direction is not a legislative instrument
-
-             (7)  A direction under subsection (2) or (3) is not a legislative instrument.
-
 #### Subdivision C—Policy statements and standard marketing plans of primary universal service providers
 
 ##### <a id="12F"></a>12F  Meaning of expressions
@@ -1880,7 +1458,7 @@ but does not deal with alternative telecommunications services.
 
              (5)  A draft or approved standard marketing plan may cover one or more universal service areas in respect of one or more service obligations.
 
-##### <a id="12G"></a>12G  Minister may determine requirements for drafts
+##### <a id="12G"></a>12G  Minister may determine requirements for drafts
 
              (1)  The Minister may determine in writing requirements for draft policy statements and draft standard marketing plans of primary universal service providers.
 
@@ -2694,7 +2272,7 @@ and the provider gives the ACMA a draft variation of the current statement or cu
 
              (2)  The Minister may make a written determination setting out:
 
-                     (a)  price‑cap arrangements and other price control arrangements that are to apply in relation to the charge; or
+                     (a)  price-cap arrangements and other price control arrangements that are to apply in relation to the charge; or
 
                      (b)  principles or rules in accordance with which the universal service provider may impose or alter the charge;
 
@@ -2790,7 +2368,7 @@ Note:          It is an offence to make a false or misleading 
 
              (1)  For the purposes of this Act, an **_eligible revenue period_** is:
 
-                     (a)  the 1999‑2000 financial year and each later financial year; or
+                     (a)  the 1999-2000 financial year and each later financial year; or
 
                      (b)  if the Minister determines in writing another period—that other period.
 
@@ -2868,7 +2446,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image002.gif)
 
 where:
 
@@ -2974,7 +2552,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image003.gif)
 
 where:
 
@@ -2988,7 +2566,7 @@ Note:          The Minister may, for example, increase the amo
 
              (4)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="20S"></a>20S  Levy debit balance
+##### <a id="20S"></a>20S  Levy debit balance
 
                    If a person’s levy debit (if any) under section 20R for a claim period exceeds the person’s assessed levy credit (if any) under section 20N for the claim period, then:
 
@@ -3150,7 +2728,7 @@ after the ACMA gives a copy of the assessment to the participating person in res
 
                     <a name="fma-act"></a>**_FMA Act_** means the _Financial Management and Accountability Act 1997._
 
-                    <a name="unamended-act"></a>**_unamended Act_**means this Act as in force immediately before the commencement of Schedule 1 to the _Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2) 2000_.
+                    <a name="unamended-act"></a>**_Unamended Act_**means this Act as in force immediately before the commencement of Schedule 1 to the _Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2) 2000_.
 
 ##### <a id="21A"></a>21A  Credits to Universal Service Account
 
@@ -3310,7 +2888,7 @@ Note:          Information, documents or persons may be specif
 
                     <a name="docum"></a>**_document_** includes a part of a document.
 
-##### <a id="22C"></a>22C  Minister’s information‑gathering powers
+##### <a id="22C"></a>22C  Minister’s information-gathering powers
 
              (1)  This section applies if the Minister has reason to believe that a carrier or carriage service provider has information that is relevant to the exercise of the Minister’s powers, or performance of the Minister’s functions, under this Part.
 
@@ -3458,7 +3036,7 @@ standard telephone service.</li>
 
                     <a name="nr-servic-plan"></a>**_NRS service plan_** means a plan referred to in subsection 95(2).
 
-                    <a name="particip-person"></a>**_participating person_** for a levy quarter has the meaning given by section 94A.
+                    <a name="particip-person"></a>**_Participating person_** for a levy quarter has the meaning given by section 94A.
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months ending on 30 September, 31 December, 31 March or 30 June.
 
@@ -3522,13 +3100,13 @@ standard telephone service.</li>
 
              (4)  In addition to the report under subsection (2), the ACMA must give the Minister such reports or advice as the Minister requires in relation to the NRS service plan.
 
-             (5)  A reference in this section to a **_financial year_** is a reference to the 1999‑2000 financial year or a later financial year.
+             (5)  A reference in this section to a **_financial year_** is a reference to the 1999-2000 financial year or a later financial year.
 
 ### Division 3—The NRS levy
 
 ##### <a id="98"></a>98  Levy quarters
 
-                   NRS levy is payable for each of the quarters in a financial year, starting with the 1999‑2000 financial year.
+                   NRS levy is payable for each of the quarters in a financial year, starting with the 1999-2000 financial year.
 
 ##### <a id="99"></a>99  Persons liable to pay levy (taxpayers)
 
@@ -3552,7 +3130,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00067/Html/49dc9ffc-fa33-43c9-a0e9-625211ba5b13_files/image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -3564,13 +3142,13 @@ Note:          Levy is imposed on the NRS contribution amount 
 
                     <a name="actual-nr-cost"></a>**_actual NRS cost_**, for a quarter, means the amount published for the quarter under subsection 96(2).
 
-                    <a name="elig-revenu"></a>**_eligible revenue_**, for a taxpayer for a quarter, means the taxpayer’s eligible revenue as shown in the most recent eligible revenue assessment made before the start of the quarter.
+                    <a name="elig-revenu"></a>**_Eligible revenue_**, for a taxpayer for a quarter, means the taxpayer’s eligible revenue as shown in the most recent eligible revenue assessment made before the start of the quarter.
 
 Note:          The **_most recent eligible revenue assessment_** is defined in section 101C.
 
                     <a name="estimated-nr-cost"></a>**_estimated NRS cost_**, for a quarter, means the amount published for the quarter under subsection 96(1).
 
-                    <a name="levi-shortfal"></a>**_levy shortfall_**, for a quarter, means the amount by which the estimated NRS cost for the quarter falls short of the actual NRS cost for the quarter.
+                    <a name="levi-shortfal"></a>**_Levy shortfall_**, for a quarter, means the amount by which the estimated NRS cost for the quarter falls short of the actual NRS cost for the quarter.
 
                     <a name="levi-surplu"></a>**_levy surplus_**, for a quarter, means the amount by which the estimated NRS cost for the quarter exceeds the actual NRS cost for the quarter.
 
@@ -3724,7 +3302,7 @@ Note 4:**_Untimed basis_** is defined by subsection (3).
 
              (2)  For the purposes of the application of this Part to a carriage service provider who charges for a call made using a standard telephone service supplied to an eligible customer in a particular standard zone, being an eligible customer who is not a residential/charity customer, if the call:
 
-                     (a)  is a voice call or, if a voice call is not practical for a particular end‑user with a disability, a call that is equivalent to a voice call; and
+                     (a)  is a voice call or, if a voice call is not practical for a particular end-user with a disability, a call that is equivalent to a voice call; and
 
                      (b)  is made between points in the applicable zone in relation to the provider and in relation to the customer; and
 
@@ -3750,7 +3328,7 @@ Note 4:**_Untimed basis_** is defined by subsection (3).
 
                     <a name="gener-carrier"></a>**_general carrier_** means a person who held a general telecommunications licence under the _Telecommunications Act 1991_ immediately before 20 September 1996.
 
-                    <a name="residenti-chariti-custom"></a>**_residential/charity customer_** means:
+                    <a name="residenti-chariti-custom"></a>**_Residential/charity customer_** means:
 
                      (a)  a residential customer; or
 
@@ -3760,7 +3338,7 @@ Note 4:**_Untimed basis_** is defined by subsection (3).
 
                              (ii)  a welfare body or organisation.
 
-                    <a name="satellit-servic"></a>**_satellite service_** means a carriage service, where customer equipment used in connection with the supply of the service communicates directly with a satellite‑based facility.
+                    <a name="satellit-servic"></a>**_satellite service_** means a carriage service, where customer equipment used in connection with the supply of the service communicates directly with a satellite-based facility.
 
 ##### <a id="107"></a>107  Benefits for customers outside standard zones
 
@@ -3866,7 +3444,7 @@ the provider is a universal service provider for the customer.
 
 ##### <a id="111"></a>111  Points
 
-                   For the purposes of the application of this Part to a mobile‑type carriage service, a **_point_** includes a mobile or potentially mobile point.
+                   For the purposes of the application of this Part to a mobile-type carriage service, a **_point_** includes a mobile or potentially mobile point.
 
 ##### <a id="112"></a>112  Application of this Part
 
@@ -3894,7 +3472,9 @@ providers in relation to customer service.</li>
 
 a carriage service provider contravenes a performance standard, the carriage
 
-service provider is liable to pay damages to the customer for the contravention.</li>
+service provider is liable to pay damages to the customer for the
+
+contravention.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -4040,9 +3620,9 @@ Crediting customer account
 
 the liability must be discharged within the period of 14 weeks after the decision is made and:
 
-                     (c)  if it is practicable for the carriage service provider to give the customer the credit within that 14‑week period and in time for the customer to be notified of the credit in the first bill sent to the customer during that period—by giving the customer the credit in time for the customer to be notified of the credit in that bill; or
+                     (c)  if it is practicable for the carriage service provider to give the customer the credit within that 14-week period and in time for the customer to be notified of the credit in the first bill sent to the customer during that period—by giving the customer the credit in time for the customer to be notified of the credit in that bill; or
 
-                     (d)  if paragraph (c) does not apply, but it is practicable for the carriage service provider to give the customer the credit within that 14‑week period and in time for the customer to be notified of the credit in the second bill sent to the customer during that period—by giving the customer the credit in time for the customer to be notified of the credit in that bill.
+                     (d)  if paragraph (c) does not apply, but it is practicable for the carriage service provider to give the customer the credit within that 14-week period and in time for the customer to be notified of the credit in the second bill sent to the customer during that period—by giving the customer the credit in time for the customer to be notified of the credit in that bill.
 
 Other manner of discharging liability
 
@@ -4248,7 +3828,7 @@ and carriage service providers must comply with the scheme.</li>
 
                              (ii)  a public mobile telecommunications service; or
 
-                            (iii)  a carriage service that enables end‑users to access the internet; or
+                            (iii)  a carriage service that enables end-users to access the internet; or
 
                      (b)  a carriage service intermediary who arranges for the supply of a service referred to in subparagraph (a)(i), (ii) or (iii).
 
@@ -4270,9 +3850,9 @@ Note:          Section 129 provides for exemptions from subs
 
                      (c)  give directions relating to;
 
-complaints about carriage services by end‑users of those services. 
+complaints about carriage services by end-users of those services. 
 
-          (4A)  An end‑user of a carriage service is not liable to pay any fee or charge (however described) to the provider of the carriage service in respect of a complaint made by the end‑user about the carriage service.
+          (4A)  An end-user of a carriage service is not liable to pay any fee or charge (however described) to the provider of the carriage service in respect of a complaint made by the end-user about the carriage service.
 
              (5)  The following is an example of such a complaint: a complaint about billing, or the manner of charging, for the supply of carriage services.
 
@@ -4440,7 +4020,7 @@ Note:          Payments may be specified by name, by inclusion
 
                      (c)  payments by way of connection fees;
 
-                     (d)  a pre‑payment for a standard carriage service.
+                     (d)  a pre-payment for a standard carriage service.
 
              (4)  For each protected payment, the determination must specify, or specify a means of ascertaining, a period for the purposes of this subsection. That period is called the **_minimum service period_** for the payment.
 
@@ -4488,7 +4068,7 @@ the customer:
 
                              (ii)  at any time during the minimum service period for that payment, the provider fails to supply standard carriage services to the customer;
 
-                            to reimburse the payment on a pro‑rata basis in proportion to that part or parts of the period during which the provider fails to supply the services to the customer; and
+                            to reimburse the payment on a pro-rata basis in proportion to that part or parts of the period during which the provider fails to supply the services to the customer; and
 
                      (b)  requires the provider to obtain a guarantee from a third person in respect of the provider’s discharge of that liability.
 
@@ -4504,7 +4084,7 @@ the customer:
 
                              (ii)  at any time during the minimum service period for that payment, the provider fails to supply standard carriage services to the customer;
 
-                            to reimburse the payment on a pro‑rata basis in proportion to that part or parts of the period during which the provider fails to supply the services to the customer; and
+                            to reimburse the payment on a pro-rata basis in proportion to that part or parts of the period during which the provider fails to supply the services to the customer; and
 
                      (b)  requires the provider to take out and maintain an insurance policy to indemnify residential customers against a total or partial failure to discharge that liability.
 
@@ -4520,11 +4100,11 @@ the customer:
 
                              (ii)  at any time during the minimum service period for that payment, the provider fails to supply standard carriage services to the customer;
 
-                            to reimburse the payment on a pro‑rata basis in proportion to that part or parts of the period during which the provider fails to supply the services to the customer; and
+                            to reimburse the payment on a pro-rata basis in proportion to that part or parts of the period during which the provider fails to supply the services to the customer; and
 
                      (b)  requires the provider to hold protected payments it receives in trust accounts; and
 
-                     (c)  prohibits the provider from transferring any or all of the money in such an account to its beneficial ownership except in accordance with the draw‑down rules set out in the scheme.
+                     (c)  prohibits the provider from transferring any or all of the money in such an account to its beneficial ownership except in accordance with the draw-down rules set out in the scheme.
 
              (2)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -4642,11 +4222,11 @@ in relation to emergency call services.
 
              (2)  In making a determination under this section, the ACMA must have regard to the following:
 
-                     (a)  the objective that a carriage service provider who supplies a standard telephone service should provide each end‑user of that standard telephone service with access, free of charge, to an emergency call service, unless the ACMA considers that it would be unreasonable for such access to be provided;
+                     (a)  the objective that a carriage service provider who supplies a standard telephone service should provide each end-user of that standard telephone service with access, free of charge, to an emergency call service, unless the ACMA considers that it would be unreasonable for such access to be provided;
 
-                     (b)  the objective that, if a carriage service provider who supplies a standard telephone service is required to provide each end‑user of that standard telephone service with access to an emergency call service operated by a recognised person, the recognised person should:
+                     (b)  the objective that, if a carriage service provider who supplies a standard telephone service is required to provide each end-user of that standard telephone service with access to an emergency call service operated by a recognised person, the recognised person should:
 
-                              (i)  receive and handle calls made by those end‑users to the relevant emergency service number; and
+                              (i)  receive and handle calls made by those end-users to the relevant emergency service number; and
 
                              (ii)  if appropriate—transfer such calls to an appropriate emergency service organisation; and
 
@@ -4676,7 +4256,7 @@ in relation to emergency call services.
 
                       (f)  the objective that calls made to an emergency service number are transferred to an appropriate emergency service organisation with the minimum of delay;
 
-                     (g)  the objective that, from the perspective of an ordinary end‑user of a standard telephone service, there appears to be a single national emergency call system;
+                     (g)  the objective that, from the perspective of an ordinary end-user of a standard telephone service, there appears to be a single national emergency call system;
 
                      (h)  the objective that reasonable community expectations for the handling of calls to emergency service numbers are met;
 
@@ -4698,11 +4278,11 @@ in relation to emergency call services.
 
                      (k)  the objective that carriage service providers should provide other carriage service providers with access to:
 
-                              (i)  controlled carriage services of the first‑mentioned providers; and
+                              (i)  controlled carriage services of the first-mentioned providers; and
 
-                             (ii)  controlled networks of the first‑mentioned providers; and
+                             (ii)  controlled networks of the first-mentioned providers; and
 
-                            (iii)  controlled facilities of the first‑mentioned providers;
+                            (iii)  controlled facilities of the first-mentioned providers;
 
                             in order that the other providers can comply with their obligations under the determination;
 
@@ -4796,11 +4376,11 @@ Note:          Part 31 of the _Telecommunications Act 1997_ 
 
                      (a)  an emergency call service is operated by a recognised person; and
 
-                     (b)  a determination under section 147 requires a carriage service provider who supplies a standard telephone service to provide each end‑user of that standard telephone service with access to that emergency call service; and
+                     (b)  a determination under section 147 requires a carriage service provider who supplies a standard telephone service to provide each end-user of that standard telephone service with access to that emergency call service; and
 
                      (c)  a determination under section 147 requires the recognised person to:
 
-                              (i)  receive and handle calls made by those end‑users to the relevant emergency service number; and
+                              (i)  receive and handle calls made by those end-users to the relevant emergency service number; and
 
                              (ii)  if appropriate—transfer such calls to an appropriate emergency service organisation; and
 
@@ -4828,9 +4408,13 @@ If the parties fail to agree on the appointment of an arbitrator, the ACCC is to
 
 ##### <a id="150"></a>150  Ministerial pricing determinations
 
-             (1)  The Minister may make a written determination setting out principles dealing with price‑related terms and conditions relating to requirements of a kind referred to in subsection 149(1). The determination is to be known as a **_Ministerial pricing determination_**.
+             (1)  The Minister may make a written determination setting out principles dealing with price-related terms and conditions relating to requirements of a kind referred to in subsection 149(1). The determination is to be known as a **_Ministerial pricing determination_**.
 
-             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
+
+             (3)  In this section:
+
+                    <a name="price-relat-term-condition"></a>**_price-related terms and conditions_** means terms and conditions relating to price or a method of ascertaining price.
 
 ##### <a id="151"></a>151  Access to be provided
 
@@ -4864,9 +4448,9 @@ If the parties fail to agree on the appointment of an arbitrator, the ACCC is to
 
 <li class="BoxList" style="margin-left:21.25pt">•     This
 
-Part provides for price control arrangements for carriage services, content services
+Part provides for price control arrangements for carriage services, content
 
-and facilities supplied by Telstra.</li>
+services and facilities supplied by Telstra.</li>
 
 * * *
 
@@ -4902,7 +4486,7 @@ and facilities supplied by Telstra.</li>
 
              (1)  Where a carrier charge is subject to price control arrangements, the Minister may determine in writing:
 
-                     (a)  price‑cap arrangements and other price control arrangements that are to be applied in relation to the charge; or
+                     (a)  price-cap arrangements and other price control arrangements that are to be applied in relation to the charge; or
 
                      (b)  principles in accordance with which Telstra is to make alterations to the charge;
 
@@ -4910,7 +4494,7 @@ or both.
 
              (2)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-             (3)  To avoid doubt, price‑cap arrangements and other price control arrangements determined under this section may relate to charges for untimed local calls in particular areas.
+             (3)  To avoid doubt, price-cap arrangements and other price control arrangements determined under this section may relate to charges for untimed local calls in particular areas.
 
              (4)  A determination under this section may make different provision with respect to different customers. This section does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
@@ -4940,7 +4524,7 @@ or both.
 
                              (ii)  the period within which the ACCC is required under those determinations to give or refuse its consent to the proposed alteration has ended and the ACCC did not before the end of that period refuse its consent to the proposed alteration;
 
-                     (d)  if, before the end of the period within which, but for this paragraph, the ACCC would be required under the applicable determinations to give or refuse its consent to the proposed alteration, the ACCC requested Telstra to provide further information about the proposed alteration, the first‑mentioned period is taken to be extended by a period equal to the number of days commencing on the day on which the request was made and ending on the day on which the further information was provided.
+                     (d)  if, before the end of the period within which, but for this paragraph, the ACCC would be required under the applicable determinations to give or refuse its consent to the proposed alteration, the ACCC requested Telstra to provide further information about the proposed alteration, the first-mentioned period is taken to be extended by a period equal to the number of days commencing on the day on which the request was made and ending on the day on which the further information was provided.
 
 ##### <a id="157"></a>157  Carrier charges subject to notification and disallowance
 
@@ -4992,7 +4576,7 @@ Note:          **_Telephone sex service provider_** is defined
 
              (2)  For the purposes of this Part, if:
 
-                     (a)  a telephone sex service provider uses a standard telephone service to supply a telephone sex service to an end‑user in Australia; and
+                     (a)  a telephone sex service provider uses a standard telephone service to supply a telephone sex service to an end-user in Australia; and
 
                      (b)  the supply is by way of a voice call; and
 
@@ -5038,7 +4622,7 @@ that the standard telephone service was, or was to be, used by a telephone sex s
 
                               (i)  for commercial services supplied by way of voice calls made using standard telephone services; and
 
-                             (ii)  published in mass‑circulation newspapers or mass‑circulation magazines circulated in Australia;
+                             (ii)  published in mass-circulation newspapers or mass-circulation magazines circulated in Australia;
 
                      (d)  any other relevant matters.
 
@@ -5094,7 +4678,7 @@ Note:          Part 31 of the _Telecommunications Act 1997_ 
 
              (2)  A determination under paragraph (1)(a) or (b) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="158J"></a>158J  Telephone sex service
+##### <a id="158J"></a>158J  Telephone sex service
 
              (1)  For the purposes of this Part, a **_telephone sex service_** is a commercial service supplied using a standard telephone service, where:
 
@@ -5194,7 +4778,7 @@ Definitions
 
                     <a name="australia"></a>**_Australia_** does not include an external Territory prescribed for the purposes of section 10 of the _Telecommunications Act 1997_.
 
-                    <a name="telecommun-servic"></a>**_telecommunications services_** includes:
+                    <a name="telecommun-servic"></a>**_Telecommunications services_** includes:
 
                      (a)  carriage services; and
 
@@ -5282,7 +4866,7 @@ Definitions
 
                      (b)  an employee of an authority of the Commonwealth;
 
-                     (c)  a person who holds a full‑time office under a law of the Commonwealth.
+                     (c)  a person who holds a full-time office under a law of the Commonwealth.
 
           (4A)  The Minister must ensure that at least one RTIRC member is nominated by an organisation that represents the interests of people, or bodies, in regional, rural or remote parts of Australia.
 
@@ -5316,7 +4900,7 @@ Definitions
 
                     <a name="australia"></a>**_Australia_** does not include an external Territory prescribed for the purposes of section 10 of the _Telecommunications Act 1997_.
 
-                    <a name="carriag-servic-provid-partnership"></a>**_carriage service provider partnership_** means a partnership that is a carriage service provider.
+                    <a name="carriag-servic-provid-partnership"></a>**_Carriage service provider partnership_** means a partnership that is a carriage service provider.
 
                     <a name="carrier-partnership"></a>**_carrier partnership_** means a partnership that is a carrier.
 
@@ -5328,7 +4912,7 @@ Definitions
 
              (2)  An RTIRC member holds office for the period specified in the instrument of appointment. The period must not exceed 4 years.
 
-             (3)  An RTIRC member holds office on a part‑time basis.
+             (3)  An RTIRC member holds office on a part-time basis.
 
 ##### <a id="158V"></a>158V  Acting appointments—RTIRC Chair
 
@@ -5476,7 +5060,7 @@ may assist the RTIRC in the performance of its functions.
 
 ##### <a id="160"></a>160  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -5647,7 +5231,7 @@ Remainder: 21 Dec 2001</div>
     <div>20 Mar 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 163–165): <i>(b)</i></div>
+    <div>S. 4 and Schedule 1 (items 163–165): <i>(b)</i></div>
   </td>
   <td>
     <div>S. 4</div>
@@ -5716,7 +5300,7 @@ Remainder: 28 Nov 2003</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 429–437, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 429–437, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496)</div>
@@ -5751,11 +5335,11 @@ Remainder: Royal Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 161–165) and Schedule 4: 1 July 2005 <i>(e)</i> 
+    <div>Schedule 1 (items 161–165) and Schedule 4: 1 July 2005 <i>(e)</i> 
 Schedule 2: <i>(e)</i></div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5786,7 +5370,7 @@ Schedule 2: <i>(e)</i></div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 112): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
+    <div>Schedule 2 (item 112): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
   </td>
   <td>
     <div>—</div>
@@ -5800,14 +5384,14 @@ Schedule 2: <i>(e)</i></div>
     <div>124, 2007</div>
   </td>
   <td>
-    <div>20 July 2007</div>
+    <div>20 July 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3–11): 20 July 2008 
+    <div>Schedule 2 (items 3–11): 20 July 2008 
 Schedule 3: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 11)</div>
+    <div>Sch. 2 (item 11)</div>
   </td>
 </tr>
 <tr>
@@ -5829,7 +5413,7 @@ Schedule 3: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Nation‑building Funds (Consequential Amendments) Act 2008</div>
+    <div>Nation-building Funds (Consequential Amendments) Act 2008</div>
   </td>
   <td>
     <div>155, 2008</div>
@@ -5838,7 +5422,7 @@ Schedule 3: Royal Assent</div>
     <div>18 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 48–50): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 48–50): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -5855,7 +5439,7 @@ Schedule 3: Royal Assent</div>
     <div>16 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 55–102): 17 Nov 2009</div>
+    <div>Schedule 1 (items 55–102): 17 Nov 2009</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -5873,7 +5457,7 @@ Schedule 3: Royal Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 137(a)): <i>(f)</i></div>
+    <div>Schedule 5 (item 137(a)): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5887,10 +5471,10 @@ Schedule 3: Royal Assent</div>
     <div>103, 2010</div>
   </td>
   <td>
-    <div>13 July 2010</div>
+    <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 139): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 139): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5907,11 +5491,11 @@ Schedule 3: Royal Assent</div>
     <div>15 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 214–226): 15 Mar 2011 
-Schedule 1 (items 227–240): \[ <i>see</i>Note 2 and Table A]</div>
+    <div>Schedule 1 (items 214–226): \[ <i>see</i>Note 2] 
+Schedule 1 (items 227–240): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 1 (item 240)</div>
+    <div>Sch. 1 (item 240)</div>
   </td>
 </tr></table>
 
@@ -5919,7 +5503,7 @@ _(a)_     The _Telecommunications (Consumer Protection and Service Stand
 
                  (3)   Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
-         Part 2 commenced on 2 August 1999.
+         Part 2 commenced on 1 July 1999.
 
 _(b)_     The _Telecommunications (Consumer Protection and Service Standards) Act 1999_ was amended by Schedule 1 (items 163–165) only of the _Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
@@ -5930,7 +5514,7 @@ _(b)_     The _Telecommunications (Consumer Protection and Service Stand
          Item 15 commenced on 24 May 2001.
 
 _(c)_ Schedule 2 (item 167) of the _Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001_ provided for the amendment of subsection 90(3)(d) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_. The
- last‑mentioned section was repealed by the _Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2)_ _2000_ before a date was fixed for the commencement of Schedule 2 (item 167 _)_.
+ last-mentioned section was repealed by the _Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2)_ _2000_ before a date was fixed for the commencement of Schedule 2 (item 167 _)_.
 
 _(d)_ Subsection 2(1) (item 3) of the _Telecommunications (Consumer Protection and Service Standards) Amendment (National Relay Service) Act 2005_ provides as follows:
 
@@ -6123,7 +5707,7 @@ _(e)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
 </tr></table>
 
-_(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+_(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -6172,7 +5756,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
   </td>
   <td>
     <div>
-      1 March 2010
+      1 March 2010
     </div>
   </td>
 </tr>
@@ -6189,7 +5773,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
   </td>
   <td>
     <div>
-      1 March 2010
+      1 March 2010
     </div>
   </td>
 </tr></table>
@@ -6246,23 +5830,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 95 and 142, 2000; No. 117, 2005; No. 111, 2009; No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
+    <div>am. Nos. 95 and 142, 2000; No. 117, 2005; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6270,7 +5838,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 17, 2006</div>
+    <div>am. No. 17, 2006</div>
   </td>
 </tr>
 <tr>
@@ -6339,23 +5907,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>S. 8B</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8BA</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8C</div>
+    <div>Ss. 8B, 8C</div>
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
@@ -6427,31 +5979,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9B–9F</div>
+    <div>Ss. 9A–9F</div>
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
@@ -6662,7 +6190,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 140, 2010</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6687,56 +6215,6 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
   </td>
   <td>
     <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision BA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. BA of Div. 5 of 
-Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12EB, 12EC</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision BB</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. BB of Div. 5 of 
-Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12ED–12EI</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7696,7 +7174,7 @@ Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 8, 2010</div>
+    <div>am. No. 45, 2005; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9149,14 +8627,6 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 150</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 9A</b></div>
   </td>
   <td>
@@ -9392,7 +8862,7 @@ Part 2</div>
     <div>S. 158ZJA</div>
   </td>
   <td>
-    <div>ad. No. 152, 2007</div>
+    <div>ad. No. 152, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9408,7 +8878,7 @@ Part 2</div>
     <div>Ss. 158ZK–158ZN</div>
   </td>
   <td>
-    <div>ad. No. 117, 2005</div>
+    <div>ad. No. 117, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9496,9 +8966,497 @@ Part 2</div>
 
 _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010 (No. 140, 2010)_
 
-The following amendments commence on 15 June 2011:
+The following amendments commence on 15 March 2011:
 
-## Schedule 1
+## Schedule 1
+
+## 214  Subsection 5(2)
+
+Insert:
+
+                    <a name="payphon-carriag-servic"></a>**_payphone carriage service_** means a carriage service supplied by means of a payphone.
+
+## 215  Subsection 5(2)
+
+Insert:
+
+                    <a name="price-relat-term-condition"></a>**_price-related terms and conditions_** means terms and conditions relating to price or a method of ascertaining price.
+
+## 216  Subsection 5(2)
+
+Insert:
+
+                    <a name="voip-servic"></a>**_VOIP service_** means a carriage service that enables a voice call to originate on customer equipment by means of the internet protocol.
+
+## 216A  Subparagraph 6(1)(b)(i)
+
+Omit “has a hearing impairment”, substitute “is deaf or has a hearing and/or speech impairment”.
+
+## 216B  Subparagraph 6(1)(b)(ii)
+
+Omit “teletypewriter”, substitute “device that enables text-based communication”.
+
+## 217  After section 6
+
+Insert:
+
+##### <a id="6A"></a>6A  When a standard telephone service is supplied in fulfilment of the universal service obligation
+
+Mobile and VOIP services
+
+             (1)  For the purposes of this Act, if:
+
+                     (a)  a standard telephone service is supplied _,_ or proposed to be supplied, to a customer by a primary universal service provider; and
+
+                     (b)  the service is:
+
+                              (i)  a public mobile telecommunications service; or
+
+                             (ii)  a VOIP service;
+
+the service is taken not to be supplied in fulfilment of the universal service obligation unless, before the customer entered into an agreement with the primary universal service provider for the supply of the service:
+
+                     (c)  the provider notified the customer, in writing, that the service is supplied in fulfilment of the universal service obligation; and
+
+                     (d)  the notice complied with such requirements (if any) as are specified in a determination under subsection (2).
+
+             (2)  The ACMA may, by legislative instrument, determine requirements for the purposes of paragraph (1)(d).
+
+Other services
+
+             (3)  For the purposes of this Act, if:
+
+                     (a)  a standard telephone service (the **_relevant service_**) is supplied, or proposed to be supplied, to a customer by a primary universal service provider; and
+
+                     (b)  the relevant service is not:
+
+                              (i)  a public mobile telecommunications service; or
+
+                             (ii)  a VOIP service;
+
+the relevant service is taken not to be supplied in fulfilment of the universal service obligation if, before the customer entered into an agreement with the primary universal service provider for the supply of the relevant service:
+
+                     (c)  the customer was given the option of being supplied with another standard telephone service by the provider on the basis that the other standard telephone service would be supplied in fulfilment of the universal service obligation; and
+
+                     (d)  the customer has, by written notice given to the provider, acknowledged that the relevant service is not supplied in fulfilment of the universal service obligation; and
+
+                     (e)  the notice complied with such requirements (if any) as are specified in a determination under subsection (4).
+
+             (4)  The ACMA may, by legislative instrument, determine requirements for the purposes of paragraph (3)(e).
+
+## 218  After section 8B
+
+Insert:
+
+##### <a id="8BA"></a>8BA  Special meaning of _standard telephone service_
+
+             (1)  A reference in this Part to a **_standard telephone service_** is a reference to a **_standard telephone service_** (within the meaning of section 6) that has the characteristics (if any) specified in a determination under subsection (2).
+
+             (2)  The Minister may, by legislative instrument, determine specified characteristics for the purposes of subsection (1).
+
+## 219  Subsections 9(2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  The obligation mentioned in paragraph (1)(a) includes the obligation to supply standard telephone services to people in Australia on request.
+
+          (2A)  The obligation mentioned in paragraph (1)(b) includes the obligation to supply, install and maintain payphones in Australia.
+
+          (2B)  The obligation mentioned in paragraph (1)(c) includes the obligation to supply prescribed carriage services to people in Australia on request.
+
+          (2C)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service to a person on request unless the request complies with the requirements (if any) set out in a determination under subsection (2D).
+
+          (2D)  The Minister may, by legislative instrument, determine requirements for the purposes of subsection (2C).
+
+          (2E)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service in the circumstances (if any) specified in a determination under subsection (3).
+
+             (3)  The Minister may, by legislative instrument, determine circumstances for the purposes of subsection (2E).
+
+## 220  Subsection 9(4)
+
+Omit “(2)(a)”, substitute “(1)(a) or subsection (2)”.
+
+## 221  Subsection 9(5)
+
+Omit “(2)(c)”, substitute “(1)(c) or subsection (2B)”.
+
+## 222  Subsection 9(6)
+
+Omit “(2)(a)”, substitute “(1)(a) or subsection (2)”.
+
+## 223  Section 9A
+
+Repeal the section, substitute:
+
+##### <a id="9A"></a>9A  Reasonable accessibility of prescribed carriage services
+
+             (1)  The Minister may determine in writing, for the purpose of paragraph 9(1)(c), what is, or is not, necessary to ensure that prescribed carriage services are reasonably accessible as mentioned in that paragraph.
+
+             (2)  A determination under subsection (1) is a legislative instrument.
+
+## 224  Subsection 12C(1)
+
+Omit “take all reasonable steps to”.
+
+## 225  After Subdivision B of Division 5 of Part 2
+
+Insert:
+
+#### Subdivision BA—Standard telephone service requirements
+
+##### <a id="12EB"></a>12EB  Performance standards
+
+Determination
+
+             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
+
+                     (a)  the terms and conditions of the supply of a standard telephone service to a customer, other than price-related terms and conditions;
+
+                     (b)  the reliability of a standard telephone service supplied to a customer;
+
+                     (c)  the supply of a temporary standard telephone service to a customer;
+
+                     (d)  the maximum period within which a primary universal service provider must supply a standard telephone service following the making of a request by a prospective customer;
+
+                     (e)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a standard telephone service following the making of a report by a customer about the fault or service difficulty;
+
+                      (f)  any other matter concerning the supply, or proposed supply, of a standard telephone service to a customer or prospective customer.
+
+             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Compliance
+
+             (4)  A primary universal service provider must comply with a standard in force under subsection (1).
+
+Determination prevails over inconsistent instruments
+
+             (5)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Service supplied in fulfilment of the universal service obligation
+
+             (6)  This section does not apply to a standard telephone service unless the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
+
+Note:          See also section 6A (when a standard telephone service is supplied in fulfilment of the universal service obligation).
+
+Determination is a legislative instrument
+
+             (7)  A determination under subsection (1) is a legislative instrument.
+
+##### <a id="12EC"></a>12EC  Performance benchmarks
+
+Determination
+
+             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
+
+                     (a)  the terms and conditions of the supply of a standard telephone service to a customer, other than price-related terms and conditions;
+
+                     (b)  the reliability of a standard telephone service supplied to a customer;
+
+                     (c)  the supply of a temporary standard telephone service to a customer;
+
+                     (d)  the maximum period within which a primary universal service provider must supply a standard telephone service following the making of a request by a prospective customer;
+
+                     (e)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a standard telephone service following the making of a report by a customer about the fault or service difficulty;
+
+                      (f)  any other matter concerning the supply, or proposed supply, of a standard telephone service to a customer or prospective customer.
+
+             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the instrument.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Determination prevails over inconsistent instruments
+
+             (4)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Determination is a legislative instrument
+
+             (5)  A determination under subsection (1) is a legislative instrument.
+
+Performance benchmarks
+
+             (6)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by a primary universal service provider with a standard in force under subsection (1).
+
+             (7)  An instrument under subsection (6) may be of general application or may be limited as provided in the instrument.
+
+             (8)  Subsection (7) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Provider must meet or exceed minimum benchmarks
+
+             (9)  A primary universal service provider must meet or exceed a minimum benchmark set by an instrument under subsection (6).
+
+Clause 1 of Schedule 1 to the Telecommunications Act 1997 does not apply to a breach of a standard
+
+           (10)  Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
+
+Note:          Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ requires carriers to comply with this Act.
+
+Clause 1 of Schedule 2 to the Telecommunications Act 1997 does not apply to a breach of a standard
+
+           (11)  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
+
+Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
+
+#### Subdivision BB—Payphone requirements
+
+##### <a id="12ED"></a>12ED  Performance standards
+
+Determination
+
+             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
+
+                     (a)  the characteristics of a payphone carriage service;
+
+                     (b)  the supply, installation or maintenance of a payphone;
+
+                     (c)  the supply of a payphone carriage service;
+
+                     (d)  the reliability of a payphone;
+
+                     (e)  the reliability of a payphone carriage service;
+
+                      (f)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone following the making of a report about a fault or service difficulty;
+
+                     (g)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone carriage service following the making of a report about a fault or service difficulty;
+
+                     (h)  the handling of requests for the removal of a payphone;
+
+                      (i)  any other matter concerning:
+
+                              (i)  the supply, installation or maintenance of a payphone; or
+
+                             (ii)  the supply of a payphone carriage service.
+
+             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Compliance
+
+             (4)  A primary universal service provider must comply with a determination under subsection (1).
+
+Determination prevails over inconsistent instruments
+
+             (5)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Determination is a legislative instrument
+
+             (6)  A determination under subsection (1) is a legislative instrument.
+
+##### <a id="12EE"></a>12EE  Performance benchmarks
+
+Determination
+
+             (1)  The Minister may make a written determination setting out standards to be complied with by a primary universal service provider in relation to any or all of the following matters:
+
+                     (a)  the characteristics of a payphone carriage service;
+
+                     (b)  the supply, installation or maintenance of a payphone;
+
+                     (c)  the supply of a payphone carriage service;
+
+                     (d)  the reliability of a payphone;
+
+                     (e)  the reliability of a payphone carriage service;
+
+                      (f)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone following the making of a report about a fault or service difficulty;
+
+                     (g)  the maximum period within which a primary universal service provider must rectify a fault or service difficulty relating to a payphone carriage service following the making of a report about a fault or service difficulty;
+
+                     (h)  the handling of requests for the removal of a payphone;
+
+                      (i)  any other matter concerning:
+
+                              (i)  the supply, installation or maintenance of a payphone; or
+
+                             (ii)  the supply of a payphone carriage service.
+
+             (2)  A determination under subsection (1) may be of general application or may be limited as provided in the determination.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Determination prevails over inconsistent instruments
+
+             (4)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Determination is a legislative instrument
+
+             (5)  A determination under subsection (1) is a legislative instrument.
+
+Performance benchmarks
+
+             (6)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by a primary universal service provider with a standard in force under subsection (1).
+
+             (7)  An instrument under subsection (6) may be of general application or may be limited as provided in the instrument.
+
+             (8)  Subsection (7) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+Provider must meet or exceed minimum benchmarks
+
+             (9)  A primary universal service provider must meet or exceed a minimum benchmark set by an instrument under subsection (6).
+
+Clause 1 of Schedule 1 to the Telecommunications Act 1997 does not apply to a breach of a standard
+
+           (10)  Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
+
+Note:          Clause 1 of Schedule 1 to the _Telecommunications Act 1997_ requires carriers to comply with this Act.
+
+Clause 1 of Schedule 2 to the Telecommunications Act 1997 does not apply to a breach of a standard
+
+           (11)  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under subsection (1).
+
+Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
+
+##### <a id="12EF"></a>12EF  Rules about the location of payphones
+
+             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the places or areas in which payphones are to be located.
+
+Compliance
+
+             (2)  A primary universal service provider must comply with a determination under subsection (1).
+
+             (3)  If a primary universal service provider complies with a determination under subsection (1), the provider is taken to have complied with an obligation under paragraph 9(1)(b) or subsection 9(2A), to the extent to which the obligation relates to the location of payphones.
+
+Determination prevails over inconsistent instruments
+
+             (4)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Determination is a legislative instrument
+
+             (5)  A determination under subsection (1) is a legislative instrument.
+
+##### <a id="12EG"></a>12EG  Rules about the process for public consultation on the location or removal of payphones
+
+             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the process for public consultation on the location or removal of payphones.
+
+             (2)  The Minister must ensure that a determination under subsection (1) provides that, if:
+
+                     (a)  a primary universal service provider makes a decision to remove a payphone from a particular location; and
+
+                     (b)  that payphone is the only payphone at that location;
+
+then:
+
+                     (c)  the provider must undertake a process for public consultation on the removal of that payphone; and
+
+                     (d)  if, in accordance with that process, a person makes a submission to the provider—the provider must notify the person, in writing, of the outcome of that process.
+
+Compliance
+
+             (3)  A primary universal service provider must comply with a determination under subsection (1).
+
+Determination prevails over inconsistent instruments
+
+             (4)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Determination is a legislative instrument
+
+             (5)  A determination under subsection (1) is a legislative instrument.
+
+##### <a id="12EH"></a>12EH  Rules about the process for resolution of complaints about the location or removal of payphones
+
+             (1)  The Minister may make a determination setting out rules to be complied with by a primary universal service provider in relation to the process for resolution of complaints about the location or removal of payphones.
+
+Compliance
+
+             (2)  A primary universal service provider must comply with a determination under subsection (1).
+
+Determination prevails over inconsistent instruments
+
+             (3)  Each of the following instruments:
+
+                     (a)  an approved policy statement for a primary universal service provider;
+
+                     (b)  an approved standard marketing plan for a primary universal service provider;
+
+has no effect to the extent to which the instrument is inconsistent with a determination in force under subsection (1).
+
+Determination is a legislative instrument
+
+             (4)  A determination under subsection (1) is a legislative instrument.
+
+##### <a id="12EI"></a>12EI  Directions by the ACMA about the removal of payphones
+
+Scope
+
+             (1)  This section applies if:
+
+                     (a)  a primary universal service provider has made a decision to remove a payphone from a particular location; and
+
+                     (b)  a person notifies the ACMA, in writing, that the person objects to the removal; and
+
+                     (c)  the ACMA is satisfied that:
+
+                              (i)  the removal would breach, or has breached, a determination under subsection 12EF(1); or
+
+                             (ii)  the provider has breached a determination under subsection 12EG(1) in relation to the removal.
+
+Direction
+
+             (2)  If the payphone has not been removed, the ACMA may, by written notice given to the provider, direct the provider not to remove the payphone from that location.
+
+             (3)  If the payphone has been removed, the ACMA may, by written notice given to the provider, direct the provider:
+
+                     (a)  to supply and install a payphone at that location; and
+
+                     (b)  to do so within the period specified in the notice.
+
+             (4)  A period specified under paragraph (3)(b) must not be shorter than 30 days after the notice is given.
+
+             (5)  A direction under subsection (2) or (3) must not be inconsistent with a determination under subsection 12EF(1).
+
+Compliance
+
+             (6)  A primary universal service provider must comply with a direction under subsection (2) or (3).
+
+Direction is not a legislative instrument
+
+             (7)  A direction under subsection (2) or (3) is not a legislative instrument.
+
+## 226  Subsection 150(3)
+
+Repeal the subsection.
+
+The following amendments commence on 15 June 2011:
+
+## Schedule 1
 
 ## 227  Before section 113
 
@@ -9538,7 +9496,7 @@ service providers with performance standards.</li>
 
 * * *
 
-## 229  After section 114
+## 229  After section 114
 
 Insert:
 
@@ -9692,7 +9650,7 @@ Insert:
 
 Add “or 117D”.
 
-As at 15 March 2011 the amendments are not incorporated in this compilation.
+As at 1 January 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10143,7 +10101,7 @@ _Note:       Section 22A of that Act deals with requests for infor
 
 ## 9  Transitional regulations
 
-The Governor‑General may make regulations in relation to any matters of a transitional nature that may arise out of the amendments and repeals made by this Act.
+The Governor-General may make regulations in relation to any matters of a transitional nature that may arise out of the amendments and repeals made by this Act.
 
 ## Schedule 3
 
@@ -10163,19 +10121,19 @@ In this Schedule:
 
 **_former law_** means the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ as in force immediately before the commencement of Schedule 1 to this Act.
 
-## 2  Levy distribution for 1999‑2000 financial year
+## 2  Levy distribution for 1999-2000 financial year
 
-Items 3 to 6 of this Schedule apply if section 86 of the former law prevents a payment being made out of the Universal Service Account  for the 1999‑2000 financial year because of either or both of the following:
+Items 3 to 6 of this Schedule apply if section 86 of the former law prevents a payment being made out of the Universal Service Account  for the 1999-2000 financial year because of either or both of the following:
 
                      (a)  the ACA has not yet made a written assessment under section 64 of the former law for that year;
 
                      (b)  not all participating carriers in respect of which levy was assessed have paid the levy.
 
-_Note:       The operation of the former law for the 1999‑2000 financial year is preserved by item 1 of Schedule 2 to this Act._
+_Note:       The operation of the former law for the 1999-2000 financial year is preserved by item 1 of Schedule 2 to this Act._
 
 ## 3  Assessment based on estimate of eligible revenue
 
-(1)       If a participating carrier fails to give the ACA a return under section 62 of the former law for the 1999‑2000 financial year, the ACA may:
+(1)       If a participating carrier fails to give the ACA a return under section 62 of the former law for the 1999-2000 financial year, the ACA may:
 
                      (a)  estimate the carrier’s eligible revenue for the year; and
 
@@ -10189,7 +10147,7 @@ _Note:       The operation of the former law for the 1999‑2000 fin
 
 ## 4  Nil assessments
 
-The ACA may make an assessment under section 64 of the former law or item 3 of this Schedule that a participating carrier’s eligible revenue for the 1999‑2000 financial year is nil if, in the ACA’s opinion, without such an assessment:
+The ACA may make an assessment under section 64 of the former law or item 3 of this Schedule that a participating carrier’s eligible revenue for the 1999-2000 financial year is nil if, in the ACA’s opinion, without such an assessment:
 
                      (a)  it is unlikely that the carrier would be able to pay any levy that would be payable; or
 
@@ -10199,7 +10157,7 @@ _Note:       However, the ACA could later amend a nil assessment und
 
 ## 5  Distributions before all levies have been paid
 
-Despite paragraph 86(b) of the former law, an amount is payable from the Universal Service Account  for the 1999‑2000 financial year even if all of the participating carriers in respect of which the levy was assessed have not yet paid the levy.
+Despite paragraph 86(b) of the former law, an amount is payable from the Universal Service Account  for the 1999-2000 financial year even if all of the participating carriers in respect of which the levy was assessed have not yet paid the levy.
 
 ## 6  Working out how much levy is payable
 
@@ -10213,7 +10171,7 @@ Despite paragraph 86(b) of the former law, an amount is payable from the Univers
 
 (3)       A determination under subitem (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-(4)       A carrier’s levy credit balance for the 1999‑2000 financial year is reduced by the amount (worked out under this item) that is paid to the carrier.
+(4)       A carrier’s levy credit balance for the 1999-2000 financial year is reduced by the amount (worked out under this item) that is paid to the carrier.
 
 (5)       This item continues to apply until each carrier’s levy credit balance for the year is reduced to nil.
 
@@ -10285,7 +10243,7 @@ _Statute Stocktake (Regulatory and Other Laws) Act 2009 (No. 111, 2009)_
 
 ## Schedule 1
 
-## 98  Transitional—the ACMA’s record‑keeping rules
+## 98  Transitional—the ACMA’s record-keeping rules
 
 Paragraph 529(4)(b) of the _Telecommunications Act 1997_ continues to apply on and after the day on which this item commences in relation to the keeping of records:
 
@@ -10343,7 +10301,7 @@ as if the reference to Part 2 of the _Telecommunications (Consumer Protection 
 
 _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010 (No. 140, 2010)_
 
-The following provision commences on the 15 June 2011:
+The following provision commences on the 15 June 2011:
 
 ## Schedule 1
 
