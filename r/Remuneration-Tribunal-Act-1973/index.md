@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00182/Html/f296e653-2cf4-4b2f-99f2-fea653449915_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00619/Html/1c60f5e2-81fd-4f9b-9cea-d28a62c75ce8_files/image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 1 February 2012
- taking into account amendments up to Act No. 170 of 2011
+This compilation was prepared on 5 August 2011
+ taking into account amendments up to Act No. 75 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -140,7 +140,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  is identified in the determination as base salary.
 
-                    <a name="presid"></a>**_President_** means President of the Tribunal and includes a member appointed under section 4A.
+                    <a name="presid"></a>**_President_** means President of the Tribunal and includes a member appointed under subsection 4A(1).
 
                     <a name="princip-execut-offic"></a>**_principal executive office_** means any of the following offices or appointments:
 
@@ -316,13 +316,27 @@ and the person with whom such a contract is made or to whom such a Commission or
 
 ##### <a id="4A"></a>4A  Acting President
 
-                   The Minister may appoint a member to act as President:
+             (1)  The Minister may appoint a member to act as President:
 
                      (a)  during a vacancy in the office of President; or
 
-                     (b)  during any period, or during all periods, when the President is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the President is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including fees and allowances, of a person acting as President; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as President in accordance with paragraph (1)(b) and the office of President becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as President ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Minister.
+
+             (6)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there was a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
 
 ##### <a id="4B"></a>4B  Disclosure of interest by Tribunal members
 
@@ -851,8 +865,8 @@ of Assent</div>
     <div>9 Sept 1975</div>
   </td>
   <td>
-    <div>Ss. 182 and 183(a): 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
-S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i></div>
+    <div>Ss. 182 and 183(a): 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -886,7 +900,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>30 Nov 1978</div>
   </td>
   <td>
-    <div>31 Jan 1979 ( <i>see Gazette</i>1979, No. S12)</div>
+    <div>31 Jan 1979 ( <i>see Gazette</i>1979, No. S12)</div>
   </td>
   <td>
     <div>S. 6</div>
@@ -903,7 +917,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>30 May 1979</div>
   </td>
   <td>
-    <div>7 Aug 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S159)</div>
+    <div>7 Aug 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S159)</div>
   </td>
   <td>
     <div>—</div>
@@ -954,7 +968,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>28 Nov 1979</div>
   </td>
   <td>
-    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
   </td>
   <td>
     <div>—</div>
@@ -1005,7 +1019,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>18 June 1981</div>
   </td>
   <td>
-    <div>Part XX (ss. 255, 256): Royal Assent <i>(c)</i></div>
+    <div>Part XX (ss. 255, 256): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1023,7 +1037,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
   </td>
   <td>
     <div>Part XIX (s. 68): 
-30 Dec 1981 <i>(d)</i></div>
+30 Dec 1981 <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1057,7 +1071,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>5 Nov 1982</div>
   </td>
   <td>
-    <div>S. 95: 30 June 1984 ( <i>see Gazette</i>1984, No. S245) <i>(e)</i></div>
+    <div>S. 95: 30 June 1984 ( <i>see Gazette</i>1984, No. S245) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1091,7 +1105,7 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>22 Dec 1983</div>
   </td>
   <td>
-    <div>Part IV (ss. 9, 10): Royal Assent <i>(g)</i></div>
+    <div>Part IV (ss. 9, 10): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1108,9 +1122,9 @@ S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i><
     <div>25 June 1984</div>
   </td>
   <td>
-    <div>S. 149: Royal Assent <i>(h)</i> 
-Ss. 150 and 152(1): 20 July 1984 ( <i>see Gazette</i>1984, No. S276) <i>(h)</i> 
-S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(h)</i></div>
+    <div>S. 149: Royal Assent ( <i>h</i>) 
+Ss. 150 and 152(1): 20 July 1984 ( <i>see Gazette</i>1984, No. S276) <i>(h)</i> 
+S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(h)</i></div>
   </td>
   <td>
     <div>S. 151(9)</div>
@@ -1179,7 +1193,7 @@ and (3)</div>
     <div>16 Dec 1985</div>
   </td>
   <td>
-    <div>Part VIII (s. 60): 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551) <i>(l)</i></div>
+    <div>Part VIII (s. 60): 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1196,7 +1210,7 @@ and (3)</div>
     <div>8 Nov 1988</div>
   </td>
   <td>
-    <div>S. 86: 1 Mar 1989 <i>(m)</i></div>
+    <div>S. 86: 1 Mar 1989 <i>(m)</i></div>
   </td>
   <td>
     <div>Ss. 89(3), 90(3), 91, 92 and 94</div>
@@ -1230,11 +1244,11 @@ and (3)</div>
     <div>18 Dec 1990</div>
   </td>
   <td>
-    <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
- </i>s. 2(4) and <i>Gazette</i>1991, No. S18) 
-Ss. 22–24: 1 Mar 1989 
-S. 26: 1 Jan 1990 
-S. 33: 25 Mar 1991 ( <i>see Gazette</i>1991, No. S73) 
+    <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
+ </i>s. 2(4) and <i>Gazette</i>1991, No. S18) 
+Ss. 22–24: 1 Mar 1989 
+S. 26: 1 Jan 1990 
+S. 33: 25 Mar 1991 ( <i>see Gazette</i>1991, No. S73) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1252,7 +1266,7 @@ Remainder: Royal Assent</div>
     <div>6 Dec 1988</div>
   </td>
   <td>
-    <div>S. 32: 7 Dec 1988 ( <i>see Gazette</i>1988, No. S374) <i>(n)</i></div>
+    <div>S. 32: 7 Dec 1988 ( <i>see Gazette</i>1988, No. S374) <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1286,7 +1300,7 @@ Remainder: Royal Assent</div>
     <div>29 June 1994</div>
   </td>
   <td>
-    <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
+    <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
   </td>
   <td>
     <div>Ss. 24–26</div>
@@ -1303,12 +1317,9 @@ Remainder: Royal Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Part II (ss. 
-3–12): 26 Jan 1989 
-Part VI (ss. 
-26–31): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S399) 
-Part VII (ss. 
-32–37): 14 Nov 1988 
+    <div>Part II (ss. 3–12): 26 Jan 1989 
+Part VI (ss. 26–31): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S399) 
+Part VII (ss. 32–37): 14 Nov 1988 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1326,7 +1337,7 @@ Remainder: Royal Assent</div>
     <div>28 June 1989</div>
   </td>
   <td>
-    <div>Part 6 (ss. 63, 64): Royal Assent <i>(o)</i></div>
+    <div>Part 6 (ss. 63, 64): Royal Assent <i>(o)</i></div>
   </td>
   <td>
     <div>S. 64(2)</div>
@@ -1343,7 +1354,7 @@ Remainder: Royal Assent</div>
     <div>27 Nov 1989</div>
   </td>
   <td>
-    <div>5 Mar 1990 ( <i>see</i>s. 2 and <i>Gazette</i>1990, No. S48)</div>
+    <div>5 Mar 1990 ( <i>see</i>s. 2 and <i>Gazette</i>1990, No. S48)</div>
   </td>
   <td>
     <div>—</div>
@@ -1360,7 +1371,7 @@ Remainder: Royal Assent</div>
     <div>27 Nov 1989</div>
   </td>
   <td>
-    <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
+    <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
   </td>
   <td>
     <div>—</div>
@@ -1377,7 +1388,7 @@ Remainder: Royal Assent</div>
     <div>5 Dec 1989</div>
   </td>
   <td>
-    <div>Ss. 3, 5(1)–(3), (5) and 6–10: 1 Mar 1989 
+    <div>Ss. 3, 5(1)–(3), (5) and 6–10: 1 Mar 1989 
 S. 5(4): 25 May 1988 
 Remainder: Royal Assent</div>
   </td>
@@ -1430,8 +1441,8 @@ Remainder: Royal Assent</div>
     <div>27 June 1991</div>
   </td>
   <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
-Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1521,10 +1532,10 @@ Remainder: Royal Assent</div>
     <div>24 Dec 1992</div>
   </td>
   <td>
-    <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
+    <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
 Parts 9–11 (ss. 
-34–40): 18 Feb 1991 
-Remainder: 21 Jan 1993</div>
+34–40): 18 Feb 1991 
+Remainder: 21 Jan 1993</div>
   </td>
   <td>
     <div>—</div>
@@ -1542,10 +1553,10 @@ Remainder: 21 Jan 1993</div>
   </td>
   <td>
     <div>Ss. 1, 2 and 58: Royal Assent 
-S. 32: 5 Jan 1994 
-S. 34: 6 Sept 1991 
-S. 47: 24 Dec 1992 
-Remainder: 19 Jan 1994</div>
+S. 32: 5 Jan 1994 
+S. 34: 6 Sept 1991 
+S. 47: 24 Dec 1992 
+Remainder: 19 Jan 1994</div>
   </td>
   <td>
     <div>—</div>
@@ -1579,7 +1590,7 @@ Remainder: 19 Jan 1994</div>
     <div>29 Mar 1995</div>
   </td>
   <td>
-    <div>1 June 1995 ( <i>see Gazette</i>1995, No. GN18)</div>
+    <div>1 June 1995 ( <i>see Gazette</i>1995, No. GN18)</div>
   </td>
   <td>
     <div>—</div>
@@ -1596,9 +1607,10 @@ Remainder: 19 Jan 1994</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
-S. 13: 13 Jan 1996 
-Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
+    <div>Ss. 1–12, Schedules 5 and 
+7–10: Royal Assent 
+S. 13: 13 Jan 1996 
+Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
   </td>
   <td>
     <div>Sch. 9 
@@ -1618,8 +1630,7 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
   <td>
     <div>Schedule 2 (item 90): <i>(r)</i> 
 Schedule 5 
-(items 
-135–137): Royal Assent <i>(r)</i></div>
+(items 135–137): Royal Assent <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1657,7 +1668,7 @@ Schedule 5
     <div>Schedule 1 (Part 3) and Schedule 1 (items 19–23): <i>(t)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (items 19–23) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 19–23) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1706,8 +1717,8 @@ Schedule 5
   </td>
   <td>
     <div>Ss. 1–3 and 21: Royal Assent 
-S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598) 
-Remainder: 13 Apr 2000</div>
+S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598) 
+Remainder: 13 Apr 2000</div>
   </td>
   <td>
     <div>Ss. 4–22 
@@ -1725,7 +1736,7 @@ Remainder: 13 Apr 2000</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 776–781): 5 Dec 1999 <i>(see Gazette</i>1999, No. S584) <i>(v)</i></div>
+    <div>Schedule 1 (items 776–781): 5 Dec 1999 <i>(see Gazette</i>1999, No. S584) <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1759,7 +1770,7 @@ Remainder: 13 Apr 2000</div>
     <div>29 Feb 2000</div>
   </td>
   <td>
-    <div>10 Mar 2000 ( <i>see Gazette</i>2000, No. S112)</div>
+    <div>10 Mar 2000 ( <i>see Gazette</i>2000, No. S112)</div>
   </td>
   <td>
     <div>—</div>
@@ -1793,7 +1804,7 @@ Remainder: 13 Apr 2000</div>
     <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>Schedule 1: 4 May 2001 ( <i>see Gazette</i>2001, No. S159) 
+    <div>Schedule 1: 4 May 2001 ( <i>see Gazette</i>2001, No. S159) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1811,7 +1822,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 3 (items 20–22): 29 May 2003 ( <i>see</i> <i>Gazette</i>2003, No. S174)</div>
+    <div>Schedule 3 (items 20–22): 29 May 2003 ( <i>see</i> <i>Gazette</i>2003, No. S174)</div>
   </td>
   <td>
     <div>—</div>
@@ -1828,7 +1839,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2005</div>
   </td>
   <td>
-    <div>Schedule 4 (items 80, 81): 24 Mar 2005</div>
+    <div>Schedule 4 (items 80, 81): 24 Mar 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -1862,7 +1873,7 @@ Remainder: Royal Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1897,7 +1908,7 @@ Remainder: Royal Assent</div>
     <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 60): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 60): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -1914,7 +1925,7 @@ Remainder: Royal Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Jan 2008 ( <i>see</i>F2007L04141) 
+    <div>Schedule 1: 1 Jan 2008 ( <i>see</i>F2007L04141) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1932,7 +1943,7 @@ Remainder: Royal Assent</div>
     <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 4 (items 446–449): 4 July 2008</div>
+    <div>Schedule 4 (items 446–449): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -1983,7 +1994,7 @@ Remainder: Royal Assent</div>
     <div>8 July 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 71–73): 5 Aug 2009</div>
+    <div>Schedule 3 (items 71–73): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -2000,7 +2011,7 @@ Remainder: Royal Assent</div>
     <div>10 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 77): 11 Dec 2010</div>
+    <div>Schedule 1 (item 77): 11 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2034,7 +2045,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 981–986) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 981–986) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2057,23 +2068,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 12–16) and Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011</div>
-  </td>
-  <td>
-    <div>170, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 5): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2447,7 +2441,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010; Nos. 32, 46 and 75, 2011</div>
+    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010; Nos. 32 and 75, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2495,15 +2489,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 1993; No. 43, 1996; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 109, 1993; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -2905,21 +2891,43 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the paragraph.
 
-As at 1 February 2012 the amendment is not incorporated in this compilation.
+As at 5 August 2011 the amendment is not incorporated in this compilation.
 
 ### Note 3
 
-_Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011 (No. 170, 2011)_
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-The following amendment commences on 4 June 2012 unless proclaimed earlier:
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
 
-## Schedule 3
+## Schedule 2
 
-## 5  At the end of paragraph 5(2D)(c)
+## 981  Subsection 3(1) (definition of _President_)
 
-Add “(other than the Parliamentary Budget Officer)”.
+Omit “subsection 4A(1)”, substitute “section 4A”.
 
-As at 1 February 2012 the amendment is not incorporated in this compilation.
+## 982  Subsection 4A(1)
+
+Omit “(1)”.
+
+## 983  Paragraph 4A(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 984  Subsection 4A(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 985  At the end of subsection 4A(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 986  Subsections 4A(2) to (6)
+
+Repeal the subsections.
+
+As at 5 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3305,6 +3313,8 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
