@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00128/Html/FinanMgmtAccount1997WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00514/Html/FinanMgmtAccount1997WD02_image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 20 March 2009
+This compilation was prepared on 3 October 2008
  taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force 
@@ -24,7 +24,7 @@ Overview of this Act
 
                    The main purpose of this Act is to provide a framework for the proper management of public money and public property. **_Public money_** and **_public property_** are defined in section 5\. Broadly, those terms refer to money or property that is owned or held by the Commonwealth, including money or property held on trust.
 
-                   This Act contains rules about how public money and property are to be dealt with. Many of the detailed rules are in regulations made under section 65.
+                   This Act contains rules about how public money and property are to be dealt with. Many of the detailed rules are in Finance Minister’s Orders made under section 63 and regulations made under section 65.
 
                    Many of the rules in this Act apply to officials of Agencies and to Chief Executives of Agencies. **_Agency_**, **_official_** and **_Chief Executive_** are defined in section 5.
 
@@ -32,11 +32,11 @@ Summary of this Act
 
         Part 1 _Preliminary_: This Part deals with the commencement of this Act, its application to things outside Australia and its application to the Crown.
 
-        Part 2 _General provisions about definitions and notional payments and receipts by Agencies_: This Part contains definitions of terms that are frequently used throughout this Act and general provisions about notional payments and receipts by Agencies.
+        Part 2 _General provisions about definitions and offences_: This Part contains definitions of terms that are frequently used throughout this Act and general provisions about offences.
 
         Part 3 _Collection, custody etc. of public money_: This Part deals with the collection and custody of public money. It deals with matters such as banking and liability for loss of public money.
 
-        Part 4 _Accounting, appropriations and payments_: This Part establishes an accounting framework for public money that involves the Consolidated Revenue Fund and Special Accounts. This Part has a number of rules that apply to the adjustment of appropriations in certain circumstances. It also deals with miscellaneous matters such as act of grace payments by the Commonwealth and waiver of debts owing to the Commonwealth.
+        Part 4 _Accounting, appropriations and payments_: This Part establishes an accounting framework for public money that involves the Consolidated Revenue Fund and a system of accounts called Special Accounts. This Part has a number of rules that apply to Parliamentary appropriations. It also deals with miscellaneous matters such as act of grace payments by the Commonwealth and waiver of debts owing to the Commonwealth.
 
         Part 5 _Borrowing and investment_: This Part gives the Finance Minister limited powers to borrow money on behalf of the Commonwealth. It also deals with the investment of public money.
 
@@ -44,7 +44,7 @@ Summary of this Act
 
         Part 7 _Special responsibilities of Chief Executives_: The rules in this Part apply to Chief Executives of Agencies. The rules deal generally with the control and management of public money and public property for which Chief Executives have a management responsibility.
 
-        Part 8 _Reporting and audit_: This Part deals with the preparation and audit of financial statements of the Commonwealth. It also deals with the audit of annual financial statements of Agencies.
+        Part 8 _Reporting and audit_: This Part deals with the preparation and audit of financial statements. It also deals with the audit of annual financial statements of Agencies.
 
         Part 9 _Miscellaneous_: This Part deals with miscellaneous matters such as Finance Minister’s Orders, regulations and delegations.
 
@@ -56,11 +56,9 @@ Related legislation
 
                    The _Acts Interpretation Act 1901_ contains many general rules about the meaning or effect of many terms and provisions that are commonly used in Commonwealth Acts.
 
-                   The Annual Appropriation Acts appropriate money out of the Consolidated Revenue Fund.
-
                    This list is not exhaustive. Acts other than those listed above might also affect the operation or interpretation of this Act.
 
-                   Another related Act is the _Commonwealth Authorities and Companies Act 1997_. It contains reporting rules, accountability rules and other rules that apply to Commonwealth authorities and Commonwealth companies (which are separate legal entities to the Commonwealth).
+                   Another related Act is the _Commonwealth Authorities and Companies Act 1997_. It contains reporting rules, accountability rules and other rules that apply to Commonwealth authorities and Commonwealth companies.
 
 # Contents
 
@@ -80,6 +78,8 @@ Related legislation
 
 [6](#6).            Notional payments and receipts by Agencies
 
+[7](#7).            Offences
+
 **Part 3—Collection, custody etc. of public money**
 
 [8](#8).            Agreements with banks about receipt, transmission etc  of public money
@@ -90,7 +90,7 @@ Related legislation
 
 [11](#11).          Public money not to be paid into non-official account
 
-[12](#12).          Receipt and spending of public money by outsiders
+[12](#12).          Finance Minister’s authority needed for arrangements for receipt etc  of public money by outsiders
 
 [13](#13).          Money not to be withdrawn from official account without authority
 
@@ -142,6 +142,8 @@ Related legislation
 
 [34](#34).          Finance Minister may waive debts etc 
 
+[35](#35).          Finance Minister may approve payments pending probate etc 
+
 [36](#36).          Presiding Officers may approve expenditure
 
 **Part 5—Borrowing and investment**
@@ -164,9 +166,7 @@ Related legislation
 
 **Part 7—Special responsibilities of Chief Executives**
 
-[44](#44).          Promoting efficient, effective and ethical use etc  of Commonwealth resources
-
-[44A](#44A).       Keeping responsible Minister and Finance Minister informed
+[44](#44).          Promoting efficient, effective and ethical use of Commonwealth resources
 
 [45](#45).          Fraud control plan
 
@@ -178,9 +178,9 @@ Related legislation
 
 [49](#49).          Annual financial statements
 
-[50](#50).          Additional financial statements
+[50](#50).          Additional financial statements and information
 
-[51](#51).          Reporting requirements if Agency ceases to exist or Agency functions are transferred
+[51](#51).          Reporting requirements on change of Agency functions
 
 [52](#52).          Chief Executive’s instructions
 
@@ -199,6 +199,8 @@ Related legislation
 **Part 9—Miscellaneous**
 
 [58](#58).          Modifications of Act for intelligence or security agency or prescribed law enforcement agency
+
+[59](#59).          Advisory Committees for reporting on large waivers etc 
 
 [60](#60).          Misuse of Commonwealth credit card
 
@@ -324,23 +326,27 @@ Note:          See also the _Financial Management Legislation 
 
 ##### <a id="6"></a>6  Notional payments and receipts by Agencies
 
-                   If:
+             (1)  This Act applies to a notional payment by an Agency (or part of an Agency) as if it were a real payment by the Commonwealth.
 
-                     (a)  either:
-
-                              (i)  an Agency makes a notional payment to another Agency; or
-
-                             (ii)  one part of an Agency makes a notional payment to another part of that Agency; and
-
-                     (b)  the transaction would involve the debiting of an appropriation if the notional payment were a real payment;
-
-then:
-
-                     (c)  this Act applies in relation to the notional payment as if it were a real payment; and
-
-                     (d)  this Act applies in relation to the notional receipt of the notional payment as if it were a real receipt.
+             (2)  This Act applies to a notional receipt by an Agency (or part of an Agency) of such a notional payment as if it were a real receipt by the Commonwealth.
 
 Note:          This section applies to transactions that do not actually involve payments or receipts, because the parties to the transaction are merely parts of the Commonwealth, or acting as agents for the Commonwealth. For example, Agency 1 “pays” Agency 2 for services provided by Agency 2\. One of the effects of this section is that a drawing right under section 27 will be required for the transaction.
+
+##### <a id="7"></a>7  Offences
+
+(1)  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+
+(2)A maximum penalty that is specified:
+
+                     (a)  at the foot of a section of this Act (other than a section that is divided into subsections); or
+
+                     (b)  at the foot of a subsection of this Act;
+
+indicates that a person who contravenes the section or subsection is guilty of an offence against the section or subsection that is punishable, on conviction, by a penalty up to that maximum.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       If the specified penalty is imprisonment only, section 4B of the _Crimes Act 1914_ allows the court to impose a fine instead of imprisonment or in addition to imprisonment.
 
 ## Part 3—Collection, custody etc. of public money
 
@@ -372,9 +378,9 @@ Note:          An overdraft drawing consists of the bank meeti
 
 ##### <a id="10"></a>10  Public money must be promptly banked etc.
 
-                   An official or Minister who receives public money (including money that becomes public money upon receipt) must bank it as required by the regulations or otherwise deal with it as required by the regulations. For this purpose, **_money_** includes cheques and similar instruments.
+                   An official or Minister who receives public money (including money that becomes public money upon receipt) must bank it as required by the Finance Minister’s Orders or otherwise deal with it as required by the Finance Minister’s Orders. For this purpose, **_money_** includes cheques and similar instruments.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -382,43 +388,29 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    An official or Minister must not deposit public money in any account other than an official account. For this purpose, **_money_** includes cheques and similar instruments.
 
-                    Penalty:  Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="12"></a>12  Receipt and spending of public money by outsiders
+##### <a id="12"></a>12  Finance Minister’s authority needed for arrangements for receipt etc. of public money by outsiders
 
-             (1)  An official or Minister must not enter into an agreement or arrangement for the receipt, custody or payment of public money by an outsider unless:
+                   An official or Minister must not enter into an agreement or arrangement for the receipt or custody of public money by an outsider unless:
 
-                     (a)  the Finance Minister has first given a written authorisation for the agreement or arrangement; or
+                     (a)  the Finance Minister has first given a written authorisation for the arrangement; or
 
-                     (b)  the agreement or arrangement is expressly authorised by this Act or by another Act.
+                     (b)  the arrangement is expressly authorised by this Act or by another Act.
 
-                    Penalty:  Imprisonment for 7 years.
+For this purpose, **_outsider_** means any person other than the Commonwealth, an official or a Minister.
+
+                    Maximum penalty:    Imprisonment for 7 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-             (2)  An outsider commits an offence if:
-
-                     (a)  the outsider receives or has custody of public money under an agreement or arrangement mentioned in subsection (1); and
-
-                     (b)  the outsider makes a payment of the public money; and
-
-                     (c)  that payment is not authorised by the agreement or arrangement.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Note:          Section 27 allows a drawing right to be issued to an official or a Minister to debit an amount against an appropriation (as a result of a payment of public money by an outsider).
-
-             (3)  In this section:
-
-                    <a name="outsid"></a>**_outsider_** means any person other than the Commonwealth, an official or a Minister.
 
 ##### <a id="13"></a>13  Money not to be withdrawn from official account without authority
 
-                   An official must not withdraw money from an official account except as authorised by the regulations.
+                   An official must not withdraw money from an official account except as authorised by the Finance Minister’s Orders.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -426,7 +418,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    An official or Minister must not misapply public money or improperly dispose of, or improperly use, public money.
 
-                    Penalty:  Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -466,7 +458,7 @@ the official or Minister is liable to pay to the Commonwealth an amount equal to
 
 ##### <a id="16"></a>16  Special Instructions by Finance Minister about handling etc. of special public money
 
-             (1)  The Finance Minister may, by legislative instrument, issue Special Instructions about special public money, including instructions about:
+             (1)  The Finance Minister may issue Special Instructions in writing about special public money, including instructions about:
 
                      (a)  the custody of special public money;
 
@@ -480,7 +472,7 @@ the official or Minister is liable to pay to the Commonwealth an amount equal to
 
              (3)  An official or Minister must not contravene any Special Instruction.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -568,7 +560,7 @@ Note:          This subsection applies to transactions that do
 
                      (c)  debit an amount against an appropriation.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -576,11 +568,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  The Finance Minister may issue a drawing right to an official or Minister that authorises the official or Minister to do one or more of the following:
 
-                     (a)  make a payment of public money;
+                     (a)  make a payment of public money for a specified purpose;
 
-                     (b)  request the debiting of an amount against an appropriation;
+                     (b)  request the debiting of an amount against a particular appropriation;
 
-                     (c)  debit an amount against an appropriation.
+                     (c)  debit an amount against a particular appropriation.
 
              (2)  If a law requires the payment of an amount of public money and there is an available appropriation for that payment:
 
@@ -744,11 +736,11 @@ Relevant Agency receipts
 
                      (b)  periodical payments of an amount specified in the authorisation (or worked out in accordance with the authorisation), during a period specified in the authorisation (or worked out in accordance with the authorisation).
 
-Note:          See also subparagraph 65(2)(a)(ia) (which allows regulations to be made about the Finance Minister considering a report from specified persons before authorising a total amount that is more than a specified amount).
+             (2)  If a proposed authorisation would involve, or be likely to involve, a total amount of more than $100,000, the Finance Minister must first consider a report of an Advisory Committee set up under section 59.
 
              (3)  Conditions may be attached to payments under this section. If a condition is breached, the payment may be recovered by the Commonwealth as a debt in a court of competent jurisdiction.
 
-Note:          Act of grace payments under this section must be made from money appropriated by the Parliament. Generally, an act of grace payment can be debited against an Agency’s annual appropriation, providing that it relates to some matter that has arisen in the course of its administration.
+Note:          Act of grace payments under this section must be made from money appropriated by the Parliament. Generally, an act of grace payment can be debited against an Agency’s annual appropriation, providing that it relates to some matter that has arisen in the course of its administration or otherwise relates to the Agency’s outcomes.
 
 ##### <a id="34"></a>34  Finance Minister may waive debts etc.
 
@@ -762,13 +754,27 @@ Note:          Act of grace payments under this section must b
 
                      (d)  defer the time for payment of an amount owing to the Commonwealth.
 
-Note:          See also subparagraph 65(2)(a)(ia) (which allows regulations to be made about the Finance Minister considering a report from specified persons before waiving a total amount that is more than a specified amount).
+             (2)  If a proposed waiver under paragraph (1)(a) involves, or is likely to involve, a total amount of more than $100,000, the Finance Minister must consider a report of an Advisory Committee set up under section 59 before taking action on the waiver.
 
              (3)  A waiver may be made either unconditionally or on the condition that a person agrees to pay an amount to the Commonwealth in specified circumstances.
 
              (4)  In this section:
 
                     <a name="amount-owing-commonwealth"></a>**_amount owing to the Commonwealth_** includes an amount that is owing but not yet due for payment.
+
+##### <a id="35"></a>35  Finance Minister may approve payments pending probate etc.
+
+             (1)  If, at the time of a person’s death, the Commonwealth owed an amount to the person, the Finance Minister may authorise payment of that amount to the person who the Minister considers should receive the payment.
+
+             (2)  The Minister may authorise the payment without requiring production of probate of the will of the deceased person or letters of administration of the estate of the deceased person.
+
+             (3)  In deciding who should be paid, the Finance Minister must have regard to the persons who are entitled to the property of the deceased person under the deceased person’s will or under the law relating to the disposition of the property of deceased persons.
+
+             (4)  After the payment is made, the Commonwealth has no further liability in respect of the payment. However, this section does not relieve the recipient from a liability to deal with the money in accordance with law.
+
+             (5)  This section does not have the effect of appropriating the CRF for the purposes of payments under this section.
+
+             (6)  This section extends to cases where the deceased person died before the commencement of this section.
 
 ##### <a id="36"></a>36  Presiding Officers may approve expenditure
 
@@ -794,11 +800,9 @@ Note:          See also subparagraph 65(2)(a)(ia) (which allow
 
 ##### <a id="39"></a>39  Investment of public money
 
-             (1)  The Finance Minister may, on behalf of the Commonwealth, invest public money in any authorised investment.
+             (1)  The Finance Minister may invest public money in any authorised investment.
 
-             (2)  The Treasurer may, on behalf of the Commonwealth, invest public money in any authorised investment.
-
-          (2A)  For the purposes of investing public money under this section in securities of the Commonwealth, the Commonwealth is to be treated as if it were a separate legal entity to the entity issuing the securities.
+             (2)  The Treasurer may invest public money in any authorised investment.
 
              (3)  An investment of public money under this section must not be inconsistent with the terms of any trust that applies to the money concerned.
 
@@ -806,9 +810,13 @@ Note:          See also subparagraph 65(2)(a)(ia) (which allow
 
              (5)  Upon realisation of an investment of an amount debited from a Special Account, the proceeds of the investment must be credited to that Special Account.
 
-             (6)  At any time before an investment matures, the Finance Minister or Treasurer, as the case requires, may, on behalf of the Commonwealth, authorise the re-investment of the proceeds upon maturity in an authorised investment with the same entity.
+             (6)  At any time before an investment matures, the Finance Minister or Treasurer, as the case requires, may authorise the re-investment of the proceeds upon maturity in an authorised investment with the same entity.
 
-Note:          The proceeds of investment of the original investment will not become public money when the investment matures because the proceeds will not be received by or on behalf of the Commonwealth before the proceeds are re-invested.
+Note:          The proceeds of investment of the original investment will not become public money when the investment matures because the proceeds will not be received by or on behalf of the Commonwealth.
+
+             (7)  The corporation established by section 62B of the _Audit Act 1901_ is continued in existence for the purposes of this section with the name “The Minister for Finance of the Commonwealth”. Investments by the Finance Minister under this section must be made in that corporate name.
+
+             (8)  The corporation established by section 8 of the _Loan Consolidation and Investment Reserve Act 1955_ is continued in existence for the purposes of this section with the name “The Treasurer of the Commonwealth”. Investments by the Treasurer under this section must be made in that corporate name.
 
              (9)  The CRF is appropriated as necessary for the purposes of this section.
 
@@ -846,9 +854,9 @@ Note:          The proceeds of investment of the original inve
 
 ##### <a id="40"></a>40  Custody etc. of securities
 
-                   An official who receives any bonds, debentures or other securities in the course of carrying out duties as an official must deal with them in accordance with the regulations.
+                   An official who receives any bonds, debentures or other securities in the course of carrying out duties as an official must deal with them in accordance with the Finance Minister’s Orders.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -856,7 +864,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    An official or Minister must not misapply public property or improperly dispose of, or improperly use, public property.
 
-                    Penalty:  Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -910,35 +918,21 @@ the official or Minister is liable to pay to the Commonwealth the amount of the 
 
                      (c)  the Commonwealth acquired the property to use it as a gift.
 
-                    Penalty:  Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ## Part 7—Special responsibilities of Chief Executives
 
-##### <a id="44"></a>44  Promoting efficient, effective and ethical use etc. of Commonwealth resources
+##### <a id="44"></a>44  Promoting efficient, effective and ethical use of Commonwealth resources
 
              (1)  A Chief Executive must manage the affairs of the Agency in a way that promotes proper use of the Commonwealth resources for which the Chief Executive is responsible.
 
-Note:          A Chief Executive has the power to enter into contracts, on behalf of the Commonwealth, in relation to the affairs of the Agency. Some Chief Executives have delegated this power under section 53.
-
-             (2)  In doing so, the Chief Executive must comply with this Act, the regulations, Finance Minister’s Orders, Special Instructions and any other law.
+             (2)  If compliance with the requirements of the regulations, Finance Minister’s Orders, Special Instructions or any other law would hinder or prevent the proper use of those resources, the Chief Executive must manage so as to promote proper use of those resources to the greatest extent practicable while complying with those requirements.
 
              (3)  In this section:
 
-                    <a name="proper-us"></a>**_proper use_** means efficient, effective and ethical use that is not inconsistent with the policies of the Commonwealth.
-
-##### <a id="44A"></a>44A  Keeping responsible Minister and Finance Minister informed
-
-             (1)  A Chief Executive must:
-
-                     (a)  give the Minister responsible for the Agency such reports, documents and information in relation to the operations of the Agency as that Minister requires; and
-
-                     (b)  give the Finance Minister such reports, documents and information in relation to the financial affairs of the Agency as that Minister requires.
-
-             (2)  A Chief Executive must comply with a requirement under paragraph (1)(a) or (b) within the time limits set by the Minister concerned.
-
-             (3)  This section does not limit any other power that a Minister has to require information from an Agency.
+                    <a name="proper-us"></a>**_proper use_** means efficient, effective and ethical use.
 
 ##### <a id="45"></a>45  Fraud control plan
 
@@ -946,13 +940,7 @@ Note:          A Chief Executive has the power to enter into c
 
 ##### <a id="46"></a>46  Audit committee
 
-             (1)  A Chief Executive must establish and maintain an audit committee with functions that include:
-
-                     (a)  helping the Agency to comply with obligations under this Act, the regulations and Finance Minister’s Orders; and
-
-                     (b)  providing a forum for communication between the Chief Executive, the senior managers of the Agency and the internal and external auditors of the Agency.
-
-             (2)  The committee must be constituted in accordance with the regulations (if any).
+                   A Chief Executive must establish and maintain an audit committee for the Agency, with the functions and responsibilities required by the Finance Minister’s Orders.
 
 ##### <a id="47"></a>47  Recovery of debts
 
@@ -986,19 +974,17 @@ Note:          A Chief Executive has the power to enter into c
 
              (4)  In the financial statements, the Chief Executive must state whether, in his or her opinion, the financial statements give a true and fair view of the matters required by Finance Minister’s Orders.
 
-##### <a id="50"></a>50  Additional financial statements
+##### <a id="50"></a>50  Additional financial statements and information
 
-                   A Chief Executive must, when required by the Finance Minister, give the Finance Minister financial statements covering a period of less than a financial year. The Finance Minister may require the statements to include some or all of the details that are required to be included in the annual financial statements.
+             (1)  A Chief Executive must, when required by the Finance Minister, give the Finance Minister financial statements covering a period of less than a financial year. The Finance Minister may require the statements to include some or all of the details that are required to be included in the annual financial statements.
 
-##### <a id="51"></a>51  Reporting requirements if Agency ceases to exist or Agency functions are transferred
+             (2)  A Chief Executive must give the Finance Minister any information that the Finance Minister requires about the financial affairs of the Agency. However, a Chief Executive is not required to give information whose disclosure is prohibited by any law.
 
-Agency ceases to exist
+##### <a id="51"></a>51  Reporting requirements on change of Agency functions
 
-             (1)  If an Agency (the **_old Agency_**) ceases to exist, then, to the extent that its functions are not transferred to one or more other Agencies, the financial statements that would have been required to be prepared under section 49 by the Chief Executive of the old Agency must be prepared by another Chief Executive nominated by the Finance Minister.
+             (1)  If an Agency ceases to exist, the financial statements that would have been required to be prepared under section 49 by the Chief Executive of that Agency must be prepared instead by another Chief Executive nominated by the Finance Minister. However, the statements need not deal with any functions that were transferred from the Agency that ceased to exist to another Agency.
 
-Transfer of Agency functions
-
-             (2)  If a function of an Agency (the **_transferring Agency_**) is transferred to one or more other Agencies, either because the transferring Agency ceases to exist or for any other reason, the financial statements under section 49 for that function must be prepared by the Chief Executive or Chief Executives nominated by the Finance Minister.
+             (2)  If a function is transferred between 2 or more Agencies in a financial year, the financial statements under section 49 for that function must be prepared by the Chief Executive of one of those Agencies, or by the Chief Executives of 2 or more of those Agencies, as directed by the Finance Minister.
 
 ##### <a id="52"></a>52  Chief Executive’s instructions
 
@@ -1096,19 +1082,35 @@ If the Auditor-General is not of that opinion, the Auditor-General must state th
 
                     <a name="prescrib-law-enforc-agenc"></a>**_prescribed law enforcement agency_** means a law enforcement agency, within the meaning of section 85ZL of the _Crimes Act 1914_, that is prescribed by the regulations for the purposes of this definition.
 
+##### <a id="59"></a>59  Advisory Committees for reporting on large waivers etc.
+
+             (1)  An Advisory Committee for the purposes of this Act consists of:
+
+                     (a)  the Chief Executive Officer of Customs; and
+
+                     (b)  the Secretary to the Department of Finance and Administration; and
+
+                     (c)  the Chief Executive of the Agency that is responsible for the matter on which the Committee has to report.
+
+             (2)  If there is no Agency responsible for the matter, or if the responsible Agency is the Department of Finance and Administration or the Australian Customs Service, then the third member of the Committee is to be a Chief Executive nominated by the Finance Minister.
+
+             (3)  A member of an Advisory Committee may appoint a deputy to act in his or her place.
+
+             (4)  An Advisory Committee may prepare its report without having a meeting.
+
 ##### <a id="60"></a>60  Misuse of Commonwealth credit card
 
              (1)  An official or Minister must not use a Commonwealth credit card, or a Commonwealth credit card number, to obtain cash, goods or services otherwise than for the Commonwealth.
 
-                    Penalty:  Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
              (2)  Subsection (1) does not apply to a particular use of a Commonwealth credit card or Commonwealth credit card number if:
 
-                     (a)  the use is authorised by the regulations; and
+                     (a)  the use is authorised by the Finance Minister’s Orders; and
 
-                     (b)  the Commonwealth is reimbursed in accordance with the regulations.
+                     (b)  the Commonwealth is reimbursed in accordance with the Finance Minister’s Orders.
 
              (3)  In this section:
 
@@ -1154,7 +1156,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="63"></a>63  Finance Minister’s Orders
 
-             (1)  The Finance Minister may, by legislative instrument, make Orders:
+             (1)  The Finance Minister may make Orders:
 
                      (a)  on any matter on which this Act requires or permits Finance Minister’s Orders to be made; and
 
@@ -1162,13 +1164,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  An Order cannot create offences or impose penalties.
 
+             (3)  An Order is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
 ##### <a id="64"></a>64  Guidelines by Ministers
 
              (1)  The regulations may authorise a Minister to issue guidelines to officials on matters within the Minister’s responsibility. The matters must be ones about which regulations may be made under this Act.
 
              (2)  A guideline cannot create offences or impose penalties.
-
-             (3)  A guideline is a legislative instrument.
 
 ##### <a id="65"></a>65  Regulations
 
@@ -1183,10 +1185,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                      (a)  relating to any of the following matters:
 
                               (i)  handling, spending and accounting for public money;
-
-                            (ia)  the Finance Minister considering a report from specified persons before authorising under subsection 33(1), or waiving under subsection 34(1), a total amount that is more than a specified amount;
-
-                            (ib)  the Finance Minister authorising payment of an amount if, at the time of a person’s death, the Commonwealth owed that amount to the person (including authorising without requiring production of probate of the will of the person or letters of administration of the estate of the person);
 
                              (ii)  commitments to spend public money;
 
@@ -1413,10 +1411,10 @@ Remainder: 7 Apr 2006</div>
     <div>20 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 15–61, 68–74): 20 Mar 2009</div>
+    <div>Schedule 1 (items 15–61, 68–75): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 1 (items 68–74)</div>
+    <div>Sch. 1 (items 68–75)</div>
   </td>
 </tr></table>
 
@@ -1479,66 +1477,10 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 6</div>
   </td>
   <td>
-    <div>rs. No. 20, 1999; No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12–14</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
+    <div>rs. No. 20, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1706,7 +1648,7 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
     <div>Ss. 26, 27</div>
   </td>
   <td>
-    <div>am. No. 20, 1999; No. 90, 2008</div>
+    <div>am. No. 20, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1826,47 +1768,15 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 30, 2006; No. 90, 2008</div>
+    <div>am. No. 30, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 33(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 33(3)</div>
+    <div>Note to s. 33</div>
   </td>
   <td>
     <div>ad. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 34(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1875,14 +1785,6 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
   </td>
   <td>
     <div>am. No. 20, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1906,39 +1808,7 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 78 and 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 39(6)</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40, 41</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
+    <div>am. No. 78, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1947,70 +1817,6 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 44(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44A</div>
-  </td>
-  <td>
-    <div>ad. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 50</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2071,22 +1877,6 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 61</div>
   </td>
   <td>
@@ -2111,20 +1901,300 @@ _(b)_    The _Financial Management and Accountability Act 1997_ was amende
 </tr>
 <tr>
   <td>
-    <div>Ss. 63–65</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Appendix A</div>
   </td>
   <td>
     <div>rep. No. 20, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
+
+The following amendments commence on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 15  Section 6
+
+Repeal the section, substitute:
+
+##### <a id="6"></a>6  Notional payments and receipts by Agencies
+
+                   If:
+
+                     (a)  either:
+
+                              (i)  an Agency makes a notional payment to another Agency; or
+
+                             (ii)  one part of an Agency makes a notional payment to another part of that Agency; and
+
+                     (b)  the transaction would involve the debiting of an appropriation if the notional payment were a real payment;
+
+then:
+
+                     (c)  this Act applies in relation to the notional payment as if it were a real payment; and
+
+                     (d)  this Act applies in relation to the notional receipt of the notional payment as if it were a real receipt.
+
+Note:          This section applies to transactions that do not actually involve payments or receipts, because the parties to the transaction are merely parts of the Commonwealth, or acting as agents for the Commonwealth. For example, Agency 1 “pays” Agency 2 for services provided by Agency 2\. One of the effects of this section is that a drawing right under section 27 will be required for the transaction.
+
+## 16  Section 7
+
+Repeal the section.
+
+## 17  Section 10
+
+Omit “Finance Minister’s Orders” (wherever occurring), substitute “regulations”.
+
+## 18  Sections 10 and 11 (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 19  Section 12
+
+Before “An”, insert “(1)”.
+
+_Note:       The heading to section 12 is replaced by the heading “Receipt and spending of public money by outsiders”._
+
+## 20  Section 12
+
+Omit “or custody”, substitute “, custody or payment”.
+
+## 21  Paragraph 12(a)
+
+After “for the”, insert “agreement or”.
+
+## 22  Paragraph 12(b)
+
+After “the”, insert “agreement or”.
+
+## 23  Section 12
+
+Omit “For this purpose, **_outsider_** means any person other than the Commonwealth, an official or a Minister.”.
+
+## 24  Section 12 (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 25  At the end of section 12
+
+Add:
+
+             (2)  An outsider commits an offence if:
+
+                     (a)  the outsider receives or has custody of public money under an agreement or arrangement mentioned in subsection (1); and
+
+                     (b)  the outsider makes a payment of the public money; and
+
+                     (c)  that payment is not authorised by the agreement or arrangement.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note:          Section 27 allows a drawing right to be issued to an official or a Minister to debit an amount against an appropriation (as a result of a payment of public money by an outsider).
+
+             (3)  In this section:
+
+                    <a name="outsid"></a>**_outsider_** means any person other than the Commonwealth, an official or a Minister.
+
+## 26  Section 13
+
+Omit “Finance Minister’s Orders”, substitute “regulations”.
+
+## 27  Sections 13 and 14 (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 28  Subsection 16(1)
+
+After “Minister may”, insert “, by legislative instrument,”.
+
+## 29  Subsection 16(1)
+
+Omit “in writing”.
+
+## 30  Subsection 16(3) (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 31  Section 26 (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 32  Paragraph 27(1)(a)
+
+Omit “for a specified purpose”.
+
+## 33  Paragraphs 27(1)(b) and (c)
+
+Omit “a particular”, substitute “an”.
+
+## 34  At the end of subsection 33(1)
+
+Add:
+
+Note:          See also subparagraph 65(2)(a)(ia) (which allows regulations to be made about the Finance Minister considering a report from specified persons before authorising a total amount that is more than a specified amount).
+
+## 35  Subsection 33(2)
+
+Repeal the subsection.
+
+## 36  Subsection 33(3) (note)
+
+Omit “or otherwise relates to the Agency’s outcomes”.
+
+## 37  At the end of subsection 34(1)
+
+Add:
+
+Note:          See also subparagraph 65(2)(a)(ia) (which allows regulations to be made about the Finance Minister considering a report from specified persons before waiving a total amount that is more than a specified amount).
+
+## 38  Subsection 34(2)
+
+Repeal the subsection.
+
+## 39  Section 35
+
+Repeal the section.
+
+## 40  Subsections 39(1) and (2)
+
+After “may”, insert “, on behalf of the Commonwealth,”.
+
+## 41  After subsection 39(2)
+
+Insert:
+
+          (2A)  For the purposes of investing public money under this section in securities of the Commonwealth, the Commonwealth is to be treated as if it were a separate legal entity to the entity issuing the securities.
+
+## 42  Subsection 39(6)
+
+After “may”, insert “, on behalf of the Commonwealth,”.
+
+## 43  Subsection 39(6) (at the end of the note)
+
+Add “before the proceeds are re-invested”.
+
+## 44  Subsections 39(7) and (8)
+
+Repeal the subsections.
+
+## 45  Section 40
+
+Omit “Finance Minister’s Orders”, substitute “regulations”.
+
+## 46  Sections 40, 41 and 43 (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 47  At the end of subsection 44(1)
+
+Add:
+
+Note:          A Chief Executive has the power to enter into contracts, on behalf of the Commonwealth, in relation to the affairs of the Agency. Some Chief Executives have delegated this power under section 53.
+
+_Note:       The heading to section 44 is altered by inserting “etc.” after “use”._
+
+## 48  Subsection 44(2)
+
+Repeal the subsection, substitute:
+
+             (2)  In doing so, the Chief Executive must comply with this Act, the regulations, Finance Minister’s Orders, Special Instructions and any other law.
+
+## 49  Subsection 44(3) (at the end of the definition of _proper use_)
+
+Add “that is not inconsistent with the policies of the Commonwealth”.
+
+## 50  After section 44
+
+Insert:
+
+##### <a id="44A"></a>44A  Keeping responsible Minister and Finance Minister informed
+
+             (1)  A Chief Executive must:
+
+                     (a)  give the Minister responsible for the Agency such reports, documents and information in relation to the operations of the Agency as that Minister requires; and
+
+                     (b)  give the Finance Minister such reports, documents and information in relation to the financial affairs of the Agency as that Minister requires.
+
+             (2)  A Chief Executive must comply with a requirement under paragraph (1)(a) or (b) within the time limits set by the Minister concerned.
+
+             (3)  This section does not limit any other power that a Minister has to require information from an Agency.
+
+## 51  Section 46
+
+Repeal the section, substitute:
+
+##### <a id="46"></a>46  Audit committee
+
+             (1)  A Chief Executive must establish and maintain an audit committee with functions that include:
+
+                     (a)  helping the Agency to comply with obligations under this Act, the regulations and Finance Minister’s Orders; and
+
+                     (b)  providing a forum for communication between the Chief Executive, the senior managers of the Agency and the internal and external auditors of the Agency.
+
+             (2)  The committee must be constituted in accordance with the regulations (if any).
+
+## 52  Subsection 50(1)
+
+Omit “(1)”.
+
+_Note:       The heading to section 50 is altered by omitting “and information”._
+
+## 53  Subsection 50(2)
+
+Repeal the subsection.
+
+## 54  Section 51
+
+Repeal the section, substitute:
+
+##### <a id="51"></a>51  Reporting requirements if Agency ceases to exist or Agency functions are transferred
+
+Agency ceases to exist
+
+             (1)  If an Agency (the **_old Agency_**) ceases to exist, then, to the extent that its functions are not transferred to one or more other Agencies, the financial statements that would have been required to be prepared under section 49 by the Chief Executive of the old Agency must be prepared by another Chief Executive nominated by the Finance Minister.
+
+Transfer of Agency functions
+
+             (2)  If a function of an Agency (the **_transferring Agency_**) is transferred to one or more other Agencies, either because the transferring Agency ceases to exist or for any other reason, the financial statements under section 49 for that function must be prepared by the Chief Executive or Chief Executives nominated by the Finance Minister.
+
+## 55  Section 59
+
+Repeal the section.
+
+## 56  Subsection 60(1) (penalty)
+
+Omit “Maximum penalty”, substitute “Penalty”.
+
+## 57  Paragraphs 60(2)(a) and (b)
+
+Omit “Finance Minister’s Orders”, substitute “regulations”.
+
+## 58  Subsection 63(1)
+
+After “Minister may”, insert “, by legislative instrument,”.
+
+## 59  Subsection 63(3)
+
+Repeal the subsection.
+
+## 60  At the end of section 64
+
+Add:
+
+             (3)  A guideline is a legislative instrument.
+
+## 61  After subparagraph 65(2)(a)(i)
+
+Insert:
+
+                            (ia)  the Finance Minister considering a report from specified persons before authorising under subsection 33(1), or waiving under subsection 34(1), a total amount that is more than a specified amount;
+
+                            (ib)  the Finance Minister authorising payment of an amount if, at the time of a person’s death, the Commonwealth owed that amount to the person (including authorising without requiring production of probate of the will of the person or letters of administration of the estate of the person);
+
+As at 3 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2354,6 +2424,8 @@ The amendments made by items 6 to 9 of this Schedule apply in relation to publ
 
 _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
+The following provisions commence on 20 March 2009 unless proclaimed earlier:
+
 ## Schedule 1
 
 ## 68  Application—receipt and spending of public money by outsiders
@@ -2362,7 +2434,7 @@ _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
 (2)        Subsection 12(2) of the _Financial Management and Accountability Act 1997_(as inserted by this Act) applies in relation to agreements or arrangements entered into on or after the commencement of this item.
 
-## 69  Application—drawing rights
+## 69  Application—drawing rights
 
 The amendments made by items 32 and 33 apply in relation to drawing rights issued on or after the commencement of those items.
 
@@ -2370,7 +2442,7 @@ The amendments made by items 32 and 33 apply in relation to drawing rights iss
 
 Despite the repeal of section 35 of the _Financial Management and Accountability Act 1997_ made by this Schedule, that section (as in force immediately before the commencement of item 39) continues to apply on and after that commencement in relation to payments that were authorised before that commencement.
 
-## 71  Transitional—investment of public money
+## 71  Transitional—investment of public money
 
 (1)        If the corporation referred to in subsection 39(7) of the _Financial Management and Accountability Act 1997_(as in force immediately before the commencement of item 44) held an investment under section 39 of that Act immediately before the commencement of that item, the investment is taken, on and after the commencement of that item, to be held by the Finance Minister on behalf of the Commonwealth.
 
@@ -2395,5 +2467,9 @@ The amendment made by item 54 applies in relation to:
                      (a)  Agencies that cease to exist on or after the commencement of that item; and
 
                      (b)  functions of an Agency that are transferred on or after the commencement of that item.
+
+## 75  Transitional regulations
+
+The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Schedule.
 
  
