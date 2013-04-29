@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00394/Html/FishMangmtAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00348/Html/FishMangmtAct1991_WD02_image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 11 May 2010
+ taking into account amendments up to Act No. 39 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -436,11 +436,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106](#106).        Forfeiture of things used in certain offences
 
-106AAAForfeiture of additional things on forfeited boats
+[106AAA](#106AAA).                                 Forfeiture of additional things on forfeited boats
 
-106AABForfeited things become the property of the Commonwealth
+[106AAB](#106AAB).              Forfeited things become the property of the Commonwealth
 
-106AACRights and interests of the Commonwealth not limited
+[106AAC](#106AAC).                        Rights and interests of the Commonwealth not limited
 
         **Subdivision B—Automatic forfeiture of things**
 
@@ -2171,7 +2171,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00394/Html/FishMangmtAct1991_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00348/Html/FishMangmtAct1991_WD02_image002.gif)
 
 where:
 
@@ -5178,7 +5178,7 @@ This does not limit subsection (1C).
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="104"></a>104  Foreign boats not to contravene condition of Treaty licence
+##### <a id="104"></a>104  Foreign boats not to contravene condition of Treaty licence
 
              (1)  A person must not, in an area of the AFZ that is within the Treaty area:
 
@@ -8530,7 +8530,7 @@ Note:          This clause corresponds closely to section 26
 
 ##### <a id="33"></a>33  Identification tests not to be carried out in cruel, inhuman or degrading manner etc.
 
-                   For the purposes of this Act, the carrying out of the identification test is not of itself taken:
+                   For the purposes of this Act, the carrying out of the identification test is not of itself taken:
 
                      (a)  to be cruel, inhuman or degrading; or
 
@@ -13210,8 +13210,6 @@ For application, saving or transitional provisions made by the _Corporations (Re
 
 For application, saving or transitional provisions made by the _Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008_, _see_ Act No. 36, 2008.
 
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
-
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -13845,24 +13843,6 @@ Schedule 3 (items 1–66): 24 June 2009</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 35, 36): \[ <i>see (n)</i>and Note 3] 
-Schedule 7: <i>(n)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Fisheries Management Act 1991_ provides as follows:
@@ -14319,65 +14299,6 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
   <td>
     <div>
       26 July 2007
-    </div>
-  </td>
-</tr></table>
-
-_(n)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>
-      <b>
-        Provision(s)
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>
-        Commencement
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>
-        Date/Details
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -17844,7 +17765,7 @@ Insert:
 
 Repeal the subsection.
 
-## 16  Subdivision F of Division 6 of Part 6
+## 16  Subdivision F of Division 6 of Part 6
 
 Repeal the Subdivision, substitute:
 
@@ -17866,25 +17787,7 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 7 June 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 5
-
-## 35  Paragraph 42(2)(e) of Schedule 1A
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner under the _Privacy Act 1988_”.
-
-## 36  Paragraph 53(2)(g) of Schedule 1A
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-As at 7 June 2010 the amendments are not incorporated in this compilation.
+As of 11 May 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
