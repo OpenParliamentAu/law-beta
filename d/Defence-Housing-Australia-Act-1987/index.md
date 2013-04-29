@@ -1,173 +1,180 @@
-![](http://www.comlaw.gov.au/Details/C2006C00678/Html/DefHouAustAct1987WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00272/Html/C11273CFA83742D8CA25717E001709D1/$FILE/image001.gif)
 
-# Defence Housing Australia Act 1987
+# Defence Housing Authority Act 1987
 
 **Act No. 101 of 1987 as amended**
 
-This compilation was prepared on 22 November 2006
- taking into account amendments up to Act No. 45 of 2006
+This compilation was prepared on 25 May 2006
+taking into account amendments up to Act No. 45 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-**Part II—Establishment, functions and powers of DHA**
+**Part II—Establishment, function and powers of Authority**
 
-[4](#4).            Defence Housing Australia
+[4](#4).            Establishment                                                                                      3
 
-[5](#5).            Main function
+[5](#5).            Function                                                                                               3
 
-[6](#6).            Additional functions
+[6](#6).            Manner of performing function                                                           3
 
-[7](#7).            Powers
+[7](#7).            Powers                                                                                                 3
 
-[11](#11).          DHA is body corporate etc 
+[8](#8).            Limitations on formation of companies etc                                         5
 
-**Part III—The Board**
+[9](#9).            Limitations on formation of partnerships                                           6
 
-[11A](#11A).       Establishment of the Board
+[10](#10).          Limitations on participation in joint ventures                                     7
 
-[11B](#11B).       Functions of the Board
+**Part III—Constitution and meetings of Authority**
 
-[12](#12).          Membership of the Board
+[11](#11).          Authority is body corporate etc                                                          8
 
-[13](#13).          Chairperson may be referred to as Chairman or Chairwoman
+[12](#12).          Constitution                                                                                         8
 
-[14](#14).          Appointment of members
+[13](#13).          Chairperson may be referred to as Chairman or Chairwoman             9
 
-[15](#15).          Term of office of appointed members
+[14](#14).          Appointment of members                                                                   9
 
-[16](#16).          Appointed members hold office on part time basis
+[15](#15).          Term of office of appointed members                                               10
 
-[17](#17).          Remuneration and allowances of appointed members
+[16](#16).          Appointed members hold office on part time basis                          10
 
-[18](#18).          Leave of absence
+[17](#17).          Remuneration and allowances of appointed members                       10
 
-[19](#19).          Resignation of appointed members
+[18](#18).          Leave of absence                                                                                10
 
-[20](#20).          Disclosure of interests
+[19](#19).          Resignation of appointed members                                                   10
 
-[21](#21).          Termination of appointment
+[20](#20).          Disclosure of interests                                                                       11
 
-[22](#22).          Terms and conditions of appointment not provided for by Act
+[21](#21).          Termination of appointment                                                             11
 
-[23](#23).          Acting appointments
+[22](#22).          Terms and conditions of appointment not provided for by Act       11
 
-[24](#24).          Meetings
+[23](#23).          Acting appointments                                                                         11
 
-[25](#25).          Resolutions without meetings
+[24](#24).          Meetings                                                                                            13
 
-[26](#26).          Committees
+[25](#25).          Resolutions without meetings                                                           14
 
-**Part IIIA—DHA Advisory Committee**
+[26](#26).          Committees                                                                                        14
 
-[27](#27).          DHA Advisory Committee
+**Part IV—Operation of Authority**
 
-[28](#28).          Function of the DHA Advisory Committee
+[28](#28).          Financial targets to be included in corporate plan                             16
 
-[29](#29).          Remuneration
+[30](#30).          Minister may vary corporate and financial plans                              16
 
-**Part IV—Operation of DHA**
+[31](#31).          Directions to Authority                                                                     17
 
-[31](#31).          Directions to DHA
-
-[32](#32).          Reimbursement of cost of complying with directions
+[32](#32).          Reimbursement of cost of complying with directions                       17
 
 **Part V—Finance**
 
-[36](#36).          Borrowings from Commonwealth
+[33](#33).          Capital structure of Authority                                                          19
 
-[37](#37).          Borrowings otherwise than from Commonwealth
+[34](#34).          Capital of Authority                                                                          19
 
-[38](#38).          Guarantee of borrowings by DHA
+[35](#35).          Payment of dividends to Commonwealth                                         20
 
-[39](#39).          DHA may give security
+[36](#36).          Borrowings from Commonwealth                                                     21
 
-[40](#40).          Borrowings not otherwise permitted
+[37](#37).          Borrowings otherwise than from Commonwealth                             21
 
-[41](#41).          Guarantee of borrowings and raisings by wholly owned subsidiaries
+[38](#38).          Guarantee of borrowings by Authority                                             22
+
+[39](#39).          Authority may give security                                                             23
+
+[40](#40).          Borrowings not otherwise permitted                                                 24
+
+[41](#41).          Guarantee of borrowings and raisings by wholly owned subsidiaries 24
 
 **Part VI—Managing Director, staff and consultants** 
 
     **Division 1—Managing Director**
 
-[45](#45).          Managing Director
+[45](#45).          Managing Director                                                                             28
 
-[46](#46).          Duties
+[46](#46).          Duties                                                                                                28
 
-[47](#47).          Appointment
+[47](#47).          Appointment                                                                                     28
 
-[48](#48).          Term of office etc 
+[48](#48).          Term of office etc                                                                              28
 
-[49](#49).          Managing Director not to engage in other paid employment
+[49](#49).          Managing Director not to engage in other paid employment            28
 
-[50](#50).          Remuneration and allowances
+[50](#50).          Remuneration and allowances                                                            29
 
-[51](#51).          Leave of absence
+[51](#51).          Leave of absence                                                                                29
 
-[52](#52).          Resignation
+[52](#52).          Resignation                                                                                        29
 
-[54](#54).          Acting Managing Director
+[53](#53).          Disclosure of interests                                                                       29
 
-[56](#56).          Terms and conditions of appointment not provided for by Act
+[54](#54).          Acting Managing Director                                                                 29
+
+[55](#55).          Exclusion of Managing Director etc  from certain deliberations        31
+
+[56](#56).          Terms and conditions of appointment not provided for by Act       31
 
     **Division 2—Staff and consultants**
 
-[57](#57).          Staff
+[57](#57).          Staff                                                                                                   32
 
-[58](#58).          Consultants
+[58](#58).          Consultants                                                                                        32
 
 **Part VII—Miscellaneous**
 
-[59](#59).          Rents
+[59](#59).          Rents                                                                                                  33
 
-[60](#60).          Transfer of assets to DHA
+[60](#60).          Transfer of assets to Authority                                                         33
 
-[61](#61).          Application of Lands Acquisition Act
+[61](#61).          Application of Lands Acquisition Act                                              34
 
-[62](#62).          Duties of DHA
+[62](#62).          Duties of Authority                                                                           34
 
-[62A](#62A).       Liability to Commonwealth taxation
+[63](#63).          Exemption from taxation                                                                   35
 
-[63](#63).          Exemption from State and Territory taxation
+[64](#64).          Delegation by Authority                                                                   36
 
-[63A](#63A).       DHA must make tax-equivalent payments to the Commonwealth
+[65](#65).          Delegation by Managing Director                                                      36
 
-[64](#64).          Delegation by DHA
+[66](#66).          Delegation by service chiefs                                                              36
 
-[65](#65).          Delegation by Managing Director
+[66A](#66A).       Delegation by Finance Minister                                                        37
 
-[66](#66).          Delegation by service chiefs
-
-[66A](#66A).       Delegation by Finance Minister
-
-[67](#67).          Regulations
+[67](#67).          Regulations                                                                                        37
 
 **Notes** 
 
-## An Act to establish Defence Housing Australia
+
+## An Act to establish a Defence Housing Authority
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Defence Housing__Australia__Act 1987_.
+                   This Act may be cited as the _Defence Housing Authority Act 1987_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -177,21 +184,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="appoint"></a>**_appoint_** includes re-appoint.
 
-                    <a name="appointed-member"></a>**_appointed member_** means the Chairperson or a member referred to in paragraph 12(1)(b), (c), (d) or (f).
+                    <a name="appointed-member"></a>**_appointed member_** means the Chairperson or a member referred to in paragraph 12(1)(ca) or (e).
 
-                    <a name="board"></a>**_Board_** means the Board of Directors of DHA established by section 11A.
+                    <a name="author"></a>**_Authority_** means the Defence Housing Authority.
 
-                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
+                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Authority.
 
                     <a name="design-position-depart"></a>**_designated position in the Department_** means a position in the Department that:
 
                      (a)  is designated, in writing, by the Minister for the purposes of section 60; and
 
                      (b)  is occupied by an SES employee or acting SES employee.
-
-                    <a name="dha"></a>**_DHA_** means Defence Housing Australia.
-
-                    <a name="dha-advisori-committe"></a>**_DHA Advisory Committee_** means the Defence Housing Australia Advisory Committee established by section 27.
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
@@ -209,9 +212,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="joint-ventur"></a>**_joint venture_** means an undertaking carried on by 2 or more persons in common otherwise than as partners.
 
-                    <a name="manag-director"></a>**_Managing Director_** means the Managing Director of DHA.
+                    <a name="manag-director"></a>**_Managing Director_** means the Managing Director of the Authority.
 
-                    <a name="member"></a>**_member_** means a member of the Board, and includes the Chairperson and Managing Director.
+                    <a name="member"></a>**_member_** means a member of the Authority, and includes the Chairperson and Managing Director.
 
                     <a name="secur"></a>**_securities_** includes stocks, debentures, debenture stocks, notes, bonds, promissory notes, bills of exchange and similar instruments or documents.
 
@@ -219,7 +222,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="share"></a>**_share_** means a share in the share capital of a corporation, and includes stock.
 
-             (2)  The question whether a company is a subsidiary of DHA shall be determined in the same manner as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the _Corporations Act 2001_.
+             (2)  The question whether a company is a subsidiary of the Authority shall be determined in the same manner as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the _Corporations Act 2001_.
 
              (3)  A reference in this Act to dealing with securities includes a reference to:
 
@@ -229,69 +232,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  entering into agreements and other arrangements in relation to securities.
 
-## Part II—Establishment, functions and powers of DHA
+## Part II—Establishment, function and powers of Authority
 
-##### <a id="4"></a>4  Defence Housing Australia
+##### <a id="4"></a>4  Establishment
 
-                   The body known immediately before the commencement of this section as the Defence Housing Authority is continued in existence with the new name, Defence Housing Australia.
+                   An authority by the name of the Defence Housing Authority is established by this section.
 
-##### <a id="5"></a>5  Main function
+##### <a id="5"></a>5  Function
 
-             (1)  The main function of DHA is to provide adequate and suitable housing for, and housing-related services to:
+             (1)  The function of the Authority is to provide adequate and suitable housing for:
 
-                     (a)  members of the Defence Force and their families; and
+                     (a)  members of the Defence Force and their families;
 
                      (b)  officers and employees of the Department and their families; and
 
-                     (c)  persons contracted to provide goods or services to the Defence Force, and their families; and
-
-                     (d)  persons contracted to provide goods or services to the Department, and their families;
+                     (c)  other persons;
 
 in order to meet the operational needs of the Defence Force and the requirements of the Department.
 
-             (2)  DHA shall provide such housing and housing-related services as the Minister, by notice in writing given to DHA, directs is necessary for DHA to provide in order to meet the operational needs of the Defence Force and the requirements of the Department.
+             (2)  The Authority shall provide such housing as the Minister, by notice in writing given to the Authority, directs is necessary for the Authority to provide in order to meet the operational needs of the Defence Force and the requirements of the Department.
 
-##### <a id="6"></a>6  Additional functions
+##### <a id="6"></a>6  Manner of performing function
 
-             (1)  The first additional function of DHA is to provide adequate and suitable housing for, and housing-related services to:
+                   The Authority shall endeavour to perform its function in a manner that:
 
-                     (a)  officers and employees of an Agency (within the meaning of the _Financial Management and Accountability Act 1997_) other than the Department, and their families; and
+                     (a)  is in accordance with the policies of the Commonwealth; and
 
-                     (b)  persons contracted to provide goods or services to an Agency (within the meaning of the _Financial Management and Accountability Act 1997_) other than the Department, and their families;
-
-in order to meet the requirements of that Agency.
-
-             (2)  The second additional function of DHA is to provide services ancillary to the services mentioned in subsection (1) and in subsection 5(1), to persons mentioned in those subsections, in order to meet the requirements of an Agency (within the meaning of the _Financial Management and Accountability Act 1997_).
-
-             (3)  DHA may perform a function mentioned in subsection (1) or (2) only to the extent mentioned in a determination under subsection (4).
-
-             (4)  The Minister may determine, in writing, the extent to which DHA may perform the function in relation to any of the following:
-
-                     (a)  the persons to whom services can be provided;
-
-                     (b)  the kinds of services that can be provided;
-
-                     (c)  any other matter.
-
-             (5)  A determination made under subsection (4) is a legislative instrument, but section 42 and Part 6 of the _Legislative Instruments Act 2003_ do not apply to the determination.
-
-             (6)  DHA’s gross revenue from the performance of all of the following functions for a financial year must not exceed the amount mentioned in subsection (7):
-
-                     (a)  the function mentioned in subsection (1);
-
-                     (b)  the function mentioned in subsection (2), to the extent that it relates to the function mentioned in subsection (1).
-
-             (7)  The amount is DHA’s total gross revenue for the financial year multiplied by:
-
-                     (a)  if a percentage under 25% is prescribed by the regulations for the purposes of this subsection—that percentage; or
-
-                     (b)  otherwise—25%.
-
-             (8)  For the purposes of subsections (6) and (7), DHA’s gross revenue and total gross revenue for the financial year are to be determined from its audited annual accounts.
+                     (b)  is in accordance with sound commercial practice.
 
 ##### <a id="7"></a>7  Powers
 
-             (1)  DHA has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions and, in particular, may:
+             (1)  The Authority has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions and, in particular, may:
 
                      (a)  purchase and otherwise acquire, and sell and otherwise dispose of:
 
@@ -327,7 +298,7 @@ in order to meet the requirements of that Agency.
 
                     (m)  make charges for work done, and services rendered, by it;
 
-                     (n)  provide transport, accommodation, amenities, facilities and services for members of the staff of DHA and their families;
+                     (n)  provide transport, accommodation, amenities, facilities and services for members of the staff of the Authority and their families;
 
                      (p)  enter into contracts;
 
@@ -345,69 +316,145 @@ in order to meet the requirements of that Agency.
 
                      (x)  do anything incidental to any of its powers.
 
-             (2)  DHA shall not, except with the written approval of the Minister, enter into a contract involving the payment by it of an amount exceeding $6,000,000, or a greater amount specified in a determination under subsection (3).
+             (2)  The Authority shall not, except with the written approval of the Minister, enter into a contract involving the payment by it of an amount exceeding $6,000,000.
 
-             (3)  The Minister may determine, in writing, an amount for the purposes of subsection (2).
+##### <a id="8"></a>8  Limitations on formation of companies etc.
 
-             (4)  A determination made under subsection (3) is not a legislative instrument.
+             (1)  The Authority shall not, without the written approval of the Minister:
 
-##### <a id="11"></a>11  DHA is body corporate etc.
+                     (a)  subscribe for or purchase shares in, or debentures or other securities of, a company; or
 
-             (1)  DHA:
+                     (b)  form, or participate in the formation of, a company that would, upon its formation, be a subsidiary of the Authority.
 
-                     (a)  is a body corporate; and
+             (2)  An approval under subsection (1):
 
-                     (b)  is to have a seal; and
+                     (a)  may be of general application or may relate to a particular company or proposed company; and
+
+                     (b)  may be given subject to specified conditions and restrictions.
+
+             (3)  Subject to subsection (4), where the Authority subscribes for or purchases shares in, or debentures or other securities of, a company, the Minister shall:
+
+                     (a)  cause to be prepared a statement setting out particulars of, and the reasons for, the subscription or purchase; and
+
+                     (b)  cause a copy of the statement to be laid before each House of Parliament within 15 sitting days of that House after:
+
+                              (i)  subject to subparagraph (ii), the subscription or purchase takes place; or
+
+                             (ii)  if the Minister is of the opinion that the disclosure of the subscription or purchase would adversely affect the commercial interests of the Authority, the Minister ceases to be of that opinion.
+
+             (4)  Where the Authority holds a controlling interest in a company, the Authority shall endeavour to ensure that the company does not do anything that the Authority itself is not empowered to do.
+
+             (5)  Without limiting the generality of subsection (4), the Authority shall endeavour to ensure that a company in which it holds a controlling interest does not:
+
+                     (a)  borrow money otherwise than from the Commonwealth; or
+
+                     (b)  raise money otherwise than by borrowing;
+
+except:
+
+                     (c)  with the written approval of the Finance Minister; and
+
+                     (d)  on terms and conditions that are specified in, or consistent with, the approval.
+
+             (6)  Subsection (5) applies to a borrowing or raising of money whether the money is borrowed or raised by dealing in securities or otherwise, and whether or not the money is borrowed or raised, in whole or in part, in a currency other than Australian currency.
+
+             (7)  An approval may be given under subsection (5) in relation to a particular transaction or transactions in a class of transactions.
+
+             (8)  For the purposes of subsection (5):
+
+                     (a)  the issue by a company of an instrument acknowledging a debt in consideration of the payment or deposit of money or of the provision of credit; or
+
+                     (b)  the obtaining of credit by a company;
+
+shall, to the extent of the amount of that money or of that credit, as the case may be, be deemed to be a borrowing by the company.
+
+             (9)  Section 29 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Authority.
+
+##### <a id="9"></a>9  Limitations on formation of partnerships
+
+             (1)  The Authority shall not, without the written approval of the Minister, enter into partnership with another person.
+
+             (2)  An approval under subsection (1):
+
+                     (a)  may be of general application or may relate to a particular person or proposed partnership; and
+
+                     (b)  may be given subject to specified conditions and restrictions.
+
+             (3)  Subject to subsection (4), where the Authority enters into partnership with another person, the Minister shall:
+
+                     (a)  cause to be prepared a statement setting out particulars of, and the reasons for, the partnership; and
+
+                     (b)  cause a copy of the statement to be laid before each House of the Parliament within 15 sitting days of that House after:
+
+                              (i)  subject to subparagraph (ii), the partnership is entered into; or
+
+                             (ii)  if the Minister is of the opinion that the disclosure of the partnership would adversely affect the commercial interests of the Authority, the Minister ceases to be of that opinion.
+
+             (4)  Where the Authority is able to control the things done by a partnership of which it is a member, the Authority shall endeavour to ensure that the partnership does not do anything that the Authority itself is not empowered to do.
+
+##### <a id="10"></a>10  Limitations on participation in joint ventures
+
+             (1)  The Authority shall not, without the written approval of the Minister, participate in a joint venture.
+
+             (2)  An approval under subsection (1):
+
+                     (a)  may be of general application or may relate to a particular proposed joint venture; and
+
+                     (b)  may be given subject to specified conditions and restrictions.
+
+             (3)  Subject to subsection (4), where the Authority enters into an agreement for a joint venture, the Minister shall:
+
+                     (a)  cause to be prepared a statement setting out particulars of, and the reasons for, the joint venture; and
+
+                     (b)  cause a copy of the statement to be laid before each House of the Parliament within 15 sittings days of that House after:
+
+                              (i)  subject to subparagraph (ii), the agreement is entered into; or
+
+                             (ii)  if the Minister is of the opinion that the disclosure of the joint venture would adversely affect the commercial interests of the Authority, the Minister ceases to be of that opinion.
+
+             (4)  Where the Authority is able to control the things done by a joint venture in which it is a participant, the Authority shall endeavour to ensure that the joint venture does not do anything that the Authority itself is not empowered to do.
+
+## Part III—Constitution and meetings of Authority
+
+##### <a id="11"></a>11  Authority is body corporate etc.
+
+             (1)  The Authority:
+
+                     (a)  is a body corporate with perpetual succession;
+
+                     (b)  shall have a common seal;
 
                      (c)  may acquire, hold and dispose of real and personal property; and
 
-                     (d)  may sue and be sued.
+                     (d)  may sue and be sued in its corporate name.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to DHA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of executive officers.
+Note:          Subject to subsection 8(9), the _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
-             (2)  The seal of DHA shall be kept in such custody as the Board directs and shall not be used except as authorised by the Board.
+             (2)  The common seal of the Authority shall be kept in such custody as the Authority directs and shall not be used except as authorised by the Authority.
 
-             (3)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of DHA appearing on a document and shall presume that it was duly affixed.
+             (3)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the common seal of the Authority appearing on a document and shall presume that it was duly affixed.
 
-## Part III—The Board
+##### <a id="12"></a>12  Constitution
 
-##### <a id="11A"></a>11A  Establishment of the Board
-
-                   A Board of Directors of DHA is established by this section.
-
-##### <a id="11B"></a>11B  Functions of the Board
-
-             (1)  The functions of the Board are to ensure the proper and efficient performance of the functions of DHA and, subject to the provisions mentioned in subsection (2), to determine the policy of DHA with respect to any matter.
-
-             (2)  The provisions are as follows:
-
-                     (a)  subsection 5(2);
-
-                     (b)  section 31;
-
-                     (c)  section 60;
-
-                     (d)  section 63A;
-
-                     (e)  section 66A.
-
-##### <a id="12"></a>12  Membership of the Board
-
-             (1)  The Board consists of the following members:
+             (1)  The Authority consists of the following members:
 
                      (a)  the Chairperson;
 
-                     (b)  a current or former APS employee or Agency Head (within the meaning of the _Public Service Act 1999_), with a background in Defence, nominated by the Secretary of the Department;
+                     (b)  4 members of the Defence Force, being the members for the time being holding the 4 appointments in the Defence Force designated, in writing, by the Governor-General for the purposes of this section;
 
-                     (c)  a current or former member of the Defence Force nominated by the Chief of the Defence Force;
+                     (c)  a person appointed or engaged under the _Public Service Act 1999_, being the occupant for the time being of such office in the Department as is designated, in writing, by the Governor-General for the purposes of this section;
 
-                     (d)  a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_;
+                    (ca)  the spouse of a member of the Defence Force, being a member of the Defence Force who is rendering continuous full-time service;
 
-                     (e)  the Managing Director;
+                     (d)  the Managing Director; and
 
-                      (f)  4  commercial  members _._
+                     (e)  4 other members.
 
-             (2)  The performance of the functions, and the exercise of the powers, of DHA are not affected by reason only of vacancies in the membership of the Board.
+          (1A)  In paragraph (1)(ca):
+
+                    <a name="spous"></a>**_spouse_**, in relation to a person, includes a person of the opposite sex who, although not legally married to the first-mentioned person, lives with that person as the husband or wife of that person on a genuine domestic basis.
+
+             (2)  The performance of the function, and the exercise of the powers, of the Authority are not affected by reason only of vacancies in the membership of the Authority.
 
 ##### <a id="13"></a>13  Chairperson may be referred to as Chairman or Chairwoman
 
@@ -415,11 +462,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="14"></a>14  Appointment of members
 
-             (1)  The Chairperson and the other appointed members, other than the appointed member referred to in paragraph 12(1)(d), are to be appointed by the Minister by written instrument.
+             (1)  The appointed members shall be appointed by the Governor-General.
 
-          (1A)  The appointed member referred to in paragraph 12(1)(d) is to be appointed by the Finance Minister by written instrument.
-
-             (2)  A person is not eligible for appointment as a member referred to in paragraph 12(1)(f) unless the person appears to the Minister to be suitably qualified for appointment by virtue of expertise in one or more of the following fields:
+             (2)  A person is not eligible for appointment as a member referred to in paragraph 12(1)(e) unless the person appears to the Governor-General to be suitably qualified for appointment by virtue of expertise in one or more of the following fields:
 
                      (a)  housing operations;
 
@@ -467,29 +512,29 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="19"></a>19  Resignation of appointed members
 
-             (1)  An appointed member may resign his or her office by writing signed by the member and delivered to the Minister.
-
-             (2)  The resignation takes effect on the day it is received by the Minister or, if a later day is specified in the resignation, on that later day.
+                   An appointed member may resign his or her office by writing signed by the member and delivered to the Governor-General.
 
 ##### <a id="20"></a>20  Disclosure of interests
 
-                   For the purposes of sections 27F and 27J of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter only because the member is the tenant of a house rented from DHA.
+             (4)  For the purposes of sections 27F and 27J of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter only because the member is the tenant of a house rented from the Authority.
 
 ##### <a id="21"></a>21  Termination of appointment
 
-             (1)  The Minister may terminate the appointment of an appointed member for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of an appointed member for misbehaviour or physical or mental incapacity.
 
              (2)  If:
 
                      (a)  an appointed member becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
+                    (aa)  a person appointed as a member referred to in paragraph 12(1)(ca) ceases to come within the description in that paragraph;
+
                      (b)  an appointed member, without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-                     (c)  the Chairperson is absent, except with the leave of the Minister, from 3 consecutive meetings of the Board; or
+                     (c)  the Chairperson is absent, except with the leave of the Minister, from 3 consecutive meetings of the Authority; or
 
-                     (d)  an appointed member (other than the Chairperson) is absent, except with the leave of the Chairperson, from 3 consecutive meetings of the Board;
+                     (d)  an appointed member (other than the Chairperson) is absent, except with the leave of the Chairperson, from 3 consecutive meetings of the Authority;
 
-the Minister shall terminate the appointment of the appointed member.
+the Governor-General shall terminate the appointment of the appointed member.
 
 ##### <a id="22"></a>22  Terms and conditions of appointment not provided for by Act
 
@@ -497,27 +542,25 @@ the Minister shall terminate the appointment of the appointed member.
 
 ##### <a id="23"></a>23  Acting appointments
 
-             (1)  The Minister may appoint an appointed member referred to in paragraph 12(1)(f) to act as Chairperson:
+             (1)  The Minister may appoint an appointed member referred to in paragraph 12(1)(e) to act as Chairperson:
 
                      (a)  during a vacancy in the office of Chairperson (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-             (2)  The Minister may appoint a person to act as an appointed member referred to in paragraph 12(1)(b), (c) or (f):
+             (2)  The Minister may appoint a person to act as an appointed member referred to in paragraph 12(1)(ca) or (e):
 
                      (a)  during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when such a member is acting as Chairperson, is absent from Australia or is, for any reason, unable to attend meetings of the Board.
+                     (b)  during any period, or during all periods, when such a member is acting as Chairperson, is absent from Australia or is, for any reason, unable to attend meetings of the Authority.
 
-          (2A)  The Finance Minister may appoint a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_ to act as the appointed member referred to in paragraph 12(1)(d) during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office).
+             (3)  An appointment of a person under subsection (1) or (2) may be expressed to have effect only in specified circumstances.
 
-             (3)  An appointment of a person under subsection (1) (2), or (2A) may be expressed to have effect only in specified circumstances.
-
-             (4)  A person appointed under subsection (1) (2), or (2A) to act during a vacancy in the office of Chairperson or another appointed member shall not continue to act for more than 6 months.
+             (4)  A person appointed under subsection (1) or (2) to act during a vacancy in the office of Chairperson or another appointed member shall not continue to act for more than 6 months.
 
              (5)  Where:
 
-                     (a)  a person is acting as Chairperson under paragraph (1)(b) or is acting as another appointed member under paragraph (2)(b) or subsection (2A); and
+                     (a)  a person is acting as Chairperson under paragraph (1)(b) or is acting as another appointed member under paragraph (2)(b); and
 
                      (b)  the office of Chairperson or other appointed member, as the case may be, becomes vacant;
 
@@ -551,49 +594,49 @@ whichever happens first.
 
 ##### <a id="24"></a>24  Meetings
 
-             (1)  The Board shall hold such meetings as are necessary for the efficient performance of its functions.
+             (1)  The Authority shall hold such meetings as are necessary for the efficient performance of its function.
 
-             (2)  Subject to subsections (3) and (4), meetings of the Board shall be held at such times and places as the Board from time to time determines.
+             (2)  Subject to subsections (3) and (4), meetings of the Authority shall be held at such times and places as the Authority from time to time determines.
 
              (3)  The Chairperson:
 
-                     (a)  may, at any time, convene a meeting of the Board; and
+                     (a)  may, at any time, convene a meeting of the Authority; and
 
-                     (b)  shall, on receipt of a written request signed by not less than 3 other members, convene a meeting of the Board.
+                     (b)  shall, on receipt of a written request signed by not less than 3 other members, convene a meeting of the Authority.
 
-             (4)  The Minister may, at any time, convene a meeting of the Board.
+             (4)  The Minister may, at any time, convene a meeting of the Authority.
 
-             (5)  The Chairperson shall preside at all meetings of the Board at which the Chairperson is present.
+             (5)  The Chairperson shall preside at all meetings of the Authority at which the Chairperson is present.
 
-             (6)  If the Chairperson is not present at a meeting of the Board, the members present shall appoint one of their number to preside at the meeting.
+             (6)  If the Chairperson is not present at a meeting of the Authority, the members present shall appoint one of their number to preside at the meeting.
 
-             (7)  At a meeting of the Board:
+             (7)  At a meeting of the Authority:
 
-                     (a)  5 members constitute a quorum;
+                     (a)  6 members constitute a quorum;
 
                      (b)  a question shall be decided by a majority of the votes of the members present and voting; and
 
                      (c)  the member presiding has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
 
-             (8)  The Board shall keep minutes of its proceedings.
+             (8)  The Authority shall keep minutes of its proceedings.
 
-             (9)  The Board may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
+             (9)  The Authority may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
 
 ##### <a id="25"></a>25  Resolutions without meetings
 
-             (1)  Where all of the members of the Board sign a document containing a statement that they are in favour of a resolution in the terms set out in the document, a resolution in those terms shall be deemed to have been passed at a duly convened meeting of the Board on the day on which the document is signed, or, if the members do not sign it on the same day, on the day on which the last member signs the document.
+             (1)  Where all of the members of the Authority sign a document containing a statement that they are in favour of a resolution in the terms set out in the document, a resolution in those terms shall be deemed to have been passed at a duly convened meeting of the Authority on the day on which the document is signed, or, if the members do not sign it on the same day, on the day on which the last member signs the document.
 
              (2)  Two or more separate but identical documents, each of which is signed by one or more members, shall be deemed, for the purposes of subsection (1), to constitute the one document.
 
 ##### <a id="26"></a>26  Committees
 
-             (1)  The Board may establish committees to assist it in the performance of its functions and the exercise of its powers.
+             (1)  The Authority may establish committees to assist it in the performance of its function and the exercise of its powers.
 
-             (2)  A committee may be constituted wholly by members of the Board or partly by members of the Board and partly by other persons.
+             (2)  A committee may be constituted wholly by members of the Authority or partly by members of the Authority and partly by other persons.
 
-             (3)  The Board may fix the number of members of a committee required to constitute a quorum at a meeting of the committee.
+             (3)  The Authority may fix the number of members of a committee required to constitute a quorum at a meeting of the committee.
 
-             (4)  A member of a committee who is not also a member of the Board shall be paid such remuneration and allowances (if any) as the Minister determines, in writing.
+             (4)  A member of a committee who is not also a member of the Authority shall be paid such remuneration and allowances (if any) as the Minister determines, in writing.
 
              (5)  The office of member of a committee is not a public office within the meaning of the _Remuneration Tribunal Act 1973_.
 
@@ -603,83 +646,173 @@ whichever happens first.
 
                      (b)  the members of the committee were directors of a Commonwealth authority; and
 
-                     (c)  a member of the committee did not have a material personal interest in a matter only because the member is the tenant of a house rented from DHA.
+                     (c)  a member of the committee did not have a material personal interest in a matter only because the member is the tenant of a house rented from the Authority.
 
-## Part IIIA—DHA Advisory Committee
+## Part IV—Operation of Authority
 
-##### <a id="27"></a>27  DHA Advisory Committee
+##### <a id="28"></a>28  Financial targets to be included in corporate plan
 
-             (1)  The Defence Housing Australia Advisory Committee is established by this section.
+             (2)  In setting the financial targets to be included in the Authority’s corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_, the members must have regard to:
 
-             (2)  The Defence Housing Australia Advisory Committee consists of the following:
+                     (a)  objectives and policies of the Commonwealth Government known to it, and any directions given to it by the Minister;
 
-                     (a)  the Chair of the Advisory Committee, who is to be the member mentioned in paragraph 12(1)(b) or the member mentioned in paragraph 12(1)(c), as nominated by DHA;
+                     (b)  the need to earn a reasonable rate of return on assets used by it;
 
-                     (b)  either:
+                     (c)  the need to maintain the extent of the Commonwealth’s equity in it;
 
-                              (i)  unless subparagraph (ii) applies—the National Convenor of Defence Families Australia; or
+                     (d)  the need to establish and maintain a reasonable level of reserves having regard to:
 
-                             (ii)  if the regulations specify a similar office—the person occupying that office;
+                              (i)  the estimated future demand for housing provided by it; and
 
-                     (c)  a person appointed by the Chief of Navy;
+                             (ii)  the necessity of ensuring that housing provided by it is of an appropriate standard;
 
-                     (d)  a person appointed by the Chief of Army;
+                     (e)  the expectation of the Commonwealth that it will pay a reasonable dividend on its capital; and
 
-                     (e)  a person appointed by the Chief of Air Force;
+                      (f)  such other commercial considerations as it considers appropriate.
 
-                      (f)  a person appointed by DHA.
+##### <a id="30"></a>30  Minister may vary corporate and financial plans
 
-             (3)  The persons mentioned in paragraphs (2)(c), (d), (e) and (f) are to be appointed in writing. They hold office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+             (1)  Without limiting the generality of the Minister’s powers under subsection 31(2), the Minister may, by notice in writing given to the Authority, direct the Authority to:
 
-Note:          The persons are eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+                     (a)  vary the corporate plan; or
 
-             (4)  The persons mentioned in subsection (2) hold office on a part-time basis.
+                     (b)  vary any financial targets of, or performance indicators adopted by, the Authority in the financial plan.
 
-##### <a id="28"></a>28  Function of the DHA Advisory Committee
+             (2)  In exercising his or her powers under paragraph (1)(b), the Minister shall have regard to:
 
-                   The DHA Advisory Committee’s function is, either on its own initiative or at the request of DHA, to give advice and information to DHA about the performance of DHA’s functions.
+                     (a)  the matters specified in paragraphs 28(2)(a), (b), (c), (d) and (e); and
 
-##### <a id="29"></a>29  Remuneration
+                     (b)  such other commercial considerations as the Minister considers appropriate.
 
-             (1)  The person mentioned in paragraph 27(2)(b) is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the person is to be paid the remuneration that is prescribed.
+             (3)  Where the Minister gives the Authority:
 
-             (2)  The person is to be paid the allowances that are prescribed.
+                     (a)  a direction under subsection (1); and
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+                     (b)  the reasons for the direction;
 
-## Part IV—Operation of DHA
+the Authority shall comply with the direction.
 
-##### <a id="31"></a>31  Directions to DHA
+##### <a id="31"></a>31  Directions to Authority
 
-             (1)  Except as provided in this section or as otherwise expressly provided by this Act, DHA is not subject to direction by or on behalf of the Commonwealth Government.
+             (1)  Except as provided in this section or as otherwise expressly provided by this Act, the Authority is not subject to direction by or on behalf of the Commonwealth Government.
 
-             (2)  Where the Minister is satisfied that it is desirable in the public interest to do so, the Minister may, by notice in writing to DHA, give directions to DHA with respect to the performance of its functions and the exercise of its powers.
+             (2)  Where the Minister is satisfied that it is desirable in the public interest to do so, the Minister may, by notice in writing to the Authority, give directions to the Authority with respect to the performance of its function and the exercise of its powers.
 
-             (3)  DHA shall comply with any direction under subsection (2).
+             (3)  The Authority shall comply with any direction under subsection (2).
 
-             (4)  Where the Minister gives a direction to DHA under subsection (2), DHA shall include particulars of the direction in its annual report.
+             (4)  Where the Minister gives a direction to the Authority under subsection (2), the Authority shall include particulars of the direction in its annual report.
 
 ##### <a id="32"></a>32  Reimbursement of cost of complying with directions
 
-             (1)  Where DHA satisfies the Minister that it has, during any period, suffered financial detriment as a result of complying with a direction under subsection 31(2) (other than a direction the notice of which stated that the direction was in accordance with the general policy of the Commonwealth Government), DHA is entitled to be reimbursed by the Commonwealth the amount that the Minister determines, in writing, to be the amount of the financial detriment suffered by DHA during the period.
+             (1)  Where the Authority satisfies the Minister that it has, during any period, suffered financial detriment as a result of complying with a direction under subsection 31(2) (other than a direction the notice of which stated that the direction was in accordance with the general policy of the Commonwealth Government), the Authority is entitled to be reimbursed by the Commonwealth the amount that the Minister determines, in writing, to be the amount of the financial detriment suffered by the Authority during the period.
 
-             (2)  The reference in subsection (1) to DHA suffering financial detriment as a result of complying with a direction includes a reference to DHA:
+             (2)  The reference in subsection (1) to the Authority suffering financial detriment as a result of complying with a direction includes a reference to the Authority:
 
                      (a)  suffering a loss in complying with the direction;
 
-                     (b)  incurring costs, in complying with the direction, greater than the costs that DHA would otherwise have incurred; or
+                     (b)  incurring costs, in complying with the direction, greater than the costs that the Authority would otherwise have incurred; or
 
-                     (c)  forgoing revenue, in complying with the direction, that DHA would otherwise have received.
+                     (c)  forgoing revenue, in complying with the direction, that the Authority would otherwise have received.
 
 ## Part V—Finance
 
+##### <a id="33"></a>33  Capital structure of Authority
+
+             (1)  Where, at any time:
+
+                     (a)  land that is owned by the Commonwealth is transferred to the Authority under section 60;
+
+                     (b)  land or houses that are owned or held under lease by the Commonwealth or a State or Territory are made available to the Authority under section 60; or
+
+                     (c)  plant, machinery, equipment or other goods that are owned by the Commonwealth are transferred to the Authority under section 60;
+
+the Minister shall, as soon as practicable after that time, determine, in writing:
+
+                     (d)  the value of the land, houses, plant, machinery, equipment or goods, as the case may be, at that time; and
+
+                     (e)  the amount that shall, in respect of the transfer or making available of the land, houses, plant, machinery, equipment or goods, as the case may be, be taken to be the amount of a loan (if any) made by the Commonwealth to the Authority.
+
+             (2)  The Finance Minister shall determine, in writing, the terms and conditions as to interest or otherwise of any such loan.
+
+##### <a id="34"></a>34  Capital of Authority
+
+             (1)  The capital of the Authority at any time is the sum of:
+
+                     (a)  the values that have been determined under paragraph 33(1)(d);
+
+                     (b)  any amounts that have been paid to the Authority out of money appropriated by the Parliament for the purpose of providing capital for the Authority; and
+
+                     (c)  any reserves resulting from the operations of the Authority (whether because of the retention of profits or otherwise) or from the revaluation of assets of the Authority;
+
+less the sum of:
+
+                     (d)  the amounts that have been determined under paragraph 33(1)(e); and
+
+                     (e)  any amounts of capital that have been repaid to the Commonwealth by the Authority.
+
+             (2)  Interest is not payable to the Commonwealth on the capital of the Authority, but the capital of the Authority is repayable to the Commonwealth at such times, and in such amounts, as the Minister determines, in writing.
+
+             (3)  In making a determination under subsection (2), the Minister shall have regard to any advice that the Authority has given in relation to its financial affairs.
+
+##### <a id="35"></a>35  Payment of dividends to Commonwealth
+
+             (1)  The Authority shall, within 4 months after the end of each financial year, by notice in writing given to the Minister, recommend:
+
+                     (a)  that it pay a specified dividend to the Commonwealth for that financial year; or
+
+                     (b)  that it not pay a dividend to the Commonwealth for that financial year.
+
+             (2)  In making the recommendation, the Authority shall have regard to:
+
+                     (a)  the matters specified in paragraphs 28(2)(a), (c), (d) and (e);
+
+                     (b)  the extent of the Commonwealth’s equity in the Authority; and
+
+                     (c)  such other commercial considerations as the Authority considers appropriate.
+
+             (3)  The Minister shall, within 30 days after receipt of the recommendation, by notice in writing given to the Authority:
+
+                     (a)  if the recommendation is that the Authority pay a dividend to the Commonwealth for that financial year:
+
+                              (i)  approve the recommendation; or
+
+                             (ii)  direct the payment of a different specified dividend; or
+
+                     (b)  if the recommendation is that the Authority not pay a dividend to the Commonwealth for that financial year:
+
+                              (i)  approve the recommendation; or
+
+                             (ii)  direct the payment of a specified dividend.
+
+             (4)  In performing his or her functions under subsection (3), the Minister shall have regard to:
+
+                     (a)  the matters specified in paragraphs 28(2)(a), (c), (d) and (e);
+
+                     (b)  the extent of the Commonwealth’s equity in the Authority; and
+
+                     (c)  such other commercial considerations as the Minister considers appropriate.
+
+             (5)  The Authority shall, within 8 months after the end of each financial year (other than a year in relation to which the Minister has given a notice under subparagraph (3)(b)(i)) or within such further time as the Minister allows in writing, pay to the Commonwealth:
+
+                     (a)  except in a case to which paragraph (b) applies—the dividend specified in the notice given by the Authority under paragraph (1)(a) in relation to the financial year; or
+
+                     (b)  if the Minister has given notice to the Authority under subparagraph (3)(a)(ii) or (b)(ii) in relation to the financial year—the dividend specified in that notice.
+
+             (6)  A dividend for a financial year may be paid:
+
+                     (a)  out of the profits of the Authority for the financial year;
+
+                     (b)  out of the profits of the Authority for any earlier financial year; or
+
+                     (c)  partly out of profits of the Authority for the financial year and partly out of profits of the Authority for any earlier financial year.
+
 ##### <a id="36"></a>36  Borrowings from Commonwealth
 
-                   The Finance Minister may, on behalf of the Commonwealth and out of money appropriated by the Parliament for the purpose, lend money to DHA on such terms and conditions as the Finance Minister, in writing, determines.
+                   The Finance Minister may, on behalf of the Commonwealth and out of money appropriated by the Parliament for the purpose, lend money to the Authority on such terms and conditions as the Finance Minister, in writing, determines.
 
 ##### <a id="37"></a>37  Borrowings otherwise than from Commonwealth
 
-             (1)  DHA may, with the written approval of the Finance Minister:
+             (1)  The Authority may, with the written approval of the Finance Minister:
 
                      (a)  borrow money otherwise than from the Commonwealth; or
 
@@ -687,7 +820,7 @@ Note:          The persons are eligible for reappointment: see
 
 on terms and conditions that are specified in, or consistent with, the approval.
 
-             (2)  Without limiting the generality of subsection (1), DHA may, under that subsection, borrow money, or raise money otherwise than by borrowing, by dealing with securities.
+             (2)  Without limiting the generality of subsection (1), the Authority may, under that subsection, borrow money, or raise money otherwise than by borrowing, by dealing with securities.
 
              (3)  A borrowing of money, or a raising of money otherwise than by borrowing, under subsection (1) may be made, in whole or in part, in a currency other than Australian currency.
 
@@ -695,29 +828,29 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
              (5)  For the purposes of this section:
 
-                     (a)  the issue by DHA of an instrument acknowledging a debt in consideration of:
+                     (a)  the issue by the Authority of an instrument acknowledging a debt in consideration of:
 
                               (i)  the payment or deposit of money; or
 
                              (ii)  the provision of credit;
 
-                            otherwise than in relation to a transaction that is in the ordinary course of the day to day operations of DHA, shall be deemed to be raising by DHA, otherwise than by borrowing, of an amount of money equal to the amount of the money paid or deposited or the value of the credit provided, as the case may be; and
+                            otherwise than in relation to a transaction that is in the ordinary course of the day to day operations of the Authority, shall be deemed to be raising by the Authority, otherwise than by borrowing, of an amount of money equal to the amount of the money paid or deposited or the value of the credit provided, as the case may be; and
 
-                     (b)  the obtaining of credit by DHA otherwise than in relation to a transaction that is in the ordinary course of the day to day operations of DHA shall be deemed to be a raising by DHA, otherwise than by borrowing, of an amount of money equal to the value of the credit so obtained.
+                     (b)  the obtaining of credit by the Authority otherwise than in relation to a transaction that is in the ordinary course of the day to day operations of the Authority shall be deemed to be a raising by the Authority, otherwise than by borrowing, of an amount of money equal to the value of the credit so obtained.
 
-##### <a id="38"></a>38  Guarantee of borrowings by DHA
+##### <a id="38"></a>38  Guarantee of borrowings by Authority
 
              (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract:
 
-                     (a)  guaranteeing the repayment by DHA of money borrowed under paragraph 37(1)(a) and the payment by DHA of interest (including any interest on that interest) on money so borrowed; or
+                     (a)  guaranteeing the repayment by the Authority of money borrowed under paragraph 37(1)(a) and the payment by the Authority of interest (including any interest on that interest) on money so borrowed; or
 
-                     (b)  guaranteeing the payment by DHA of such amounts (which may be interest) that DHA is liable to pay with respect to money raised under paragraph 37(1)(b) as are specified in the contract.
+                     (b)  guaranteeing the payment by the Authority of such amounts (which may be interest) that the Authority is liable to pay with respect to money raised under paragraph 37(1)(b) as are specified in the contract.
 
              (2)  The Finance Minister may, in writing, determine:
 
-                     (a)  that the repayment by DHA of money borrowed under paragraph 37(1)(a), and the payment by DHA of interest (including any interest on that interest) on money so borrowed, are guaranteed by the Commonwealth; or
+                     (a)  that the repayment by the Authority of money borrowed under paragraph 37(1)(a), and the payment by the Authority of interest (including any interest on that interest) on money so borrowed, are guaranteed by the Commonwealth; or
 
-                     (b)  that the payment by DHA of such money (which may be interest) that DHA is liable to pay with respect to money raised under paragraph 37(1)(b) as is specified in the determination is guaranteed by the Commonwealth;
+                     (b)  that the payment by the Authority of such money (which may be interest) that the Authority is liable to pay with respect to money raised under paragraph 37(1)(b) as is specified in the determination is guaranteed by the Commonwealth;
 
 and, where the Finance Minister makes such a determination, the repayment of that money and the payment of that interest are, or the payment of that money is, by force of this subsection, guaranteed by the Commonwealth.
 
@@ -729,9 +862,9 @@ and, where the Finance Minister makes such a determination, the repayment of tha
 
                      (b)  a provision waiving the immunity of the Commonwealth from suit in the courts, or a specified court, of a country other than Australia in relation to any proceedings that may be taken under the contract.
 
-##### <a id="39"></a>39  DHA may give security
+##### <a id="39"></a>39  Authority may give security
 
-                   DHA may give security over the whole or any part of its land or other assets for:
+                   The Authority may give security over the whole or any part of its land or other assets for:
 
                      (a)  the repayment of money borrowed under section 36 or paragraph 37(1)(a) and the payment of interest (including any interest on that interest) on money so borrowed;
 
@@ -741,13 +874,13 @@ and, where the Finance Minister makes such a determination, the repayment of tha
 
 ##### <a id="40"></a>40  Borrowings not otherwise permitted
 
-                   DHA shall not borrow money, or raise money otherwise than by borrowing, except in accordance with sections 36 and 37.
+                   The Authority shall not borrow money, or raise money otherwise than by borrowing, except in accordance with sections 36 and 37.
 
 ##### <a id="41"></a>41  Guarantee of borrowings and raisings by wholly owned subsidiaries
 
              (1)  Where:
 
-                     (a)  a body corporate that is a wholly owned subsidiary of DHA:
+                     (a)  a body corporate that is a wholly owned subsidiary of the Authority:
 
                               (i)  borrows money otherwise than from the Commonwealth; or
 
@@ -815,13 +948,13 @@ and, where the Finance Minister makes such a determination, the repayment of tha
 
 shall, to the extent of the amount of that money or of that credit, as the case may be, be deemed to be a borrowing by the body corporate.
 
-             (9)  For the purposes of subsection (1), a body corporate is a wholly owned subsidiary of DHA if the body corporate is a subsidiary of DHA and none of the members of the body corporate is a person other than:
+             (9)  For the purposes of subsection (1), a body corporate is a wholly owned subsidiary of the Authority if the body corporate is a subsidiary of the Authority and none of the members of the body corporate is a person other than:
 
-                     (a)  DHA;
+                     (a)  the Authority;
 
-                     (b)  a nominee of DHA;
+                     (b)  a nominee of the Authority;
 
-                     (c)  a subsidiary of DHA, being a subsidiary none of the members of which is a person other than DHA or a nominee of DHA; or
+                     (c)  a subsidiary of the Authority, being a subsidiary none of the members of which is a person other than the Authority or a nominee of the Authority; or
 
                      (d)  a nominee of a subsidiary referred to in paragraph (c).
 
@@ -831,33 +964,33 @@ shall, to the extent of the amount of that money or of that credit, as the case 
 
 ##### <a id="45"></a>45  Managing Director
 
-                   There shall be a Managing Director of DHA.
+                   There shall be a Managing Director of the Authority.
 
 ##### <a id="46"></a>46  Duties
 
-             (1)  The Managing Director shall conduct the affairs of DHA.
+             (1)  The Managing Director shall conduct the affairs of the Authority.
 
-             (2)  The Managing Director shall act in accordance with any policies determined by, and any directions given by, the Board.
+             (2)  The Managing Director shall act in accordance with any policies determined by, and any directions given by, the Authority.
 
-             (3)  All acts and things done in the name of, or on behalf of, DHA by the Managing Director shall be deemed to have been done by DHA.
+             (3)  All acts and things done in the name of, or on behalf of, the Authority by the Managing Director shall be deemed to have been done by the Authority.
 
 ##### <a id="47"></a>47  Appointment
 
-             (1)  The Managing Director shall be appointed by the Board.
+             (1)  The Managing Director shall be appointed by the Authority.
 
              (3)  The appointment of a person as Managing Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
 
 ##### <a id="48"></a>48  Term of office etc.
 
-                   The Managing Director:
+             (1)  The Managing Director:
 
                      (a)  shall be appointed with effect from the day specified in the instrument of appointment; and
 
-                     (b)  holds office during the Board’s pleasure.
+                     (b)  holds office during the Authority’s pleasure.
 
 ##### <a id="49"></a>49  Managing Director not to engage in other paid employment
 
-                   The Managing Director shall not engage in paid employment outside the duties of the office except with the approval of the Board.
+                   The Managing Director shall not engage in paid employment outside the duties of the office except with the approval of the Authority.
 
 ##### <a id="50"></a>50  Remuneration and allowances
 
@@ -871,15 +1004,19 @@ shall, to the extent of the amount of that money or of that credit, as the case 
 
              (1)  The Managing Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Chairperson may grant the Managing Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Board determines.
+             (2)  The Chairperson may grant the Managing Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Authority determines.
 
 ##### <a id="52"></a>52  Resignation
 
                    The Managing Director may resign his or her office by writing signed by the Managing Director and delivered to the Chairperson.
 
+##### <a id="53"></a>53  Disclosure of interests
+
+                   The Managing Director shall give written notice to the Chairperson of all direct or indirect pecuniary interests that the Managing Director has or acquires in any business or in any body corporate carrying on any business.
+
 ##### <a id="54"></a>54  Acting Managing Director
 
-             (1)  The Board may appoint a person (other than a member) to act as Managing Director:
+             (1)  The Authority may appoint a person (other than a member) to act as Managing Director:
 
                      (a)  during a vacancy in the office of Managing Director (whether or not an appointment has previously been made to the office); or
 
@@ -905,7 +1042,7 @@ whichever happens first.
 
              (4)  A person acting as Managing Director has all the powers and duties of the Managing Director.
 
-             (5)  The Board may:
+             (5)  The Authority may:
 
                      (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Managing Director; and
 
@@ -923,19 +1060,41 @@ whichever happens first.
 
                      (d)  the occasion for the person to act as Managing Director had not arisen or had ceased.
 
+##### <a id="55"></a>55  Exclusion of Managing Director etc. from certain deliberations
+
+             (1)  The Managing Director shall not be present during any deliberation of the Authority or a committee of the Authority, or take part in any decision of the Authority or a committee of the Authority, with respect to:
+
+                     (a)  the appointment of a person as Managing Director;
+
+                     (b)  the determination or application of any terms and conditions on which a person appointed as Managing Director holds office or may be granted leave;
+
+                     (c)  the termination of the appointment of the Managing Director; or
+
+                     (d)  the giving or refusing of approval for the Managing Director to engage in paid employment outside the duties of the office.
+
+             (2)  A person appointed to act as Managing Director shall not be present during any deliberation of the Authority or a committee of the Authority, or take part in any decision of the Authority or a committee of the Authority, with respect to:
+
+                     (a)  the appointment of a person as Managing Director or to act as Managing Director;
+
+                     (b)  the determination or application of any terms and conditions on which the Managing Director, or a person appointed to act as Managing Director, holds office or may be granted leave;
+
+                     (c)  the termination of the appointment of the person or the Managing Director; or
+
+                     (d)  the giving or refusing of approval for the Managing Director, or a person acting as Managing Director, to engage in paid employment outside the duties of the office.
+
 ##### <a id="56"></a>56  Terms and conditions of appointment not provided for by Act
 
-                   The Managing Director holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Board.
+                   The Managing Director holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Authority.
 
 ### Division 2—Staff and consultants
 
 ##### <a id="57"></a>57  Staff
 
-             (1)  The staff of DHA shall be:
+             (1)  The staff of the Authority shall be:
 
                      (a)  persons engaged under the _Public Service Act 1999_; and
 
-                     (b)  members of the Defence Force whose services are made available to DHA under an arrangement between a service chief and DHA.
+                     (b)  members of the Defence Force whose services are made available to the Authority under an arrangement between a service chief and the Authority.
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
@@ -945,39 +1104,39 @@ whichever happens first.
 
 ##### <a id="58"></a>58  Consultants
 
-             (1)  DHA may engage persons having suitable qualifications and experience as consultants to DHA.
+             (1)  The Authority may engage persons having suitable qualifications and experience as consultants to the Authority.
 
-             (2)  The terms and conditions of engagement shall be determined by DHA.
+             (2)  The terms and conditions of engagement shall be determined by the Authority.
 
 ## Part VII—Miscellaneous
 
 ##### <a id="59"></a>59  Rents
 
-             (1)  The rent payable for any house let or leased by DHA shall be such as the Board, subject to this section and subsection 31(3), determines from time to time, having regard to the prevailing market rents for houses.
+             (1)  The rent payable for any house let or leased by the Authority shall be such as the Authority, subject to this section and to section 6 and subsection 31(3), determines from time to time, having regard to the prevailing market rents for houses.
 
-             (2)  The Board must:
+             (2)  The Authority shall, as soon as practicable after the commencement of this Act:
 
                      (a)  determine, in writing, the principles in accordance with which it proposes to determine rents; and
 
                      (b)  inform the Minister, by notice in writing, of the principles that it has determined.
 
-             (3)  Where the Board varies the principles in accordance with which it determines rents, the Board shall inform the Minister, by notice in writing, of the variation.
+             (3)  Where the Authority varies the principles in accordance with which it determines rents, the Authority shall inform the Minister, by notice in writing, of the variation.
 
-##### <a id="60"></a>60  Transfer of assets to DHA
+##### <a id="60"></a>60  Transfer of assets to Authority
 
              (1)  The Minister, or the occupant of a designated position in the Department, may:
 
-                     (a)  direct, in writing, that land that is owned by the Commonwealth is to be transferred to DHA;
+                     (a)  direct, in writing, that land that is owned by the Commonwealth is to be transferred to the Authority;
 
-                     (b)  make available to DHA land and houses that are owned or held under lease by the Commonwealth or a State or Territory; and
+                     (b)  make available to the Authority land and houses that are owned or held under lease by the Commonwealth or a State or Territory; and
 
-                     (c)  may cause any plant, machinery, equipment or other goods that are owned by the Commonwealth to be transferred to DHA.
+                     (c)  may cause any plant, machinery, equipment or other goods that are owned by the Commonwealth to be transferred to the Authority.
 
-             (2)  Where the Minister, or the occupant of a designated position in the Department, directs under subsection (1) that land owned by the Commonwealth is to be transferred to DHA, the land (including all rights, title and interests in the land), together with any buildings or structures on the land, is vested in DHA without any conveyance, transfer or assignment.
+             (2)  Where the Minister, or the occupant of a designated position in the Department, directs under subsection (1) that land owned by the Commonwealth is to be transferred to the Authority, the land (including all rights, title and interests in the land), together with any buildings or structures on the land, is vested in the Authority without any conveyance, transfer or assignment.
 
              (3)  Where:
 
-                     (a)  land vests in DHA under this section; and
+                     (a)  land vests in the Authority under this section; and
 
                      (b)  a certificate that:
 
@@ -985,7 +1144,7 @@ whichever happens first.
 
                              (ii)  identifies the land, whether by reference to a map or otherwise; and
 
-                            (iii)  states that the land is vested in DHA under this section;
+                            (iii)  states that the land is vested in the Authority under this section;
 
                             is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
@@ -995,41 +1154,35 @@ the officer with whom the certificate is lodged may:
 
                      (d)  may deal with, and give effect to, the certificate;
 
-as if it were a grant, conveyance, memorandum or instrument of transfer of the land (including all rights, title and interest in the land) to DHA that had been duly executed under the laws in force in the State or Territory.
+as if it were a grant, conveyance, memorandum or instrument of transfer of the land (including all rights, title and interest in the land) to the Authority that had been duly executed under the laws in force in the State or Territory.
 
-             (4)  Where, under subsection (1), the Minister, or the occupant of a designated position in the Department, makes land or houses available to DHA, the Minister, or the occupant of a designated position in the Department, may:
+             (4)  Where, under subsection (1), the Minister, or the occupant of a designated position in the Department, makes land or houses available to the Authority, the Minister, or the occupant of a designated position in the Department, may:
 
-                     (a)  give directions, in writing, to DHA with respect to its management and control of the land or houses; and
+                     (a)  give directions, in writing, to the Authority with respect to its management and control of the land or houses; and
 
-                     (b)  determine, in writing, the period for which the land is, or the houses are, made available to DHA.
+                     (b)  determine, in writing, the period for which the land is, or the houses are, made available to the Authority.
 
 ##### <a id="61"></a>61  Application of Lands Acquisition Act
 
-                   The _Lands Acquisition Act 1989_ does not apply in relation to DHA.
+                   The _Lands Acquisition Act 1989_ does not apply in relation to the Authority.
 
-##### <a id="62"></a>62  Duties of DHA
+##### <a id="62"></a>62  Duties of Authority
 
-                   Nothing in this Act shall be taken to impose on DHA a duty that is enforceable by proceedings in a court.
+                   Nothing in this Act shall be taken to impose on the Authority a duty that is enforceable by proceedings in a court.
 
-##### <a id="62A"></a>62A  Liability to Commonwealth taxation
+##### <a id="63"></a>63  Exemption from taxation
 
-             (1)  DHA is subject to taxation under the laws of the Commonwealth.
+             (1)  Subject to subsection (4), the Authority is not subject to taxation under the laws of the Commonwealth or of a State or Territory.
 
-             (2)  DHA is not a public authority for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_.
+             (2)  The Minister may, by notice in writing published in the _Gazette_, declare that stamp duty, or a similar tax specified in the notice, is not payable by the Authority or any other person under a law of the Commonwealth or of a State or Territory in respect of:
 
-##### <a id="63"></a>63  Exemption from State and Territory taxation
+                     (a)  a security dealt with by the Authority;
 
-             (1)  Subject to subsection (4), DHA is not subject to taxation under the laws of a State or Territory.
+                     (b)  the issue, redemption, transfer, sale, purchase, resale, acquisition or discounting of a security by the Authority or any other person (other than a transaction done without consideration or for an inadequate consideration);
 
-             (2)  The Minister may, by notice in writing published in the _Gazette_, declare that stamp duty, or a similar tax specified in the notice, is not payable by DHA or any other person under a law of a State or Territory in respect of:
+                     (c)  any other transaction done for the purposes of a borrowing, or a raising of money otherwise than by borrowing, by the Authority; or
 
-                     (a)  a security dealt with by DHA;
-
-                     (b)  the issue, redemption, transfer, sale, purchase, resale, acquisition or discounting of a security by DHA or any other person (other than a transaction done without consideration or for an inadequate consideration);
-
-                     (c)  any other transaction done for the purposes of a borrowing, or a raising of money otherwise than by borrowing, by DHA; or
-
-                     (d)  any other document executed by or on behalf of DHA for the purposes of a borrowing, or a raising of money otherwise than by borrowing, by DHA.
+                     (d)  any other document executed by or on behalf of the Authority for the purposes of a borrowing, or a raising of money otherwise than by borrowing, by the Authority.
 
              (3)  A declaration may be made under subsection (2) in relation to:
 
@@ -1039,45 +1192,31 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
              (4)  Subject to subsection (2), the regulations may provide that subsection (1) does not apply in relation to:
 
-                     (a)  a specified law of a State or Territory; or
+                     (a)  a specified law of the Commonwealth or of a State or Territory; or
 
-                     (b)  laws in a specified class of laws of a State or Territory.
+                     (b)  laws in a specified class of laws of the Commonwealth or of a State or Territory.
 
-             (5)  Nothing in subsections (1), (3) or (4) shall be read as implying that a company in which DHA has an interest, or that is a partner of DHA or a participant in a joint venture agreement with DHA, is not liable to pay taxes under any law of the Commonwealth or of a State or Territory.
+             (5)  Nothing in subsections (1), (3) or (4) shall be read as implying that a company in which the Authority has an interest, or that is a partner of the Authority or a participant in a joint venture agreement with the Authority, is not liable to pay taxes under any law of the Commonwealth or of a State or Territory.
 
-##### <a id="63A"></a>63A  DHA must make tax-equivalent payments to the Commonwealth
+##### <a id="64"></a>64  Delegation by Authority
 
-             (1)  The Minister  may inform DHA  in writing of arrangements that are to apply to DHA in relation to a tax-equivalent payment to be made by DHA to the Commonwealth in respect of each financial year.
+             (1)  The Authority may, either generally or as otherwise provided by the instrument of delegation, by writing under its common seal, delegate all or any of its powers under this Act (other than this power of delegation) to:
 
-             (2)  To avoid doubt, an instrument under subsection (1) may relate to more than 1 financial year.
+                     (a)  a committee of the Authority;
 
-             (3)  The amount of the payment to be made under the arrangements is to be worked out having regard to the purpose of ensuring that DHA does not enjoy net competitive advantages over its competitors because of:
+                     (b)  a member of the Authority; or
 
-                     (a)  the operation of section 63 (exemption from State and Territory taxation); or
+                     (c)  a member of the staff of the Authority.
 
-                     (b)  any other exemption from taxation liability applying to DHA.
+             (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by the Authority.
 
-             (4)  DHA must pay the amount to the Commonwealth within 4 months after the end of the financial year concerned, unless the Minister determines a period other than 4 months within which the amount, or a specified part of the amount, must be paid.
+             (3)  The delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Authority.
 
-##### <a id="64"></a>64  Delegation by DHA
-
-             (1)  DHA may, either generally or as otherwise provided by the instrument of delegation, by writing under its seal, delegate all or any of its powers under this Act (other than this power of delegation) to:
-
-                     (a)  a committee of the Board;
-
-                     (b)  a member of the Board; or
-
-                     (c)  a member of the staff of DHA.
-
-             (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by DHA.
-
-             (3)  The delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Board.
-
-             (4)  The delegation of a power under subsection (1) does not prevent the exercise of the power by DHA.
+             (4)  The delegation of a power under subsection (1) does not prevent the exercise of the power by the Authority.
 
 ##### <a id="65"></a>65  Delegation by Managing Director
 
-             (1)  The Managing Director may, either generally or as otherwise provided by the instrument of delegation, by writing, delegate to a member of the staff of DHA all or any of his or her powers under this Act, other than this power of delegation.
+             (1)  The Managing Director may, either generally or as otherwise provided by the instrument of delegation, by writing, delegate to a member of the staff of the Authority all or any of his or her powers under this Act, other than this power of delegation.
 
              (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by the Managing Director.
 
@@ -1103,7 +1242,7 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
 ##### <a id="66A"></a>66A  Delegation by Finance Minister
 
-             (1)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under section 37, 38 or 41 to an official (within the meaning of the _Financial Management and Accountability Act 1997_).
+             (1)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under section 8, 37, 38 or 41 to an official (within the meaning of the _Financial Management and Accountability Act 1997_).
 
              (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
 
@@ -1115,11 +1254,12 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Defence Housing Australia Act 1987_
+
+# Notes to the _Defence Housing Authority Act 1987_
 
 ### Note 1
 
-The _Defence Housing__Australia__Act 1987_ as shown in this compilation comprises Act No. 101, 1987 amended as indicated in the Tables below.
+The _Defence Housing Authority Act 1987_ as shown in this compilation comprises Act No. 101, 1987 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1143,317 +1283,332 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of 
-commencement</div>
+commencement 
+</div>
     </td>
     <td>
       <div>Application, 
 saving or 
 transitional 
-provisions</div>
+provisions 
+
+</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Defence Housing Authority Act 1987</div>
-  </td>
-  <td>
-    <div>101, 1987</div>
-  </td>
-  <td>
-    <div>6 Nov 1987</div>
-  </td>
-  <td>
-    <div>1 Jan 1988 ( <i>see Gazette</i>1987, No. S346)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>100, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part IV (ss. 9–13): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see 
- </i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1990</div>
-  </td>
-  <td>
-    <div>21, 1991</div>
-  </td>
-  <td>
-    <div>5 Feb 1991</div>
-  </td>
-  <td>
-    <div>Ss. 10–13 and 
-16–18: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>122, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
-Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 31(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>91, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>Ss. 13 and 14: 1 Sept 1992 ( <i>see Gazette</i>1992, No. S211) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 66-68): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 23, 80, 106, 129, 141, 142): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 696–708): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 371–380): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 76–79): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 167): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 85–97, 174): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Housing Authority Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>45, 2006</div>
-  </td>
-  <td>
-    <div>22 May 2006</div>
-  </td>
-  <td>
-    <div>Schedules 1, 3 and 4: 22 Nov 2006</div>
-  </td>
-  <td>
-    <div>Sch. 3 \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Defence Housing Authority Act 1987</div>
+    </td>
+    <td>
+      <div>101, 1987</div>
+    </td>
+    <td>
+      <div>6 Nov 1987</div>
+    </td>
+    <td>
+      <div>1 Jan 1988 ( <i>see Gazette</i>1987, No. S346)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>100, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>Part IV (ss. 9–13): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see 
 
-_(a)_     The _Defence Housing__Australia__Act 1987_ was amended by Part IV (sections 9–13) only of the _Defence Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
+ </i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 2) 1990</div>
+    </td>
+    <td>
+      <div>21, 1991</div>
+    </td>
+    <td>
+      <div>5 Feb 1991</div>
+    </td>
+    <td>
+      <div>Ss. 10–13 and 
+16–18: 1 July 1990 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>122, 1991</div>
+    </td>
+    <td>
+      <div>27 June 1991</div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 31(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>91, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>Ss. 13 and 14: 1 Sept 1992 ( <i>see Gazette</i>1992, No. S211) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 66-68): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td>
+      <div>1, 1997</div>
+    </td>
+    <td>
+      <div>19 Feb 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 23, 80, 106, 129, 141, 142): Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 696–708): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 371–380): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 76–79): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (item 167): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 85–97, 174): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Housing Authority Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>45, 2006</div>
+    </td>
+    <td>
+      <div>22 May 2006</div>
+    </td>
+    <td>
+      <div>Schedules 1, 3 and 4: \[ <i>see</i>Note 2 and Table A]</div>
+    </td>
+    <td>
+      <div>Sch. 3 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_     The _Defence Housing Authority Act 1987_ was amended by Part IV (sections 9–13) only of the _Defence Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_    The _Defence Housing__Australia__Act 1987_ was amended by Schedule 4 (items 66–68) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Defence Housing Authority Act 1987_ was amended by Schedule 4 (items 66–68) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Defence Housing__Australia__Act 1987_ was amended by Schedule 2 (items 23, 80, 106, 129, 141 and 142) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+_(c)_     The _Defence Housing Authority Act 1987_ was amended by Schedule 2 (items 23, 80, 106, 129, 141 and 142) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 2 (items 696–708) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_ The _Defence Housing Authority Act 1987_ was amended by Schedule 2 (items 696–708) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(e)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 1 (items 371–380) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_ The _Defence Housing Authority Act 1987_ was amended by Schedule 1 (items 371–380) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 10 (items 76–79) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(f)_ The _Defence Housing Authority Act 1987_ was amended by Schedule 10 (items 76–79) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(g)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 3 (item 167) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(g)_ The _Defence Housing Authority Act 1987_ was amended by Schedule 3 (item 167) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
@@ -1478,750 +1633,1086 @@ _(g)_ The _Defence Housing__Australia__Act 1987_ was amended by Schedule 3 (it
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 100, 1988; Nos. 1 and 152, 1997; No. 146, 1999; No. 55, 2001; No. 8, 2005; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9, 10</div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11A, 11B</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 100, 1988; No. 91, 1992; No. 146, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 100, 1988; No. 152, 1997; No. 156, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 100, 1988; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24, 25</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 152, 1997; No. 156, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IIIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIIA</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1991; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34, 35</div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36, 37</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 39</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 8, 2005; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 45, 46</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47, 48</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rs. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>rep. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 146, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 60</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989; No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 62</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62A</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 63</div>
-  </td>
-  <td>
-    <div>rs. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63A</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64, 65</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 66</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66A</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 45, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 100, 1988; Nos. 1 and 152, 1997; No. 146, 1999; No. 55, 2001; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 11</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 100, 1988; No. 91, 1992; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 14, 15</div>
+    </td>
+    <td>
+      <div>am. No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 100, 1988; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 100, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 28</div>
+    </td>
+    <td>
+      <div>am No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 47, 48</div>
+    </td>
+    <td>
+      <div>am. No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>rs. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57</div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 66</div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66A</div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Defence Housing Authority Amendment Act 2006 (No. 45, 2006)_
+
+The following amendments commence on 22 November 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Title
+
+Omit “**a Defence Housing Authority**”, substitute “**Defence Housing Australia**”.
+
+## 2  Section 1
+
+Omit “_Defence Housing Authority_”, substitute “_Defence Housing Australia_”.
+
+_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
+
+## 3  Subsection 3(1) (definition of _appointed member_)
+
+Omit “paragraph 12(1)(ca) or (e)”, substitute “paragraph 12(1)(b), (c), (d) or (f)”.
+
+## 4  Subsection 3(1) (definition of _Authority_)
+
+Repeal the definition.
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="board"></a>**_Board_** means the Board of Directors of DHA established by section 11A.
+
+## 6  Subsection 3(1) (definition of _Chairperson_)
+
+Omit “Authority”, substitute “Board”.
+
+## 7  Subsection 3(1)
+
+Insert:
+
+                    <a name="dha"></a>**_DHA_** means Defence Housing Australia.
+
+## 8  Subsection 3(1)
+
+Insert:
+
+                    <a name="dha-advisori-committe"></a>**_DHA Advisory Committee_** means the Defence Housing Australia Advisory Committee established by section 27.
+
+## 9  Subsection 3(1) (definition of _Managing Director_)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 10  Subsection 3(1) (definition of _member_)
+
+Omit “Authority”, substitute “Board”.
+
+## 11  Subsection 3(2)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 12  Part II (heading)
+
+Repeal the heading, substitute:
+
+## Part II—Establishment, functions and powers of DHA
+
+## 13  Section 4
+
+Repeal the section, substitute:
+
+##### <a id="4"></a>4  Defence Housing Australia
+
+                   The body known immediately before the commencement of this section as the Defence Housing Authority is continued in existence with the new name, Defence Housing Australia.
+
+## 14  Subsection 5(1)
+
+Before “function”, insert “main”.
+
+_Note:       The heading to section 5 is altered by omitting “Function” and substituting “Main function”._
+
+## 15  Subsection 5(1)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 16  Subsection 5(1)
+
+After “housing for”, insert “, and housing-related services to”.
+
+## 17  At the end of paragraph 5(1)(a)
+
+Add “and”.
+
+## 18  Paragraph 5(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  persons contracted to provide goods or services to the Defence Force, and their families; and
+
+                     (d)  persons contracted to provide goods or services to the Department, and their families;
+
+## 19  Subsection 5(2)
+
+Omit “The Authority”, substitute “DHA”.
+
+## 20  Subsection 5(2)
+
+After “housing”, insert “and housing-related services”.
+
+## 21  Subsection 5(2)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 22  Section 6
+
+Repeal the section, substitute:
+
+##### <a id="6"></a>6  Additional functions
+
+             (1)  The first additional function of DHA is to provide adequate and suitable housing for, and housing-related services to:
+
+                     (a)  officers and employees of an Agency (within the meaning of the _Financial Management and Accountability Act 1997_) other than the Department, and their families; and
+
+                     (b)  persons contracted to provide goods or services to an Agency (within the meaning of the _Financial Management and Accountability Act 1997_) other than the Department, and their families;
+
+in order to meet the requirements of that Agency.
+
+             (2)  The second additional function of DHA is to provide services ancillary to the services mentioned in subsection (1) and in subsection 5(1), to persons mentioned in those subsections, in order to meet the requirements of an Agency (within the meaning of the _Financial Management and Accountability Act 1997_).
+
+             (3)  DHA may perform a function mentioned in subsection (1) or (2) only to the extent mentioned in a determination under subsection (4).
+
+             (4)  The Minister may determine, in writing, the extent to which DHA may perform the function in relation to any of the following:
+
+                     (a)  the persons to whom services can be provided;
+
+                     (b)  the kinds of services that can be provided;
+
+                     (c)  any other matter.
+
+             (5)  A determination made under subsection (4) is a legislative instrument, but section 42 and Part 6 of the _Legislative Instruments Act 2003_ do not apply to the determination.
+
+             (6)  DHA’s gross revenue from the performance of all of the following functions for a financial year must not exceed the amount mentioned in subsection (7):
+
+                     (a)  the function mentioned in subsection (1);
+
+                     (b)  the function mentioned in subsection (2), to the extent that it relates to the function mentioned in subsection (1).
+
+             (7)  The amount is DHA’s total gross revenue for the financial year multiplied by:
+
+                     (a)  if a percentage under 25% is prescribed by the regulations for the purposes of this subsection—that percentage; or
+
+                     (b)  otherwise—25%.
+
+             (8)  For the purposes of subsections (6) and (7), DHA’s gross revenue and total gross revenue for the financial year are to be determined from its audited annual accounts.
+
+## 23  Subsection 7(1)
+
+Omit “The Authority”, substitute “DHA”.
+
+## 24  Paragraph 7(1)(n)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 25  Subsection 7(2)
+
+Omit “The Authority” , substitute “DHA”.
+
+## 26  At the end of subsection 7(2)
+
+Add “, or a greater amount specified in a determination under subsection (3)”.
+
+## 27  At the end of section 7
+
+Add:
+
+             (3)  The Minister may determine, in writing, an amount for the purposes of subsection (2).
+
+             (4)  A determination made under subsection (3) is not a legislative instrument.
+
+## 28  Section 8
+
+Repeal the section.
+
+## 29  Section 9
+
+Repeal the section.
+
+## 30  Section 10
+
+Repeal the section.
+
+## 31  Part III (heading)
+
+Repeal the heading.
+
+## 32  Subsection 11(1)
+
+Repeal the subsection, substitute:
+
+             (1)  DHA:
+
+                     (a)  is a body corporate; and
+
+                     (b)  is to have a seal; and
+
+                     (c)  may acquire, hold and dispose of real and personal property; and
+
+                     (d)  may sue and be sued.
+
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to DHA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of executive officers.
+
+_Note:       The heading to section 11 is altered by omitting “Authority” and substituting “DHA”._
+
+## 33  Subsection 11(2)
+
+Omit “common”.
+
+## 34  Subsection 11(2)
+
+Omit “the Authority” (first occurring), substitute “DHA”.
+
+## 35  Subsection 11(2)
+
+Omit “Authority” (second and third occurring), substitute “Board”.
+
+## 36  Subsection 11(3)
+
+Omit “common seal of the Authority”, substitute “seal of DHA”.
+
+## 37  After section 11
+
+Insert:
+
+## Part III—The Board
+
+##### <a id="11A"></a>11A  Establishment of the Board
+
+                   A Board of Directors of DHA is established by this section.
+
+##### <a id="11B"></a>11B  Functions of the Board
+
+             (1)  The functions of the Board are to ensure the proper and efficient performance of the functions of DHA and, subject to the provisions mentioned in subsection (2), to determine the policy of DHA with respect to any matter.
+
+             (2)  The provisions are as follows:
+
+                     (a)  subsection 5(2);
+
+                     (b)  section 31;
+
+                     (c)  section 60;
+
+                     (d)  section 63A;
+
+                     (e)  section 66A.
+
+## 38  Section 12(1)
+
+Omit “Authority”, substitute “Board”.
+
+_Note:       The heading to section 12 is replaced by the heading “Membership of the Board”._
+
+## 39  Paragraphs 12(1)(b) to (e)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  a current or former APS employee or Agency Head (within the meaning of the _Public Service Act 1999_), with a background in Defence, nominated by the Secretary of the Department;
+
+                     (c)  a current or former member of the Defence Force nominated by the Chief of the Defence Force;
+
+                     (d)  a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_;
+
+                     (e)  the Managing Director;
+
+                      (f)  4  commercial  members _._
+
+## 40  Subsection 12(1A)
+
+Repeal the subsection.
+
+## 41  Subsection 12(2)
+
+Omit “function”, substitute “functions”.
+
+## 42  Subsection 12(2)
+
+Omit “the Authority” (first occurring), substitute “DHA”.
+
+## 43  Subsection 12(2)
+
+Omit “Authority” (second occurring), substitute “Board”.
+
+## 44  Subsection 14(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The Chairperson and the other appointed members, other than the appointed member referred to in paragraph 12(1)(d), are to be appointed by the Minister by written instrument.
+
+          (1A)  The appointed member referred to in paragraph 12(1)(d) is to be appointed by the Finance Minister by written instrument.
+
+## 45  Subsection 14(2)
+
+Omit “ paragraph 12(1)(e)”, substitute “paragraph 12(1)(f)”.
+
+## 46  Subsection 14(2)
+
+Omit “Governor-General”, substitute “Minister”.
+
+## 47  Section 19
+
+Before “An appointed member may”, insert “(1)”.
+
+## 48  Section 19
+
+Omit “Governor-General”, substitute “Minister”.
+
+## 49  At the end of section 19
+
+Add:
+
+             (2)  The resignation takes effect on the day it is received by the Minister or, if a later day is specified in the resignation, on that later day.
+
+## 50  Subsection 20(4)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 51  Subsection 21(1)
+
+Omit “Governor-General”, substitute “Minister”.
+
+## 52  Paragraph 21(2)(aa)
+
+Repeal the paragraph.
+
+## 53  Subsection 21(2)
+
+Omit “Authority” (wherever occurring), substitute “Board”.
+
+## 54  Subsection 21(2)
+
+Omit “Governor-General”, substitute “Minister”.
+
+## 55  Subsection 23(1)
+
+Omit “paragraph 12(1)(e)”, substitute “paragraph 12(1)(f)”.
+
+## 56  Subsection 23(2)
+
+Omit “paragraph 12(1)(ca) or (e)”, substitute “paragraph 12(1)(b), (c) or (f)”.
+
+## 57  Paragraph 23(2)(b)
+
+Omit “Authority”, substitute “Board”.
+
+## 58  After subsection 23(2)
+
+Insert:
+
+          (2A)  The Finance Minister may appoint a person nominated by the Secretary of the Department administering the _Financial Management and Accountability Act 1997_ to act as the appointed member referred to in paragraph 12(1)(d) during a vacancy in the office of such a member (whether or not an appointment has previously been made to the office).
+
+## 59  Subsection 23(3)
+
+Omit “or (2)”, substitute “(2), or (2A)”.
+
+## 60  Subsection 23(4)
+
+Omit “or (2)”, substitute “(2), or (2A)”.
+
+## 61  Paragraph 23(5)(a)
+
+After “paragraph (2)(b)”, insert “or subsection (2A)”.
+
+## 62  Subsection 24(1)
+
+Omit “Authority”, substitute “Board”.
+
+## 63  Subsection 24(1)
+
+Omit “function”, substitute “functions”.
+
+## 64  Subsections 24(2), (3), (4), (5), (6) and (7)
+
+Omit “Authority” (wherever occurring), substitute “Board”.
+
+## 65  Paragraph 24(7)(a)
+
+Omit “6”, substitute “5”.
+
+## 66  Subsections 24(8) and (9)
+
+Omit “Authority” (wherever occurring), substitute “Board”.
+
+## 67  Subsection 25(1)
+
+Omit “Authority” (wherever occurring), substitute “Board”.
+
+## 68  Subsection 26(1)
+
+Omit “Authority”, substitute “Board”.
+
+## 69  Subsection 26(1)
+
+Omit “function”, substitute “functions”.
+
+## 70  Subsections 26(2), (3) and (4)
+
+Omit “Authority” (wherever occurring), substitute “Board”.
+
+## 71  Paragraph 26(6)(c)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 72  After Part III
+
+Insert:
+
+## Part IIIA—DHA Advisory Committee
+
+##### <a id="27"></a>27  DHA Advisory Committee
+
+             (1)  The Defence Housing Australia Advisory Committee is established by this section.
+
+             (2)  The Defence Housing Australia Advisory Committee consists of the following:
+
+                     (a)  the Chair of the Advisory Committee, who is to be the member mentioned in paragraph 12(1)(b) or the member mentioned in paragraph 12(1)(c), as nominated by DHA;
+
+                     (b)  either:
+
+                              (i)  unless subparagraph (ii) applies—the National Convenor of Defence Families Australia; or
+
+                             (ii)  if the regulations specify a similar office—the person occupying that office;
+
+                     (c)  a person appointed by the Chief of Navy;
+
+                     (d)  a person appointed by the Chief of Army;
+
+                     (e)  a person appointed by the Chief of Air Force;
+
+                      (f)  a person appointed by DHA.
+
+             (3)  The persons mentioned in paragraphs (2)(c), (d), (e) and (f) are to be appointed in writing. They hold office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+
+Note:          The persons are eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+
+             (4)  The persons mentioned in subsection (2) hold office on a part-time basis.
+
+##### <a id="28"></a>28  Function of the DHA Advisory Committee
+
+                   The DHA Advisory Committee’s function is, either on its own initiative or at the request of DHA, to give advice and information to DHA about the performance of DHA’s functions.
+
+##### <a id="29"></a>29  Remuneration
+
+             (1)  The person mentioned in paragraph 27(2)(b) is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the person is to be paid the remuneration that is prescribed.
+
+             (2)  The person is to be paid the allowances that are prescribed.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+## 73  Part IV (heading)
+
+Repeal the heading, substitute:
+
+## Part IV—Operation of DHA
+
+## 74  Section 28
+
+Repeal the section.
+
+## 75  Section 30
+
+Repeal the section.
+
+## 76  Subsections 31(1) and (2)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+_Note:       The heading to section 31 is altered by omitting “Authority” and substituting “DHA”._
+
+## 77  Subsection 31(2)
+
+Omit “function”, substitute “functions”.
+
+## 78  Subsection 31(3)
+
+Omit “The Authority”, substitute “DHA”.
+
+## 79  Subsection 31(4)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 80  Section 32
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 81  Section 33
+
+Repeal the section.
+
+## 82  Section 34
+
+Repeal the section.
+
+## 83  Section 35
+
+Repeal the section.
+
+## 84  Section 36
+
+Omit “the Authority”, substitute “DHA”.
+
+## 85  Subsection 37(1)
+
+Omit “The Authority”, substitute “DHA”.
+
+## 86  Section 37
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 87  Section 38
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+_Note:       The heading to section 38 is altered by omitting “Authority” and substituting “DHA”._
+
+## 88  Section 39
+
+Omit “The Authority”, substitute “DHA”.
+
+_Note:       The heading to section 39 is altered by omitting “Authority” and substituting “DHA”._
+
+## 89  Section 40
+
+Omit “The Authority”, substitute “DHA”.
+
+## 90  Paragraph 41(1)(a)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 91  Subsection 41(9)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 92  Section 45
+
+Omit “the Authority”, substitute “DHA”.
+
+## 93  Subsection 46(1)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 94  Subsection 46(2)
+
+Omit “Authority”, substitute “Board”.
+
+## 95  Subsection 46(3)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 96  Subsection 47(1)
+
+Omit “Authority”, substitute “Board”.
+
+## 97  Paragraph 48(1)(b)
+
+Omit “Authority’s”, substitute “Board’s”.
+
+## 98  Section 49
+
+Omit “Authority”, substitute “Board”.
+
+## 99  Subsection 51(2)
+
+Omit “Authority”, substitute “Board”.
+
+## 100  Section 53
+
+Repeal the section.
+
+## 101  Subsections 54(1) and (5)
+
+Omit “Authority”, substitute “Board”.
+
+## 102  Section 55
+
+Repeal the section.
+
+## 103  Section 56
+
+Omit “Authority”, substitute “Board”.
+
+## 104  Subsection 57(1)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 105  Subsection 58(1)
+
+Omit “The Authority”, substitute “DHA”.
+
+## 106  Subsections 58(1) and (2)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 107  Subsection 59(1)
+
+Omit “the Authority” (first occurring), substitute “DHA”.
+
+## 108  Subsection 59(1)
+
+Omit “Authority” (second occurring), substitute “Board”.
+
+## 109  Subsection 59(1)
+
+Omit “and to section 6”.
+
+## 110  Subsection 59(2)
+
+Omit “The Authority shall, as soon as practicable after the commencement of this Act”, substitute “The Board must”.
+
+## 111  Subsection 59(3)
+
+Omit “Authority” (wherever occurring), substitute “Board”.
+
+## 112  Section 60
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+_Note:       The heading to section 60 is altered by omitting “Authority” and substituting “DHA”._
+
+## 113  Section 61
+
+Omit “the Authority”, substitute “DHA”.
+
+## 114  Section 62
+
+Omit “the Authority”, substitute “DHA”.
+
+_Note:       The heading to section 62 is altered by omitting “Authority” and substituting “DHA”._
+
+## 115  After section 62
+
+Insert:
+
+##### <a id="62A"></a>62A  Liability to Commonwealth taxation
+
+             (1)  DHA is subject to taxation under the laws of the Commonwealth.
+
+             (2)  DHA is not a public authority for the purposes of section 50-25 of the _Income Tax Assessment Act 1997_.
+
+## 116  Subsection 63(1)
+
+Omit “the Authority”, substitute “DHA”.
+
+_Note:       The heading to section 63 is replaced by the heading “Exemption from State and Territory taxation”._
+
+## 117  Subsection 63(1)
+
+Omit “the Commonwealth or of”.
+
+## 118  Subsection 63(2)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 119  Subsection 63(2)
+
+Omit “the Commonwealth or of”.
+
+## 120  Paragraphs 63(4)(a) and (b)
+
+Omit “the Commonwealth or of” (wherever occurring).
+
+## 121  Subsection 63(5)
+
+Omit “the Authority” (wherever occurring), substitute “DHA”.
+
+## 122  After section 63
+
+Insert:
+
+##### <a id="63A"></a>63A  DHA must make tax-equivalent payments to the Commonwealth
+
+             (1)  The Minister  may inform DHA  in writing of arrangements that are to apply to DHA in relation to a tax-equivalent payment to be made by DHA to the Commonwealth in respect of each financial year.
+
+             (2)  To avoid doubt, an instrument under subsection (1) may relate to more than 1 financial year.
+
+             (3)  The amount of the payment to be made under the arrangements is to be worked out having regard to the purpose of ensuring that DHA does not enjoy net competitive advantages over its competitors because of:
+
+                     (a)  the operation of section 63 (exemption from State and Territory taxation); or
+
+                     (b)  any other exemption from taxation liability applying to DHA.
+
+             (4)  DHA must pay the amount to the Commonwealth within 4 months after the end of the financial year concerned, unless the Minister determines a period other than 4 months within which the amount, or a specified part of the amount, must be paid.
+
+## 123  Subsection 64(1)
+
+Omit “The Authority”, substitute “DHA”.
+
+_Note:       The heading to section 64 is altered by omitting “Authority” and substituting “DHA”._
+
+## 124  Subsection 64(1)
+
+Omit “common”.
+
+## 125  Paragraphs 64(1)(a) and (b)
+
+Omit “Authority”, substitute “Board”.
+
+## 126  Paragraph 64(1)(c)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 127  Subsection 64(2)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 128  Subsection 64(3)
+
+Omit “Authority”, substitute “Board”.
+
+## 129  Subsection 64(4)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 130  Subsection 65(1)
+
+Omit “the Authority”, substitute “DHA”.
+
+## 131  Subsection 66A(1)
+
+Omit “8,”.
+
+## Schedule 4
+
+## 1  Subsection 20(4)
+
+Omit “(4)”.
+
+## 2  Subsection 48(1)
+
+Omit “(1)”.
+
+As at 25 May 2006 the amendments are not incorporated in this compilation.
+
 
 ## Table A
 
@@ -2235,7 +2726,9 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -2259,9 +2752,13 @@ continues to have effect after the commencing time as if it had been done by the
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Housing Authority Amendment Act 2006 (No. 45, 2006)_
+
+The following provisions commence on 22 November 2006 unless proclaimed earlier:
 
 ## Schedule 3
 
@@ -2274,5 +2771,6 @@ The amendment made by Schedule 1 to subsection 47(1) of the _Defence Housing A
 (1)        This item applies in relation to a tax that is payable by reference to a period.
 
 (2)        In respect of such a tax, section 62A of the _Defence Housing__Australia__Act 1987_ applies in relation to such periods starting on or after the commencement of this item.
+
 
  
