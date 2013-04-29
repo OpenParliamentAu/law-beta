@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00777/Html/5b484cf1-1293-4ede-9fd1-486a9ece95ca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00639/Html/be53cc4a-ef5f-47ff-9545-4785a079c8ae_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 23 September 2011
+This compilation was prepared on 12 August 2011
  taking into account amendments up to Act No. 88 of 2011
 
 The text of any of those amendments not in force 
@@ -1230,7 +1230,7 @@ Note:          If this Act is amended by one or more other Act
 
 (b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
-                   This Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made.
+                   This Act continues to apply in Western Aust  ralia in relation to exnuptial children as if those amendments had not been made.
 
              (6)  Nothing in this section affects the operation of the provisions of this Act to the extent that they give effect to an international maintenance arrangement.
 
@@ -3705,7 +3705,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00777/Html/5b484cf1-1293-4ede-9fd1-486a9ece95ca_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00639/Html/be53cc4a-ef5f-47ff-9545-4785a079c8ae_files/image002.gif)
 
 where:
 
@@ -3713,7 +3713,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2011C00777/Html/5b484cf1-1293-4ede-9fd1-486a9ece95ca_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00639/Html/be53cc4a-ef5f-47ff-9545-4785a079c8ae_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -4863,7 +4863,7 @@ of Part VIII of this Act.</li>
 
 * * *
 
-##### <a id="79E"></a>79E  Object of this Part
+##### <a id="79E"></a>79E  Object of this Part
 
                    The object of this Part is to provide for internal reconsideration of decisions of the Registrar before the decisions may be reviewed by the SSAT under Part VIIA.
 
@@ -5327,7 +5327,7 @@ Section does not apply to care percentage decisions
 
              (3)  Subsection (1) does not apply to an objection to a care percentage decision.
 
-##### <a id="85A"></a>85A  Notification of objections to care percentage decisions
+##### <a id="85A"></a>85A  Notification of objections to care percentage decisions
 
                    If:
 
@@ -5465,11 +5465,11 @@ the Registrar must give written notice of the decision to each person affected b
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      If a person objects to a decision
+<li class="BoxList" style="margin-left:21.25pt">•      If a person objects to a
 
-of the Registrar under Part VII, the Registrar is required to reconsider
+decision of the Registrar under Part VII, the Registrar is required to
 
-the decision under that Part.</li>
+reconsider the decision under that Part.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a person is dissatisfied
 
@@ -6978,23 +6978,23 @@ refer a question of law arising in a proceeding before the SSAT under Part VII
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The reconsideration of a decision
+<li class="BoxList" style="margin-left:21.25pt">•      The reconsideration of a
 
-by the Registrar, the SSAT or a court does not affect the operation of the
+decision by the Registrar, the SSAT or a court does not affect the operation of
 
-decision or prevent the taking of any action to implement the decision.</li>
+the decision or prevent the taking of any action to implement the decision.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Once a decision becomes
 
 final, the Registrar must implement the decision.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person might commit an
+<li class="BoxList" style="margin-left:21.25pt">•      A person might commit an offence
 
-offence if the person publishes an account of a proceeding, or a list of
+if the person publishes an account of a proceeding, or a list of proceedings,
 
-proceedings, under Part VIIA or Division 3 of Part VIII that
+under Part VIIA or Division 3 of Part VIII that identifies a
 
-identifies a witness or party.</li>
+witness or party.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Division 5 modifies
 
@@ -7648,7 +7648,7 @@ Registrar to keep payee informed of action taken to recover debt
 
              (2)  The Registrar may take such steps as the Registrar considers appropriate to keep the payee of a registered maintenance liability informed of action taken by the Registrar to recover debts due to the Commonwealth under this Act in relation to the liability.
 
-##### <a id="113A"></a>113A  Recovery of debts by payees
+##### <a id="113A"></a>113A  Recovery of debts by payees
 
 Payee to notify Registrar of intention to institute a proceeding to recover debt
 
@@ -8545,42 +8545,7 @@ Schedule 5 (items 9–17): Royal Assent</div>
   </td>
   <td>
     <div>S. 4, Sch. 4 (item 2) and Sch. 5 (items 
-18, 19, 21) 
-Sch. 5 (item 20) (am. by 100, 2011, Sch. 1 \[item 4])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 4): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+18–21)</div>
   </td>
 </tr>
 <tr>
@@ -13355,7 +13320,7 @@ Omit “month”, substitute “calendar month”.
 
 Omit “month” (wherever occurring), substitute “calendar month”.
 
-As at 23 September 2011 the amendments are not incorporated in this compilation.
+As at 12 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -13628,6 +13593,8 @@ _The Child Support Act continues to apply in   Western Australia in relation to 
 then the payment may, to the extent that it has not already been repaid to the Commonwealth before this item commences, be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
 (2)       A person to whom a payment referred to in subitem (1) was made is entitled, on the commencement of this item, to be paid, by the Commonwealth, an amount equal to the amount of the debt due to it by the person under subitem (1).
+
+(3)       The Consolidated Revenue Fund is appropriated for the purpose of payments under subitem (2).
 
 (4)       The Commonwealth may set‑off the amount of a debt due to it by a person under subitem (1) against an amount that is payable to that person under subitem (2).
 
