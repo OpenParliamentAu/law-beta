@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00685/Html/8e6c330d-f98c-48cd-8a13-371503412e16_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00248/Html/deca6703-10d6-4094-b8e6-9faaf85704af_files/image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 24 September 2012
- taking into account amendments up to Act No. 131 of 2012
+This compilation was prepared on 19 February 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 266
@@ -649,8 +649,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [145C](#145C).     Application to Minister to extend period of effect of approval
 
-[145D](#145D).     Minister must decide whether or not to extend approval 
- period
+[145D](#145D).     Minister must decide whether or not to extend approval period
 
 [145E](#145E).      Minister may request further information for making decision
 
@@ -936,8 +935,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [207B](#207B).     Offence of knowingly damaging critical habitat
 
-[207C](#207C).     Sale or lease of Commonwealth land containing critical 
- habitat
+[207C](#207C).     Sale or lease of Commonwealth land containing critical habitat
 
         **Subdivision C—Miscellaneous**
 
@@ -4830,7 +4828,7 @@ Relationship with sections 46 and 47
 
              (3)  Subsection (1) does not limit sections 46 and 47.
 
-##### <a id="48A"></a>48A  Mandatory provisions
+##### <a id="48A"></a>48A  Mandatory provisions
 
 Application
 
@@ -12098,7 +12096,7 @@ within 90 days after receiving the Scientific Committee’s advice on the additi
 
 ##### <a id="253"></a>253  Subdivision does not apply to members of certain species and cetaceans
 
-                   This Subdivision does not apply to a member of a listed marine species that is a member of a listed migratory species, a member of a listed threatened species or a cetacean.
+                   This Subdivision does not apply to a member of a listed marine species that is a member of a listed migratory species, a member of a listed threatened species or a cetacean.
 
 ##### <a id="254"></a>254  Killing or injuring member of listed marine species
 
@@ -12226,7 +12224,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="255"></a>255  Certain actions are not offences
 
-                   Sections 254, 254A, 254B, 254C, 254D and 254E do not apply to:
+                   Sections 254, 254A, 254B, 254C, 254D and 254E do not apply to:
 
                      (a)  an action authorised by a permit that was issued under section 258 and is in force; or
 
