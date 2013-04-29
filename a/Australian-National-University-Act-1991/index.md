@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00378/Html/AusNatUni91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00178/Html/AusNatUni91WD02_image001.gif)
 
 # Australian National University Act 1991
 
 **Act No. 131 of 1991 as amended**
 
-This compilation was prepared on 7 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 20 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -422,7 +422,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (b)  a current member of the academic or general staff of the University; or
 
-                     (c)  a student of the University; or
+                     (c)  a student of the university; or
 
                      (d)  a member of the Nominations Committee of Council.
 
@@ -890,7 +890,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                             (vi)  the appointment of committees of the University body; and
 
-                           (vii)  the quorums for meetings of committees mentioned in subparagraph (vi), and the powers and duties of such committees;
+                           (vii)  the quorums for meetings of committees mentioned in subparagraph (paragraph (vi), and the powers and duties of such committees;
 
                      (g)  the resignation of the following persons:
 
@@ -1460,23 +1460,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 10): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian__National__University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -1492,94 +1475,6 @@ _(b)_    The _Australian__National__University__Act 1991_ was amended by S
 _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(d)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 1, item 10
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 36 of Schedule 2 to the
-        <i>Higher Education Support (Transitional Provisions and Consequential Amendments)
-          Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2004
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1697,7 +1592,7 @@ _(d)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides a
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 86, 2001; No. 150, 2003; Nos. 114 and 157, 2004; No. 73, 2008</div>
+    <div>am. No. 86, 2001; No. 150, 2003; Nos. 114 and 157, 2004</div>
   </td>
 </tr>
 <tr>
