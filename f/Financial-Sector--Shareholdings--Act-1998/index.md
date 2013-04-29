@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00077/Html/27d857ac-5ab2-40d6-a321-9efbf4bc5585_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00418/Html/FinancialSectorS1998WD02_image001.gif)
 
 # Financial Sector (Shareholdings) Act 1998
 
 **Act No. 55 of 1998 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            External Territories
 
-[7](#7).            Extra‑territorial operation
+[7](#7).            Extra-territorial operation
 
 **Part 2—Restrictions on shareholdings in financial sector companies** 
 
@@ -64,7 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Revoking an approval
 
-[19](#19).          Flow‑on approvals
+[19](#19).          Flow-on approvals
 
 [20](#20).          Further information about applications
 
@@ -80,9 +80,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Remedial orders
 
-    **Division 5—Record‑keeping and giving of information**
+    **Division 5—Record-keeping and giving of information**
 
-[26](#26).          Record‑keeping and giving of information
+[26](#26).          Record-keeping and giving of information
 
     **Division 6—Ancillary matters**
 
@@ -94,9 +94,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Acquisition of property
 
-**Part 3—Anti‑avoidance**
+**Part 3—Anti-avoidance**
 
-[31](#31).          Anti‑avoidance
+[31](#31).          Anti-avoidance
 
 **Part 4—Injunctions**
 
@@ -134,9 +134,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Regulations
 
-[47](#47).          Transitional—pre‑commencement stakes in financial sector companies
+[47](#47).          Transitional—pre-commencement stakes in financial sector companies
 
-[48](#48).          Transitional—pre‑transfer stakes held in bodies transferring to regulation by the Commonwealth
+[48](#48).          Transitional—pre-transfer stakes held in bodies transferring to regulation by the Commonwealth
 
 [49](#49).          Transitional—stakes held as a result of completion of transfers of engagements or mergers under certain State or Territory laws
 
@@ -188,13 +188,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
-                    <a name="authorised-deposit-take-institut"></a>**_authorised deposit‑taking institution_** has the same meaning as in the _Banking Act 1959_.
+                    <a name="authorised-deposit-take-institut"></a>**_authorised deposit-taking institution_** has the same meaning as in the _Banking Act 1959_.
 
                     <a name="authorised-insur-compani"></a>**_authorised insurance company_** means:
 
                      (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business; or
 
-                     (b)  a company registered under section 21 of the _Life Insurance Act 1995_.
+                     (b)  a company registered under the _Life Insurance Act 1995_.
 
                     <a name="compani"></a>**_company_** means a body corporate.
 
@@ -202,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="financi-sector-compani"></a>**_financial sector company_** means:
 
-                     (a)  an authorised deposit‑taking institution; or
+                     (a)  an authorised deposit-taking institution; or
 
                      (b)  an authorised insurance company; or
 
@@ -230,11 +230,11 @@ Note:          Schedule 1 sets out definitions of expression
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="6"></a>6  External Territories
+##### <a id="6"></a>6  External  Territories
 
                    This Act extends to all the external Territories.
 
-##### <a id="7"></a>7  Extra‑territorial operation
+##### <a id="7"></a>7  Extra-territorial operation
 
                    This Act extends to acts, omissions, matters and things outside Australia.
 
@@ -280,7 +280,7 @@ does not have:</li>
 
                (a)     a stake that exceeds 15%; or
 
-              (b)     practical control.
+               (b)     practical control.
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -544,7 +544,7 @@ Notification of revocation
 
                      (b)  given to the financial sector company concerned.
 
-##### <a id="19"></a>19  Flow‑on approvals
+##### <a id="19"></a>19  Flow-on approvals
 
 100% subsidiaries of holding company
 
@@ -552,7 +552,7 @@ Notification of revocation
 
                      (a)  at a particular time, a person holds an approval under section 14 to hold a stake in a financial sector company of more than 15%; and
 
-                     (b)  the financial sector company is a holding company of an authorised deposit‑taking institution or an authorised insurance company;
+                     (b)  the financial sector company is a holding company of an authorised deposit-taking institution or an authorised insurance company;
 
 there are taken to be in force at that time approvals of the Treasurer, under section 14, for the person to hold the same percentage stake in each financial sector company that is a 100% subsidiary of the holding company.
 
@@ -714,9 +714,9 @@ the court may, on application by the Treasurer, make such orders as the court co
 
              (6)  The Federal Court may, by order, rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
 
-### Division 5—Record‑keeping and giving of information
+### Division 5—Record-keeping and giving of information
 
-##### <a id="26"></a>26  Record‑keeping and giving of information
+##### <a id="26"></a>26  Record-keeping and giving of information
 
              (1)  The regulations may make provision for and in relation to requiring a person:
 
@@ -732,7 +732,7 @@ Statutory declarations
 
              (2)  The regulations may provide that information given in accordance with a requirement covered by paragraph (1)(b) or (c) must be verified by statutory declaration.
 
-No self‑incrimination
+No self-incrimination
 
              (3)  An individual is not required to give information in accordance with a requirement covered by paragraph (1)(b) or (c) if the information might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -816,9 +816,9 @@ Definitions
 
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
-## Part 3—Anti‑avoidance
+## Part 3—Anti-avoidance
 
-##### <a id="31"></a>31  Anti‑avoidance
+##### <a id="31"></a>31  Anti-avoidance
 
              (1)  If:
 
@@ -1080,13 +1080,13 @@ Extended meaning of **engaging in conduct**
 
 ##### <a id="46"></a>46  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-##### <a id="47"></a>47  Transitional—pre‑commencement stakes in financial sector companies
+##### <a id="47"></a>47  Transitional—pre-commencement stakes in financial sector companies
 
              (1)  This section applies if, immediately before the commencement of this section:
 
@@ -1100,9 +1100,9 @@ Note:          This approval can be varied or revoked in accor
 
              (3)  For the purposes of this section, Part 1 and Schedule 1 are taken to have been in force immediately before the commencement of this section.
 
-             (4)  For the purposes of this section, a company that is an authorised deposit‑taking institution immediately after the commencement of this section is taken to have been an authorised deposit‑taking institution immediately before the commencement of this section.
+             (4)  For the purposes of this section, a company that is an authorised deposit-taking institution immediately after the commencement of this section is taken to have been an authorised deposit-taking institution immediately before the commencement of this section.
 
-##### <a id="48"></a>48  Transitional—pre‑transfer stakes held in bodies transferring to regulation by the Commonwealth
+##### <a id="48"></a>48  Transitional—pre-transfer stakes held in bodies transferring to regulation by the Commonwealth
 
              (1)  This section applies if, immediately before the transfer date:
 
@@ -1118,7 +1118,7 @@ Note:          This approval can be varied or revoked in accor
 
              (5)  For the purposes of this section, a transferring financial sector company that is, on the transfer date:
 
-                     (a)  an authorised deposit‑taking institution; or
+                     (a)  an authorised deposit-taking institution; or
 
                      (b)  a company registered under the _Life Insurance Act 1995_;
 
@@ -1202,7 +1202,7 @@ _Note:       See section 9._
 
                     <a name="lender"></a>**_lender_**, in relation to a loan security, means the person who is entitled to enforce the security.
 
-                    <a name="lend-monei"></a>**_lending money_** includes providing non‑equity finance where the provision of the finance may reasonably be regarded as equivalent to lending money.
+                    <a name="lend-monei"></a>**_lending money_** includes providing non-equity finance where the provision of the finance may reasonably be regarded as equivalent to lending money.
 
                     <a name="loan-secur"></a>**_loan security_** means a security held solely for the purposes of a moneylending agreement.
 
@@ -1216,7 +1216,7 @@ _Note:       See section 9._
 
                      (b)  a receiver and manager of any part of the undertaking of the company appointed under a power contained in any instrument; or
 
-                     (c)  a liquidator of the company appointed in a voluntary winding‑up.
+                     (c)  a liquidator of the company appointed in a voluntary winding-up.
 
                     <a name="ownership-provision"></a>**_ownership provisions_** means Part 2 and this Schedule.
 
@@ -1316,7 +1316,7 @@ then, the second person is taken to be an **_associate_** of the first person fo
 
                      (a)  the person has the power (whether exercisable with or without the consent or concurrence of any other person) to veto such an appointment; or
 
-                     (b)  a person’s appointment as a director of the company follows necessarily from that person being a director or other officer of the first‑mentioned person.
+                     (b)  a person’s appointment as a director of the company follows necessarily from that person being a director or other officer of the first-mentioned person.
 
 ##### <a id="6"></a>6  Meaning of _entitled to acquire_
 
@@ -1382,7 +1382,7 @@ the person’s interest in the share must be disregarded at all times during so 
 
 ##### <a id="9"></a>9  Voting power
 
-             (1)  A reference in the ownership provisions to the **_voting power_** in a company is a reference to the total rights of shareholders to vote, or participate in any decision‑making, concerning any of the following:
+             (1)  A reference in the ownership provisions to the **_voting power_** in a company is a reference to the total rights of shareholders to vote, or participate in any decision-making, concerning any of the following:
 
                      (a)  the making of distributions of capital or profits of the company to its shareholders;
 
@@ -1398,7 +1398,7 @@ the person’s interest in the share must be disregarded at all times during so 
 
                      (b)  whether or not based on legal or equitable rights.
 
-             (3)  If the percentage of total rights to vote or participate in decision‑making differs as between different types of voting or decision‑making, the highest of those percentages applies for the purposes of this clause.
+             (3)  If the percentage of total rights to vote or participate in decision-making differs as between different types of voting or decision-making, the highest of those percentages applies for the purposes of this clause.
 
              (4)  If a company:
 
@@ -1430,7 +1430,7 @@ this clause has effect as if the members or policy holders of the company were s
 
 the person is taken to hold a direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00077/Html/27d857ac-5ab2-40d6-a321-9efbf4bc5585_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00418/Html/FinancialSectorS1998WD02_image002.gif)
 
 where:
 
@@ -1623,7 +1623,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -1649,7 +1649,7 @@ Remainder: Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 204): 27 Feb 2010</div>
+    <div>Schedule 1 (item 204): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1664,7 +1664,7 @@ _(a)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
 _(b)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 1 (items 1–4) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001_, subsection 2(1) of which provides as follows:
 
@@ -1694,22 +1694,6 @@ _(c)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
     </td>
     <td>
       <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 75, 2009</div>
     </td>
   </tr>
 </thead>
@@ -1810,6 +1794,20 @@ _(c)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
   </td>
 </tr></table>
 
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendment commences on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 204  Section 3 (paragraph (b) of the definition of _authorised insurance company_)
+
+After “under”, insert “section 21 of”.
+
+As at 4 September 2009 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Applications, saving or transitional provisions
@@ -1820,7 +1818,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
-(1)       The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
                      (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
@@ -1828,7 +1826,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  the amendments and repeals made by the Schedules to this Act.
 
-(2)       Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
                      (a)  by applying (with or without modifications) to the matter:
 
@@ -1842,9 +1840,9 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-(3)       Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(4)       Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
                      (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
@@ -1852,15 +1850,15 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
                      (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-(6)       In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-(7)       In this item:
+(7)        In this item:
 
                     <a name="replac-legisl"></a>**_replaced legislation_** means:
 
@@ -1876,13 +1874,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
-## 23  Power to make regulations
+## 23  Power to make regulations
 
-            The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+            The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
 * * *
 
@@ -1890,9 +1888,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1902,9 +1900,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1912,9 +1910,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -1945,11 +1943,11 @@ In this Schedule:
 
 ## 2  APRA’s corporate existence is continued
 
-(1)       The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
+(1)        The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
 
 _Note:       Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA._
 
-(2)       However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
+(2)        However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
 
 _Note:       These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed._
 
@@ -1961,11 +1959,11 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 ## 4  Continued effect of certain delegations
 
-(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+(1)        A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
 
-(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+(2)        A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
 
-(3)       A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
+(3)        A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
@@ -1979,19 +1977,19 @@ An approval in force, immediately before the commencement of the amendments, und
 
 ## 7  Continued or extended effect of certain regulations
 
-(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+(1)        Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
 
-(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+(2)        Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
 
 ## 8  Delegations by ASIC to APRA staff members
 
-(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+(1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
-(2)       For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+(2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 14
 
@@ -1999,7 +1997,7 @@ _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Re
 
 Unacceptable ownership situation
 
-(1)       For the purposes of section 12 of the _Financial Sector (Shareholdings) Act 1998_, if:
+(1)        For the purposes of section 12 of the _Financial Sector (Shareholdings) Act 1998_, if:
 
                      (a)  apart from this subitem, an unacceptable ownership situation would exist in relation to a financial sector company on the commencement day; and
 
@@ -2009,7 +2007,7 @@ then, the situation is, during the period of 6 months starting on the commenceme
 
 Practical control of a financial sector company
 
-(2)       If:
+(2)        If:
 
                      (a)  the Treasurer is satisfied, for the purposes of subparagraph 23(1)(a)(ii) of the _Financial Sector (Shareholdings) Act 1998_, that a person was in a position to exercise control over a financial sector company on the commencement day; and
 
@@ -2017,9 +2015,9 @@ Practical control of a financial sector company
 
 then, the Treasurer may not make a declaration under section 23 of that Act in relation to that person and that company during the period of 6 months starting on the commencement day.
 
-Record‑keeping
+Record-keeping
 
-(3)       If:
+(3)        If:
 
                      (a)  apart from this subitem, a person would be required by regulations made for the purposes of section 26 of the _Financial Sector (Shareholdings) Act 1998_ to do something on the commencement day in relation to an ownership matter; and
 
@@ -2029,7 +2027,7 @@ then, the person is, during the period of 6 months starting on the commencement 
 
 Commencement day
 
-(4)       In this item:
+(4)        In this item:
 
 **_commencement day_** means the day on which the amendments of the _Financial Sector (Shareholdings) Act 1998_ made by this Part commence.
 
