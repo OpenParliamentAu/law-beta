@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00268/Html/ea7d1085-8546-4076-999f-5ad57acfbf1f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00218/Html/9b21547e-769a-413a-91a5-f5621be96869_files/image001.gif)
 
 # Air Force Act 1923
 
 **Act No. 33 of 1923 as amended**
 
-This compilation was prepared on 1 March 2012
+This compilation was prepared on 6 February 2012
  taking into account amendments up to Act No. 183 of 2011
 
 The text of any of those amendments not in force 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Air Force Act 1923_.
 
-##### <a id="2"></a>2  Interpretation
+##### <a id="2"></a>2  Interpretation
 
                    In this Act unless the contrary intention appears:
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="naval-defenc-act"></a>**_the Naval Defence Act_** means the _Naval Defence Act 1910_.
 
-                    <a name="war"></a><a name=""></a><a name="time-war"></a><a name="time-defenc-emerg"></a>**_time of defence emergency_**, **_time of war_** and **_war_** have the same meanings respectively as in the Defence Act.
+                    <a name="war"></a><a name=""></a><a name="time-war"></a><a name="time-defenc-emerg"></a>**_time of defence emergency_**, **_time of war_** and **_war_** have the same meanings respectively as in the Defence Act. 
 
 ##### <a id="4"></a>4  Extension of Act to Territories
 
@@ -104,15 +104,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4E"></a>4E  Voluntary entry
 
-                   Except as provided by Part IV of the Defence Act, the Air Force shall be kept up by the appointment to that Force, or the enlistment in that Force, of persons who volunteer and are accepted for service in that Force.
+                   Except as provided by Part IV of the Defence Act, the Air Force shall be kept up by the appointment to that Force, or the enlistment in that Force, of persons who volunteer and are accepted for service in that Force. 
 
 ##### <a id="4F"></a>4F  Territorial limits of service
 
-                   Members of the Air Force may be required to render air‑force service on land or sea or in the air, and either within or beyond the territorial limits of Australia.
+                   Members of the Air Force may be required to render air‑force service on land or sea or in the air, and either within or beyond the territorial limits of Australia. 
 
 ##### <a id="4G"></a>4G  Service of the Permanent Air Force
 
-                   Members of the Permanent Air Force are bound to render continuous full time air‑force service.
+             (1)  Members of the Permanent Air Force are bound to render continuous full time air‑force service. 
 
 ##### <a id="4J"></a>4J  Service of the Air Force Reserve
 
@@ -130,15 +130,13 @@ Note:          Different training periods may be set for diffe
 
 Note:          Different service may be required of different parts of the Air Force Reserve, or of different classes of members of the Air Force Reserve, or in different periods: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
-             (3)  A member of the Air Force Reserve may, at any time, voluntarily undertake to render continuous full time air‑force service for a period specified by him and, if that undertaking is accepted, he is bound to render that form of service for that specified period, or for such period or periods within that specified period, as the Chief of Air Force directs.
+             (3)  A member of the Air Force Reserve may, at any time, voluntarily undertake to render continuous full time air‑force service for a period specified by him and, if that undertaking is accepted, he is bound to render that form of service for that specified period, or for such period or periods within that specified period, as the Chief of Air Force directs. 
 
-             (4)  A member of the Air Force Reserve may at any time voluntarily undertake to render air‑force service, other than continuous full time air‑force service, for a period or periods specified by him, and, if that undertaking is accepted, the member is bound to render air‑force service in accordance with that undertaking or for such period or periods within that specified period, or within those specified periods, as the case may be, as the Chief of Air Force directs.
+             (4)  A member of the Air Force Reserve may at any time voluntarily undertake to render air‑force service, other than continuous full time air‑force service, for a period or periods specified by him, and, if that undertaking is accepted, the member is bound to render air‑force service in accordance with that undertaking or for such period or periods within that specified period, or within those specified periods, as the case may be, as the Chief of Air Force directs. 
 
 ##### <a id="8"></a>8  Australian Air Force Cadets
 
              (1)  The body known immediately before the commencement of this subsection as the Air Training Corps is continued in existence with the new name, Australian Air Force Cadets.
-
-Constitution of the Australian Air Force Cadets
 
              (2)  The Australian Air Force Cadets consists of:
 
@@ -146,63 +144,45 @@ Constitution of the Australian Air Force Cadets
 
                      (b)  persons appointed in accordance with the regulations to be instructors in that body; and
 
-                     (c)  subject to subsections (5) and (6), persons who volunteer, and are accepted, in accordance with the regulations as cadets in that body.
+                     (c)  subject to subsections (5) and (6), persons who volunteer, and are accepted, in accordance with the regulations as cadets in that body. 
 
-Relationship to the Air Force
+             (3)  A person appointed to be an officer or instructor in the Australian Air Force Cadets does not become a member of the Air Force by virtue of that appointment. 
 
-             (3)  A person appointed to be an officer or instructor in the Australian Air Force Cadets does not become a member of the Air Force by virtue of that appointment.
+             (4)  A cadet in the Australian Air Force Cadets is not a member of the Air Force. 
 
-             (4)  A cadet in the Australian Air Force Cadets is not a member of the Air Force.
-
-Age requirements for cadets
-
-             (5)  A person is not entitled to volunteer, or to be accepted, as a cadet unless he or she:
+             (5)  A person is not entitled to volunteer, or to be accepted, as a cadet unless he:
 
                      (a)  has attained such age as is prescribed; and
 
-                     (b)  has not attained the age of 20 years.
+                     (b)  has not attained the age of 20 years. 
 
-             (6)  A person ceases to be a cadet when he or she attains the age of 21 years or such lower age as is prescribed.
-
-Regulations about the Australian Air Force Cadets
+             (6)  A person ceases to be a cadet when he attains the age of 21 years or such lower age as is prescribed. 
 
              (7)  The regulations may make provision for and in relation to the organization, maintenance, regulation, control and discipline of the Australian Air Force Cadets, and, in particular, for and in relation to:
 
                      (a)  the periods and conditions of service of members, other than conditions of service with respect to which determinations under section 58B of the Defence Act may be made; and
 
-                     (b)  the promotion of members.
+                     (b)  the promotion of members. 
 
-             (8)  In subsection (7), **_member_** means an officer, instructor or cadet in the Australian Air Force Cadets.
+             (8)  In subsection (7), **_member_** means an officer, instructor or cadet in the Australian Air Force Cadets. 
 
-Administration of the Australian Air Force Cadets
-
-             (9)  Subject to the regulations, to any determinations in force under section 58B of the Defence Act, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Air Force is to administer the Australian Air Force Cadets.
-
-           (10)  A direction of the Chief of the Defence Force under subsection (9) is subject to, and must be in accordance with, any directions of the Minister.
+             (9)  Subject to the regulations, to any determinations in force under section 58B of the Defence Act and to the directions of the Minister, the Chief of Air Force shall administer the Australian Air Force Cadets. 
 
 ##### <a id="8A"></a>8A  Delegation
 
-Delegation by the Chief of Air Force
+             (1)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force all or any of his powers under section 4J. 
 
-             (1)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force all or any of his or her powers under section 4J.
+             (2)  A delegation under this section may be made either generally or as otherwise provided in the instrument of delegation. 
 
-Delegation by the Chief of the Defence Force
+             (3)  A power delegated under this section shall, when exercised by the delegate, be deemed, for the purposes of this Act, to have been exercised by the Chief of Air Force. 
 
-          (1A)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force his or her power under subsection 8(9).
+          (3A)  The delegate is, in the exercise of a power delegated under this section, subject to the directions of the Chief of Air Force. 
 
-General provisions about delegations
+             (4)  A delegation under this section does not prevent the exercise of a power by the Chief of Air Force. 
 
-             (2)  A delegation under this section may be made either generally or as otherwise provided in the instrument of delegation.
+             (5)  A delegation under this section continues in force notwithstanding a change in the occupancy of, or a vacancy in, the office of Chief of Air Force. 
 
-             (3)  A power delegated under this section shall, when exercised by the delegate, be deemed, for the purposes of this Act, to have been exercised by the person who made the delegation.
-
-          (3A)  The delegate is, in the exercise of a power delegated under this section, subject to the directions of the person who made the delegation.
-
-             (4)  A delegation under this section does not prevent the exercise of a power by the person who made the delegation.
-
-             (5)  A delegation under this section continues in force notwithstanding a change in the occupancy of, or a vacancy in, the office of the person who made the delegation.
-
-             (6)  A document purporting to be a copy of an instrument of delegation under this section and purporting to bear the signature, or a facsimile of the signature, of the person who made the delegation and an endorsement in writing that the delegation is, or was on a specified date, in force, is, upon mere production in a court or otherwise for any purpose arising under this Act, _prima facie_ evidence that the delegation was duly made in the terms set out in the document and is, or was on the date specified, in force.
+             (6)  A document purporting to be a copy of an instrument of delegation under this section and purporting to bear the signature, or a facsimile of the signature, of the Chief of Air Force and an endorsement in writing that the delegation is, or was on a specified date, in force, is, upon mere production in a court or otherwise for any purpose arising under this Act, _prima facie_ evidence that the delegation was duly made in the terms set out in the document and is, or was on the date specified, in force. 
 
 ##### <a id="9"></a>9  Regulations
 
@@ -378,7 +358,7 @@ of Assent</div>
     <div>7 June 1965</div>
   </td>
   <td>
-    <div>S. 3: 17 Sept 1970 ( <i>see Gazette</i>1970, p. 5690) 
+    <div>S. 3: 17 Sept 1970 ( <i>see Gazette</i>1970, p. 5690) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -414,13 +394,13 @@ Re‑organization Act 1975</div>
     <div>9 Sept 1975</div>
   </td>
   <td>
-    <div>Ss. 90–92 and 96: 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
-Ss. 93 and 95: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
-S. 94: 8 Sept 1980 ( <i>see Gazette</i>1980, No. G34, p. 2) <i>(a)</i></div>
+    <div>Ss. 90–92 and 96: 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+Ss. 93 and 95: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+S. 94: 8 Sept 1980 ( <i>see Gazette</i>1980, No. G34, p. 2) <i>(a)</i></div>
   </td>
   <td>
     <div>S. 95(1), (2), (4) and (5) 
-S. 95(3) (am. by 164, 1984, s. 120)</div>
+S. 95(3) (am. by 164, 1984, s. 120)</div>
   </td>
 </tr>
 <tr>
@@ -468,7 +448,7 @@ S. 95(3) (am. by 164, 1984, s. 120)</div>
     <div>2 Dec 1976</div>
   </td>
   <td>
-    <div>Ss. 3 and 4: 29 July 1977 ( <i>see Gazette</i>1977, No. S151) 
+    <div>Ss. 3 and 4: 29 July 1977 ( <i>see Gazette</i>1977, No. S151) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -486,7 +466,7 @@ Remainder: Royal Assent</div>
     <div>23 Nov 1979</div>
   </td>
   <td>
-    <div>Ss. 4(1) and 6: 1 Jan 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S273, p. 2) 
+    <div>Ss. 4(1) and 6: 1 Jan 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S273, p. 2) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -504,7 +484,7 @@ Remainder: Royal Assent</div>
     <div>12 June 1981</div>
   </td>
   <td>
-    <div>Part III (ss. 5–13): 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(c)</i></div>
+    <div>Part III (ss. 5–13): 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(c)</i></div>
   </td>
   <td>
     <div>S. 13</div>
@@ -521,7 +501,7 @@ Remainder: Royal Assent</div>
     <div>31 Dec 1982</div>
   </td>
   <td>
-    <div>3 July 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1985, No. S255)</div>
+    <div>3 July 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1985, No. S255)</div>
   </td>
   <td>
     <div>—</div>
@@ -538,7 +518,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>Part II (ss. 3–7): 22 Nov 1984 <i>(d)</i></div>
+    <div>Part II (ss. 3–7): 22 Nov 1984 <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -556,7 +536,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 3 and 9: Royal Assent <i>(e)</i> 
-Ss. 4–8: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(e)</i></div>
+Ss. 4–8: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -590,7 +570,7 @@ Ss. 4–8: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(e)</i></div>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
+    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -625,10 +605,12 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–6, 94, 95): 19 Apr 2001 <i>(g)</i></div>
+    <div>Schedule 2 (items 1–6, 94, 95): 
+19 Apr 2001 <i>(g)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (items 94, 95) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 
+94, 95) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -676,7 +658,7 @@ Remainder: Royal Assent</div>
     <div>6 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–16): 1 Mar 2012 ( <i>see</i>F2012L00395)</div>
+    <div>Schedule 1 (items 1–16): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -712,7 +694,7 @@ _(f)_      The _Air Force Act 1923_ was amended by Part II (sections
 
 _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
 
 ## Table of Amendments
 
@@ -974,7 +956,7 @@ _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only 
     <div></div>
   </td>
   <td>
-    <div>am. No. 61, 1981; No. 65, 1987; No. 183, 2011</div>
+    <div>am. No. 61, 1981; No. 65, 1987</div>
   </td>
 </tr>
 <tr>
@@ -1139,38 +1121,6 @@ _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only 
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 8(2), (3)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(9)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
@@ -1206,23 +1156,7 @@ _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only 
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 1979; No. 1, 1997; No. 135, 2003; No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8A(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
+    <div>am. No. 134, 1979; No. 1, 1997; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1238,7 +1172,7 @@ _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only 
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 1987; No. 1, 1997; No. 10, 2001; No. 183, 2011</div>
+    <div>am. No. 65, 1987; No. 1, 1997; No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1257,6 +1191,100 @@ _(g)_ The _Air Force Act 1923_ was amended by Schedule 2 (items 1–6) only 
     <div>am. No. 96, 1975; No. 153, 1982</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
+
+The following amendments commence on 6 June 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 4G(1)
+
+Omit “(1)”.
+
+## 2  Before subsection 8(2)
+
+Insert:
+
+Constitution of the Australian Air Force Cadets
+
+## 3  Before subsection 8(3)
+
+Insert:
+
+Relationship to the Air Force
+
+## 4  Before subsection 8(5)
+
+Insert:
+
+Age requirements for cadets
+
+## 5  Subsections 8(5) and (6)
+
+After “he”, insert “or she”.
+
+## 6  Before subsection 8(7)
+
+Insert:
+
+Regulations about the Australian Air Force Cadets
+
+## 7  Before subsection 8(9)
+
+Insert:
+
+Administration of the Australian Air Force Cadets
+
+## 8  Subsection 8(9)
+
+Omit “and to the directions of the Minister, the Chief of Air Force shall”, substitute “, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Air Force is to”.
+
+## 9  At the end of section 8
+
+Add:
+
+           (10)  A direction of the Chief of the Defence Force under subsection (9) is subject to, and must be in accordance with, any directions of the Minister.
+
+## 10  Before subsection 8A(1)
+
+Insert:
+
+Delegation by the Chief of Air Force
+
+## 11  Subsection 8A(1)
+
+After “his”, insert “or her”.
+
+## 12  After subsection 8A(1)
+
+Insert:
+
+Delegation by the Chief of the Defence Force
+
+          (1A)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force his or her power under subsection 8(9).
+
+## 13  Before subsection 8A(2)
+
+Insert:
+
+General provisions about delegations
+
+## 14  Subsections 8A(3), (3A) and (4)
+
+Omit “Chief of Air Force”, substitute “person who made the delegation”.
+
+## 15  Subsection 8A(5)
+
+Omit “Chief of Air Force”, substitute “the person who made the delegation”.
+
+## 16  Subsection 8A(6)
+
+Omit “Chief of Air Force”, substitute “person who made the delegation”.
+
+As at 6 February 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
