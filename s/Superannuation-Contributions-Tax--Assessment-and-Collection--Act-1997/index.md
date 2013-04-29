@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image001.gif)
 
 # Superannuation Contributions Tax (Assessment and Collection) Act 1997
 
 **Act No. 70 of 1997 as amended**
 
-This compilation was prepared on 22 March 2007
- taking into account amendments up to Act No. 15 of 2007
+This compilation was prepared on 29 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -178,13 +178,11 @@ financial year.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(b)   If the amount calculated is
 
-greater than the surcharge threshold amount, the Commissioner will calculate
+greater than the surcharge threshold amount, the Commissioner will calculate the
 
-the rate of surcharge and the amount of the surcharge payable on the
+rate of surcharge and the amount of the surcharge payable on the surchargeable
 
-surchargeable contributions. Only surchargeable contributions calculated for a
-
-period after 7.30 pm on 20 August 1996 are subject to surcharge.</li>
+contributions. Only surchargeable contributions calculated for a period after 7.30 pm on  20 August 1996 are subject to surcharge.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(c)   For a defined benefits
 
@@ -248,9 +246,9 @@ set out in Part IVC of the _Taxation Administration Act 1953_ for
 
 objecting against assessments of income tax.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(j)    A late payment penalty applies
+<li class="BoxList" style="margin-left:21.25pt">(j)    A late payment penalty
 
-if surcharge or an advance instalment is not paid on time.</li>
+applies if surcharge or an advance instalment is not paid on time.</li>
 
 * * *
 
@@ -328,11 +326,11 @@ No surcharge is payable if surcharge is payable under another Act
 
                               (i)  if the post-20 August 1996 period is less than 365 days—the amount (excluding any cents, cent or fraction of a cent included in that amount) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image002.gif)
 
                              (ii)  otherwise—the amount (excluding any cents, cent or fraction of a cent included in that amount) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image003.gif)
 
                             where:
 
@@ -382,7 +380,7 @@ the **_surchargeable contributions_** of the member for the financial year are t
 
           (2A)  If an eligible termination payment within the meaning of subparagraph (2)(c)(iii) has been made or is made to or for a taxpayer after 20 August 1996, surcharge is payable only on the part of the reduced amount of the eligible termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image004.gif)
 
 where:
 
@@ -400,7 +398,7 @@ Value of benefits and expenses—financial year earlier than 1999-2000 financial
 
              (4)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1996-97 financial year or for either of the next 2 financial years is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image005.gif)
 
 where:
 
@@ -464,7 +462,7 @@ _Step 8._   Identify the lesser of the results of steps 6 and 7 (or either r
 
 * * *
 
-##### <a id="8A"></a>8A  Holder of surchargeable contributions of a member
+##### <a id="8A"></a>8A  Holder of surchargeable contributions of a member
 
 Application
 
@@ -516,7 +514,7 @@ Surcharge threshold for later financial year
 
              (2)  The **_surcharge threshold_** for a later financial year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image006.gif)
 
 where:
 
@@ -536,7 +534,7 @@ Indexation factor
 
              (4)  The **_indexation factor_** for a financial year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00106/Html/SuperContTaxAssCol1997_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00554/Html/SuperContTaxAssCol1997_WD02_image007.gif)
 
 where:
 
@@ -974,7 +972,7 @@ Rate of interest
 
 Payment to be made when benefit becomes payable
 
-             (6)  Subject to subsection (6A), when a superannuation benefit (within the meaning of the _Income Tax Assessment Act 1997_) becomes payable by a superannuation provider for the benefit of a member whose account is in debit, the provider must pay to the Commissioner, within one month after the day on which the superannuation benefit becomes payable, the amount by which the account is in debit. The payment discharges the provider’s liability for the surcharge.
+             (6)  Subject to subsection (6A), when a lump sum, or a pension or annuity, becomes payable by a superannuation provider for the benefit of a member whose account is in debit, the provider must pay to the Commissioner, within one month after the day on which the lump sum, or the first instalment of pension or annuity, becomes payable, the amount by which the account is in debit. The payment discharges the provider’s liability for the surcharge.
 
           (6A)  If:
 
@@ -1729,7 +1727,7 @@ and, in particular, prescribing:
 
                      (c)  any other relevant matters.
 
-                    <a name="annuiti"></a>**_annuity_** has the same meaning as in section 10 of the _Superannuation Industry (Supervision) Act 1993_ and includes such an annuity that is not presently payable.
+                    <a name="annuiti"></a>**_annuity_** has the same meaning as in section 10 of the _Superannuation Industry (Supervision) Act 1993_ and includes a deferred annuity as defined in subsection 27A(1) of the Income Tax Assessment Act.
 
                     <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in section 10 of the _Superannuation Industry (Supervision) Act 1993_.
 
@@ -1931,9 +1929,9 @@ For all relevant information pertaining to application, saving or transitional p
 <colgroup>
   <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -2355,23 +2353,6 @@ Schedule 11 (items 90–95): <i>(l)</i></div>
     <div>Sch. 6 (items 1, 
 6–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 328–330, 406(1)–(3)): <i>(m)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 406(1)–(3))</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ was amended by Schedule 4 (items 1–50) only of the _Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997_, subsections 2(1) and (3) of which provide as follows:
@@ -2537,61 +2518,6 @@ _(l)_ Subsection 2(1) (items 13 and 14) of the _Taxation Laws Amendment Act (N
   <td>
     <div>
       1 July 2000
-    </div>
-  </td>
-</tr></table>
-
-_(m)_    Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Simplified Superannuation) Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
     </div>
   </td>
 </tr></table>
@@ -2840,7 +2766,7 @@ _(m)_    Subsection 2(1) (item 2) of the _Superannuation Legislation Ame
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 191, 1997; No. 114, 2001; No. 15, 2007</div>
+    <div>am. No. 191, 1997; No. 114, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3218,7 +3144,7 @@ No. 91, 2000</div>
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 191, 1997; No. 17, 1998; Nos. 11, 17, 70, 131 and 146, 1999; Nos. 96 and 114, 2001; No. 142, 2003; No. 101, 2004; No. 101, 2006; No. 15, 2007</div>
+    <div>am. No. 191, 1997; No. 17, 1998; Nos. 11, 17, 70, 131 and 146, 1999; Nos. 96 and 114, 2001; No. 142, 2003; No. 101, 2004; No. 101, 2006</div>
   </td>
 </tr></table>
 
@@ -3726,25 +3652,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)_
-
-## Schedule 1
-
-## 406  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
-
-(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
-
-                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
-
-                     (b)  Divisions 301 to 307 of that Act.
 
  
 
