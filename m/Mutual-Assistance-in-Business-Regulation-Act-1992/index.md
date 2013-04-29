@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00146/Html/a82bf3c1-9d33-4ef3-8303-6935eb569b9c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00652/Html/E89C3317C7047BC0CA2570B500189F8E/$FILE/image001.gif)
 
 # Mutual Assistance in Business Regulation Act 1992
 
 **Act No. 25 of 1992 as amended**
 
-This compilation was prepared on 27 March 2007
- taking into account amendments up to Act No. 8 of 2007
+This compilation was prepared on 10 November 2005
+taking into account amendments up to Act No. 129 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -50,11 +51,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Information provider to comply with requirement
 
-[14](#14).          Self‑incrimination
+[14](#14).          Self-incrimination
 
 [15](#15).          Legal professional privilege
 
-[16](#16).          Taking of evidence ‑ protection of persons
+[16](#16).          Taking of evidence - protection of persons
 
 [17](#17).          Evidence to be put in writing etc 
 
@@ -74,7 +75,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to enable certain Commonwealth business‑regulating authorities to provide assistance to certain foreign business‑regulating authorities or agencies, and for related purposes
+
+## An Act to enable certain Commonwealth business-regulating authorities to provide assistance to certain foreign business-regulating authorities or agencies, and for related purposes
 
 ## Part 1—Preliminary
 
@@ -148,7 +150,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  transmitting such information, evidence or copies of such documents to the foreign regulator.
 
-             (2)  The Commonwealth regulator must not take action under section 7 in relation to the request unless the Commonwealth regulator has received in writing from the foreign regulator:
+             (2)  The Commonwealth regulator must not take action undersection 7 in relation to the request unless the Commonwealth regulator has received in writing from the foreign regulator:
 
                      (a)  an undertaking by the foreign regulator to the effect that information or evidence obtained from the person and provided to the foreign regulator under this Act:
 
@@ -288,7 +290,7 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="14"></a>14  Self‑incrimination
+##### <a id="14"></a>14  Self-incrimination
 
              (1)  For the purposes of subsection 13(1A), it is not a reasonable excuse for a person to refuse or fail to give information or evidence, or to produce documents, in accordance with a requirement under section 10, that the information, evidence or production of the documents might tend to incriminate the person or make the person liable to a penalty.
 
@@ -314,7 +316,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The lawyer is entitled to refuse to comply with the requirement unless:
 
-                     (a)  if the person to whom, or by or on behalf of whom, the communication was made is a body corporate that is being wound up—the liquidator of the body; or
+                     (a)  if the person to whom, or by or on behalf of whom, the communication was made is a body corporate that is under official management or being wound up—the official manager or liquidator of the body; or
 
                      (b)  otherwise—the person to whom, or by or on behalf of whom, the communication was made; consents to the lawyer complying with the requirement.
 
@@ -326,7 +328,7 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:  $1,500.
 
-##### <a id="16"></a>16  Taking of evidence ‑ protection of persons
+##### <a id="16"></a>16  Taking of evidence - protection of persons
 
              (1)  A person taking evidence under this Act has, in the performance of such duties, the same protection and immunity as a Justice of the High Court.
 
@@ -350,7 +352,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The Commonwealth regulator may send information, evidence or copies of documents (in this section called the **_requested material_**) to the foreign regulator in such form, and may edit or otherwise organise the requested material, as seems to the Commonwealth regulator to be appropriate in the circumstances.
 
-             (3)   The Commonwealth regulator may refuse to cause the requested material to be transmitted to the foreign regulator or may cause part only of the material to be so transmitted if, upon examination of the material, it appears to the Commonwealth regulator for any reason to be appropriate to do so.
+             (3)  The Commonwealth regulator may refuse to cause the requested material to be transmitted to the foreign regulator or may cause part only of the material to be so transmitted if, upon examination of the material, it appears to the Commonwealth regulator for any reason to be appropriate to do so.
 
              (4)  Where an authorisation under section 8 specifies an undertaking to be given by a foreign regulator, the requested material must not be transmitted to the foreign regulator until the undertaking is given.
 
@@ -374,11 +376,12 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="23"></a>23  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Notes to the _Mutual Assistance in Business Regulation Act 1992_
 
@@ -406,11 +409,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -420,91 +425,77 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Mutual Assistance in Business Regulation Act 1992</div>
-  </td>
-  <td>
-    <div>25, 1992</div>
-  </td>
-  <td>
-    <div>12 May 1992</div>
-  </td>
-  <td>
-    <div>23 Oct 1992 ( <i>see Gazette</i>1992, No. S308)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>S. 4(1), (2) and Schedule 35: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1) and (2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Enhancement Act 2003</div>
-  </td>
-  <td>
-    <div>41, 2003</div>
-  </td>
-  <td>
-    <div>3 June 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 15, 16): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005</div>
-  </td>
-  <td>
-    <div>129, 2005</div>
-  </td>
-  <td>
-    <div>8 Nov 2005</div>
-  </td>
-  <td>
-    <div>Schedule 5: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2007</div>
-  </td>
-  <td>
-    <div>8, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 20): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Mutual Assistance in Business Regulation Act 1992</div>
+    </td>
+    <td>
+      <div>25, 1992</div>
+    </td>
+    <td>
+      <div>12 May 1992</div>
+    </td>
+    <td>
+      <div>23 Oct 1992 ( <i>see Gazette</i>1992, No. S308)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>24, 2001</div>
+    </td>
+    <td>
+      <div>6 Apr 2001</div>
+    </td>
+    <td>
+      <div>S. 4(1), (2) and Schedule 35: <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 4(1) and (2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Enhancement Act 2003</div>
+    </td>
+    <td>
+      <div>41, 2003</div>
+    </td>
+    <td>
+      <div>3 June 2003</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 15, 16): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005</div>
+    </td>
+    <td>
+      <div>129, 2005</div>
+    </td>
+    <td>
+      <div>8 Nov 2005</div>
+    </td>
+    <td>
+      <div>Schedule 5: Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Mutual Assistance in Business Regulation Act 1992_ was amended by Schedule 35 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
@@ -513,6 +504,7 @@ _(a)_     The _Mutual Assistance in Business Regulation Act 1992_ was am
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
          Item 15 commenced on 24 May 2001.
+
 
 ## Table of Amendments
 
@@ -537,94 +529,89 @@ _(a)_     The _Mutual Assistance in Business Regulation Act 1992_ was am
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 129, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>am. No. 129, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8–10</div>
-  </td>
-  <td>
-    <div>am. No. 129, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 22</div>
-  </td>
-  <td>
-    <div>am. No. 129, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 41, 2003; No. 129, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 129, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8</div>
+    </td>
+    <td>
+      <div>am. No. 129, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8–10</div>
+    </td>
+    <td>
+      <div>am. No. 129, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13, 14</div>
+    </td>
+    <td>
+      <div>am. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 22</div>
+    </td>
+    <td>
+      <div>am. No. 129, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 41, 2003; No. 129, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -637,6 +624,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
 
