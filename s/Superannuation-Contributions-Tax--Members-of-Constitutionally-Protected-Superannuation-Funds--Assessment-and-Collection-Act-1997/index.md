@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00836/Html/54a05ce2-2006-404b-8a60-9abd3b3d6b79_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00110/Html/SupContTaxMembConstProtSupFundsAssColl1997_WD02_image001.gif)
 
 # Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997
 
 **Act No. 185 of 1997 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 22 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -68,13 +68,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty**
 
-[21](#21).          Penalty for non‑payment of surcharge
+[21](#21).          Penalty for non-payment of surcharge
 
 **Part 5—Administration**
 
 [26](#26).          General administration of Act
 
 [27](#27).          Annual report
+
+[28](#28).          Secrecy
 
 **Part 6—Miscellaneous**
 
@@ -124,9 +126,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Object of Act
 
-                   The object of this Act is to provide for the assessment and collection of the superannuation contributions surcharge payable on surchargeable contributions for high‑income members of constitutionally protected superannuation funds.
+                   The object of this Act is to provide for the assessment and collection of the superannuation contributions surcharge payable on surchargeable contributions for high-income members of constitutionally protected superannuation funds.
 
-##### <a id="6"></a>6  Simplified outline of Act
+##### <a id="6"></a>6  Simplified outline of Act
 
                    The following is a simplified outline of this Act.
 
@@ -134,11 +136,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 <li class="BoxList" style="margin-left:21.25pt">(a)   If there are surchargeable
 
-contributions for a member for the 1996‑97 financial year or a later financial
+contributions for a member for the 1996-97 financial year or a later
 
-year (being a financial year that ends before 1 July 2005), the Commissioner will calculate the member’s adjusted taxable income for the financial
+financial year (being a financial year that ends before 1 July 2005), the Commissioner will calculate the member’s adjusted taxable income for the
 
-year.</li>
+financial year.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(b)   If the amount calculated is
 
@@ -234,19 +236,19 @@ the **_surchargeable contributions_** of the member for the financial year are t
 
                              (ii)  are allowed as deductions to the member under section 82AAT of that Act; or
 
-                            (iii)  subject to subsection (3), constitute amounts accrued after 20 August 1996 that are eligible termination payments under paragraph (a) of the definition of **_eligible termination payment_** in subsection 27A(1) of that Act and are rolled‑over on or after 1 July 1997; and
+                            (iii)  subject to subsection (3), constitute amounts accrued after 20 August 1996 that are eligible termination payments under paragraph (a) of the definition of **_eligible termination payment_** in subsection 27A(1) of that Act and are rolled-over on or after 1 July 1997; and
 
                      (d)  any amounts referred to in subparagraph (a)(ii) or (iii) of the definition of **_contributed amount_** in section 38.
 
              (3)  If an eligible termination payment within the meaning of subparagraph (2)(c)(iii) has been made or is made to or for a taxpayer after 20 August 1996, surcharge is payable only on the part of the reduced amount of the eligible termination payment that is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00836/Html/54a05ce2-2006-404b-8a60-9abd3b3d6b79_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00110/Html/SupContTaxMembConstProtSupFundsAssColl1997_WD02_image002.gif)
 
 where:
 
-                    <a name="post-20-august-1996-period"></a>**_post‑20 August 1996 period_** means the number of days in the period of the taxpayer’s employment for which the eligible termination payment was made that occurred after 20 August 1996.
+                    <a name="post-20-august-1996-period"></a>**_post-20 August 1996 period_** means the number of days in the period of the taxpayer’s employment for which the eligible termination payment was made that occurred after 20 August 1996.
 
-                    <a name="ruced-amount"></a>**_reduced amount_** of an eligible termination payment is the amount remaining after deducting from the amount of the payment any post‑June 1994 invalidity component or CGT exempt component of the payment or any part of the payment that was made from an employee share acquisition scheme.
+                    <a name="ruced-amount"></a>**_reduced amount_** of an eligible termination payment is the amount remaining after deducting from the amount of the payment any post-June 1994 invalidity component or CGT exempt component of the payment or any part of the payment that was made from an employee share acquisition scheme.
 
                     <a name="total-period"></a>**_total period_** means the number of days in the period of the taxpayer’s employment for which the eligible termination payment was made.
 
@@ -254,11 +256,11 @@ Member of defined benefits superannuation scheme
 
              (4)  The **_surchargeable contributions_** for a financial year of a member of a defined benefits superannuation scheme are the amounts that constitute the actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of, the member for the financial year.
 
-Value of benefits and expenses—financial year earlier than 1999‑2000 financial year
+Value of benefits and expenses—financial year earlier than 1999-2000 financial year
 
-             (5)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1996‑97 financial year or for either of the next 2 financial years is the amount worked out using the formula:
+             (5)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1996-97 financial year or for either of the next 2 financial years is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00836/Html/54a05ce2-2006-404b-8a60-9abd3b3d6b79_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00110/Html/SupContTaxMembConstProtSupFundsAssColl1997_WD02_image003.gif)
 
 where:
 
@@ -274,21 +276,21 @@ where:
 
                      (b)  if the Commissioner approves in writing another method as being appropriate in relation to the member for the financial year, being a method that excludes contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the _Income Tax Assessment Act 1997_—the method so approved.
 
-Value of benefits and expenses—1999‑2000 financial year or a later financial year
+Value of benefits and expenses—1999-2000 financial year or a later financial year
 
-             (6)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1999‑2000 financial year or a later financial year is an amount worked out using:
+             (6)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1999-2000 financial year or a later financial year is an amount worked out using:
 
-                     (a)  the method set out in the regulations, being a method that excludes Government co‑contributions made under the _Superannuation (Government Co‑contribution for Low Income Earners) Act 2003_ and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the _Income Tax Assessment Act 1997_; or
+                     (a)  the method set out in the regulations, being a method that excludes Government co-contributions made under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_ and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the _Income Tax Assessment Act 1997_; or
 
-                     (b)  if the Commissioner approves in writing another method as being appropriate in relation to the member for the financial year, being a method that excludes Government co‑contributions made under the _Superannuation (Government Co‑contribution for Low Income Earners) Act 2003_ and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the _Income Tax Assessment Act 1997_—the method so approved.
+                     (b)  if the Commissioner approves in writing another method as being appropriate in relation to the member for the financial year, being a method that excludes Government co-contributions made under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_ and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the _Income Tax Assessment Act 1997_—the method so approved.
 
 Regulations
 
              (7)  Regulations made for the purposes of paragraph (6)(a) may specify, or make provision for the Commissioner to specify in writing, different methods in relation to different superannuation schemes, different classes of superannuation schemes or different classes of members of a superannuation scheme.
 
-Transitional provision for 1996‑97 financial year
+Transitional provision for 1996-97 financial year
 
-             (8)  For the 1996‑97 financial year, a member’s surchargeable contributions are to be worked out only for the part of that financial year that started immediately after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996.
+             (8)  For the 1996-97 financial year, a member’s surchargeable contributions are to be worked out only for the part of that financial year that started immediately after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996.
 
 Reduced surchargeable contributions
 
@@ -304,9 +306,9 @@ Reduced surchargeable contributions
 
 _Amount of the reduction_
 
-_Step 1._   Work out the amount that would have been the taxed element of the retained amount of the post‑June 83 component of the eligible termination payment if the amount of the excessive component of the eligible termination payment had been nil.
+_Step 1._   Work out the amount that would have been the taxed element of the retained amount of the post-June 83 component of the eligible termination payment if the amount of the excessive component of the eligible termination payment had been nil.
 
-_Step 2._   Work out the taxed element of the retained amount of the post‑June 83 component of the eligible termination payment.
+_Step 2._   Work out the taxed element of the retained amount of the post-June 83 component of the eligible termination payment.
 
 _Step 3._   Subtract the result of step 2 from the result of step 1.
 
@@ -324,15 +326,15 @@ _Step 8._   Identify the lesser of the results of steps 6 and 7 (or either r
 
 ##### <a id="10"></a>10  Surcharge threshold
 
-Surcharge threshold for 1996‑97 financial year
+Surcharge threshold for 1996-97 financial year
 
-             (1)  The **_surcharge threshold_** for the 1996‑97 financial year is $70,000.
+             (1)  The **_surcharge threshold_** for the 1996-97 financial year is $70,000.
 
 Surcharge threshold for later financial year
 
              (2)  The **_surcharge threshold_** for a later financial year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00836/Html/54a05ce2-2006-404b-8a60-9abd3b3d6b79_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00110/Html/SupContTaxMembConstProtSupFundsAssColl1997_WD02_image004.gif)
 
 where:
 
@@ -352,11 +354,11 @@ Indexation factor
 
              (4)  The **_indexation factor_** for a financial year is the number, calculated to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00836/Html/54a05ce2-2006-404b-8a60-9abd3b3d6b79_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00110/Html/SupContTaxMembConstProtSupFundsAssColl1997_WD02_image005.gif)
 
 where:
 
-                    <a name="index-number"></a>**_index number_**, for a quarter, means the estimate of full‑time adult average weekly ordinary time earnings for the middle month of the quarter published by the Australian Statistician.
+                    <a name="index-number"></a>**_index number_**, for a quarter, means the estimate of full-time adult average weekly ordinary time earnings for the middle month of the quarter published by the Australian Statistician.
 
                     <a name="current-march-year"></a>**_current March year_** means the period of 12 months ending on 31 March immediately before the financial year for which the surcharge threshold is being calculated.
 
@@ -372,7 +374,7 @@ Change in index numbers
 
 Surcharge threshold to be published
 
-             (7)  The Commissioner must publish before, or as soon as practicable after, the start of the 1997‑98 financial year, and before the start of each later financial year (being a financial year that ends before 1 July 2005), the surcharge threshold for the financial year.
+             (7)  The Commissioner must publish before, or as soon as practicable after, the start of the 1997-98 financial year, and before the start of each later financial year (being a financial year that ends before 1 July 2005), the surcharge threshold for the financial year.
 
 Note:          For the purposes of this section, **_Australian Statistician_** means the Australian Statistician referred to in subsection 5(2) of the _Australian Bureau of Statistics Act 1975_.
 
@@ -422,11 +424,11 @@ then the provider must, not later than the notification date for the financial y
 
 Information to be given to member 
 
-             (4)  A superannuation provider who is required to give a statement to the Commissioner under subsection (2) or (3) for a financial year earlier than the 1998‑99 financial year must, not later than 12 months after the statement is given, give to the member the particulars referred to in subsection (5) that are required to be included in the statement.
+             (4)  A superannuation provider who is required to give a statement to the Commissioner under subsection (2) or (3) for a financial year earlier than the 1998-99 financial year must, not later than 12 months after the statement is given, give to the member the particulars referred to in subsection (5) that are required to be included in the statement.
 
 Member may request provider to give particulars
 
-          (4A)  If a member requests a superannuation provider who has given a statement to the Commissioner under this section for the 1998‑99 financial year or a later financial year to give to the member the particulars referred to in subsection (7) relating to the member that are included in the statement (other than particulars that the provider has previously given to the member), the provider must comply with the request within 30 days after receiving it.
+          (4A)  If a member requests a superannuation provider who has given a statement to the Commissioner under this section for the 1998-99 financial year or a later financial year to give to the member the particulars referred to in subsection (7) relating to the member that are included in the statement (other than particulars that the provider has previously given to the member), the provider must comply with the request within 30 days after receiving it.
 
 How particulars are to be given
 
@@ -560,9 +562,9 @@ How a notice is to be given
 
              (6)  A notice of assessment may be given in any manner prescribed by the regulations.
 
-Non‑compliance not to affect validity of assessment
+Non-compliance not to affect validity of assessment
 
-             (7)  The validity of any assessment is not affected by any non‑compliance with a provision of this Act.
+             (7)  The validity of any assessment is not affected by any non-compliance with a provision of this Act.
 
 ##### <a id="15"></a>15  When surcharge will become payable
 
@@ -598,11 +600,11 @@ Payment to be made when benefit becomes payable
 
                      (b)  the total of the following amounts:
 
-                              (i)  15% of the employer‑financed component of any part of the benefits payable to the member that accrued between 20 August 1996 and 1 July 2003;
+                              (i)  15% of the employer-financed component of any part of the benefits payable to the member that accrued between 20 August 1996 and 1 July 2003;
 
-                             (ii)  14.5% of the employer‑financed component of any part of the benefits payable to the member that accrued in the 2003‑2004 financial year;
+                             (ii)  14.5% of the employer-financed component of any part of the benefits payable to the member that accrued in the 2003-2004 financial year;
 
-                            (iii)  12.5% of the employer‑financed component of any part of the benefits payable to the member that accrued in the 2004‑2005 financial year.
+                            (iii)  12.5% of the employer-financed component of any part of the benefits payable to the member that accrued in the 2004-2005 financial year.
 
        (6AA)  If:
 
@@ -616,11 +618,11 @@ then the member is liable to pay to the Commissioner the lesser of:
 
                      (d)  the total of the following amounts:
 
-                              (i)  15% of the employer‑financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued between 20 August 1996 and 1 July 2003;
+                              (i)  15% of the employer-financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued between 20 August 1996 and 1 July 2003;
 
-                             (ii)  14.5% of the employer‑financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued in the 2003‑2004 financial year;
+                             (ii)  14.5% of the employer-financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued in the 2003-2004 financial year;
 
-                            (iii)  12.5% of the employer‑financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued in the 2004‑2005 financial year.
+                            (iii)  12.5% of the employer-financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued in the 2004-2005 financial year.
 
 Payment to be made if fund ceases to be a constitutionally protected superannuation fund
 
@@ -630,17 +632,17 @@ Payment to be made if fund ceases to be a constitutionally protected superannuat
 
                      (b)  the total of the following amounts:
 
-                              (i)  15% of the employer‑financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued between 20 August 1996 and 1 July 2003;
+                              (i)  15% of the employer-financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued between 20 August 1996 and 1 July 2003;
 
-                             (ii)  14.5% of the employer‑financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2003‑2004 financial year;
+                             (ii)  14.5% of the employer-financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2003-2004 financial year;
 
-                            (iii)  12.5% of the employer‑financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2004‑2005 financial year.
+                            (iii)  12.5% of the employer-financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2004-2005 financial year.
 
              (7)  If a member becomes liable to pay an amount to the Commissioner under subsection (6), (6AA) or (6A), the Commissioner must give the member a notice stating that the member is liable to pay the amount. The notice must contain the date on which it is issued.
 
              (8)  The amount is payable within 3 months after the date of issue of the notice and the notice is to state that the amount is so payable. Payment of the amount results in a nil balance in the account.
 
-Note:          For provisions about collection and recovery of superannuation contributions surcharge and other related amounts, see Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          For provisions about collection and recovery of superannuation contributions surcharge and other related amounts, see Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 Person may direct superannuation provider to pay amount to Commissioner
 
@@ -910,7 +912,7 @@ Matters on which Commissioner may rely in deciding an objection
 
 ## Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty
 
-##### <a id="21"></a>21  Penalty for non‑payment of surcharge
+##### <a id="21"></a>21  Penalty for non-payment of surcharge
 
 Liability to pay general interest charge
 
@@ -940,11 +942,101 @@ Commissioner’s right to sue not affected
 
                    The Commissioner has the general administration of this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
 ##### <a id="27"></a>27  Annual report
 
                    After the end of each financial year, the Commissioner must give the Treasurer a report on the working of this Act during the year for presentation to the Parliament.
+
+##### <a id="28"></a>28  Secrecy
+
+Definitions
+
+             (1)  In this section:
+
+                    <a name="court"></a>**_court_** includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
+
+                    <a name="person-whom-section-appli"></a>**_person to whom this section applies_** means a person who is or has been:
+
+                     (a)  the Commissioner, a Second Commissioner or a Deputy Commissioner; or
+
+                     (b)  a person engaged under the _Public Service Act 1999_ in the Agency (within the meaning of the _Public Service Act 1999_) of which the Commissioner is the Agency Head; or
+
+                     (c)  otherwise appointed or employed by, or a provider of services for, the Commonwealth.
+
+                    <a name="produc"></a>**_produce_** includes permit access to.
+
+                    <a name="protect-docum"></a>**_protected document_** means a document that:
+
+                     (a)  contains information about a person; and
+
+                     (b)  is obtained or made by a person to whom this section applies in the course of, or because of, the person’s duties under or in relation to this Act.
+
+                    <a name="protect-inform"></a>**_protected information_** means information that:
+
+                     (a)  concerns a person; and
+
+                     (b)  is disclosed to, or obtained by, a person to whom this section applies in the course of, or because of, the person’s duties under or in relation to this Act.
+
+Information may be recorded or divulged only for purposes of Act
+
+             (2)  A person to whom this section applies must not:
+
+                     (a)  make a record of any protected information; or
+
+                     (b)  whether directly or indirectly, divulge or communicate to a person any protected information about another person;
+
+unless the record is made, or the information is divulged or communicated:
+
+                     (c)  under or for the purposes of this Act; or
+
+                     (d)  in the performance of duties, as a person to whom this section applies, under or in relation to this Act.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose in respect of an offence an appropriate fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on an individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
+
+Information may be divulged to persons performing duties under Acts administered by Commissioner
+
+             (3)  Subsection (2) does not prohibit the Commissioner, a Second Commissioner or a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from divulging or communicating any protected information to a person performing, as a person to whom this section applies, duties under or in relation to an Act of which the Commissioner has the general administration, or under regulations made under such an Act, for the purpose of enabling the person to perform the duties.
+
+Divulging of information to Minister
+
+             (4)  A person divulges or communicates protected information to a person in contravention of subsection (2) if the person divulges or communicates the information to a Minister.
+
+Court may not require information or documents
+
+             (5)  A person to whom this section applies is not required:
+
+                     (a)  to divulge or communicate protected information to a court; or
+
+                     (b)  to produce a protected document in court;
+
+except where it is necessary to do so for the purpose of carrying into effect the provisions of this Act.
+
+Information may be divulged to persons performing duties under this Act
+
+             (6)  Nothing in this or any other Act of which the Commissioner has the general administration prohibits the Commissioner, a Second Commissioner or a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from divulging or communicating any information to a person performing, as a person to whom this section applies, duties under or in relation to this Act for the purpose of enabling the person to perform the duties.
+
+Information may be divulged to court for purposes of this Act
+
+             (7)  Nothing in this or any other Act of which the Commissioner has the general administration prohibits the Commissioner, a Second Commissioner, a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from:
+
+                     (a)  divulging or communicating to a court any information obtained under or for the purposes of such an Act; or
+
+                     (b)  producing in court a document obtained or made under or for the purposes of such an Act;
+
+where it is necessary to do so for the purpose of carrying into effect the provisions of this Act.
+
+Information may be divulged for the purpose of the Superannuation Industry (Supervision) Act 1993.
+
+             (8)  Nothing in this section prohibits the Commissioner, a Second Commissioner or a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from divulging or communicating any protected information to the Australian Prudential Regulation Authority or the Australian Securities and Investments Commission, for the purpose of the administration of the _Superannuation Industry (Supervision) Act 1993_.
+
+Note:          In a prosecution for an offence against subsection (2), the defendant bears an evidential burden in relation to the matters in paragraphs (2)(c) and (d) and subsections (3), (6), (7) and (8) (see subsection 13.3(3) of the _Criminal Code_).
+
+Oath or declaration of secrecy
+
+             (9)  A person to whom this section applies must, if and when required by the Commissioner, a Second Commissioner or a Deputy Commissioner to do so, make an oath or declaration, in a manner and form determined by the Commissioner in writing, to maintain secrecy in accordance with this section.
 
 ## Part 6—Miscellaneous
 
@@ -970,7 +1062,7 @@ is conclusive evidence of the due making of the assessment and, except in procee
 
 Copies of documents
 
-             (2)  A document signed by the Commissioner, a Second Commissioner or a Deputy Commissioner purporting to be a copy of a document issued or given by the Commissioner, a Second Commissioner or a Deputy Commissioner is prima facie evidence that the second‑mentioned document was so issued or given.
+             (2)  A document signed by the Commissioner, a Second Commissioner or a Deputy Commissioner purporting to be a copy of a document issued or given by the Commissioner, a Second Commissioner or a Deputy Commissioner is prima facie evidence that the second-mentioned document was so issued or given.
 
 Copies of, or extracts from, assessments
 
@@ -1058,7 +1150,7 @@ When records need not be kept
 
 ##### <a id="37"></a>37  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1106,7 +1198,7 @@ and, in particular, prescribing:
 
                              (ii)  if there are any regulations in force for the purposes of this subparagraph in respect of the financial year—any amounts referred to in the regulations that are credited, allocated or attributable to the member for the financial year less any part of such an amount that is, under the regulations, to be regarded as reasonably attributable to interest; and
 
-                            (iii)  if there are no regulations in force for the purposes of subparagraph (ii) and the financial year is later than the 1996‑97 financial year—any allocated surplus amount in relation to the member in respect of the financial year; or
+                            (iii)  if there are no regulations in force for the purposes of subparagraph (ii) and the financial year is later than the 1996-97 financial year—any allocated surplus amount in relation to the member in respect of the financial year; or
 
                      (b)  in relation to a member of a defined benefits superannuation scheme for a financial year:
 
@@ -1160,11 +1252,11 @@ and, in particular, prescribing:
 
                     <a name="notif-date"></a>**_notification date_** means:
 
-                     (a)  for the 1996‑97 financial year—15 December 1997; or
+                     (a)  for the 1996-97 financial year—15 December 1997; or
 
                      (b)  for a later financial year—31 October following the financial year.
 
-                    <a name="post-june-83-compon"></a>**_post‑June 83 component_** of an eligible termination payment has the meaning given by section 27AA of the Income Tax Assessment Act.
+                    <a name="post-june-83-compon"></a>**_post-June 83 component_** of an eligible termination payment has the meaning given by section 27AA of the Income Tax Assessment Act.
 
                     <a name="public-sector-superannu-scheme"></a>**_public sector superannuation scheme_** means a scheme for the payment of superannuation, retirement or death benefits, where the scheme is established:
 
@@ -1178,9 +1270,9 @@ and, in particular, prescribing:
 
                     <a name="regul-superannu-fund"></a>**_regulated superannuation fund_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
 
-                    <a name="retain-amount"></a>**_retained amount_** of the post‑June 83 component of an eligible termination payment has the meaning given by section 27AC of the Income Tax Assessment Act.
+                    <a name="retain-amount"></a>**_retained amount_** of the post-June 83 component of an eligible termination payment has the meaning given by section 27AC of the Income Tax Assessment Act.
 
-                    <a name="roll"></a>**_rolled‑over_** has the meaning given by paragraph 27A(13)(a) of the Income Tax Assessment Act.
+                    <a name="roll"></a>**_rolled-over_** has the meaning given by paragraph 27A(13)(a) of the Income Tax Assessment Act.
 
                     <a name="second-commission"></a>**_Second Commissioner_** means a Second Commissioner of Taxation.
 
@@ -1210,15 +1302,15 @@ and, in particular, prescribing:
 
                     <a name="taxabl-incom"></a>**_taxable income_** of a member for a year of income means the member’s taxable income of that year of income as assessed under the Income Tax Assessment Act.
 
-                    <a name="tax-elem"></a>**_taxed element_** of the retained amount of the post‑June 83 component of an eligible termination payment has the meaning given by section 27AC of the Income Tax Assessment Act.
+                    <a name="tax-elem"></a>**_taxed element_** of the retained amount of the post-June 83 component of an eligible termination payment has the meaning given by section 27AC of the Income Tax Assessment Act.
 
-                    <a name="1996-97-financi-year"></a>**_the 1996‑97 financial year_** means the financial year starting on 1 July 1996.
+                    <a name="1996-97-financi-year"></a>**_the 1996-97 financial year_** means the financial year starting on 1 July 1996.
 
-                    <a name="1997-98-financi-year"></a>**_the 1997‑98 financial year_** means the financial year starting on 1 July 1997.
+                    <a name="1997-98-financi-year"></a>**_the 1997-98 financial year_** means the financial year starting on 1 July 1997.
 
-                    <a name="1998-99-financi-year"></a>**_the 1998‑99 financial year_** means the financial year starting on 1 July 1998.
+                    <a name="1998-99-financi-year"></a>**_the 1998-99 financial year_** means the financial year starting on 1 July 1998.
 
-                    <a name="1999-2000-financi-year"></a>**_the 1999‑2000 financial year_** means the financial year starting on 1 July 1999.
+                    <a name="1999-2000-financi-year"></a>**_the 1999-2000 financial year_** means the financial year starting on 1 July 1999.
 
                     <a name="truste"></a>**_trustee_**, in relation to a constitutionally protected superannuation fund, means:
 
@@ -1568,7 +1660,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
+    <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
   </td>
   <td>
     <div>111, 2003</div>
@@ -1704,23 +1796,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 406(1)–(3))</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 72, 73): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_ was amended by Schedule 1 (item 183) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
@@ -1743,7 +1818,7 @@ _(d)_ The _Superannuation Contributions Tax (Members of Constitutionally Protect
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
 
 _(e)_ The _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_ was amended by Schedule 2 (items 1–24) only of the _Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999_, subsections 2(1) and (3) of which provide as follows:
 
@@ -2173,14 +2248,6 @@ _(k)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subhead. to s. 28(8)</div>
   </td>
   <td>
@@ -2189,26 +2256,10 @@ _(k)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 28</div>
   </td>
   <td>
     <div>am. No. 48, 1998; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2278,17 +2329,17 @@ _Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)_
 
 ## 398  Application
 
-(1)       This item applies to amendments made by items 1 to 3, 11, 12, 14, 18 to 27, 29, 37 to 42, 69 to 75, 77 to 80, 88 to 101, 107, 111, 113, 118, 120, 121, 127, 128, 130, 140, 148, 149, 153, 156, 158, 161 to 169, 175, 178, 179, 185, 187 to 189, 191, 192, 195, 200 to 204, 212, 214 to 217, 221, 223, 225, 226 to 228, 234, 236 to 242, 245, 252, 254 to 278, 280, 281, 296 to 298, 301, 304, 306, 309, 310, 314, 315 to 320, 322 to 328, 331, 332 to 335, 337 to 341, 344, 345, 346, 348, 352, 355 to 360, 373, 375 to 377, 379 to 385, 387 to 394, 396 and 397.
+(1)        This item applies to amendments made by items 1 to 3, 11, 12, 14, 18 to 27, 29, 37 to 42, 69 to 75, 77 to 80, 88 to 101, 107, 111, 113, 118, 120, 121, 127, 128, 130, 140, 148, 149, 153, 156, 158, 161 to 169, 175, 178, 179, 185, 187 to 189, 191, 192, 195, 200 to 204, 212, 214 to 217, 221, 223, 225, 226 to 228, 234, 236 to 242, 245, 252, 254 to 278, 280, 281, 296 to 298, 301, 304, 306, 309, 310, 314, 315 to 320, 322 to 328, 331, 332 to 335, 337 to 341, 344, 345, 346, 348, 352, 355 to 360, 373, 375 to 377, 379 to 385, 387 to 394, 396 and 397.
 
-(2)       The amendments apply in relation to amounts that are due to be paid on or after 1 July 1999.
+(2)        The amendments apply in relation to amounts that are due to be paid on or after 1 July 1999.
 
-(3)       The amendments, other than the amendments referred to in subitem (5), also apply in relation to amounts that are due to be paid before 1 July 1999 if:
+(3)        The amendments, other than the amendments referred to in subitem (5), also apply in relation to amounts that are due to be paid before 1 July 1999 if:
 
                      (a)  some or all of the amount remains unpaid on 1 July 1999; and
 
                      (b)  the amendments would have applied to the unpaid amount if the day by which the amount is due to be paid had been on or after 1 July 1999.
 
-(4)       In applying the amendments in that case:
+(4)        In applying the amendments in that case:
 
                      (a)  the unpaid amount is taken to be the sum of the unpaid amount and any unpaid penalty or interest that had accrued before 1 July 1999; and
 
@@ -2296,19 +2347,19 @@ _Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)_
 
                      (c)  the unpaid amount and the unpaid penalty or interest that had accrued before 1 July 1999 continues to be payable.
 
-(5)       In addition to applying in relation to amounts that are due to be paid on or after 1 July 1999, the amendments made by items 101, 107, 111, 118, 140, 185, 195, 201, 214, 225, 226, 238, 240, 255, 301, 304, 306 and 355 to 359 also apply in relation to amounts that are due to be paid before 1 July 1999, if some or all of the amount remains unpaid on that day, from the day by which the amount is due to be paid.
+(5)        In addition to applying in relation to amounts that are due to be paid on or after 1 July 1999, the amendments made by items 101, 107, 111, 118, 140, 185, 195, 201, 214, 225, 226, 238, 240, 255, 301, 304, 306 and 355 to 359 also apply in relation to amounts that are due to be paid before 1 July 1999, if some or all of the amount remains unpaid on that day, from the day by which the amount is due to be paid.
 
 ## 399  Application
 
-(1)       This item applies to amendments made by items 6, 7, 8 to 10, 43 to 51, 53 to 68, 102, 103, 114, 115, 119, 131 to 139, 141, 151, 152, 170 to 174, 186, 196, 247 to 251, 282 to 295, 305, 311 to 313, 329, 330, 354, 361 to 363, 369 and 378.
+(1)        This item applies to amendments made by items 6, 7, 8 to 10, 43 to 51, 53 to 68, 102, 103, 114, 115, 119, 131 to 139, 141, 151, 152, 170 to 174, 186, 196, 247 to 251, 282 to 295, 305, 311 to 313, 329, 330, 354, 361 to 363, 369 and 378.
 
-(2)       The amendments apply where the period for which the person is liable to pay the general interest charge starts on or after 1 July 1999.
+(2)        The amendments apply where the period for which the person is liable to pay the general interest charge starts on or after 1 July 1999.
 
 ## 404  Application
 
-(1)       This item applies to amendments made by items 4, 5, 28, 30, 31, 32, 33, 34, 35, 36, 52, 76, 116, 122, 123, 124, 125, 126, 129, 144, 145, 146, 147, 150, 155, 157, 159, 160, 176, 177, 181, 182, 183, 184, 190, 205, 206, 207, 208, 209, 210, 218, 219, 220, 229, 230, 231, 243, 244, 253, 279, 299, 300, 302, 321, 336, 342, 343, 365, 367, 370, 374, 386 and 395.
+(1)        This item applies to amendments made by items 4, 5, 28, 30, 31, 32, 33, 34, 35, 36, 52, 76, 116, 122, 123, 124, 125, 126, 129, 144, 145, 146, 147, 150, 155, 157, 159, 160, 176, 177, 181, 182, 183, 184, 190, 205, 206, 207, 208, 209, 210, 218, 219, 220, 229, 230, 231, 243, 244, 253, 279, 299, 300, 302, 321, 336, 342, 343, 365, 367, 370, 374, 386 and 395.
 
-(2)       The amendments apply in relation to credits and payments to which section 8AAZL of the _Taxation Administration Act 1953_ applies.
+(2)        The amendments apply in relation to credits and payments to which section 8AAZL of the _Taxation Administration Act 1953_ applies.
 
 * * *
 
@@ -2328,7 +2379,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
-(1)       The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
                      (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
@@ -2336,7 +2387,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  the amendments and repeals made by the Schedules to this Act.
 
-(2)       Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
                      (a)  by applying (with or without modifications) to the matter:
 
@@ -2350,9 +2401,9 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-(3)       Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(4)       Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
                      (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
@@ -2360,15 +2411,15 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
                      (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-(6)       In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-(7)       In this item:
+(7)        In this item:
 
                     <a name="replac-legisl"></a>**_replaced legislation_** means:
 
@@ -2384,13 +2435,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
 ## 23  Power to make regulations
 
-The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
 * * *
 
@@ -2400,7 +2451,7 @@ _Superannuation Contributions and Termination Payments Taxes Legislation Amendme
 
 ## 25  Transitional—superannuation providers to give corrective statements
 
-If a superannuation provider has, before the commencement of this item, given a statement to the Commissioner under section 12 of the _Superannuation Contributions Tax (Members of Constitutionally Protected Funds) Assessment and Collection Act 1997_ that did not comply with the requirements that would have applied if the amendments made by items of this Schedule that are taken to have commenced on 5 June 1997 had been in force, the provider must give to the Commissioner not later than a date fixed by the Minister by notice published in the _Gazette_, in substitution for the first‑mentioned statement, a further statement that complies with those requirements.
+If a superannuation provider has, before the commencement of this item, given a statement to the Commissioner under section 12 of the _Superannuation Contributions Tax (Members of Constitutionally Protected Funds) Assessment and Collection Act 1997_ that did not comply with the requirements that would have applied if the amendments made by items of this Schedule that are taken to have commenced on 5 June 1997 had been in force, the provider must give to the Commissioner not later than a date fixed by the Minister by notice published in the _Gazette_, in substitution for the first-mentioned statement, a further statement that complies with those requirements.
 
 ## 26  Transitional—retrospective objections
 
@@ -2424,7 +2475,7 @@ _A New Tax System (Tax Administration) Act 1999 (No. 179, 1999)_
 
 ## Schedule 2  
 
-## 130  Recovery of a tax‑related liability that is due and payable
+## 130  Recovery of a tax-related liability that is due and payable
 
 Despite its repeal, a provision listed in the table continues to have effect in relation to an amount that became due and payable before 1 July 2000.
 
@@ -2439,7 +2490,8 @@ Despite its repeal, a provision listed in the table continues to have effect in 
   <tr>
     <td colspan="3">
       <div>
-        <b>Tax‑related liability that became due and payable before 1 July 2000</b>
+        <b>Tax-related liability that became due and payable before</b>
+        <b>1 July 2000</b>
       </div>
     </td>
   </tr>
@@ -2762,7 +2814,7 @@ Nothing in the _Superannuation Contributions Tax (Members of Constitutionally Pr
 
 * * *
 
-_Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
+_Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
 
 ## Schedule 1
 
@@ -2807,9 +2859,9 @@ _Superannuation Budget Measures Act 2004 (No. 106, 2004)_
 
 ## 11  Application of amendments
 
-(2)       The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
+(2)        The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
 
-(3)       The amendment made by item 10 of this Schedule applies in relation to superannuation funds that cease to be constitutionally protected superannuation funds on or after 1 July 2004.
+(3)        The amendment made by item 10 of this Schedule applies in relation to superannuation funds that cease to be constitutionally protected superannuation funds on or after 1 July 2004.
 
 * * *
 
@@ -2822,7 +2874,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2848,17 +2900,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2899,11 +2951,11 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
