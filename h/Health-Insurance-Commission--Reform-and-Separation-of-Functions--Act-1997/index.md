@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00093/Html/HealthInsurCommReformSeparFunct97_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00058/Html/HealthInsurCommReformSeparFunct97_image001.gif)
 
 # Health Insurance Commission (Reform and Separation of Functions) Act 1997
 
 **Act No. 159 of 1997 as amended**
 
-This compilation was prepared on 28 March 2008
- taking into account amendments up to Act No. 8 of 2008
+This compilation was prepared on 16 January 2007
+ taking into account amendments up to Act No. 160 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,137 +18,137 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
 **Part 2—Transitional provisions relating to the transfer of Medibank Private from the Health Insurance Commission to a separate organisation (the nominated company)** 
 
     **Division 1—Introduction**
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 2
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Nominated company
+[5](#5).            Nominated company                                                                           4
 
-[6](#6).            Fund-transfer day
+[6](#6).            Fund-transfer day                                                                                4
 
-[7](#7).            Commission-owned company
+[7](#7).            Commission-owned company                                                             5
 
-[8](#8).            Crown to be bound
+[8](#8).            Crown to be bound                                                                              5
 
-[9](#9).            External Territories
+[9](#9).            External Territories                                                                              5
 
-[10](#10).          Extra-territorial operation
+[10](#10).          Extra-territorial operation                                                                    5
 
     **Division 2—Provisions relating to the period when the nominated company is Commission-owned**
 
-[11](#11).          Commission to hold shares in the nominated company
+[11](#11).          Commission to hold shares in the nominated company                      6
 
-[12](#12).          Nominated company must seek registration as a registered health benefits organisation
+[12](#12).          Nominated company must seek registration as a registered health benefits organisation        7
 
-[13](#13).          Activities of the nominated company
+[13](#13).          Activities of the nominated company                                                 7
 
-[14](#14).          Commission may provide services or facilities to the nominated company
+[14](#14).          Commission may provide services or facilities to the nominated company            8
 
     **Division 3—Commission to facilitate transfer of Medibank Private to the nominated company**
 
-[15](#15).          Commission to facilitate transfer of Medibank Private to the nominated company
+[15](#15).          Commission to facilitate transfer of Medibank Private to the nominated company               9
 
     **Division 4—Transfer of Medibank Private from the Commission to the nominated company** 
 
         **Subdivision A—Transfer of Medibank Private fund**
 
-[16](#16).          Transfer of Medibank Private fund to the nominated company
+[16](#16).          Transfer of Medibank Private fund to the nominated company       10
 
         **Subdivision B—Transfers of assets, contracts and liabilities**
 
-[17](#17).          Transfer of assets
+[17](#17).          Transfer of assets                                                                              11
 
-[18](#18).          Transfer of contractual rights and obligations
+[18](#18).          Transfer of contractual rights and obligations                                   12
 
-[19](#19).          Transfer of liabilities
+[19](#19).          Transfer of liabilities                                                                          13
 
-[20](#20).          Commission contracts may be split
+[20](#20).          Commission contracts may be split                                                  14
 
         **Subdivision C—Transfer of staff**
 
-[21](#21).          Transfer of staff from the Commission
+[21](#21).          Transfer of staff from the Commission                                             16
 
-[22](#22).          Terms and conditions—transferred employees
+[22](#22).          Terms and conditions—transferred employees                                 16
 
-[23](#23).          Accrued benefits—transferred employees
+[23](#23).          Accrued benefits—transferred employees                                        17
 
-[24](#24).          Continuity of service of transferred employees
+[24](#24).          Continuity of service of transferred employees                                17
 
-[25](#25).          Termination payments—transferred employees
+[25](#25).          Termination payments—transferred employees                               17
 
-[26](#26).          Variation of terms and conditions—transferred employees
+[26](#26).          Variation of terms and conditions—transferred employees              17
 
-[27](#27).          Mobility rights—transferred employees
+[27](#27).          Mobility rights—transferred employees                                           18
 
-[28](#28).          Re-transfer of staff from the nominated company
+[28](#28).          Re-transfer of staff from the nominated company                            18
 
-[29](#29).          Terms and conditions—re-transferred employees
+[29](#29).          Terms and conditions—re-transferred employees                            19
 
-[30](#30).          Accrued benefits—re-transferred employees
+[30](#30).          Accrued benefits—re-transferred employees                                    19
 
-[31](#31).          Continuity of service of re-transferred employees
+[31](#31).          Continuity of service of re-transferred employees                            20
 
-[32](#32).          Termination payments—re-transferred employees
+[32](#32).          Termination payments—re-transferred employees                          20
 
-[33](#33).          Variation of terms and conditions—re-transferred employees
+[33](#33).          Variation of terms and conditions—re-transferred employees          20
 
     **Division 5—Acquisition by the Commonwealth of shares in the nominated company**
 
-[34](#34).          Acquisition by the Commonwealth of shares in the nominated company
+[34](#34).          Acquisition by the Commonwealth of shares in the nominated company              22
 
     **Division 6—Exemption from stamp duty**
 
-[36](#36).          Exemption from stamp duty
+[36](#36).          Exemption from stamp duty                                                             24
 
     **Division 7—Miscellaneous**
 
-[37](#37).          Transfers of land may be registered
+[37](#37).          Transfers of land may be registered                                                   25
 
-[38](#38).          This Part does not modify registers kept by land registration officials
+[38](#38).          This Part does not modify registers kept by land registration officials   25
 
-[39](#39).          Application of Lands Acquisition Act
+[39](#39).          Application of Lands Acquisition Act                                              25
 
-[40](#40).          Legislative Instruments Act does not apply to this Part
+[40](#40).          Legislative Instruments Act does not apply to this Part                  26
 
-[41](#41).          Transfer of pending proceedings
+[41](#41).          Transfer of pending proceedings                                                       26
 
-[42](#42).          Operation of this Part does not place a person in breach of contract etc 
+[42](#42).          Operation of this Part does not place a person in breach of contract etc                26
 
-[43](#43).          Transfer of records
+[43](#43).          Transfer of records                                                                            27
 
-[44](#44).          Nominated company not to be an agency of the Commonwealth etc 
+[44](#44).          Nominated company not to be an agency of the Commonwealth etc  27
 
-[45](#45).          Application of certain provisions of the Corporations Act
+[45](#45).          Application of certain provisions of the Corporations Act              27
 
-[46](#46).          Compensation—constitutional safety-net
+[46](#46).          Compensation—constitutional safety-net                                        28
 
-[47](#47).          Delegation
+[47](#47).          Delegation                                                                                          29
 
-[48](#48).          Commonwealth records
+[48](#48).          Commonwealth records                                                                     30
 
-[49](#49).          Complaints and investigations under the _Ombudsman Act 1976_
+[49](#49).          Complaints and investigations under the _Ombudsman Act 1976_      30
 
-[50](#50).          Requests under the _Freedom of Information Act 1982_
+[50](#50).          Requests under the _Freedom of Information Act 1982_                      31
 
-[51](#51).          Complaints and investigations under the _Privacy Act 1988_
+[51](#51).          Complaints and investigations under the _Privacy Act 1988_              32
 
-[52](#52).          This Part does not authorise the imposition of taxation
+[52](#52).          This Part does not authorise the imposition of taxation                   33
 
-[53](#53).          Regulations
+[53](#53).          Regulations                                                                                        34
 
 **Part 3—Amendments**
 
-[54](#54).          Schedule(s)
+[54](#54).          Schedule(s)                                                                                         35
 
 **Schedule 1—Amendments of Acts** 
 
@@ -656,9 +656,7 @@ A transferred employee is not entitled to receive any payment or other benefit m
 
                      (d)  a pre-reform AWA;
 
-                     (e)  a pre-reform certified agreement;
-
-                      (f)  an AWA.
+                     (e)  a pre-reform certified agreement.
 
                     <a name="vari"></a>**_vary_**, in relation to terms and conditions, includes:
 
@@ -716,7 +714,7 @@ A transferred employee is not entitled to receive any payment or other benefit m
 
 The service of a re-transferred employee as an employee of the Commission is taken, for all purposes, to have been continuous with the service of the employee, immediately before the employee’s re-transfer time, as an employee of the nominated company.
 
-##### <a id="32"></a>32  Termination payments—re-transferred employees
+##### <a id="32"></a>32  Termination payments—re-transferred employees
 
 A re-transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the nominated company as a result of this Part.
 
@@ -740,9 +738,7 @@ A re-transferred employee is not entitled to receive any payment or other benefi
 
                      (d)  a pre-reform AWA;
 
-                     (e)  a pre-reform certified agreement;
-
-                      (f)  an AWA.
+                     (e)  a pre-reform certified agreement.
 
                     <a name="vari"></a>**_vary_**, in relation to terms and conditions, includes:
 
@@ -1160,7 +1156,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 1
 
 The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-Health Insurance Commission Regulations <span style="font-size:9.0pt;font-style:normal">\[now cited as</span><span style="font-size:9.0pt"> Medicare </span><span style="font-size:9.0pt">Australia</span><span style="font-size:9.0pt"> Regulations 1975</span><span style="font-size:9.0pt;font-style:normal">]</span>
+Health Insurance Commission Regulations <span style="font-size:9.0pt;font-style:normal">\[now cited as</span><span style="font-size:9.0pt"> Medicare </span><span style="font-size:   9.0pt">Australia</span><span style="font-size:9.0pt"> Regulations 1975</span><span style="font-size:9.0pt;font-style:normal">]</span>
 
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 159 of 1997.
 
@@ -1219,9 +1215,10 @@ of Assent</div>
     <div>11 Nov 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 38–42, 45–50, 52–69, 71–80): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) 
-Schedule 1 (items 43, 44, 51, 70): <i>(a)</i> 
-Schedule 1 (item 81): <i>see</i>s. 2(4) 
+    <div>Schedule 1 (items 38–42, 
+45–50, 52–69, 71–80): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) 
+Schedule 1 (items 43, 44, 51, 70): <i>(a)</i> 
+Schedule 1 (item 81): <i>see</i>s. 2(4) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1239,7 +1236,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 210–215): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 210–215): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1256,26 +1253,8 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): 12 Dec 2006 
-Schedule 3 (item 3): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008</div>
-  </td>
-  <td>
-    <div>8, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1–3): 12 Dec 2006 
+Schedule 3 (item 3): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1398,7 +1377,7 @@ _(b)_ The _Health Insurance Commission (Reform and Separation of Functions) Act 
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -1414,7 +1393,7 @@ _(b)_ The _Health Insurance Commission (Reform and Separation of Functions) Act 
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -1486,6 +1465,6 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the section.
 
-As at 28 March 2008 the amendment is not incorporated in this compilation.
+As at 16 January 2007 the amendment is not incorporated in this compilation.
 
  
