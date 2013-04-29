@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00871/Html/WineAusCorp1980_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00631/Html/AusWineBrandyCorp1980_WD02_image001.gif)
 
-# Wine Australia Corporation Act 1980
+# Australian Wine and Brandy Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 1 September 2010
+ taking into account amendments up to Act No. 98 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -40,7 +40,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5D](#5D).         Where wine or grape extract originates
 
-**Part II—Wine Australia Corporation**
+**Part II—The Australian Wine and Brandy Corporation**
 
 [6](#6).            Establishment of Corporation
 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Meetings of Corporation
 
-**Part IVA—Wine Australia Corporation Selection Committee**
+**Part IVA—Australian Wine and Brandy Corporation Selection Committee**
 
 [29AA](#29AA).    Interpretation
 
@@ -344,7 +344,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40Z](#40Z).       Date of effect of final determination
 
-    **Division 4A—Omission of Australian registered geographical indications** 
+        **Division 4A—Omission of Australian registered geographical indications** 
 
         **Subdivision A—What this Division is about**
 
@@ -472,13 +472,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish a Wine Australia Corporation, and for related purposes
+## An Act to establish an Australian Wine and Brandy Corporation, and for related purposes
 
 ## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Wine Australia Corporation Act 1980_.
+                   This Act may be cited as the _Australian Wine and Brandy Corporation Act 1980_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -530,7 +530,7 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="corpor-plan"></a>**_corporate plan_** means a plan developed by the Corporation and approved by the Minister in accordance with Division 1 of Part VA.
 
-                    <a name="corpor"></a>**_Corporation_** means the Wine Australia Corporation established by this Act.
+                    <a name="corpor"></a>**_Corporation_** means the Australian Wine and Brandy Corporation established by this Act.
 
                     <a name="corpor"></a>**_corporation_**, in Part VIB, means a body corporate that:
 
@@ -742,7 +742,7 @@ means a condition of use included in the Register that is applicable to the geog
 
                     <a name="relev-agenc"></a>**_relevant agency_** has the meaning given by section 39ZL.
 
-                    <a name="select-committe"></a>**_Selection Committee_** means the Wine Australia Corporation Selection Committee.
+                    <a name="select-committe"></a>**_Selection Committee_** means the Australian Wine and Brandy Corporation Selection Committee.
 
                     <a name="sell"></a>**_sell_** includes offer, expose or advertise for sale.
 
@@ -834,11 +834,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  a wine, or a grape extract that is used or intended to be used in manufacturing wine, is taken to have originated in a particular region or locality of a country only if the wine or extract is made from grapes grown in that region or locality.
 
-## Part II—Wine Australia Corporation
+## Part II—The Australian Wine and Brandy Corporation
 
 ##### <a id="6"></a>6  Establishment of Corporation
 
-                   There is established by this Act a corporation by the name of the Wine Australia Corporation.
+                   There is established by this Act a corporation by the name of the Australian Wine and Brandy Corporation.
 
 ##### <a id="7"></a>7  Functions of Corporation
 
@@ -928,9 +928,9 @@ Review of determinations
 
            (2F)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a determination as if the following subsections were inserted after subsection (1):
 
-                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
+                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Australian Wine and Brandy Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
 
-                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
+                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Australian Wine and Brandy Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
 
 Inclusion of particulars in the Register
 
@@ -1092,19 +1092,19 @@ the Minister shall terminate the appointment of the member.
 
            (12)  A person referred to in subsection (11) shall be paid such fees, allowances and expenses (if any) as the Corporation determines in respect of the person’s attendance at a meeting of the Corporation.
 
-## Part IVA—Wine Australia Corporation Selection Committee
+## Part IVA—Australian Wine and Brandy Corporation Selection Committee
 
 ##### <a id="29AA"></a>29AA  Interpretation
 
                    In this Part:
 
-                    <a name="committe"></a>**_Committee_** means the Wine Australia Corporation Selection Committee.
+                    <a name="committe"></a>**_Committee_** means the Australian Wine and Brandy Corporation Selection Committee.
 
                     <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of the Committee.
 
 ##### <a id="29A"></a>29A  Establishment of Committee
 
-                   A Committee by the name of the Wine Australia Corporation Selection Committee is established.
+                   A Committee by the name of the Australian Wine and Brandy Corporation Selection Committee is established.
 
 ##### <a id="29B"></a>29B  Functions of Committee
 
@@ -2336,7 +2336,7 @@ Offence for giving unexecuted form of warrant
 
 in relation to any loss incurred or damage suffered because of information or assistance given under section 39ZJ.
 
-##### <a id="39ZL"></a>39ZL  Corporation may assist in relation to levy 
+##### <a id="39ZL"></a>39ZL  Corporation may assist in relation to levy 
 
              (1)  The purpose of this section is to:
 
@@ -3264,9 +3264,9 @@ Note:          Under section 40RF, an appeal lies to the Fed
 
              (2)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a final determination as if the following subsections were inserted after subsection (1):
 
-                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a final determination under Part VIB of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with section 40X of that Act.
+                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a final determination under Part VIB of the _Australian Wine and Brandy Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with section 40X of that Act.
 
-                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a final determination under Part VIB of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
+                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a final determination under Part VIB of the _Australian Wine and Brandy Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
 
 ##### <a id="40Z"></a>40Z  Date of effect of final determination
 
@@ -4194,15 +4194,15 @@ Note:          A different process for resolving questions may
 
                    As soon as practicable after the end of each financial year, the Committee must give to the Corporation any information relating to the Committee’s operations during that year that the Corporation reasonably requires for the purpose of preparing a report in relation to that year under section 63H of the _Audit Act 1901_.
 
-# Notes to the _Wine Australia Corporation Act 1980_
+# Notes to the _Australian Wine and Brandy Corporation Act 1980_
 
 ### Note 1
 
-The _Wine Australia Corporation Act 1980_ as shown in this compilation comprises Act No. 161, 1980 amended as indicated in the Tables below. 
+The _Australian Wine and Brandy Corporation Act 1980_ as shown in this compilation comprises Act No. 161, 1980 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 14 May 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Wine Australia Corporation Act 1980_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+The _Australian Wine and Brandy Corporation Act 1980_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
 ### Table of Acts
 
@@ -4793,50 +4793,33 @@ Schedule 3 (item 18): 1 Sept 2010</div>
 77–80), Sch. 2 (items 36, 37) and Sch. 3 (items 
 19–21) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 1–11): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
+_(a)_     The _Australian Wine and Brandy Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_    The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
+_(b)_    The _Australian Wine and Brandy Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendment of the _Australian Wine and Brandy Corporation Act 1980_ made by this Act shall come into operation the day on which this Act receives the Royal Assent.
 
-_(c)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(c)_     The _Australian Wine and Brandy Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(d)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries (Recovery of Levy Collection Expenses) Act 1988_, subsection 2(1) of which provides as follows:
+_(d)_     The _Australian Wine and Brandy Corporation Act 1980_ was amended by section 3 only of the _Primary Industries (Recovery of Levy Collection Expenses) Act 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
+_(e)_     The _Australian Wine and Brandy Corporation Act 1980_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendments made by this Act to the _Australian Wine and Brandy Corporation Act 1980_ commence on the first day of the second month that begins after the day on which this Act receives the Royal Assent.
 
-_(f)_      The _Wine Australia Corporation Act 1980_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
+_(f)_      The _Australian Wine and Brandy Corporation Act 1980_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
-_(g)_     The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (item 19) and Schedule 4 (items 48, 49) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(g)_     The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 2 (item 19) and Schedule 4 (items 48, 49) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -4846,11 +4829,11 @@ _(g)_     The _Wine Australia Corporation Act 1980_ was amended by Sched
 
          Section 20 commenced on 16 December 1993\. 
 
-_(h)_ The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (items 554–567) subsection 2(2) of which provides as follows:
+_(h)_ The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 2 (items 554–567) subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(i)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 5 (Parts 1–3) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, section 2 of which provides as follows:
+_(i)_      The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 5 (Parts 1–3) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, section 2 of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
 
@@ -4858,7 +4841,7 @@ _(i)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 
                               (d)   Parts 2 and 3 of Schedule 5\. 
 
-_(j)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 1 (item 277) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows: 
+_(j)_      The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 1 (item 277) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows: 
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -4868,13 +4851,13 @@ _(ja)_ The _Public Employment (Consequential and Transitional) Amendment Act 199
 
                  (3)   Item 8 of Schedule 2 is taken to have commenced on the day on which the _Public Employment (Consequential and Transitional) Amendment Act 1999_ received the Royal Assent.
 
-_(k)_     The _Wine Australia Corporation Act 1980_ was amended by Schedule 10 (items 63 and 64) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows: 
+_(k)_     The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 10 (items 63 and 64) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows: 
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(l)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 7 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows: 
+_(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was amended by Schedule 7 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -4903,26 +4886,10 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </thead>
 <tr>
   <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4946,7 +4913,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and 170, 1999; No. 120, 2004; Nos. 98 and 148, 2010</div>
+    <div>am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and 170, 1999; No. 120, 2004; No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5039,22 +5006,6 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rs. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
@@ -5106,7 +5057,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 93, 1993; No. 38, 2003; Nos. 98 and 148, 2010</div>
+    <div>am. No. 60, 1986; No. 93, 1993; No. 38, 2003; No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5279,14 +5230,6 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IVA</div>
-  </td>
-  <td>
-    <div>rs. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part IVA</div>
   </td>
   <td>
@@ -5303,31 +5246,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29B–29K</div>
+    <div>Ss. 29A–29K</div>
   </td>
   <td>
     <div>ad. No. 60, 1986</div>
@@ -7071,14 +6990,6 @@ Div. 4 of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 40Y(1)</div>
   </td>
   <td>
@@ -7715,6 +7626,6 @@ _A.C.T. Self-Government (Consequential Provisions) Regulations _
 
                      (b)  in relation to the Northern   Territory—the Legislative Assembly of the Territory;
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
  
