@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00196/Html/NatBloodAuth_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00219/Html/NatBloodAuth_image001.gif)
 
 # National Blood Authority Act 2003
 
 **Act No. 29 of 2003 as amended**
 
-This compilation was prepared on 26 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 5 April 2007
+ taking into account amendments up to Act No. 32 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -20,9 +20,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title \[see Note 1]
 
-[2](#2).            Commencement
+[2](#2).            Commencement \[see Note 1]
 
 [3](#3).            Definitions
 
@@ -132,15 +132,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to enhance the management of Australia’s blood supply, and for related purposes
+An Act to enhance the management of Australia’s blood supply, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title \[see Note 1]
 
                    This Act may be cited as the _National Blood Authority_ _Act 2003_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement \[see Note 1]
 
              (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -719,9 +719,7 @@ Note:          A similar rule applies to a Board member who ha
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
-
-                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_;
 
 the Minister may, with the consent of the General Manager, retire the General Manager from office on the grounds of physical or mental incapacity.
 
@@ -729,19 +727,13 @@ the Minister may, with the consent of the General Manager, retire the General Ma
 
                      (a)  the General Manager is removed or retired from office on the grounds of physical or mental incapacity; and
 
-                     (b)  the Board (within the meaning of the _Superannuation Act 1976_) gives a certificate under section 54C of that Act.
+                     (b)  the Commonwealth Superannuation Board of Trustees No. 2 gives a certificate under section 54C of the _Superannuation Act 1976_.
 
              (5)  For the purposes of the _Superannuation Act 1990_, the General Manager is taken to have been retired from office on the grounds of invalidity if:
 
                      (a)  the General Manager is removed or retired from office on the grounds of physical or mental incapacity; and
 
-                     (b)  the Board (within the meaning of the _Superannuation Act 1990_) gives a certificate under section 13 of that Act.
-
-             (6)  For the purposes of the _Superannuation Act 2005_, the General Manager is taken to have been retired from office on the grounds of invalidity if:
-
-                     (a)  the General Manager is removed or retired from office on the grounds of physical or mental incapacity; and
-
-                     (b)  the Board (within the meaning of the _Superannuation Act 2005_) gives an approval and certificate under section 43 of that Act.
+                     (b)  the Commonwealth Superannuation Board of Trustees No. 1 gives a certificate under section 13 of the _Superannuation Act 1990_.
 
 ### Division 2—Staff and consultants
 
@@ -961,23 +953,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 86–89): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1017,38 +992,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
