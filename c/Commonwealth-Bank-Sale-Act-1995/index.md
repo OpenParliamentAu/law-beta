@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00721/Html/ec227cf4-b8c8-47bf-836b-671d210b51bd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00295/Html/783abb40-7523-4d46-b075-45b613c0fef2_files/image001.gif)
 
 # Commonwealth Bank Sale Act 1995
 
 **Act No. 161 of 1995 as amended**
 
-This compilation was prepared on 12 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -24,6 +25,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [2](#2).            Commencement [_see_ Note 1]
 
 [3](#3).            Interpretation
+
+**Part 2—Amendments**
+
+[4](#4).            Schedule
 
 **Part 3—Transitional and saving** 
 
@@ -67,6 +72,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [20](#20).          Exemption from certain State and Territory taxes
 
+**Schedule—Amendment of Acts** 
+
 **Notes** 
 
 ## An Act to facilitate the sale of the Commonwealth’s shares in the Commonwealth Bank, and for related purposes
@@ -104,6 +111,14 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                     <a name="commonwealth-bank"></a>**_Commonwealth Bank_**means the Commonwealth Bank of Australia.
 
                     <a name="transfer-time"></a>**_transfer time_**means the time when the Commonwealth ceases to have the status of being the holder of shares in the Commonwealth Bank that carry more than 50% of the total voting rights attached to the voting shares in the Commonwealth Bank.
+
+## Part 2—Amendments
+
+##### <a id="4"></a>4  Schedule
+
+                   The Acts specified in the Schedule are amended as set out in the Schedule.
+
+Note:          Section 2 deals with the commencement of the individual items in the Schedule.
 
 ## Part 3—Transitional and saving
 
@@ -159,7 +174,7 @@ including employees who have stopped being employees of the Bank body before the
 
              (1)  If the Bank body has paid a licence fee under section 107R of the SRC Act in respect of the licence fee year in which the transfer time occurs, then the Bank body is entitled to be paid a refund of the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00721/Html/ec227cf4-b8c8-47bf-836b-671d210b51bd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00295/Html/783abb40-7523-4d46-b075-45b613c0fef2_files/image002.gif)
 
 where:
 
@@ -280,6 +295,48 @@ where:
                      (a)  a fee payable under the Corporations Law of a State or Territory; or
 
                      (b)  a tax, fee, duty, levy or charge specified in a notice signed by the Minister and published in the _Gazette_.
+
+# Schedule—Amendment of Acts
+
+_Section 4_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Administrative Decisions (Judicial Review) Act 1977_
+
+_Australian Bicentennial Authority Act 1980_<span style="font-size:9.0pt">\[repealed by Act No. 118, 1999, Sch. 1]</span>
+
+_Banking Act 1959_
+
+_Banks (Shareholdings) Act 1972_<span style="font-size:9.0pt">\[repealed by Act No. 54, 1998, Sch. 3]</span>
+
+_Commonwealth Banks Act 1959_
+
+_Crimes (Currency) Act 1981_
+
+_Defence (Re‑establishment) Act 1965_<span style="font-size:9.0pt">\[repealed by Act No. 10, 2001, Sch. 3]</span>
+
+_Freedom of Information Act 1982_
+
+_National Crime Authority Act 1984_\[now cited as _Australian Crime Commission Act 2002_]
+
+_Northern Territory__(Lessees’ Loan Guarantees) Act 1954_
+
+_Occupational Health and Safety (Commonwealth Employment) Act 1991_\[now cited as _Occupational Health and Safety Act 1991_]
+
+_Papua New Guinea__(Transfer of Banking Business) Act 1973_
+
+_Reserve Bank Act 1959_
+
+_Superannuation Industry (Supervision) Act 1993_
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 161, 1995.
+
+* * *
 
 # Notes to the _Commonwealth Bank Sale Act 1995_
 
@@ -412,23 +469,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2012</div>
-    </td>
-    <td>
-      <div>136, 2012</div>
-    </td>
-    <td>
-      <div>22 Sept 2012</div>
-    </td>
-    <td>
-      <div>Schedule 6 (items 21, 22): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_ The _Commonwealth Bank Sale Act 1995_ was amended by Schedule 3 (item 21) only of the _Tax Law Improvement Act (No. 1) 1998_, subsections 2(1)–(3) of which provide as follows:
@@ -451,8 +491,8 @@ _(b)_     The _Commonwealth Bank Sale Act 1995_ was amended by Schedule�
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -470,22 +510,6 @@ _(b)_     The _Commonwealth Bank Sale Act 1995_ was amended by Schedule�
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div><b>Part 3</b></div>
@@ -540,14 +564,6 @@ _(b)_     The _Commonwealth Bank Sale Act 1995_ was amended by Schedule�
   </td>
   <td>
     <div>am. No. 146, 1999; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
