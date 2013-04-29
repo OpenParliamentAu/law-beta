@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00095/Html/AirportsTransAct_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00076/Html/AirportsTransAct_image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 28 March 2008 
- taking into account amendments up to Act No. 8 of 2008
+This compilation was prepared on 22 February 2007 
+ taking into account amendments up to Act No. 4 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -368,9 +368,9 @@ Corporation (FAC) to the Commonwealth.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-Commonwealth will grant an airport lease to a company.  The company is called
+Commonwealth will grant an airport lease to a company.  The company is called an
 
-an **_airport-lessee company_**.</li>
+**_airport-lessee company_**.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     Immediately
 
@@ -1424,9 +1424,7 @@ provision is made for:</li>
 
                      (c)  a certified agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
 
-                     (d)  an individual transitional employment agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
-
-                    (da)  an AWA (as defined by clause 1 of Schedule 7A to the _Workplace Relations Act 1996_); or
+                     (d)  an Australian Workplace Agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
 
                      (e)  an enterprise flexibility agreement (as defined by section 4 of the _Workplace Relations Act 1996_ as in force immediately before the commencement of Schedule 9 to the _Workplace Relations and Other Legislation Amendment Act 1996_) that continues to have effect because of Part 2 of that Schedule.
 
@@ -2160,7 +2158,7 @@ Note:          Division 2 deals with the employee’s positi
 
 ### Division 2—Sale of airport-lessee companies owned by the Commonwealth
 
-##### <a id="5"></a>5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
+##### <a id="5"></a>5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
              (1)  This clause applies in relation to an airport-lessee company if, immediately before the company’s sale time, an employee of the company was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
 
@@ -2308,9 +2306,6 @@ Definition
 
 The amendments made by this Schedule are incorporated in the current compilation ComLaw _._
 
-_Federal Airports Corporation Act 1986_<span style="font-size:9.0pt">
- \[repealed by Act No. 143, 2002, Sch. 3]</span>
-
 For access to the wording of the amendments made by this Schedule _see_ No. 36, 1996.
 
 * * *
@@ -2385,7 +2380,41 @@ of Assent</div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 11 (item 60): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) <i>(a)</i></div>
+    <div>Schedule 11 (item 60): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) <i>(a)</i></div>
+  </td>
+  <td>
+    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+  </td>
+  <td>
+    <div>77, 1996</div>
+  </td>
+  <td>
+    <div>19 Dec 1996</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1, 2): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2419,7 +2448,7 @@ of Assent</div>
     <div>8 July 1997</div>
   </td>
   <td>
-    <div>Schedule 12 (item 31): 1 July 1997 <i>(b)</i></div>
+    <div>Schedule 12 (item 31): 1 July 1997 <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2436,7 +2465,7 @@ of Assent</div>
     <div>16 Apr 1998</div>
   </td>
   <td>
-    <div>Schedule 10 (items 58–64): Royal Assent <i>(c)</i></div>
+    <div>Schedule 10 (items 58–64): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>Sch. 10 (item 64) \[ <i>see</i>Table A]</div>
@@ -2453,7 +2482,7 @@ of Assent</div>
     <div>23 July 1998</div>
   </td>
   <td>
-    <div>Schedule 6: 9 Oct 1996 <i>(d)</i></div>
+    <div>Schedule 6: 9 Oct 1996 <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2470,7 +2499,7 @@ of Assent</div>
     <div>5 July 1999</div>
   </td>
   <td>
-    <div>Schedule 4 (items 1–5): Royal Assent <i>(e)</i></div>
+    <div>Schedule 4 (items 1–5): Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>Sch. 4 (item 5) \[ <i>see</i>Table A]</div>
@@ -2487,7 +2516,7 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 26): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285) <i>(f)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 26): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285) <i>(g)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -2504,7 +2533,7 @@ of Assent</div>
     <div>30 June 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–9, 488(1)): Royal Assent <i>(g)</i></div>
+    <div>Schedule 2 (items 1–9, 488(1)): Royal Assent <i>(h)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 488(1)) \[ <i>see</i>Table A]</div>
@@ -2521,8 +2550,9 @@ of Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2, 3) and 
-Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 2 (items 2, 3) and 
+Schedule 6 (items 1, 6–11): 
+Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 
@@ -2540,25 +2570,7 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
     <div>19 Feb 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 24): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008</div>
-  </td>
-  <td>
-    <div>8, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (item 24): <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2567,33 +2579,39 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 11 (item 60) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(2) of which provides as follows:
 
-                 (2)    Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
+                 (2) Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
 
-_(b)_    The _Airports (Transitional) Act 1996_ was amended by Schedule 12 (item 31) only of the _Tax Law Improvement Act 1997_, subsection 2(5) of which provides as follows:
+_(b)_    The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) only of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
 
-                 (5)    If there is no note specifying the commencement of an item in Schedule 12, the item commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
+                 (4) The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
-_(c)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 10 (items 58–63) only of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(1) of which provides as follows:
+         The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
+
+_(c)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 12 (item 31) only of the _Tax Law Improvement Act 1997_, subsection 2(5) of which provides as follows:
+
+                 (5) If there is no note specifying the commencement of an item in Schedule 12, the item commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
+
+_(d)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 10 (items 58–63) only of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 6 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(4) of which provides as follows:
+_(e)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 6 only of the _Aviation Legislation Amendment Act (No. 1) 1998_, subsection 2(4) of which provides as follows:
 
                  (4)   Schedule 6 is taken to have commenced on 9 October 1996, immediately after the commencement of the _Airports (Transitional) Act 1996_.
 
-_(e)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 4 (items 1–4) only of the _Taxation Laws Amendment Act (No. 6) 1999_, subsection 2(1) of which provides as follows:
+_(f)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 4 (items 1–4) only of the _Taxation Laws Amendment Act (No. 6) 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 3 (item 26) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(g)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 3 (item 26) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(g)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 2 (items 1–9) only of the _New Business Tax System (Capital Allowances—Transitionals and Consequential) Act 2001_, subsection 2(1) of which provides as follows:
+_(h)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 2 (items 1–9) only of the _New Business Tax System (Capital Allowances—Transitionals and Consequential) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Measures No. 6) Act 2007_, provides as follows:
+_(i)_      Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Measures No. 6) Act 2007_, provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2983,7 +3001,7 @@ _(h)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Me
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 8, 2008</div>
+    <div>am. No. 60, 1996</div>
   </td>
 </tr></table>
 
