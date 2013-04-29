@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00668/Html/WitnessProtection1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00007/Html/WitnessProtection1994_WD02_image001.gif)
 
 # Witness Protection Act 1994
 
 **Act No. 124 of 1994 as amended**
 
-This compilation was prepared on 17 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 30 December 2006
+ taking into account amendments up to Act No. 86 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,73 +18,73 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Application of the _Criminal Code_
+[3A](#3A).         Application of the _Criminal Code_                                                       4
 
-[4](#4).            Establishment of the National Witness Protection Program
+[4](#4).            Establishment of the National Witness Protection Program               4
 
-[5](#5).            Inclusion in NWPP not to be done as a reward for giving evidence etc 
+[5](#5).            Inclusion in NWPP not to be done as a reward for giving evidence etc   4
 
-[6](#6).            Arrangements with approved authorities
+[6](#6).            Arrangements with approved authorities                                            5
 
-[7](#7).            Witness to disclose certain matters before being included in the NWPP
+[7](#7).            Witness to disclose certain matters before being included in the NWPP 5
 
-[8](#8).            Selection for inclusion in the NWPP
+[8](#8).            Selection for inclusion in the NWPP                                                   7
 
-[9](#9).            Memorandum of understanding
+[9](#9).            Memorandum of understanding                                                           9
 
-[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies
+[10](#10).          Inclusion of foreign nationals or residents in NWPP at the request of foreign law enforcement agencies               11
 
-[10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court
+[10A](#10A).       Inclusion of persons in NWPP at the request of International Criminal Court       12
 
-[11](#11).          Register of participants
+[11](#11).          Register of participants                                                                     13
 
-[12](#12).          Access to Register
+[12](#12).          Access to Register                                                                             14
 
-[13](#13).          Action where a witness is included in the NWPP
+[13](#13).          Action where a witness is included in the NWPP                             14
 
-[14](#14).          Special provision in case of marriage of participant
+[14](#14).          Special provision in case of marriage of participant                          16
 
-[15](#15).          Dealing with rights and obligations of participant
+[15](#15).          Dealing with rights and obligations of participant                             16
 
-[16](#16).          Non-disclosure of former identity of participant
+[16](#16).          Non-disclosure of former identity of participant                              17
 
-[17](#17).          Special commercial arrangements by Commissioner
+[17](#17).          Special commercial arrangements by Commissioner                         18
 
-[18](#18).          Cessation of protection and assistance
+[18](#18).          Cessation of protection and assistance                                              18
 
-[19](#19).          Restoration of former identity
+[19](#19).          Restoration of former identity                                                           21
 
-[20](#20).          Provision of information to approved authorities
+[20](#20).          Provision of information to approved authorities                             22
 
-[21](#21).          Officers protected from suit in respect of decisions under Act
+[21](#21).          Officers protected from suit in respect of decisions under Act        22
 
-[22](#22).          Offences
+[22](#22).          Offences                                                                                             23
 
-[23](#23).          Payments under NWPP not able to be confiscated
+[23](#23).          Payments under NWPP not able to be confiscated                           23
 
-[24](#24).          Restriction on issue of Commonwealth identity documents
+[24](#24).          Restriction on issue of Commonwealth identity documents             24
 
-[25](#25).          Delegation
+[25](#25).          Delegation                                                                                          24
 
-[26](#26).          Commissioner and members not to be required to disclose information
+[26](#26).          Commissioner and members not to be required to disclose information 25
 
-[27](#27).          Requirement where participant becomes a witness in criminal proceedings
+[27](#27).          Requirement where participant becomes a witness in criminal proceedings           26
 
-[28](#28).          Identity of participant not to be disclosed in court proceedings etc 
+[28](#28).          Identity of participant not to be disclosed in court proceedings etc  26
 
-[29](#29).          Transitional
+[29](#29).          Transitional                                                                                        27
 
-[30](#30).          Reports and information for the Minister
+[30](#30).          Reports and information for the Minister                                         27
 
-[31](#31).          Amendments of other Acts
+[31](#31).          Amendments of other Acts                                                               27
 
-[32](#32).          Regulations
+[32](#32).          Regulations                                                                                        27
 
 **Schedule—Amendments of other Acts** 
 
@@ -163,8 +163,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="nation-secur-inform"></a>**_national security information_** means information affecting the defence, security or international relations of Australia.
 
                     <a name="nwpp"></a>**_NWPP_** means the National Witness Protection Program established by this Act.
-
-                    <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
 
                     <a name="particip"></a>**_participant_** means a person who is included in the NWPP.
 
@@ -1154,23 +1152,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 85): 10 Dec 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Witness Protection Act 1994_ was amended by Schedule 1 (item 29) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
@@ -1213,7 +1194,7 @@ _(b)_    The _Witness Protection Act 1994_ was amended by Schedule 50 on
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 9, 2000; No. 135, 2001; Nos. 42 and 125, 2002; No. 86, 2006; No. 144, 2008</div>
+    <div>am. No. 9, 2000; No. 135, 2001; Nos. 42 and 125, 2002; No. 86, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1462,5 +1443,7 @@ as if those repeals had not happened and those amendments had not been made.
 (1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
 (2)        The Governor-General may make regulations for the purposes of subitem (1).
+
+ 
 
  
