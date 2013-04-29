@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00346/Html/ProhibHumanCloningforRep2002_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00056/Html/ProhibHumanCloning2002_WD02_image001.gif)
 
-# Prohibition of Human Cloning for Reproduction Act 2002
+# Prohibition of Human Cloning Act 2002
 
 **Act No. 144 of 2002 as amended**
 
-This compilation was prepared on 12 June 2007
+This compilation was prepared on 3 January 2007
  taking into account amendments up to Act No. 172 of 2006
 
 The text of any of those amendments not in force 
@@ -18,95 +18,87 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Object of Act
+[3](#3).            Object of Act                                                                                       1
 
-[4](#4).            Operation of Act
+[4](#4).            Operation of Act                                                                                 2
 
-[5](#5).            Act to bind the Crown
+[5](#5).            Act to bind the Crown                                                                         2
 
-[6](#6).            External Territories
+[6](#6).            External Territories                                                                              2
 
-[7](#7).            Schedule
+[7](#7).            Schedule                                                                                               3
 
-[8](#8).            Definitions
+[8](#8).            Definitions                                                                                           3
 
 **Part 2—Prohibited practices** 
 
-    **Division 1—Practices that are completely prohibited**
+    **Division 1—Human cloning**
 
-[9](#9).            Offence—placing a human embryo clone in the human body or the body of an animal
+[9](#9).            Offence—creating a human embryo clone                                           6
 
-[10](#10).          Offence—importing or exporting a human embryo clone
+[10](#10).          Offence—placing a human embryo clone in the human body or the body of an animal         6
 
-[11](#11).          No defence that human embryo clone could not survive
+[11](#11).          Offence—importing or exporting a human embryo clone                   6
 
-[12](#12).          Offence—creating a human embryo for a purpose other than achieving pregnancy in a woman
+[12](#12).          No defence that human embryo clone could not survive                     6
 
-[13](#13).          Offence—creating or developing a human embryo by fertilisation that contains genetic material provided by more than 2 persons
+    **Division 2—Other prohibited practices**
 
-[14](#14).          Offence—developing a human embryo outside the body of a woman for more than 14 days
+[13](#13).          Offence—creating a human embryo other than by fertilisation, or developing such an embryo             7
 
-[15](#15).          Offence—heritable alterations to genome
+[14](#14).          Offence—creating a human embryo for a purpose other than achieving pregnancy in a woman            7
 
-[16](#16).          Offence—collecting a viable human embryo from the body of a woman
+[15](#15).          Offence—creating or developing a human embryo containing genetic material provided by more than 2 persons 7
 
-[17](#17).          Offence—creating a chimeric embryo
+[16](#16).          Offence—developing a human embryo outside the body of a woman for more than 14 days                7
 
-[18](#18).          Offence—developing a hybrid embryo
+[17](#17).          Offence—using precursor cells from a human embryo or a human fetus to create a human embryo, or developing such an embryo                                                                                            8
 
-[19](#19).          Offence—placing of an embryo
+[18](#18).          Offence—heritable alterations to genome                                            8
 
-[20](#20).          Offence—importing, exporting or placing a prohibited embryo
+[19](#19).          Offence—collecting a viable human embryo from the body of a woman                8
 
-[21](#21).          Offence—commercial trading in human eggs, human sperm or human embryos
+[20](#20).          Offence—creating a chimeric or hybrid embryo                                  9
 
-    **Division 2—Practices that are prohibited unless authorised by a licence**
+[21](#21).          Offence—placing of an embryo                                                           9
 
-[22](#22).          Offence—creating a human embryo other than by fertilisation, or developing such an embryo
+[22](#22).          Offence—importing, exporting or placing a prohibited embryo         9
 
-[23](#23).          Offence—creating or developing a human embryo containing genetic material provided by more than 2 persons
-
-[23A](#23A).       Offence—using precursor cells from a human embryo or a human fetus to create a human embryo, or developing such an embryo
-
-[23B](#23B).       Offence—creating a hybrid embryo
-
-[23C](#23C).       Regulations under Customs Act
+[23](#23).          Offence—commercial trading in human eggs, human sperm or human embryos     10
 
 **Part 3—Commonwealth/State arrangements**
 
-[24](#24).          Operation of State laws
+[24](#24).          Operation of State laws                                                                     12
 
 **Part 4—Review provision and regulations** 
 
     **Division 1—Review of Act**
 
-[25](#25).          Review of operation of Act
-
-[25A](#25A).       Further review of operation of Act
+[25](#25).          Review of operation of Act                                                               13
 
     **Division 2—Regulations**
 
-[26](#26).          Regulations
+[26](#26).          Regulations                                                                                        14
 
 **Schedule 1—Consequential amendment** 
 
-Gene Technology Act 2000                                                                                      18
+Gene Technology Act 2000                                                                                      15
 
 **Notes** 
 
-## An Act to prohibit human cloning for reproduction and other unacceptable practices associated with reproductive technology, and for related purposes
+## An Act to prohibit human cloning and other unacceptable practices associated with reproductive technology, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Prohibition of Human Cloning for Reproduction Act 2002_.
+                   This Act may be cited as the _Prohibition of Human Cloning Act 2002_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -222,7 +214,7 @@ Note:          This table relates only to the provisions of th
 
                      (c)  by way of the supply of services to the Commonwealth or to a Commonwealth authority.
 
-##### <a id="5"></a>5  Act to bind the Crown
+##### <a id="5"></a>5  Act to bind the Crown
 
              (1)  This Act binds the Crown in each of its capacities.
 
@@ -270,13 +262,7 @@ Note:          This table relates only to the provisions of th
 
                              (ii)  her spouse (if any) at the time the embryo was created.
 
-                    <a name="human-embryo"></a>**_human embryo_** means a discrete entity that has arisen from either:
-
-                     (a)  the first mitotic division when fertilisation of a human oocyte by a human sperm is complete; or
-
-                     (b)  any other process that initiates organised development of a biological entity with a human nuclear genome or altered human nuclear genome that has the potential to develop up to, or beyond, the stage at which the primitive streak appears;
-
-and has not yet reached 8 weeks of development since the first mitotic division.
+                    <a name="human-embryo"></a>**_human embryo_** means a live embryo that has a human genome or an altered human genome and that has been developing for less than 8 weeks since the appearance of 2 pro-nuclei or the initiation of its development by other means.
 
                     <a name="human-embryo-clone"></a>**_human embryo clone_** means a human embryo that is a genetic copy of another living or dead human, but does not include a human embryo created by the fertilisation of a human egg by human sperm.
 
@@ -293,10 +279,6 @@ and has not yet reached 8 weeks of development since the first mitotic division.
                      (d)  an animal egg into which the nucleus of a human cell has been introduced; or
 
                      (e)  a thing declared by the regulations to be a hybrid embryo.
-
-                    <a name="licenc"></a>**_licence_** means a licence issued under section 21 of the _Research Involving Human Embryos Act 2002._
-
-                    <a name="nhmrc-licens-committe"></a>**_NHMRC Licensing Committee_** means the Committee established under section 13 of the _Research Involving Human Embryos Act 2002_.
 
                     <a name="precursor-cell"></a>**_precursor cell_** means a cell that has the potential to develop into a human egg or human sperm.
 
@@ -322,6 +304,490 @@ and has not yet reached 8 weeks of development since the first mitotic division.
 
                      (b)  each such person has determined in writing that the embryo is excess to their needs, and the determination is in force at that time.
 
+## Part 2—Prohibited practices
+
+### Division 1—Human cloning
+
+##### <a id="9"></a>9  Offence—creating a human embryo clone
+
+                   A person commits an offence if the person intentionally creates a human embryo clone.
+
+                    Maximum penalty:    Imprisonment for 15 years.
+
+##### <a id="10"></a>10  Offence—placing a human embryo clone in the human body or the body of an animal
+
+                   A person commits an offence if the person intentionally places a human embryo clone in the body of a human or the body of an animal.
+
+                    Maximum penalty:    Imprisonment for 15 years.
+
+##### <a id="11"></a>11  Offence—importing or exporting a human embryo clone
+
+             (1)  A person commits an offence if the person intentionally imports a human embryo clone into Australia.
+
+                   Maximum penalty:  Imprisonment for 15 years.
+
+             (2)  A person commits an offence if the person intentionally exports a human embryo clone from Australia.
+
+                    Maximum penalty:    Imprisonment for 15 years.
+
+##### <a id="12"></a>12  No defence that human embryo clone could not survive
+
+                   It is not a defence to an offence under section 9, 10 or 11 that the human embryo clone did not survive or could not have survived.
+
+### Division 2—Other prohibited practices
+
+##### <a id="13"></a>13  Offence—creating a human embryo other than by fertilisation, or developing such an embryo
+
+                   A person commits an offence if the person intentionally creates a human embryo by a process other than the fertilisation of a human egg by human sperm, or intentionally develops a human embryo so created.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="14"></a>14  Offence—creating a human embryo for a purpose other than achieving pregnancy in a woman
+
+             (1)  A person commits an offence if the person intentionally creates a human embryo outside the body of a woman, unless the person’s intention in creating the embryo is to attempt to achieve pregnancy in a particular woman.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (2)  Despite subsection 13.3(3) of the _Criminal Code_, a defendant does not bear an evidential burden in relation to any matter in subsection (1) of this section.
+
+##### <a id="15"></a>15  Offence—creating or developing a human embryo containing genetic material provided by more than 2 persons
+
+                   A person commits an offence if the person intentionally creates or develops a human embryo containing genetic material provided by more than 2 persons.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="16"></a>16  Offence—developing a human embryo outside the body of a woman for more than 14 days
+
+                   A person commits an offence if the person intentionally develops a human embryo outside the body of a woman for a period of more than 14 days, excluding any period when development is suspended.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="17"></a>17  Offence—using precursor cells from a human embryo or a human fetus to create a human embryo, or developing such an embryo
+
+                   A person commits an offence if the person uses precursor cells taken from a human embryo or a human fetus, intending to create a human embryo, or intentionally develops an embryo so created.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="18"></a>18  Offence—heritable alterations to genome
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person alters the genome of a human cell in such a way that the alteration is heritable by descendants of the human whose cell was altered; and
+
+                     (b)  in altering the genome, the person intended the alteration to be heritable by descendants of the human whose cell was altered.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (2)  In this section:
+
+                    <a name="human-cell"></a>**_human cell_** includes a human embryonal cell, a human fetal cell, human sperm or a human egg.
+
+##### <a id="19"></a>19  Offence—collecting a viable human embryo from the body of a woman
+
+                   A person commits an offence if the person removes a human embryo from the body of a woman, intending to collect a viable human embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="20"></a>20  Offence—creating a chimeric or hybrid embryo
+
+             (1)  A person commits an offence if the person intentionally creates a chimeric embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (2)  A person commits an offence if the person intentionally creates a hybrid embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="21"></a>21  Offence—placing of an embryo
+
+             (1)  A person commits an offence if the person intentionally places a human embryo in an animal.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (2)  A person commits an offence if the person intentionally places a human embryo in the body of a human, other than in a woman’s reproductive tract.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (3)  A person commits an offence if the person intentionally places an animal embryo in the body of a human for any period of gestation.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+##### <a id="22"></a>22  Offence—importing, exporting or placing a prohibited embryo
+
+             (1)  A person commits an offence if the person intentionally imports an embryo into Australia knowing that, or reckless as to whether, the embryo is a prohibited embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (2)  A person commits an offence if the person intentionally exports an embryo from Australia knowing that, or reckless as to whether, the embryo is a prohibited embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (3)  A person commits an offence if the person intentionally places an embryo in the body of a woman knowing that, or reckless as to whether, the embryo is a prohibited embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (4)  In this section:
+
+                    <a name="prohibit-embryo"></a>**_prohibited embryo_** means:
+
+                     (a)  a human embryo created by a process other than the fertilisation of a human egg by human sperm; or
+
+                     (b)  a human embryo created outside the body of a woman, unless the intention of the person who created the embryo was to attempt to achieve pregnancy in a particular woman; or
+
+                     (c)  a human embryo that contains genetic material provided by more than 2 persons; or
+
+                     (d)  a human embryo that has been developing outside the body of a woman for a period of more than 14 days, excluding any period when development is suspended; or
+
+                     (e)  a human embryo created using precursor cells taken from a human embryo or a human fetus; or
+
+                      (f)  a human embryo that contains a human cell (within the meaning of section 18) whose genome has been altered in such a way that the alteration is heritable by human descendants of the human whose cell was altered; or
+
+                     (g)  a human embryo that was removed from the body of a woman by a person intending to collect a viable human embryo; or
+
+                     (h)  a chimeric embryo or a hybrid embryo.
+
+##### <a id="23"></a>23  Offence—commercial trading in human eggs, human sperm or human embryos
+
+             (1)  A person commits an offence if the person intentionally gives or offers valuable consideration to another person for the supply of a human egg, human sperm or a human embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (2)  A person commits an offence if the person intentionally receives, or offers to receive, valuable consideration from another person for the supply of a human egg, human sperm or a human embryo.
+
+                    Maximum penalty:    Imprisonment for 10 years.
+
+             (3)  In this section:
+
+                    <a name="reason-expens"></a>**_reasonable expenses_**:
+
+                     (a)  in relation to the supply of a human egg or human sperm—includes, but is not limited to, expenses relating to the collection, storage or transport of the egg or sperm; and
+
+                     (b)  in relation to the supply of a human embryo:
+
+                              (i)  does not include any expenses incurred by a person before the time when the embryo became an excess ART embryo; and
+
+                             (ii)  includes, but is not limited to, expenses relating to the storage or transport of the embryo.
+
+                    <a name="valuabl-consider"></a>**_valuable consideration_**, in relation to the supply of a human egg, human sperm or a human embryo by a person, includes any inducement, discount or priority in the provision of a service to the person, but does not include the payment of reasonable expenses incurred by the person in connection with the supply.
+
+## Part 3—Commonwealth/State arrangements
+
+##### <a id="24"></a>24  Operation of State laws
+
+                   This Act is not intended to exclude the operation of any law of a State, to the extent that the law of the State is capable of operating concurrently with this Act.
+
+## Part 4—Review provision and regulations
+
+### Division 1—Review of Act
+
+##### <a id="25"></a>25  Review of operation of Act
+
+             (1)  The Minister must cause an independent review of the operation of this Act to be undertaken as soon as possible after the second anniversary of the day on which this Act received the Royal Assent.
+
+             (2)  The review is to be undertaken by persons chosen by the Minister, with the agreement of each State.
+
+             (3)  The persons undertaking the review must give the Council of Australian Governments and both Houses of the Parliament a written report of the review before the third anniversary of the day on which this Act received the Royal Assent.
+
+             (4)  The persons undertaking the review must consider and report on the scope and operation of this Act taking into account the following:
+
+                     (a)  developments in technology in relation to assisted reproductive technology;
+
+                     (b)  developments in medical research and scientific research and the potential therapeutic applications of such research;
+
+                     (c)  community standards;
+
+                     (d)  the applicability of establishing a National Stem Cell Bank.
+
+             (5)  The report must contain recommendations about amendments that should be made to this Act, having regard to the matters mentioned in subsection (4).
+
+             (6)  The persons undertaking the review must consult:
+
+                     (a)  the Commonwealth and the States; and
+
+                     (b)  a broad range of persons  with expertise in or experience of relevant disciplines;
+
+and the views of the Commonwealth, the States and the persons mentioned in paragraph (b) must be set out in the report to the extent that it is reasonably practicable to do so.
+
+### Division 2—Regulations
+
+##### <a id="26"></a>26  Regulations
+
+             (1)  The Governor-General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+             (2)  Before the Governor-General makes regulations under this Act, the Minister must be satisfied that:
+
+                     (a)  the States have been consulted in relation to the proposed regulations; and
+
+                     (b)  the proposed regulations have been prepared having regard to views expressed by the States in those consultations.
+
+###### Schedule 1—Consequential amendment
+
+<h9 class="ActHead9">Gene Technology Act 2000</h9>
+
+## 1  Sections 192B, 192C and 192D
+
+Repeal the sections.
+
+ 
+
+# Notes to the_ Prohibition of Human Cloning Act 2002_
+
+### Note 1
+
+The _Prohibition of Human Cloning Act 2002_ as shown in this compilation comprises Act No. 144, 2002 amended as indicated in the Tables below.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Prohibition of Human Cloning Act 2002</div>
+  </td>
+  <td>
+    <div>144, 2002</div>
+  </td>
+  <td>
+    <div>19 Dec 2002</div>
+  </td>
+  <td>
+    <div>Ss. 3–26 and Schedule 1: 16 Jan 2003 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2005</div>
+  </td>
+  <td>
+    <div>100, 2005</div>
+  </td>
+  <td>
+    <div>6 July 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 39): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Prohibition of Human Cloning for Reproduction and the Regulation of Human Embryo Research Amendment Act 2006</div>
+  </td>
+  <td>
+    <div>172, 2006</div>
+  </td>
+  <td>
+    <div>12 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 1: \[ <i>see</i>Note 2]</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
+
+_(a)_ Subsection 2(1) (item 22) of the _Statute Law Revision Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      22\. Schedule 1, item 39
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 8 of the
+        <i>Prohibition of Human Cloning Act 2002</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      16 January 2003
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="33%">
+  <col width="67%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 100, 2005</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+The following amendments commence on 12 June 2007:
+
+## Schedule 1
+
+## 1  Title
+
+After “**human cloning**”, insert“**for reproduction**”.
+
+## 2  Section 1
+
+After “_Cloning_”, insert “_for Reproduction_”.
+
+_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
+
+## 3  Subsection 8(1) (definition of _human embryo_)
+
+Repeal the definition, substitute:
+
+                    <a name="human-embryo"></a>**_human embryo_** means a discrete entity that has arisen from either:
+
+                     (a)  the first mitotic division when fertilisation of a human oocyte by a human sperm is complete; or
+
+                     (b)  any other process that initiates organised development of a biological entity with a human nuclear genome or altered human nuclear genome that has the potential to develop up to, or beyond, the stage at which the primitive streak appears;
+
+and has not yet reached 8 weeks of development since the first mitotic division.
+
+## 4  Subsection 8(1)
+
+Insert:
+
+                    <a name="licenc"></a>**_licence_** means a licence issued under section 21 of the _Research Involving Human Embryos Act 2002._
+
+## 5  Subsection 8(1)
+
+Insert:
+
+                    <a name="nhmrc-licens-committe"></a>**_NHMRC Licensing Committee_** means the Committee established under section 13 of the _Research Involving Human Embryos Act 2002_.
+
+## 6  At the end of section 8
+
+Add:
+
              (6)  A reference in this Act to an embryo (including a human embryo) is a reference to a living embryo.
 
              (7)  A reference in this Act to a human egg is a reference to a human oocyte.
@@ -331,6 +797,10 @@ and has not yet reached 8 weeks of development since the first mitotic division.
                      (a)  a hybrid embryo; or
 
                      (b)  a human embryonic stem cell line.
+
+## 7  Part 2
+
+Repeal the Part, substitute:
 
 ## Part 2—Prohibited practices
 
@@ -548,43 +1018,9 @@ Note:          A licence to create or develop a hybrid embryo 
 
                    The Minister who administers the _Customs Act 1901_ must take all reasonable steps to ensure that regulations are made, within 6 months after the commencement of this section, permitting, subject to appropriate conditions or restrictions, the import and export of human embryonic stem cell lines which have been derived from human embryo clones using practices consistent with Australian legislation.
 
-## Part 3—Commonwealth/State arrangements
+## 8  After section 25
 
-##### <a id="24"></a>24  Operation of State laws
-
-                   This Act is not intended to exclude the operation of any law of a State, to the extent that the law of the State is capable of operating concurrently with this Act.
-
-## Part 4—Review provision and regulations
-
-### Division 1—Review of Act
-
-##### <a id="25"></a>25  Review of operation of Act
-
-             (1)  The Minister must cause an independent review of the operation of this Act to be undertaken as soon as possible after the second anniversary of the day on which this Act received the Royal Assent.
-
-             (2)  The review is to be undertaken by persons chosen by the Minister, with the agreement of each State.
-
-             (3)  The persons undertaking the review must give the Council of Australian Governments and both Houses of the Parliament a written report of the review before the third anniversary of the day on which this Act received the Royal Assent.
-
-             (4)  The persons undertaking the review must consider and report on the scope and operation of this Act taking into account the following:
-
-                     (a)  developments in technology in relation to assisted reproductive technology;
-
-                     (b)  developments in medical research and scientific research and the potential therapeutic applications of such research;
-
-                     (c)  community standards;
-
-                     (d)  the applicability of establishing a National Stem Cell Bank.
-
-             (5)  The report must contain recommendations about amendments that should be made to this Act, having regard to the matters mentioned in subsection (4).
-
-             (6)  The persons undertaking the review must consult:
-
-                     (a)  the Commonwealth and the States; and
-
-                     (b)  a broad range of persons  with expertise in or experience of relevant disciplines;
-
-and the views of the Commonwealth, the States and the persons mentioned in paragraph (b) must be set out in the report to the extent that it is reasonably practicable to do so.
+Insert:
 
 ##### <a id="25A"></a>25A  Further review of operation of Act
 
@@ -628,345 +1064,6 @@ and the views of the Commonwealth, the States and the persons mentioned in parag
 
 and the views of the Commonwealth, the States and the persons mentioned in paragraph (b) must be set out in the report to the extent that it is reasonably practicable to do so.
 
-### Division 2—Regulations
-
-##### <a id="26"></a>26  Regulations
-
-             (1)  The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-             (2)  Before the Governor-General makes regulations under this Act, the Minister must be satisfied that:
-
-                     (a)  the States have been consulted in relation to the proposed regulations; and
-
-                     (b)  the proposed regulations have been prepared having regard to views expressed by the States in those consultations.
-
-###### Schedule 1—Consequential amendment
-
-<h9 class="ActHead9">Gene Technology Act 2000</h9>
-
-## 1  Sections 192B, 192C and 192D
-
-Repeal the sections.
-
- 
-
-# Notes to the_ Prohibition of Human Cloning for Reproduction Act 2002_
-
-### Note 1
-
-The _Prohibition of Human Cloning for Reproduction Act 2002_ as shown in this compilation comprises Act No. 144, 2002 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Prohibition of Human Cloning Act 2002</div>
-  </td>
-  <td>
-    <div>144, 2002</div>
-  </td>
-  <td>
-    <div>19 Dec 2002</div>
-  </td>
-  <td>
-    <div>Ss. 3–26 and Schedule 1: 16 Jan 2003 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2005</div>
-  </td>
-  <td>
-    <div>100, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 39): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prohibition of Human Cloning for Reproduction and the Regulation of Human Embryo Research Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>172, 2006</div>
-  </td>
-  <td>
-    <div>12 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedules 1–4: 12 June 2007 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (item 22) of the _Statute Law Revision Act 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      22\. Schedule 1, item 39
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 8 of the
-        <i>Prohibition of Human Cloning Act 2002</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      16 January 2003
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="33%">
-  <col width="67%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 100, 2005; No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9–21</div>
-  </td>
-  <td>
-    <div>rs. No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22, 23</div>
-  </td>
-  <td>
-    <div>rs. No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23A–23C</div>
-  </td>
-  <td>
-    <div>ad. No. 172, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25A</div>
-  </td>
-  <td>
-    <div>ad. No. 172, 2006</div>
-  </td>
-</tr></table>
+As at 3 January 2007 the amendments are not incorporated in this compilation.
 
  
