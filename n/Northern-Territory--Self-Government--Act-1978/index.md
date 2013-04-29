@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00943/Html/b536c647-c0dc-48b3-9b56-062cff0684e7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00309/Html/758fa8d0-ddd2-4b48-abdd-c08823d8bc5f_files/image001.gif)
 
 # Northern   Territory (Self‑Government) Act 1978
 
 **Act No. 58 of 1978 as amended**
 
-This compilation was prepared on 8 December 2011
- taking into account amendments up to Act No. 166 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -41,6 +41,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [7](#7).            Assent to proposed laws
 
 [8](#8).            Signification of pleasure on proposed law reserved
+
+[9](#9).            Disallowance of enactments
 
 [10](#10).          Reason for withholding assent etc  to be tabled in Legislative Assembly
 
@@ -310,9 +312,21 @@ and includes part of any such law or Ordinance.
 
              (5)  The assent of the Governor‑General to a proposed law or part of a proposed law is of no effect until notification of the Governor‑General’s declaration in respect of the proposed law is published in the _Government Gazette_ of the Territory.
 
+##### <a id="9"></a>9  Disallowance of enactments
+
+             (1)  Subject to this section, the Governor‑General may, within 6 months after the Administrator’s assent to a proposed law, disallow the law or part of the law.
+
+             (2)  The Governor‑General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor‑General considers to be desirable as a result of his or her consideration of the law.
+
+             (3)  Where, as a result of his or her consideration of a law, the Governor‑General so recommends any amendments of the laws of the Territory, the time within which the Governor‑General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor‑General’s recommendation.
+
+             (4)  Upon publication of notice of the disallowance of a law, or part of a law, in the _Government Gazette_ of the Territory, the disallowance has, subject to subsection (5), the same effect as a repeal of the law or part of the law.
+
+             (5)  If a provision of a disallowed law, or a provision of a disallowed part of a law, amended or repealed a law in force immediately before the commencement of that provision, the disallowance revives the previous law from the date of publication of the notice of disallowance as if the disallowed provision had not been made.
+
 ##### <a id="10"></a>10  Reason for withholding assent etc. to be tabled in Legislative Assembly
 
-                   Where the Administrator withholds assent to a proposed law, or the Governor‑General withholds assent to a proposed law or part of a proposed law, a message of the Administrator stating the reasons for the withholding of assent shall be laid before the Legislative Assembly within 6 sitting days of the Legislative Assembly after the date on which the assent was withheld.
+                   Where the Administrator withholds assent to a proposed law, or the Governor‑General withholds assent to a proposed law or part of a proposed law or disallows a law or part of a law, a message of the Administrator stating the reasons for the withholding of assent, or for the disallowance, as the case may be, shall be laid before the Legislative Assembly within 6 sitting days of the Legislative Assembly after the date on which the assent was withheld or the date of the disallowance, as the case may be.
 
 ##### <a id="11"></a>11  Proposal of money votes
 
@@ -530,7 +544,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ## Part IV—The Administration
 
-##### <a id="31"></a>31  Extent of executive power
+##### <a id="31"></a>31  Extent of executive power
 
                    The duties, powers, functions and authorities of the Administrator, the Executive Council and the Ministers of the Territory imposed or conferred by or under this Part extend to the execution and maintenance of this Act and the laws of the Territory and to the exercise of the prerogatives of the Crown so far as they relate to those duties, powers, functions and authorities.
 
@@ -968,11 +982,11 @@ _Northern Territory__(Administration) Amendment Act 1976_
 
 _Subsections 13(6) and 42(1)_
 
-                   OATH
+OATH
 
                    I, _A.B_., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law: So help me God! 
 
-                   AFFIRMATION
+AFFIRMATION
 
                    I, _A.B_., do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law. 
 
@@ -980,11 +994,11 @@ _Subsections 13(6) and 42(1)_
 
 _Subsection 13(6)_
 
-                   OATH
+OATH
 
                    I, _A.B._, do swear that I will render true and faithful service as a member of the Legislative Assembly for the Northern Territory of Australia: So help me God! 
 
-                   AFFIRMATION
+AFFIRMATION
 
                    I, _A.B_., do solemnly and sincerely promise and declare that I will render true and faithful service as a member of the Legislative Assembly for the Northern Territory of Australia. 
 
@@ -992,11 +1006,11 @@ _Subsection 13(6)_
 
 _Subsection 38(1)_
 
-                   OATH
+OATH
 
                    I, _A.B_., do swear that, except as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my membership of the Executive Council of the Northern Territory of Australia: So help me God! 
 
-                   AFFIRMATION
+AFFIRMATION
 
                    I, _A.B._, do solemnly and sincerely promise and declare that, except as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my membership of the Executive Council of the Northern Territory of Australia. 
 
@@ -1004,11 +1018,11 @@ _Subsection 38(1)_
 
 _Subsection 38(2)_
 
-                   OATH
+OATH
 
                    I, _A.B_., do swear that, except in the course of my duties or as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my holding Ministerial office: So help me God! 
 
-                   AFFIRMATION
+AFFIRMATION
 
                    I, _A.B_., do solemnly and sincerely promise and declare that, except in the course of my duties or as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my holding Ministerial office. 
 
@@ -1016,11 +1030,11 @@ _Subsection 38(2)_
 
 _Subsection 42(1)_
 
-                   OATH
+OATH
 
                    I, _A.B_., do swear that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, or Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God! 
 
-                   AFFIRMATION
+AFFIRMATION
 
                    I, _A.B_., do solemnly and sincerely promise and declare that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, _or_ Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
 
@@ -1255,7 +1269,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 1, 113): Royal Assent <i>(e)</i></div>
+    <div>Schedule 4 (item 113): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1340,7 +1354,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>31 March 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 28, 29): 1 Sept 1999 ( <i>see</i> <i>Gazette</i>1999, No. S395) 
+    <div>Schedules 1–3 (items 28, 29): 1 Sept 1999 ( <i>see</i> <i>Gazette</i>1999, No. S395) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1410,27 +1424,10 @@ Remainder: 24 May 2001</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 170, 171) and Schedule 7 (item 105): 19 Apr 2011</div>
+    <div>Schedule 5 (items 170, 171) and Schedule 7 (item 105): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Self‑Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011</div>
-  </td>
-  <td>
-    <div>166, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 2: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1450,7 +1447,7 @@ _(d)_     The _Northern Territory__(Self‑Government) Act 1978_ was ame
 
                  (2)   Section 5, the amendment of section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_ made by this Act and the repeal of sections 61, 62 and 63 of the _Australian Capital Territory (Self‑Government) Act 1988_ and sections 47, 47A, 47B and 47C of the _Northern Territory (Self‑Government) Act 1978_ effected by this Act commence on 1 July 1991.
 
-_(e)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 4 (items 1 and 113) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(e)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 4 (item 113) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
 
@@ -1547,7 +1544,8 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -1621,22 +1619,6 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 166, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 166, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2011,17 +1993,5 @@ If:
                      (c)  the first‑mentioned provision is amended by this Schedule;
 
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-* * *
-
-_Territories Self‑Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011 (No. 166, 2011)_
-
-##### <a id="4"></a>4  Objects of Act
-
-                   The objects of this Act are:
-
-                     (a)  to remove the Governor‑General’s power, under section 35 of the _Australian Capital Territory (Self‑Government) Act 1988_, to disallow an enactment (or part of an enactment) of the Legislative Assembly for the Australian Capital Territory or to recommend amendments of any enactments; and
-
-                     (b)  to remove the Governor‑General’s power, under section 9 of the _Northern Territory (Self‑Government) Act 1978_, to disallow a law (or part of a law) of the Legislative Assembly of the Northern Territory or to recommend amendments of any laws of the Northern Territory.
 
  
