@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -909,7 +909,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -945,7 +945,7 @@ work
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image003.gif">
+    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image003.gif">
   </td>
 </tr>
 <tr>
@@ -967,7 +967,7 @@ refused</span></div>
 </tr>
 <tr>
   <td height="493"></td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image004.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image004.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1124,7 +1124,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1147,7 +1147,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image013.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image013.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1253,7 +1253,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2011C00263/Html/126c9dce-80f4-4a1c-91b0-43f2c2885eab_files/image021.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image021.gif)
 
 ##### <a id="5"></a>5  Associated applications
 
@@ -2298,7 +2298,7 @@ Note:          Section 65 sets out the date of a patent.
 
                      (b)  if pre‑TGA marketing approval was given in relation to the substance—the date of the first approval.
 
-             (6)  For the purposes of this section, **_pre‑TGA marketing approval_**, in relation to a pharmaceutical substance, is an approval (however described) by a Minister, or a Secretary of a Department, to:
+             (6)  For the purposes of this section, **_pre‑TGA marketing approval_**, in relation to a pharmaceutical substance, is an approval (however described) by a Minister, or a Secretary to a Department, to:
 
                      (a)  market the substance, or a product containing the substance, in Australia; or
 
@@ -2536,7 +2536,7 @@ the Commissioner may, on an application made by the patentee, revoke the indepen
 
              (3)  An appeal lies to the Federal Court against a decision of the Commissioner refusing an application under this section.
 
-##### <a id="83"></a>83  Term of patent of addition
+##### <a id="83"></a>83  Term of patent of addition
 
 Usual term
 
@@ -2784,7 +2784,7 @@ the Commissioner must not continue the re‑examination.
 
              (3)  The applicant may appeal to the Federal Court against a decision of the Commissioner under this section.
 
-##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
+##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
 
              (1)  Where the Commissioner makes an adverse report on a re‑examination under subsection 97(2), the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
 
@@ -3910,7 +3910,7 @@ then, except as otherwise prescribed:
 
 # Chapter 16—Jurisdiction and powers of courts
 
-##### <a id="154"></a>154  Jurisdiction of Federal Court
+##### <a id="154"></a>154  Jurisdiction of Federal Court
 
              (1)  The Federal Court has jurisdiction with respect to matters arising under this Act.
 
@@ -3958,7 +3958,7 @@ then, except as otherwise prescribed:
 
 ##### <a id="159"></a>159  Commissioner may appear in appeals
 
-                   The Commissioner may appear and be heard at the hearing of an appeal to the Federal Court against a decision or direction of the Commissioner even if the Commissioner is not a party to the appeal.
+                   The Commissioner may appear and be heard at the hearing of an appeal to the Federal Court against a decision or direction of the Commissioner even if the Commissioner is not a party to the appeal.
 
 ##### <a id="160"></a>160  Powers of Federal Court
 
@@ -4492,7 +4492,7 @@ but the person is taken not to be ordinarily resident in Australia if he or she 
 
                      (a)  is usually occupied by an SES employee; and
 
-                     (b)  has been declared by the Secretary of the Department, in writing, to be the position of Designated Manager.
+                     (b)  has been declared by the Secretary to the Department, in writing, to be the position of Designated Manager.
 
 ## Part 2—Offences
 
@@ -5953,23 +5953,6 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 108, 109): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(4) of the _Industry, Technology and Commerce Legislation Amendment Act 1991_ provides as follows:
@@ -6776,7 +6759,7 @@ of Chapt. 6</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 100, 2005: No. 5, 2011</div>
+    <div>am. No. 100, 2005</div>
   </td>
 </tr>
 <tr>
@@ -7789,14 +7772,6 @@ of Chapt. 6</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -8053,7 +8028,7 @@ Note 1:       The _Personal Property Securities Act 2009_ applies to
 
 Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
 
-As at 19 April 2011 the amendments are not incorporated in this compilation.
+As at 1 January 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8081,7 +8056,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 14 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 19 April 2011 the amendment is not incorporated in this compilation.
+As at 1 January 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
