@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00219/Html/fb347ed4-0e0d-49c3-93dd-4b4f620797b5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00830/Html/b2b11bbc-1f45-4b5c-98df-e2bdd4f5ea6e_files/image001.gif)
 
 # National Film and Sound Archive of Australia Act 2008
 
 **Act No. 14 of 2008 as amended**
 
-This compilation was prepared on 8 February 2012
+This compilation was prepared on 17 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -425,7 +425,13 @@ exceeds 9 years.
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to persons acting as the Chair, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  While the Deputy Chair is acting as the Chair:
+
+                     (a)  the Deputy Chair has, and may exercise, all the Chair’s powers, and must perform all the Chair’s functions and duties; and
+
+                     (b)  this Act, and all other Acts, apply to the Deputy Chair as if he or she were the Chair.
+
+             (3)  Anything done by or in relation to the Deputy Chair when purporting to act under subsection (1) is not invalid merely because the occasion to act had not arisen or had ceased.
 
              (4)  The Minister may appoint a member to act as the Deputy Chair:
 
@@ -439,8 +445,6 @@ Note:          For rules that apply to persons acting as the C
 
                             (iii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (5)  The Minister may appoint a person to act as a member (other than as Chair or Deputy Chair):
 
                      (a)  during a vacancy in the office of a member (whether or not an appointment has previously been made to the office); or
@@ -453,7 +457,17 @@ Note:          For rules that apply to acting appointments, se
 
                             (iii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (6)  Anything done by or in relation to a person purporting to act under an appointment under subsection (4) or (5) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For more information about acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="13"></a>13  Remuneration of members
 
@@ -585,7 +599,7 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
 ##### <a id="23"></a>23  Acting appointments
 
-                   The Board may, after consultation with the Minister, appoint a person to act as the CEO:
+             (1)  The Board may, after consultation with the Minister, appoint a person to act as the CEO:
 
                      (a)  during a vacancy in the office of the CEO (whether or not an appointment has previously been made to the office); or
 
@@ -595,7 +609,15 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="24"></a>24  Other employment
 
@@ -922,7 +944,7 @@ Schedule 2:
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 785–791) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 785–791) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1170,30 +1192,6 @@ _(a)_     Subsection 2(1) (items 2 and 3) of the _Screen Australia (Tran
 </tr>
 <tr>
   <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 12(4), (5)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -1214,22 +1212,6 @@ _(a)_     Subsection 2(1) (items 2 and 3) of the _Screen Australia (Tran
   </td>
   <td>
     <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 23</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1329,11 +1311,57 @@ _(a)_     Subsection 2(1) (items 2 and 3) of the _Screen Australia (Tran
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 785  At the end of subsection 12(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Chair, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 786  Subsections 12(2) and (3)
+
+Repeal the subsections.
+
+## 787  At the end of subsections 12(4) and (5)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 788  Subsection 12(6)
+
+Repeal the subsection.
+
+## 789  Subsection 23(1)
+
+Omit “(1)”.
+
+## 790  At the end of subsection 23(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 791  Subsection 23(2)
+
+Repeal the subsection.
+
+As at 17 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
