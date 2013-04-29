@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2013C00020/Html/d1dc57d7-18ac-4da8-9e9f-80f0e2f00483_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00798/Html/4bf493f4-f347-4b30-a0db-8fb31965df8c_files/image001.gif)
 
 # Transport Safety Investigation Act 2003
 
 **Act No. 18 of 2003 as amended**
 
-This compilation was prepared on 7 January 2013
+This compilation was prepared on 8 November 2012
  taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
@@ -126,8 +126,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
     **Division 1—Investigations**
 
 [21](#21).          Investigations
-
-[21A](#21A).       State or Territory Minister may request investigation of certain transport safety matters
 
 [22](#22).          Restriction on investigations of transport safety matters
 
@@ -720,9 +718,9 @@ Rail vehicles
 
                      (a)  rail transport conducted in the course of trade or commerce among the States; or
 
-                     (c)  rail transport:
+                     (b)  rail transport conducted to or from the Northern Territory; or
 
-                            (ia)  within a Territory, or to or from a Territory; or
+                     (c)  rail transport:
 
                               (i)  within a Commonwealth place, or to or from a Commonwealth place; or
 
@@ -1002,7 +1000,7 @@ Minutes
 
              (6)  The ATSB must ensure that minutes of its meetings are kept.
 
-##### <a id="14AA"></a>14AA  Disclosure of interests
+##### <a id="14AA"></a>14AA  Disclosure of interests
 
              (1)  If a Commissioner has an interest, pecuniary or otherwise, in a matter being considered, or about to be considered, at the meeting, the Commissioner must disclose the nature of that interest to the other Commissioners.
 
@@ -1189,26 +1187,6 @@ Note:          See also section 11, which puts constitutiona
              (2)  The ATSB may discontinue an investigation at any time.
 
              (3)  The ATSB must, within 28 days of discontinuing an investigation, make publicly available, by electronic or other means, a statement setting out the reasons for discontinuing the investigation.
-
-##### <a id="21A"></a>21A  State or Territory Minister may request investigation of certain transport safety matters
-
-             (1)  A Minister of a State or Territory who is responsible, or principally responsible, for the administration of matters relating to the safety of transport by rail vehicles may request the ATSB to investigate a transport safety matter if the matter:
-
-                     (a)  relates to a rail vehicle; and
-
-                     (b)  occurs in the State or Territory.
-
-             (2)  The request must be made in writing and set out the reasons for the request.
-
-             (3)  If a request is made under subsection (1), the ATSB must decide whether to investigate the transport safety matter under paragraph 21(1)(a).
-
-             (4)  In deciding whether to investigate the transport safety matter, the ATSB must take into account:
-
-                     (a)  the reasons set out in the request; and
-
-                     (b)  the sufficiency of any funding and resources that are, or will be, available in relation to the investigation.
-
-             (5)  If the ATSB decides not to investigate the transport safety matter, the ATSB must give written notice of the decision to the Minister who made the request under subsection (1). The notice must set out the reasons for the decision.
 
 ##### <a id="22"></a>22  Restriction on investigations of transport safety matters
 
@@ -2046,7 +2024,7 @@ Note:          The non‑staff member is subject to confidenti
 
              (3)  Subsection (1) or (2) does not apply to:
 
-                     (a)  anything done by a person in performing functions or exercising powers under, or in connection with, this Act or the regulations; or
+                     (a)  anything done by a person in exercising powers under this Act or in connection with this Act; or
 
                      (b)  copying or disclosure for the purposes of the investigation of any offence against a law of the Commonwealth, a State or a Territory; or
 
@@ -2214,7 +2192,7 @@ Defences
 
              (4)  Subsection (1), (2) or (3) does not apply to:
 
-                     (a)  anything done by a person in performing functions or exercising powers under, or in connection with, this Act or the regulations; or
+                     (a)  anything done by a person in performing functions under this Act or in connection with this Act; or
 
                      (b)  disclosure to a court in criminal proceedings for an offence against this Act; or
 
@@ -2638,7 +2616,7 @@ Schedule 1 (items 27–29): Royal Assent</div>
     <div>21 Sept 2012</div>
   </td>
   <td>
-    <div>Schedule 1: 18 Dec 2012 
+    <div>Schedule 1: \[ <i>see</i>Note 3 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2810,7 +2788,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 20, 2009; No. 134, 2012</div>
+    <div>am. No. 20, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3127,23 +3105,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
+    <div>Ss. 21, 22</div>
   </td>
   <td>
     <div>am. No. 20, 2009</div>
@@ -3490,7 +3452,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009; No. 134, 2012</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3522,7 +3484,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009; No. 134, 2012</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3674,7 +3636,63 @@ The following amendment commences at the same time as section 3 of the _Naviga
 
 Omit “_1912_”, substitute “_2012_”.
 
-As at 7 January 2013 the amendment is not incorporated in this compilation.
+As at 8 November 2012 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Transport Safety Investigation Amendment Act 2012 (No. 134, 2012)_
+
+The following amendments commence on 18 December 2012:
+
+## Schedule 1
+
+## 1  Paragraph 11(3)(b)
+
+Repeal the paragraph.
+
+## 2  Before subparagraph 11(3)(c)(i)
+
+Insert:
+
+                            (ia)  within a Territory, or to or from a Territory; or
+
+## 3  After section 21
+
+Insert:
+
+##### <a id="21A"></a>21A  State or Territory Minister may request investigation of certain transport safety matters
+
+             (1)  A Minister of a State or Territory who is responsible, or principally responsible, for the administration of matters relating to the safety of transport by rail vehicles may request the ATSB to investigate a transport safety matter if the matter:
+
+                     (a)  relates to a rail vehicle; and
+
+                     (b)  occurs in the State or Territory.
+
+             (2)  The request must be made in writing and set out the reasons for the request.
+
+             (3)  If a request is made under subsection (1), the ATSB must decide whether to investigate the transport safety matter under paragraph 21(1)(a).
+
+             (4)  In deciding whether to investigate the transport safety matter, the ATSB must take into account:
+
+                     (a)  the reasons set out in the request; and
+
+                     (b)  the sufficiency of any funding and resources that are, or will be, available in relation to the investigation.
+
+             (5)  If the ATSB decides not to investigate the transport safety matter, the ATSB must give written notice of the decision to the Minister who made the request under subsection (1). The notice must set out the reasons for the decision.
+
+## 4  Paragraph 53(3)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  anything done by a person in performing functions or exercising powers under, or in connection with, this Act or the regulations; or
+
+## 5  Paragraph 60(4)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  anything done by a person in performing functions or exercising powers under, or in connection with, this Act or the regulations; or
+
+As at 8 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3786,6 +3804,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _Transport Safety Investigation Amendment Act 2012 (No. 134, 2012)_
+
+The following provision commences on 18 December 2012:
 
 ## Schedule 1
 
