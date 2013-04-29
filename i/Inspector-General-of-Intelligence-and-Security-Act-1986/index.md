@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00829/Html/InsGenIntSec1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00790/Html/InsGenIntSec1986_WD02_image001.gif)
 
 # Inspector-General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 29 November 2010
+ taking into account amendments up to Act No. 127 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Reports concerning collection or communication of intelligence
 
-[25A](#25A).       Reports relating to other inspections [_see_ Note 3]
+[25A](#25A).       Reports relating to other inspections
 
 **Part III—Administrative Provisions**
 
@@ -645,7 +645,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    The Inspector-General may, after notifying the Director-General of Security, at any reasonable time, enter any place where a person is being detained under Division 3 of Part III of the _Australian Security Intelligence Organisation Act 1979_ for the purposes of an inquiry under this Act.
 
-##### <a id="20"></a>20  Security of Commonwealth agency documents
+##### <a id="20"></a>20  Security of Commonwealth agency documents
 
                    Where:
 
@@ -707,9 +707,9 @@ the Inspector-General shall include in his or her final report in relation to th
 
                      (b)  if the Inspector-General considers that a person has been adversely affected by action taken by a Commonwealth agency and that the person should receive compensation for that action—a recommendation that the person receive compensation.
 
-             (3)  If the report, or a final agency copy of the report, includes information that was acquired by the Commissioner of Taxation under the provisions of a taxation law (within the meaning of the _Income Tax Assessment Act 1997_), the Inspector-General must prepare another version of the report, or the final agency copy, that does not disclose the tax information.
+             (3)  If the report, or a final agency copy of the report, includes information that was acquired by the Commissioner of Taxation under the provisions of a tax law (within the meaning of section 3E of the _Taxation Administration Act 1953_), the Inspector-General must prepare another version of the report, or the final agency copy, that does not disclose the tax information.
 
-Note:          section 355-185 in Schedule 1 to the _Taxation Administration Act 1953_ permits the Inspector-General to disclose the information to the Director-General of Security in the report under subsection (1).
+Note:          Section 3EC of the _Taxation Administration Act 1953_ permits the Inspector-General to disclose the information to the Director-General of Security in the report under subsection (1).
 
              (4)  The Inspector-General must give the responsible Minister a copy of:
 
@@ -763,7 +763,7 @@ Note:          section 355-185 in Schedule 1 to the _Taxat
 
 the Inspector-General shall, in addition to giving a copy of the report in relation to the inquiry to the responsible Minister, give a copy of the report to the Prime Minister.
 
-##### <a id="25A"></a>25A  Reports relating to other inspections [_see_ Note 3]
+##### <a id="25A"></a>25A  Reports relating to other inspections
 
                    If the Inspector-General completes an inspection of an intelligence agency under section 9A, the Inspector-General may report on the inspection to the responsible Minister or the head of the relevant agency.
 
@@ -1440,23 +1440,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 53–54): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Inspector-General of Intelligence and Security Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(20) of which provides as follows:
@@ -1887,15 +1870,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 128, 2005; No. 170, 2006; No. 52, 2007; Nos. 127 and 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 22(3)</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
+    <div>am. No. 161, 1999; No. 128, 2005; No. 170, 2006; No. 52, 2007; No. 127, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2084,18 +2059,6 @@ Subsection 34(5)—Schedule 6 (item 51) of the _Freedom of Information Amendment
 ## 51  Subsection 34(5)
 
 Before “section 60A”, insert “Division 9 of Part VII or”.
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
-
-### Note 3
-
-Section 25A (note)—Schedule 2 (item 55) of the _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010_ (No. 145, 2010) provides as follows:
-
-## Schedule 2
-
-## 55  Section 25A (note)
-
-Omit “Section 3EC of”, substitute “Subdivision 355-C in Schedule 1 to”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
