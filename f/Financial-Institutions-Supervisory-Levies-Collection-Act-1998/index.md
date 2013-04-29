@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00564/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00547/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
 **Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 27 October 2008
- taking into account amendments up to Act No. 105 of 2008
+This compilation was prepared on 17 October 2008
+ taking into account amendments up to Act No. 92 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -31,7 +31,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Definitions
 
-**Part 2—Supervisory levies**
+**Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
 
 [7](#7).            Definitions
 
@@ -51,7 +51,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Regulations may modify this Part if levy Act commences during a financial year
 
-**Part 3—Superannuation (financial assistance funding) levy**
+**Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
 
 [16](#16).          Definitions
 
@@ -74,24 +74,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [25](#25).          Exempting laws ineffective
 
 [26](#26).          Delegation
-
-**Part 3A—Financial claims scheme levies**
-
-[26A](#26A).       Definitions
-
-[26B](#26B).       Liability to levy
-
-[26C](#26C).       When levy due for payment
-
-[26D](#26D).       Late payment penalty
-
-[26E](#26E).        Payment of levy and late payment penalty
-
-[26F](#26F).        Waiver of levy and late payment penalty
-
-[26G](#26G).       Recovery of levy and late payment penalty
-
-[26H](#26H).       Exempting laws ineffective
 
 **Part 4—Miscellaneous**
 
@@ -135,7 +117,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
 
-## Part 2—Supervisory levies
+## Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
 
 ##### <a id="7"></a>7  Definitions
 
@@ -323,7 +305,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
                    If an Act mentioned in section 8 that imposes levy in respect of a particular type of leviable body commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year and that type of leviable body subject to the modifications specified in the regulations.
 
-## Part 3—Superannuation (financial assistance funding) levy
+## Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
 
 ##### <a id="16"></a>16  Definitions
 
@@ -379,7 +361,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00564/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00547/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -422,72 +404,6 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 ##### <a id="26"></a>26  Delegation
 
                    The Minister may, by signed writing, delegate to APRA all or any of his or her powers under this Part.
-
-## Part 3A—Financial claims scheme levies
-
-##### <a id="26A"></a>26A  Definitions
-
-                   In this Part:
-
-                    <a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 26D.
-
-                    <a name="levi"></a>**_levy_** means:
-
-                     (a)  levy imposed by regulations under the _Financial Claims Scheme (ADIs) Levy Act 2008_; or
-
-                     (b)  levy imposed by regulations under the _Financial Claims Scheme (General Insurers) Levy Act 2008_.
-
-                    <a name="levi-month"></a>**_levy month_** means one of the 12 months of the calendar year.
-
-##### <a id="26B"></a>26B  Liability to levy
-
-             (1)  An ADI is liable to pay a levy imposed on the ADI’s liabilities to its depositors.
-
-             (2)  A general insurer is liable to pay a levy imposed on the gross premiums received by the general insurer.
-
-##### <a id="26C"></a>26C  When levy due for payment
-
-             (1)  A levy payable by an ADI or a general insurer is due and payable on the date specified in the regulations imposing the levy.
-
-             (2)  The date specified must not be earlier than the 28th day after the day on which the regulation imposing the levy took effect.
-
-             (3)  However, APRA may, by written notice given to the ADI or general insurer before, on or after the day on which levy would be due and payable apart from this subsection, specify a later day as the day on which the levy is due and payable. The notice has effect, and is taken always to have had effect, according to its terms.
-
-Note:          The notice may affect whether and when the ADI or general insurer is liable to pay late payment penalty.
-
-##### <a id="26D"></a>26D  Late payment penalty
-
-             (1)  If any levy payable by an ADI or general insurer remains unpaid at the start of a levy month after the levy became due for payment, the ADI or general insurer is liable to pay the Commonwealth, for that levy month, a penalty worked out using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2008C00564/Html/FinanInstSuperLeviesCollect98WD02_image003.gif)
-
-             (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
-
-             (3)  However, APRA may, by written notice given to the ADI or general insurer before, on or after the day on which late payment penalty would be due and payable apart from this subsection, specify a later day as the day on which the late payment penalty is due and payable. The notice has effect, and is taken always to have had effect, according to its terms.
-
-##### <a id="26E"></a>26E  Payment of levy and late payment penalty
-
-                   Levy and late payment penalty are payable to APRA on behalf of the Commonwealth.
-
-##### <a id="26F"></a>26F  Waiver of levy and late payment penalty
-
-                   On behalf of the Commonwealth, APRA may waive the whole or a part of an amount of levy or late payment penalty.
-
-##### <a id="26G"></a>26G  Recovery of levy and late payment penalty
-
-             (1)  The following amounts may be recovered by the Commonwealth as debts due to the Commonwealth:
-
-                     (a)  levy that is due and payable;
-
-                     (b)  late payment penalty that is due and payable.
-
-             (2)  APRA may bring proceedings in the name of the Commonwealth (as its agent) for the recovery of a debt due to the Commonwealth as described in subsection (1).
-
-##### <a id="26H"></a>26H  Exempting laws ineffective
-
-             (1)  A law made before the commencement of this section does not exempt an ADI or general insurer from liability to pay levy.
-
-             (2)  A law made on or after the commencement of this section purporting to exempt an ADI or general insurer from liability to pay taxes under laws of the Commonwealth that would otherwise include levy does not exempt the ADI or general insurer from liability to pay levy unless the exemption expressly refers to levy under the Act under which the levy is imposed.
 
 ## Part 4—Miscellaneous
 
@@ -834,23 +750,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>105, 2008</div>
-  </td>
-  <td>
-    <div>17 Oct 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 55–57): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 (items 3 and 4) only of the _Superannuation Legislation Amendment Act (No. 3) 1999,_ subsection 2(1) of which provides as follows _:_
@@ -959,78 +858,6 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
   </td>
 </tr></table>
 
-_(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 3.
-    </div>
-  </td>
-  <td>
-    <div>
-      18 October 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedules 
-      2 to 5
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      18 October 2008
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -1060,14 +887,6 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1128,14 +947,6 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 16</div>
   </td>
   <td>
@@ -1148,30 +959,6 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
   </td>
   <td>
     <div>rs. No. 8, 2005; No. 154, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 26A–26H</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
   </td>
 </tr></table>
 
@@ -1210,7 +997,7 @@ Leviable FHSA entities
 
              (7)  A body corporate or trustee that is a leviable FHSA entity at any time during a financial year that ends after the commencement of the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_ is liable to pay a levy imposed in respect of that financial year.
 
-As at 27 October 2008 the amendments are not incorporated in this compilation.
+As at 17 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
