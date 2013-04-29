@@ -1,9 +1,8 @@
 
 Superannuation (Resolution of Complaints) Act 1993
 Act No. 80 of 1993 as amended
-This compilation was prepared on 22 October 2002  taking into account amendments up to Act No. 86 of 2002
+This compilation was prepared on 29 July 2002  taking into account amendments up to Act No. 63 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 [Note: Part 7A ceased to have effect on 13 September 1999 (see Gazette 1999, No. S423)]
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -1458,17 +1457,7 @@ Family Law Legislation Amendment (Superannuation) Act 2001
 61, 2001
 28 June 2001
 Ss. 4, 5 and Schedule 1 (items 7‑9): [see (h), Note 2 and Table A]
-S. 4 S. 5 (as am. by 86, 2002, Sch. 5 [item 10]) [see Table A]
-as amended by
-
-
-
-
-Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
-86, 2002
-11 Oct 2002
-Schedule 5 (item 10): [see (ha) and Table A]
-—
+Ss. 4 and 5 [see Table A]
 Financial Services Reform (Consequential Provisions) Act 2001
 123, 2001
 27 Sept 2001
@@ -1523,20 +1512,6 @@ Immediately after the time specified in the Superannuation Industry (Supervision
 (h)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (items 7‑9) only of the Family Law Legislation Amendment (Superannuation) Act 2001, section 2 of which provides as follows:
 	(1)	Subject to subsection (2), this Act commences on a day to be fixed by Proclamation. [see Note 2]
 	(2)	If this Act does not commence under subsection (1) within the period of 18 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period. [see Note 2]
-(ha)	The  Family Law Legislation Amendment (Superannuation) Act 2001 was amended by Schedule 5 (item 10) only of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (item 4(a)) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-4.  Schedule 5, item 10
-The later of:
-(a) the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002; or
-[see Table A]
 (i)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (item 346) only of the Financial Services Reform (Consequential Provisions) Act 2001, subsections 2(1) and (6) of which provide as follows:
 	(1)	In this section:
 		FSR commencement means the commencement of item 1 of Schedule 1 to the Financial Services Reform Act 2001.
@@ -1773,7 +1748,7 @@ qualifying person means:
 	(b)	a beneficiary of an approved deposit fund; or
 	(c)	a person who has an interest in a death benefit; or
 	(d)	the holder of an RSA.
-As at 22 October 2002 the amendments are not incorporated in this compilation.
+As at 29 July 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)
@@ -1812,14 +1787,9 @@ superannuation amendments means the amendments made by Schedule 1.
 5  Application of superannuation amendments
 	(1)	Subject to this section, the superannuation amendments apply to all marriages, including those that were dissolved before the startup time.
 	(2)	Subject to subsections (3) and (4), the superannuation amendments do not apply to a marriage if a section 79 order, or a section 87 agreement, is in force in relation to the marriage at the startup time.
-	(3)	[NOTE] If a section 79 order that is in force at the startup time is later set aside under paragraph 79A(1)(a), (b), (c) or (d) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the order is set aside.
+	(3)	If a section 79 order that is in force at the startup time is later set aside under paragraph 79A(1)(a), (b), (c) or (d) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the order is set aside.
 	(4)	If an approval of a section 87 agreement that is in force at the startup time is later revoked on a ground specified in paragraph 87(8)(a), (c) or (d) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the approval is revoked.
 	(5)	Part VIIIB of the Family Law Act does not apply in relation to a financial agreement that was made before the startup time.
-[NOTE] The following provision commences on 11 April 2003 unless proclaimed earlier:
-Schedule 5 (item 10) of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002) further amends section 5 as follows:
-Schedule 5
-10  Subsection 5(3)
-Omit “paragraph 79A(1)(a), (b), (c) or (d)”, substitute “paragraph 79A(1)(a), (b), (c), (d) or (e)”.
 
 Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)
 4  Application of amendments
