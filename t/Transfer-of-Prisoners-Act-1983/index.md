@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00508/Html/TransferofPrisoners1983WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00416/Html/TransferofPrisoners1983WD02_image001.gif)
 
 # Transfer of Prisoners Act 1983
 
 **Act No. 95 of 1983 as amended**
 
-This compilation was prepared on 11 November 2009
- taking into account amendments up to Act No. 106 of 2009
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1282,23 +1282,6 @@ Schedule 4 (items 492–494): 4 July 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009</div>
-  </td>
-  <td>
-    <div>106, 2009</div>
-  </td>
-  <td>
-    <div>6 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 112): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Transfer of Prisoners Act 1983_ was amended by Part XV (sections 117–119) only of the _Defence Legislation Amendment Act 1984_, subsection 2(8) of which provides as follows:
@@ -1628,20 +1611,6 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
     <div>am. No. 73, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009 (No. 106, 2009)_
-
-The following amendment commences on 4 December 2009:
-
-## Schedule 1
-
-## 112  Subsection 16(1)
-
-Omit “any court of a State or Territory or to any Judge of such a court”, substitute “a court, or to the Judge of a court, sitting in a State or Territory”.
-
-As at 11 November 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
