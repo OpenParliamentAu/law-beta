@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00568/Html/OlymipicInsigProtect198756_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00172/Html/OlymipicInsigProtect198756_image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1848,7 +1848,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2010C00568/Html/OlymipicInsigProtect198756_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00172/Html/OlymipicInsigProtect198756_image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -1986,23 +1986,6 @@ of Assent</div>
   <td>
     <div>Schedule 5 (item 76): Royal Assent 
 Schedule 5 (item 137(a)): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 176–188): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2798,72 +2781,5 @@ Renumbered s. 76</div>
 No. 156, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 176  Subsection 2(1)
-
-Insert:
-
-                    <a name="australian-consum-law"></a>**_Australian Consumer Law_** means Schedule 2 to the _Competition and Consumer Act 2010_ as applied under Subdivision A of Division 2 of Part XI of that Act.
-
-## 177  Subsection 9A(1)
-
-Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
-
-_Note:       The heading to section 9A is altered by omitting “Trade Practices Act 1974” and substituting “Australian Consumer Law”._
-
-## 178  Subsection 9A(1)
-
-Omit “section 52 of that Act”, substitute “section 18 of the Australian Consumer Law”.
-
-## 179  Paragraph 9A(1)(a)
-
-Omit “paragraph 53(c) of that Act”, substitute “paragraph 29(1)(g) of the Australian Consumer Law”.
-
-## 180  Paragraph 9A(1)(b)
-
-Omit “paragraph 53(d) of that Act”, substitute “paragraph 29(1)(h) of the Australian Consumer Law”.
-
-## 181  Subsection 9A(2)
-
-Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
-
-## 182  Subsection 9A(2)
-
-Omit “that Act”, substitute “the Australian Consumer Law”.
-
-## 183  Subsection 48(2)
-
-Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
-
-## 184  Subsection 48(2)
-
-Omit “section 52 of that Act”, substitute “section 18 of the Australian Consumer Law”.
-
-## 185  Paragraph 48(2)(a)
-
-Omit “paragraph 53(c) of that Act”, substitute “paragraph 29(1)(g) of the Australian Consumer Law”.
-
-## 186  Paragraph 48(2)(b)
-
-Omit “paragraph 53(d) of that Act”, substitute “paragraph 29(1)(h) of the Australian Consumer Law”.
-
-## 187  Subsection 48(4)
-
-Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
-
-## 188  Subsection 48(4)
-
-Omit “that Act”, substitute “the Australian Consumer Law”.
-
-As at 16 August 2010 the amendments are not incorporated in this compilation.
 
  
