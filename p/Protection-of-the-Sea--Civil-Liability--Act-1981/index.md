@@ -1,7 +1,7 @@
 
-Protection of the Sea (Civil Liability) Act 1981
+Protection of the Sea (Civil Liability) Act 1981
 Act No. 31 of 1981 as amended
-This compilation was prepared on 23 October 2001 taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 6 April 2001 taking into account amendments up to Act No. 122 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -15,7 +15,6 @@ Part I—Preliminary	1
 4	Act to bind Crown	2
 5	Operation of Act	2
 6	Declaration of countries to which Civil Liability Convention applies	2
-6A	Application of the Criminal Code	2
 Part II—Liability and limitation of liability under Convention	3
 7	Application of Part	3
 8	Certain provisions of Convention to have the force of law	4
@@ -27,7 +26,7 @@ Part III—Insurance certificates relating to liability for pollution damage	7
 13	Interpretation	7
 14	Application	7
 15	Insurance certificates to be carried on certain ships	8
-16	Issue of insurance certificates	11
+16	Issue of insurance certificates	10
 17	Extension, cancellation and lapsing of insurance certificates	12
 18	Government ships	13
 19	Review of decisions	14
@@ -49,8 +48,7 @@ Part V—Miscellaneous	22
 27	Regulations	24
 Schedule 1—International Convention on Civil Liability for Oil Pollution Damage	25
 Schedule 2—Protocol of 1992 to amend the International Convention on Civil Liability for Oil Pollution Damage, 1969	37
-Notes to the Protection of the Sea (Civil Liability) Act 1981	51
-4	Application of Amendments	56
+Notes		51
 An Act relating to civil liability for pollution damage
 Part I—Preliminary
 1  Short title [see Note 1]
@@ -74,9 +72,6 @@ the 1992 Protocol means the Protocol of 1992 to amend the International Conventi
 		This Act applies both within and outside Australia and extends to every external Territory.
 6  Declaration of countries to which Civil Liability Convention applies
 		The Minister may, by notice published in the Gazette, declare that, for the purposes of this Act, a country or territory, other than Australia, specified in the notice is a country or territory to which the Civil Liability Convention applies.
-6A  Application of the Criminal Code
-		Chapter 2 (except Part 2.5) of the Criminal Code applies to all offences created by this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Liability and limitation of liability under Convention
 7  Application of Part
@@ -140,11 +135,7 @@ Part III—Insurance certificates relating to liability for pollution damage
 	(a)	in the case of the master—20 penalty units;
 	(b)	in the case of the owner, if the owner is not a body corporate—20 penalty units; and
 	(c)	in the case of the owner, if the owner is a body corporate—50 penalty units.
-	(3A)	An offence under subsection (1), (2) or (3) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(4)	An officer may require the master or other person in charge of a ship to which this Part applies to produce a relevant insurance certificate in respect of the ship, being such a certificate that is in force, and, if he or she fails to produce the certificate to the officer, he or she is guilty of an offence against this subsection punishable, upon conviction, by a fine not exceeding 20 penalty units.
-	(4A)	An offence under subsection (4) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(4)	An officer may require the master or other person in charge of a ship to which this Part applies to produce a relevant insurance certificate in respect of the ship, being such a certificate that is in force, and, if he or she refuses or fails to produce the certificate to the officer, he or she is guilty of an offence against this subsection punishable, upon conviction, by a fine not exceeding 20 penalty units.
 	(5)	Where an officer has reasonable grounds to believe that the master or other person in charge of a ship to which this Part applies is attempting to take the ship out of a port in Australia at a time when a relevant insurance certificate in respect of the ship, being such a certificate that is in force, is not being carried on board the ship, the officer may detain the ship until such time as such a certificate is obtained or produced to the officer, as the case requires.
 	(6)	This section is not intended to exclude or limit the concurrent operation of a provision of a law of a State giving effect to paragraphs 1, 2 and 3 of Article VII of the Convention in relation to a ship as defined by subsection 7(4).
 	(7)	For the purposes of this section, a relevant insurance certificate in respect of a ship is:
@@ -265,8 +256,6 @@ is a charge on that ship, or on each of those ships, as the case may be.
 	(a)	in the case of the master—by a fine not exceeding 50 penalty units or imprisonment for a term not exceeding 2 years, or both;
 	(b)	in the case of the owner, if the owner is not a body corporate—by a fine not exceeding 50 penalty units or imprisonment for a term not exceeding 2 years, or both; or
 	(c)	in the case of the owner, if the owner is a body corporate—by a fine not exceeding 100 penalty units.
-	(3A)	An offence under subsection (3) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(4)	In this section:
 Australian waters means:
 	(a)	the territorial sea of Australia; and
@@ -805,7 +794,6 @@ Explanatory notes:
 Notes to the Protection of the Sea (Civil Liability) Act 1981
 Note 1
 The Protection of the Sea (Civil Liability) Act 1981 as shown in this compilation comprises Act No. 31, 1981 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -862,11 +850,6 @@ Protection of the Sea (Civil Liability) Amendment Act 2000
 5 Oct 2000
 Ss. 1‑3: Royal Assent Schedule 1 (Parts 3, 4): 6 Oct 2000 Remainder: 6 Apr 2001
 —
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001
-143, 2001
-1 Oct 2001
-2 Oct 2001
-S. 4 [see Table A]
 (a)	The Protection of the Sea (Civil Liability) Act 1981 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1983, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 (b)	The Protection of the Sea (Civil Liability) Act 1981 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1984, subsection 2(1) of which provides as follows:
@@ -893,8 +876,6 @@ Provision affected
 How affected
 S. 3	
 am. No. 167, 1986; No. 122, 2000
-S. 6A	
-ad. No. 143, 2001
 Ss. 8, 9	
 am. No. 167, 1986
 S. 10	
@@ -902,7 +883,7 @@ am. No. 95, 1995
 S. 13	
 am. No. 95, 1995
 S. 15	
-am. No. 95, 1995; No. 122, 2000; No. 143, 2001
+am. No. 95, 1995; No. 122, 2000
 S. 16	
 am. No. 72, 1984; No. 95, 1995
 S. 17	
@@ -922,7 +903,7 @@ am. No. 122, 2000
 S. 21	
 am. No. 95, 1995; No. 122, 2000
 S. 22	
-am. No. 64, 1994; No. 122, 2000; No. 143, 2001
+am. No. 64, 1994; No. 122, 2000
 Heading to Part IVA	
 rs. No. 122, 2000
 Part IVA (s. 22A)	
@@ -937,10 +918,4 @@ S. 26
 am. No. 95, 1995
 Schedule 2	
 rs. No. 167, 1986 (as am. by No. 141, 1987; No. 95, 1995)
-Table A
-Application, saving or transitional provisions
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)
-4  Application of Amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
