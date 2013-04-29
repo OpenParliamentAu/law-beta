@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00852/Html/8b1fd368-4afa-43e3-8ada-822ee794e712_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00769/Html/43b29ecc-8197-46d9-b2ab-1a18ea86e635_files/image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 24 November 2012
+This compilation was prepared on 31 October 2012
  taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
@@ -67,7 +67,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [20](#20).          Terms and conditions of appointment not provided for by Act
 
-[21](#21).          Appointment of Deputy Chairperson
+[21](#21).          Appointment of Chairperson and Deputy Chairperson
 
 [22](#22).          Board’s functions and powers not affected by vacancy etc 
 
@@ -114,16 +114,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [41](#41).          Conduct of meetings
 
 [42](#42).          Resolutions without formal meetings
-
-**Part 3A—Merit‑based appointment of non‑executive Directors**
-
-[43](#43).          Functions of Nomination Panel
-
-[43A](#43A).       Selection criteria
-
-[43B](#43B).       Consultation, and selection of candidate not nominated by Nomination Panel
-
-[43C](#43C).       Department’s annual report
 
 **Part 4—Powers and duties of the SBS**
 
@@ -277,8 +267,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="nation-broadcast-servic"></a>**_national broadcasting service_** has the same meaning as in the _Broadcasting Services Act 1992_.
 
-                    <a name="nomin-panel"></a>**_Nomination Panel_** means the Nomination Panel established under section 24A of the _Australian Broadcasting Corporation Act 1983_.
-
                     <a name="non-execut-director"></a>**_non‑executive Director_** means a Director other than the Managing Director.
 
                     <a name="program"></a>**_program_** means a radio program or a television program.
@@ -355,9 +343,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                      (a)  the Managing Director; and
 
-                    (aa)  the Chairperson; and
-
-                     (b)  not fewer than 3 nor more than 7 other non‑executive Directors.
+                     (b)  not fewer than 4 nor more than 8 non‑executive Directors.
 
 ##### <a id="9"></a>9  Role of the Board
 
@@ -457,63 +443,21 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
              (1)  The Governor‑General must appoint the non‑executive Directors.
 
-             (2)  Before the Governor‑General appoints a person as a non‑executive Director, the Minister must have regard to the need to ensure:
+             (2)  In appointing a person as a non‑executive Director, the Governor‑General must have regard to the need to ensure:
 
                      (a)  that the Directors collectively possess an appropriate balance of expertise in the areas required to govern the SBS effectively, including an understanding of Australia’s multicultural society and the needs and interests of the SBS’s culturally diverse audience; and
 
                      (b)  that the Directors collectively comprise persons with a diversity of cultural perspectives; and
 
-                     (c)  that the Directors include a person who the Minister is satisfied, having regard to consultations between the Minister and representatives of industrial organisations representing employees, has an appropriate understanding of the interests of employees.
+                     (c)  that the Directors include a person who the Governor‑ General is satisfied, having regard to consultations between the Minister and representatives of industrial organisations representing employees, has an appropriate understanding of the interests of employees.
 
-          (2A)  The following persons are not eligible for appointment as a non‑executive Director referred to in paragraph 8(aa) or (b):
-
-                     (a)  a member or former member of the Parliament of the Commonwealth;
-
-                     (b)  a member or former member of the Parliament of a State, of the Legislative Assembly for the Australian Capital Territory or of the Legislative Assembly of the Northern Territory;
-
-                     (c)  a person who is or was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_).
-
-       (2AA)  However, so far as subsection (2A) relates to a person who:
-
-                     (a)  is a former member of a Parliament or a Legislative Assembly referred to in that subsection; or
-
-                     (b)  was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_);
-
-that subsection applies only for the period of 12 months beginning on the day the person ceased to be a member of that Parliament or that Legislative Assembly or a senior political staff member (within the meaning of that Act).
-
-       (2AB)  A person who:
-
-                     (a)  is a former member of a Parliament or a Legislative Assembly referred to in subsection (2A); or
-
-                     (b)  was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_);
-
-must not be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) unless, in accordance with Part 3A, the Nomination Panel has nominated the person for the appointment.
-
-          (2B)  Subject to subsection (2C), a person must not be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) unless Part 3A is complied with.
-
-          (2C)  The Minister may recommend to the Governor‑General that a particular person be re‑appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) without Part 3A being complied with.
-
-             (3)  The appointment of a person as a non‑executive Director is not invalid merely because of a defect or irregularity in relation to the appointment (including a failure to comply with Part 3A).
+             (3)  The appointment of a person as a non‑executive Director is not invalid merely because of a defect or irregularity in relation to the appointment.
 
 ##### <a id="18"></a>18  Term of appointment
 
              (1)  A non‑executive Director holds office, subject to this Act, for such period (not longer than 5 years) as is specified in the instrument of appointment, but is eligible for re‑appointment.
 
              (2)  Where a person is re‑appointed as a non‑executive Director, the re‑appointment must be for a period not exceeding 5 years.
-
-             (3)  The sum of the periods for which a person holds either or both of the following offices must not exceed 10 years:
-
-                     (a)  an office referred to in paragraph 8(aa);
-
-                     (b)  an office referred to in paragraph 8(b).
-
-Example 1: Assume a person holds office as Chairperson for an initial period of 5 years and then holds office as Chairperson for a further period of 5 years.
-
-                   The person cannot hold office as Chairperson again and cannot hold office as a Director referred to in paragraph 8(b).
-
-Example 2: Assume a person holds office as a Director referred to in paragraph 8(b) for a period of 5 years and then holds office as Chairperson for a period of 3 years.
-
-The person may now hold office as Chairperson, or as a Director referred to in paragraph 8(b), for a maximum period of 2 years.
 
 ##### <a id="19"></a>19  Non‑executive Directors hold office on part‑time basis
 
@@ -523,11 +467,11 @@ The person may now hold office as Chairperson, or as a Director referred to in p
 
                    A non‑executive Director holds office on such terms and conditions in relation to matters not provided for by this Act as are determined by the Governor‑General.
 
-##### <a id="21"></a>21  Appointment of Deputy Chairperson
+##### <a id="21"></a>21  Appointment of Chairperson and Deputy Chairperson
 
-             (1)  The Governor‑General must appoint one of the non‑executive Directors to be the Deputy Chairperson of the Board.
+             (1)  The Governor‑General must appoint one of the non‑executive Directors to be the Chairperson of the Board and another of the non‑executive Directors to be the Deputy Chairperson of the Board.
 
-             (2)  A person must not continue to hold the position of Deputy Chairperson, acting Chairperson or acting Deputy Chairperson if the person ceases to be a non‑executive Director.
+             (2)  A person must not continue to hold the position of Chairperson, Deputy Chairperson, acting Chairperson or acting Deputy Chairperson if the person ceases to be a non‑executive Director.
 
 ##### <a id="22"></a>22  Board’s functions and powers not affected by vacancy etc.
 
@@ -774,88 +718,6 @@ the Board may remove the Managing Director from office.
                      (a)  without a meeting, a majority of the number of the Directors indicate agreement with the resolution in accordance with the method determined by the Board; and
 
                      (b)  that majority would, if present at a meeting of the Board, have constituted a quorum under subsection 40(1).
-
-## Part 3A—Merit‑based appointment of non‑executive Directors
-
-##### <a id="43"></a>43  Functions of Nomination Panel
-
-             (1)  The functions of the Nomination Panel include:
-
-                     (a)  to conduct a selection process for each appointment of a non‑executive Director referred to in paragraph 8(aa) or (b); and
-
-                     (b)  to assess all applicants for the appointment against the selection criteria determined under subsection 43A(1) and any additional selection criteria notified under subsection 43A(2); and
-
-                     (c)  to assess all applicants for the appointment on the basis of merit; and
-
-                     (d)  to give a written report to the Minister on the outcome of the selection process that contains a list of at least 3 candidates who are nominated for the appointment and a comparative assessment of those candidates.
-
-             (2)  For the purposes of paragraph (1)(c), the assessment of applicants for appointment as a non‑executive Director referred to in paragraph 8(aa) or (b) is based on merit if:
-
-                     (a)  an assessment is made of the comparative suitability of the applicants for the duties of that Director, using a competitive selection process; and
-
-                     (b)  the assessment is based on the relationship between the applicants’ experience, skills and competencies and the experience, skills and competencies genuinely required for the duties of that Director; and
-
-                     (c)  the assessment focuses on the capability of the applicants to achieve outcomes related to the duties of that Director; and
-
-                     (d)  the assessment is the primary consideration in nominating the candidates for that appointment.
-
-Advertising appointments
-
-             (3)  The Nomination Panel must invite written applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) by advertisements published:
-
-                     (a)  in either or both of the following:
-
-                              (i)  a newspaper circulating generally throughout Australia;
-
-                             (ii)  for each State, the Australian Capital Territory and the Northern Territory—a newspaper circulating generally in that State or Territory; and
-
-                     (b)  on the Department’s website.
-
-Selection process creates another appointment
-
-             (4)  If:
-
-                     (a)  under subsection (3), the Nomination Panel invites applications by persons seeking to be appointed as Chairperson (whether or not it also invites applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(b)); and
-
-                     (b)  as a result of the selection process, a non‑executive Director referred to in paragraph 8(b) is appointed as the Chairperson (allowing another appointment (the **_new appointment_**) of a Director referred to in that paragraph to be made);
-
-then:
-
-                     (c)  the Panel is not required to conduct another selection process for the new appointment; and
-
-                     (d)  if the Panel does not do so—paragraphs (1)(b), (c) and (d) of this section apply in relation to the new appointment as if:
-
-                              (i)  the unsuccessful applicants (other than a non‑executive Director referred to in paragraph 8(b)) for the appointment as Chairperson were applicants for the new appointment; and
-
-                             (ii)  if the Panel also invited applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(b)—the unsuccessful applicants for the appointment were applicants for the new appointment.
-
-##### <a id="43A"></a>43A  Selection criteria
-
-             (1)  The Minister must, by legislative instrument, determine selection criteria for the appointment of a non‑executive Director referred to in paragraph 8(aa) or (b).
-
-             (2)  The Minister may, in relation to a particular such appointment, give a written notice to the Nomination Panel of additional selection criteria for that appointment.
-
-             (3)  A notice under subsection (2) is not a legislative instrument.
-
-##### <a id="43B"></a>43B  Consultation, and selection of candidate not nominated by Nomination Panel
-
-             (1)  If:
-
-                     (a)  the Nomination Panel gives the Minister a report under paragraph 43(1)(d) in relation to the appointment of a non‑executive Director referred to in paragraph 8(aa) or (b); and
-
-                     (b)  the Minister considers that a person not nominated by the Nomination Panel should be appointed;
-
-the Minister must give the Prime Minister a written notice that:
-
-                     (c)  specifies the name of that person; and
-
-                     (d)  sets out the Minister’s reasons for preferring that person.
-
-             (2)  If that person is so appointed, the Minister must table the reasons for that appointment in each House of the Parliament no later than 15 sitting days of that House after that appointment is made. Those reasons must include an assessment of that person against the selection criteria.
-
-##### <a id="43C"></a>43C  Department’s annual report
-
-                   The Department’s annual report for a financial year must include a statement in relation to each selection process for the appointment of a non‑executive Director that was completed in that financial year.
 
 ## Part 4—Powers and duties of the SBS
 
@@ -1568,7 +1430,7 @@ of Assent</div>
     <div>25 Nov 1991</div>
   </td>
   <td>
-    <div>S. 54: 24 Mar 1994 ( <i>see Gazette</i>1994, No. GN10) 
+    <div>S. 54: 24 Mar 1994 ( <i>see Gazette</i>1994, No. GN10) 
 Remainder: 23 Dec 1991</div>
   </td>
   <td>
@@ -1877,7 +1739,7 @@ Schedule 2: <i>(h)</i></div>
     <div>24 July 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 18–30): 24 Nov 2012 ( <i>see</i>F2012L02226)</div>
+    <div>Schedule 1 (items 18–30): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 30) \[ <i>see</i>Table A]</div>
@@ -2145,7 +2007,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; Nos. 8 and 45, 2005; No. 112, 2012</div>
+    <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; Nos. 8 and 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2178,14 +2040,6 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
   <td>
     <div>ad. No. 23, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2226,38 +2080,6 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2342,58 +2164,10 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
 </tr>
 <tr>
   <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 43</div>
   </td>
   <td>
     <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43B</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43C</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2869,6 +2643,194 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </td>
 </tr></table>
 
+### Note 2
+
+_National Broadcasting Legislation Amendment Act 2012 (No. 112, 2012)_
+
+The following amendments commence on 24 January 2013 unless proclaimed earlier:
+
+## Schedule 1
+
+## 18  Section 3
+
+Insert:
+
+                    <a name="nomin-panel"></a>**_Nomination Panel_** means the Nomination Panel established under section 24A of the _Australian Broadcasting Corporation Act 1983_.
+
+## 19  After paragraph 8(a)
+
+Insert:
+
+                    (aa)  the Chairperson; and
+
+## 20  Paragraph 8(b)
+
+Omit “4”, substitute “3”.
+
+## 21  Paragraph 8(b)
+
+Omit “8”, substitute “7 other”.
+
+## 22  Subsection 17(2)
+
+Omit “In appointing a person as a non‑executive Director, the Governor‑General”, substitute “Before the Governor‑General appoints a person as a non‑executive Director, the Minister”.
+
+## 23  Paragraph 17(2)(c)
+
+Omit “Governor‑General”, substitute “Minister”.
+
+## 24  After subsection 17(2)
+
+Insert:
+
+          (2A)  The following persons are not eligible for appointment as a non‑executive Director referred to in paragraph 8(aa) or (b):
+
+                     (a)  a member or former member of the Parliament of the Commonwealth;
+
+                     (b)  a member or former member of the Parliament of a State, of the Legislative Assembly for the Australian Capital Territory or of the Legislative Assembly of the Northern Territory;
+
+                     (c)  a person who is or was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_).
+
+       (2AA)  However, so far as subsection (2A) relates to a person who:
+
+                     (a)  is a former member of a Parliament or a Legislative Assembly referred to in that subsection; or
+
+                     (b)  was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_);
+
+that subsection applies only for the period of 12 months beginning on the day the person ceased to be a member of that Parliament or that Legislative Assembly or a senior political staff member (within the meaning of that Act).
+
+       (2AB)  A person who:
+
+                     (a)  is a former member of a Parliament or a Legislative Assembly referred to in subsection (2A); or
+
+                     (b)  was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_);
+
+must not be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) unless, in accordance with Part 3A, the Nomination Panel has nominated the person for the appointment.
+
+          (2B)  Subject to subsection (2C), a person must not be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) unless Part 3A is complied with.
+
+          (2C)  The Minister may recommend to the Governor‑General that a particular person be re‑appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) without Part 3A being complied with.
+
+## 25  At the end of subsection 17(3)
+
+Add “(including a failure to comply with Part 3A)”.
+
+## 26  At the end of section 18
+
+Add:
+
+             (3)  The sum of the periods for which a person holds either or both of the following offices must not exceed 10 years:
+
+                     (a)  an office referred to in paragraph 8(aa);
+
+                     (b)  an office referred to in paragraph 8(b).
+
+Example 1: Assume a person holds office as Chairperson for an initial period of 5 years and then holds office as Chairperson for a further period of 5 years.
+
+                   The person cannot hold office as Chairperson again and cannot hold office as a Director referred to in paragraph 8(b).
+
+Example 2: Assume a person holds office as a Director referred to in paragraph 8(b) for a period of 5 years and then holds office as Chairperson for a period of 3 years.
+
+The person may now hold office as Chairperson, or as a Director referred to in paragraph 8(b), for a maximum period of 2 years.
+
+## 27  Subsection 21(1)
+
+Omit “to be the Chairperson of the Board and another of the non‑executive Directors”.
+
+_Note:       The heading to section 21 is altered by omitting “Chairperson and”._
+
+## 28  Subsection 21(2)
+
+Omit “Chairperson,” (first occurring).
+
+## 29  After Part 3
+
+Insert:
+
+## Part 3A—Merit‑based appointment of non‑executive Directors
+
+##### <a id="43"></a>43  Functions of Nomination Panel
+
+             (1)  The functions of the Nomination Panel include:
+
+                     (a)  to conduct a selection process for each appointment of a non‑executive Director referred to in paragraph 8(aa) or (b); and
+
+                     (b)  to assess all applicants for the appointment against the selection criteria determined under subsection 43A(1) and any additional selection criteria notified under subsection 43A(2); and
+
+                     (c)  to assess all applicants for the appointment on the basis of merit; and
+
+                     (d)  to give a written report to the Minister on the outcome of the selection process that contains a list of at least 3 candidates who are nominated for the appointment and a comparative assessment of those candidates.
+
+             (2)  For the purposes of paragraph (1)(c), the assessment of applicants for appointment as a non‑executive Director referred to in paragraph 8(aa) or (b) is based on merit if:
+
+                     (a)  an assessment is made of the comparative suitability of the applicants for the duties of that Director, using a competitive selection process; and
+
+                     (b)  the assessment is based on the relationship between the applicants’ experience, skills and competencies and the experience, skills and competencies genuinely required for the duties of that Director; and
+
+                     (c)  the assessment focuses on the capability of the applicants to achieve outcomes related to the duties of that Director; and
+
+                     (d)  the assessment is the primary consideration in nominating the candidates for that appointment.
+
+Advertising appointments
+
+             (3)  The Nomination Panel must invite written applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) by advertisements published:
+
+                     (a)  in either or both of the following:
+
+                              (i)  a newspaper circulating generally throughout Australia;
+
+                             (ii)  for each State, the Australian Capital Territory and the Northern Territory—a newspaper circulating generally in that State or Territory; and
+
+                     (b)  on the Department’s website.
+
+Selection process creates another appointment
+
+             (4)  If:
+
+                     (a)  under subsection (3), the Nomination Panel invites applications by persons seeking to be appointed as Chairperson (whether or not it also invites applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(b)); and
+
+                     (b)  as a result of the selection process, a non‑executive Director referred to in paragraph 8(b) is appointed as the Chairperson (allowing another appointment (the **_new appointment_**) of a Director referred to in that paragraph to be made);
+
+then:
+
+                     (c)  the Panel is not required to conduct another selection process for the new appointment; and
+
+                     (d)  if the Panel does not do so—paragraphs (1)(b), (c) and (d) of this section apply in relation to the new appointment as if:
+
+                              (i)  the unsuccessful applicants (other than a non‑executive Director referred to in paragraph 8(b)) for the appointment as Chairperson were applicants for the new appointment; and
+
+                             (ii)  if the Panel also invited applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(b)—the unsuccessful applicants for the appointment were applicants for the new appointment.
+
+##### <a id="43A"></a>43A  Selection criteria
+
+             (1)  The Minister must, by legislative instrument, determine selection criteria for the appointment of a non‑executive Director referred to in paragraph 8(aa) or (b).
+
+             (2)  The Minister may, in relation to a particular such appointment, give a written notice to the Nomination Panel of additional selection criteria for that appointment.
+
+             (3)  A notice under subsection (2) is not a legislative instrument.
+
+##### <a id="43B"></a>43B  Consultation, and selection of candidate not nominated by Nomination Panel
+
+             (1)  If:
+
+                     (a)  the Nomination Panel gives the Minister a report under paragraph 43(1)(d) in relation to the appointment of a non‑executive Director referred to in paragraph 8(aa) or (b); and
+
+                     (b)  the Minister considers that a person not nominated by the Nomination Panel should be appointed;
+
+the Minister must give the Prime Minister a written notice that:
+
+                     (c)  specifies the name of that person; and
+
+                     (d)  sets out the Minister’s reasons for preferring that person.
+
+             (2)  If that person is so appointed, the Minister must table the reasons for that appointment in each House of the Parliament no later than 15 sitting days of that House after that appointment is made. Those reasons must include an assessment of that person against the selection criteria.
+
+##### <a id="43C"></a>43C  Department’s annual report
+
+                   The Department’s annual report for a financial year must include a statement in relation to each selection process for the appointment of a non‑executive Director that was completed in that financial year.
+
+As at 31 October 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2987,6 +2949,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _National Broadcasting Legislation Amendment Act 2012 (No. 112, 2012)_
+
+The following provision commences on 24 January 2013 unless proclaimed earlier:
 
 ## Schedule 1
 
