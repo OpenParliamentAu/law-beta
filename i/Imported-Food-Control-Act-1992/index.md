@@ -1,10 +1,10 @@
 
 
 Imported Food Control Act 1992
-Consolidated as in force on 4 March 1999
-(includes amendments up to Act No. 94, 1997)
+Act No. 221 of 1992
+Consolidated to 21 August 1997
+(includes amendments up to Act No. 94 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-
 Contents
 Part 1—Preliminary	
 1	Short title [see Note 1]	
@@ -13,8 +13,8 @@ Part 1—Preliminary
 4	Application of Act to certain external Territories	
 5	Crown to be bound	
 6	Saving of other laws	
-7	Food to which Act applies	
-Part 2—Control	
+7	Food to which Act applies [see Note 2]	
+Part 2—Control		
 Division 1—Controls on the importation and movement of food	
 8	Importation offence	
 9	Dealing offences	
@@ -56,12 +56,11 @@ Part 4—Miscellaneous
 41	Delegation by Secretary	
 42	Review of decisions	
 43	Regulations	
-Part 5—Consequential amendments of other Acts	
+Part 5—Consequential Amendments of Other Acts	
 Division 1—Amendments of the Customs Act 1901	
-44,	[published separately]	
+	(sections 44, 45) [published separately]
 Division 2—Amendments of the Customs Administration Act 1985	
-46,	[published separately]	
-
+	(sesctions 46, 47) [published separately]
 An Act to provide for the inspection and control of food imported into Australia, and for related purposes
 Do not delete : Chapter placeholder
 Part 1—Preliminary
@@ -150,9 +149,8 @@ This Act is to be construed as being in addition to, and not in derogation of or
 	(a)	the Quarantine Act 1908; or
 	(b)	any other law of the Commonwealth, or any law of a State, whether passed or made before or after the commencement of this Act, that can operate concurrently with this Act; or
 	(c)	any law of an external Territory to which this Act extends because of regulations made for the purpose of section 4, whether passed or made before or after the making of those regulations, that can operate concurrently with this Act.
-7  Food to which Act applies
+7  Food to which Act applies [see Note 2]
 	(1)	This Act applies to all food imported into Australia other than:
-	(aa)	food that is imported from New Zealand and is of a kind that is specified by the regulations to be food to which this Act does not apply; or
 	(a)	prohibited food; or
 	(b)	food that is imported for private consumption; or
 	(c)	food that is ship’s stores or aircraft’s stores, within the meaning of section 130C of the Customs Act.
@@ -693,11 +691,9 @@ the results of such analysis are not reviewable by the Administrative Appeals Tr
 	(ii)	the functions and powers of those committees; and
 	(b)	prescribe requirements for the storage and transport of imported food that is required to be treated, destroyed or re-exported; and
 	(c)	prescribe penalties, not exceeding $1,000 for offences against the regulations.
-Part 5—Consequential amendments of other Acts
-Division 1—Amendments of the Customs Act 1901
-44, 45 [published separately]
-Division 2—Amendments of the Customs Administration Act 1985 
-46, 47 [published separately]
+Part 5—Consequential Amendments of Other Acts
+Division 1—Amendments of the Customs Act 1901 (sections 44, 45) [published separately]
+Division 2—Amendments of the Customs Administration Act 1985 (sesctions 46, 47) [published separately]
 
 NOTES
 1.	The Imported Food Control Act 1992  as  shown in this reprint comprises Act No. 221, 1992 amended as indicated in the Tables below.
@@ -728,24 +724,30 @@ Schedule 6 (items 1, 2): Royal Assent (a)
 Primary Industries and Energy Legislation Amendment Act (No. 2) 1997
 94, 1997
 30 June 1997
-Schedule 4: 22 Oct 1997 (see Gazette 1997, No. S418) (b)
+Schedule 4: [see (b) and Note 2]
 —
 (a)	The Imported Food Control Act 1992 was amended by Schedule 6 (items 1 and 2) only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1996, subsection 2(1) of which provides as follows:
 	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.”
 (b)	The Imported Food Control Act 1992 was amended by Schedule 4 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1997, subsection 2(4) of which provides as follows:
-	“(4) 	The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.”
+	“(4) 	The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.” [see Note 2]
 Table of Amendments 
 
 ad. = added or inserted    am. = amended    rep. = repealed    rs. = repealed and substituted
 
 Provision affected
 How affected
-S. 3	
+S. 3 	
 am. No. 152, 1995; No. 59, 1996
-S. 7	
-am. No. 94, 1997
-S. 17	
+S. 17 	
 am. No. 152, 1995
-S. 40	
+S. 40 	
 rs. No. 59, 1996
+2.	The Imported Food Control Act 1992 was amended by Schedule 4 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1997. The applicable provisions provide as follows:
+Schedule  4
+“1.	Before paragraph 7(1)(a)
+Insert:
+	(aa)	food that is imported from New Zealand and is of a kind that is specified by the regulations to be food to which this Act does not apply; or”
+Subsection 2(4) of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1997 provides as follows:
+“(4)	The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.”
+As at 30 July 1997 no date had been fixed and the amendment is not incorporated in this reprint.
 
