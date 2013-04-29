@@ -1,408 +1,564 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="D76312077D219E12CA256FB30003D3ED/$FILE/image001.png"></v:imagedata></v:shape>
+**
 
-# Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998 
+**
 
-**Act No. 51 of 1998 as amended**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="24" month="2">24 February 2005</st1:date>
-taking into account amendments up to Act No. 12 of 2005
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[4](#4).            External Territories<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[5](#5).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[6](#6).            Imposition of authorised deposit-taking institutions supervisory levy<span style="mso-tab-count: 1">  </span>
+**
 
-[7](#7).            Amount of levy<span style="mso-tab-count: 1 dotted">                                                                                   </span>
+###  Long Title 
+**
 
-[8](#8).            Calculation of indexation factor<span style="mso-tab-count: 1 dotted">                                                           </span>
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[9](#9).            Regulations<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+		This Act may be cited as the _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_.
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                              </span>** 
+ </dl>
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
+<dt>(1)</dt><dd>Subject to subsection (2), this Act commences on a day to be fixed by
 
-## An Act to impose a levy on authorised deposit-taking institutions
+Proclamation.</dd> <dt>(2)</dt><dd>If this Act does not commence under subsection (1) within the period of 24 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.</dd> <dt>(3)</dt><dd>If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations. </dd> </dl>
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 3  Act binds the Crown 
+<dl compact="">
 
-##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
+		This Act binds the Crown in each of its capacities.
 
-                   This Act may be cited as the _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_.
+ </dl>
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 4  External Territories 
+<dl compact="">
 
-##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+		This Act extends to each external Territory.
 
-             (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
+ </dl>
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 5  Definitions 
+<dl compact="">
 
-             (2)  If this Act does not commence under subsection (1) within the period of 24 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+		In this Act, unless the contrary intention appears:
 
-             (3)  If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations.
+ </dl>
+<dl compact=""><dl compact="">
 
-##### <a id="3"></a>3  Act binds the Crown
+_ADI_ has the same meaning as in the _Banking Act 1959_.
 
-                   This Act binds the Crown in each of its capacities.
+ </dl></dl>
 
-##### <a id="4"></a>4  <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>External</st1:placename> <st1:placetype>Territories</st1:placetype></st1:place>
+<dl compact=""><dl compact="">
 
-                   This Act extends to each external Territory.
+Note:	ADI is short for authorised deposit-taking institution.
 
-##### <a id="5"></a>5  Definitions
+ </dl></dl>
 
-                   In this Act, unless the contrary intention appears:
+<def><dl compact=""><dl compact="">
 
-                    <a name="adi"></a>**_ADI_** has the same meaning as in the _Banking Act 1959_.
+_indexation factor_ means the indexation factor calculated under
 
-Note:          ADI is short for authorised deposit-taking institution.
+section 8\. _index number_, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter. _levy imposition day_, in relation to an ADI for a financial year, means:  </dl></dl>
 
-                    <a name="index-factor"></a>**_indexation factor_** means the indexation factor calculated under section 8.
+<center>Back to Top</center>
 
-                    <a name="index-number"></a>**_index number_**, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="levi-imposit-dai"></a>**_levy imposition day_**, in relation to an ADI for a financial year, means:
+<dt>(a)</dt><dd>if the ADI is an ADI on 1 July of the financial year&#151;that day; or</dd>
 
-                     (a)  if the ADI is an ADI on 1 July of the financial year—that day; or
+<dt>(b)</dt><dd>in any other case&#151;the day, during the financial year, on which the ADI
 
-                     (b)  in any other case—the day, during the financial year, on which the ADI becomes an ADI.
+becomes an ADI.
 
-                    <a name="statutori-upper-limit"></a>**_statutory upper limit_** means:
+</dd>
 
-                     (a)  in relation to the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>—$1,500,000; or
+</dl></dl></dl>
 
-                     (b)  in relation to a later financial year—the amount calculated by multiplying the statutory upper limit for the previous financial year by the indexation factor for the later financial year.
+<def><dl compact=""><dl compact="">
 
-##### <a id="6"></a>6  Imposition of authorised deposit-taking institutions supervisory levy
+_statutory upper limit_ means:
 
-                   Levy payable in accordance with subsection 8(1) of the _Financial Institutions Supervisory Levies Collection Act 1998_ is imposed.
+ </dl></dl>
 
-##### <a id="7"></a>7  Amount of levy
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Subject to subsection (2), the amount of levy payable by an ADI for a financial year is the sum of the restricted levy component and the unrestricted levy component for the financial year.
+<dt>(a)</dt><dd>in relation to the first financial year that ends after this Act
 
-Note:          For **_restricted levy component_**, see subsection (1A). For **_unrestricted levy component_**, see subsection (1B).
+commences&#151;$1,000,000; or</dd>
 
-          (1A)  The **_restricted levy_** **_component_** for the financial year is:
+<dt>(b)</dt><dd>in relation to a later financial year&#151;the amount calculated by
 
-                     (a)  unless paragraph (b) or (c) applies—the amount that, for the financial year, is the restricted levy percentage of the ADI’s asset value; or
+multiplying the statutory upper limit for the previous financial year by the
 
-                     (b)  if the amount worked out under paragraph (a) exceeds the maximum restricted levy amount for the financial year—the maximum restricted levy amount; or
+indexation factor for the later financial year.
 
-                     (c)  if the amount worked out under paragraph (a) is less than the minimum restricted levy amount for the financial year—the minimum restricted levy amount.
+</dd>
 
-Note:          The restricted levy percentage, maximum restricted levy amount, minimum restricted levy amount and the method of working out the ADI’s asset value are as determined under subsection (3).
+</dl></dl></dl>
 
-          (1B)  The **_unrestricted levy_** **_component_** for the financial year is the amount that, for the financial year, is the unrestricted levy percentage of the ADI’s asset value.
+**
 
-Note:          The unrestricted percentage is as determined under subsection (3).
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 6  Imposition of authorised deposit-taking institutions supervisory levy 
+**
 
-             (2)  If the levy imposition day for the ADI for the financial year is later than 1 July in the financial year, the amount of levy payable by the ADI for the financial year is the amount worked out using the following formula:
+<dl compact=""><dl compact="">
 
-<v:shape id="_x0000_i1026" style="WIDTH: 249.75pt; HEIGHT: 59.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="D76312077D219E12CA256FB30003D3ED/$FILE/image003.wmz"></v:imagedata></v:shape>
+		Levy payable in accordance with subsection 8(1) of the _Financial Institutions Supervisory Levies Collection Act 1998_ is imposed.
 
-             (3)  The Treasurer is, in writing, to determine:
+ </dl></dl>
 
-                     (a)  the **_maximum restricted levy_** **_amount_** for each financial year; and
+**
 
-                     (b)  the **_minimum restricted levy amount_** for each financial year; and
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 7  Amount of levy 
+**
 
-                     (c)  the **_restricted levy percentage_** for each financial year; and
+ <dl compact=""><dl compact="">
 
-                    (ca)  the **_unrestricted levy percentage_** for each financial year; and
+<dt>(1)</dt><dd>Subject to subsection (2), the amount of levy payable by an ADI for a
 
-                     (d)  how an **_ADI’s asset value_** is to be worked out.
+financial year is:
 
-             (4)  An amount determined under subsection (3) as the maximum restricted levy amount must not exceed the statutory upper limit as at the time when the determination is made.
+</dd> </dl></dl>
 
-             (5)  The Treasurer’s determination under paragraph (3)(d) of how an ADI’s asset value is to be worked out is to include, but is not limited to, a determination of the day as at which the ADI’s asset value is to be worked out. That day must be:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  if the ADI was an ADI at all times from and including 17 March of the previous financial year to and including the following 30 June—a day in the period from and including that 17 March to and including the following 14 April; or
+<dt>(a)</dt><dd>unless paragraph (b) or (c) applies&#151;the amount that, for the financial
 
-                     (b)  if the ADI was not an ADI at all times from and including 17 March of the previous financial year to and including the following 30 June—the day after that 17 March when the ADI became, or becomes, an ADI.
+year, is the levy percentage of the ADI's asset value; or</dd>
 
-             (6)  A determination under subsection (3) may make different provision for different classes of ADIs.
+<dt>(b)</dt><dd>if the amount worked out under paragraph (a) exceeds the maximum levy
 
-             (7)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+amount for the financial year&#151;the maximum levy amount; or</dd>
 
-##### <a id="8"></a>8  Calculation of indexation factor 
+<dt>(c)</dt><dd>if the amount worked out under paragraph (a) is less than the minimum levy
 
-             (1)  The indexation factor for a financial year is the number worked out by:
+amount for the financial year&#151;the minimum levy amount.
 
-                     (a)  dividing the index number for the March quarter immediately preceding that financial year by the index number for the March quarter immediately preceding that first-mentioned March quarter; and
+</dd>
 
-                     (b)  adding 0.030 to the number worked out under paragraph (a).
+</dl></dl></dl>
 
-             (2)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the 4th decimal place is more than 4.
+<dl compact=""><dl compact="">
 
-             (3)  Calculations under paragraph (1)(a):
+Note:	The levy percentage, maximum levy amount, minimum levy
 
-                     (a)  are to be made using only the index numbers published in terms of the most recently published reference base for the Consumer Price Index; and
+amount and the method of working out the ADI's asset value, are as determined
 
-                     (b)  are to be made disregarding index numbers that are published in substitution for previously published index numbers (except where the substituted numbers are published to take account of changes in the reference base).
+under subsection (3).
 
-##### <a id="9"></a>9  Regulations
+ </dl></dl>
 
-                   The Governor-General may make regulations for the purposes of subsection 2(3).
+<dl compact=""><dl compact="">
 
+<dt>(2)</dt><dd>If the levy imposition day for the ADI for the financial year is later
 
-# Notes to the _<span style="mso-no-proof: yes">Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998</span>_
+than 1 July in the financial year, the amount of levy payable by the ADI for
 
-### Note 1
+the financial year is the amount worked out using the following formula:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00960/Html/A5CC2225178D3237CA256F7100521573/$FILE/1202.gif)</sub>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Treasurer is, in writing, to determine:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _maximum levy amount_ for each financial year; and</dd>
+
+<dt>(b)</dt><dd>the _minimum levy amount_ for each financial year; and</dd>
+
+<dt>(c)</dt><dd>the _levy percentage_ for each financial year; and</dd>
+
+<dt>(d)</dt><dd>how an _ADI&apos;s asset value_ is to be worked out.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>An amount determined under subsection (3) as the maximum levy amount must
+
+not exceed the statutory upper limit as at the time when the determination is
+
+made.</dd> <dt>(5)</dt><dd>The Treasurer's determination under paragraph (3)(d) of how an ADI's asset value is to be worked out is to include, but is not limited to, a determination of the day as at which the ADI's asset value is to be worked out. That day must be: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the ADI was an ADI at all times from and including 17&#160;March of the
+
+previous financial year to and including the following 30 June&#151;a day in the
+
+period from and including that 17 March to and including the following 14
+
+April; or</dd>
+
+<dt>(b)</dt><dd>if the ADI was not an ADI at all times from and including 17&#160;March of
+
+the previous financial year to and including the following 30 June&#151;the day
+
+after that 17 March when the ADI became, or becomes, an ADI.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>A determination under subsection (3) may make different provision for
+
+different classes of ADIs.</dd> <dt>(7)</dt><dd>A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
+
+**
+
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 8  Calculation of indexation factor  
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The indexation factor for a financial year is the number worked out by
+
+dividing the index number for the March quarter immediately preceding that
+
+financial year by the index number for the March quarter immediately preceding
+
+that first-mentioned March quarter.</dd> <dt>(2)</dt><dd>The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the 4th decimal place is more than 4.</dd> <dt>(3)</dt><dd>Calculations under subsection (1): </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>are to be made using only the index numbers published in terms of the most
+
+recently published reference base for the Consumer Price Index; and</dd>
+
+<dt>(b)</dt><dd>are to be made disregarding index numbers that are published in
+
+substitution for previously published index numbers (except where the
+
+substituted numbers are published to take account of changes in the reference
+
+base).
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 9  Regulations 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Governor-General may make regulations for the purposes of subsection 2(3).
+
+ </dl></dl>
+
+<center>**
+
+###  AUTHORISED DEPOSIT-TAKING INSTITUTIONS SUPERVISORY LEVY IMPOSITION ACT 1998<centreit>Notes to the _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_ </centreit>
+**</center>
+
+**Note 1**
 
 The _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_ as shown in this compilation comprises Act No. 51, 1998 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table&#160;A.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+**Table of Acts**
 
-### Table of Acts
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>51, 1998</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="29" month="6">29 June 1998</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, S289)</div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
-    </td>
-    <td>
-      <div>44, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="17" month="6">17 June 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 6 (item 4) and Schedule 8 (item 22): Royal Assent <i style="mso-bidi-font-style: normal">(a)</i></div>
-    </td>
-    <td>
-      <div>Sch. 8 (item 22)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Authorised Deposit-taking Institutions Supervisory Levy Imposition AmendmentAct 2005</div>
-    </td>
-    <td>
-      <div>12, 2005</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 7)</div>
-    </td>
-  </tr>
-</tbody></table>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>51, 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29 June 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 July 1999 ( <i>see Gazette</i>1999, S289)</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>44, 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>17 June 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 6 (item 4) and Schedule 8 (item 22): Royal Assent <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 8 (item 22)</div>
+
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 4) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 8</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 44, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>
+
+<center>**
+
+###  Table A 
+**</center>
+
+**Table A**
+
+**Application, saving or transitional provisions**
+
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_(No. 44, 1999)
+
+**Schedule&#160;8** **22  Regulations may deal with transitional, saving or application matters** (1)	The regulations may deal with matters of a transitional, saving or application nature relating to:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transition from the application of provisions of the replaced
+
+legislation to the application of provisions of the _Banking Act 1959_,
+
+the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or
+
+the _Australian Prudential Regulation Authority Act 1998_; or</dd>
+
+<dt>(b)</dt><dd>the transition, for The Cairns Cooperative Weekly Penny Savings Bank
+
+Limited, from the application of provisions of the _Financial Intermediaries Act 1996_ of Queensland to the application of provisions of any of the Acts
+
+referred to in paragraph (a); or</dd>
+
+<dt>(c)</dt><dd>the amendments and repeals made by the Schedules to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+(2)	Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>by applying (with or without modifications) to the matter:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>provisions of a law of the Commonwealth, or of a State or Territory; or</dd>
+
+<dt>(ii)</dt><dd>provisions of a repealed or amended law of the Commonwealth, or of a
+
+State or Territory, in the form that those provisions took before the repeal or
+
+amendment; or</dd>
+
+<dt>(iii)</dt><dd>a combination of provisions referred to in subparagraphs (i) and (ii);
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>by otherwise specifying rules for dealing with the matter;</dd>
+
+<dt>(c)</dt><dd>by specifying a particular consequence of the matter, or of an outcome of
+
+the matter, for the purposes of a law of the Commonwealth.
+
+</dd>
+
+</dl></dl></dl>
+
+(3)	Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+ (4)	Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the identification of a thing done or instrument made, or a class of
+
+things done or instruments made, that is to continue to have effect;</dd>
+
+<dt>(b)</dt><dd>the purpose for which a thing done or instrument made, or a class of
+
+things done or instruments made, is to continue to have effect;</dd>
+
+<dt>(c)</dt><dd>any modifications subject to which an instrument made, or a class of
+
+instruments made, is to continue to have effect.
+
+</dd>
+
+</dl></dl></dl>
+
+(5)	Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>may be expressed to take effect from a date before the regulations are
+
+notified in the _Gazette_; and</dd>
+
+<dt>(b)</dt><dd>may provide for a determination of a kind referred to in subitem (4) to
+
+take effect from a date before the determination is made (including a date
+
+before the regulations are notified in the _Gazette_).
+
+</dd>
+
+</dl></dl></dl>
+
+(6)	In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+ (7)	In this item:
+
+<def><dl compact=""><dl compact="">
+
+**_replaced legislation_** means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the AFIC Codes; and</dd>
+
+<dt>(b)</dt><dd>the Financial Institutions Codes; and</dd>
+
+<dt>(c)</dt><dd>the Friendly Societies Codes; and</dd>
+
+<dt>(d)</dt><dd>the _Australian Financial Institutions Commission Act 1992_ of
+
+Queensland, and any Act of another State or of a Territory that provides for
+
+the application, as a law of the State or Territory, of the Code set out in
+
+section 21 of the _Australian Financial Institutions Commission Act 1992_ of Queensland; and</dd>
+
+<dt>(e)</dt><dd>the _Financial Institutions (Queensland) Act 1992_ of Queensland, and
+
+any Act of another State or of a Territory that provides for the application,
+
+as a law of the State or Territory, of the Code set out in section 30 of the
+
+_Financial Institutions (Queensland) Act 1992_ of Queensland; and</dd>
+
+<dt>(f)</dt><dd>the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act
+
+of another State or of a Territory that provides for the application, as a law
+
+of the State or Territory, of the Code set out in the Schedule to the
+
+**Friendly Societies (Victoria) Act 1996**of Victoria; and</dd>
+
+<dt>(g)</dt><dd>the _Friendly Societies (Western Australia) Act 1999_; and</dd>
+
+<dt>(h)</dt><dd>any other law of a State or Territory prescribed by the regulations for
+
+the purposes of this definition.
+
+</dd>
+
+</dl></dl></dl>
+
+</def>
+
+</def>
+
+</def>
 
 
-_(a)_     The _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 4) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 5 </div>
-    </td>
-    <td>
-      <div>am. No. 12, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7 </div>
-    </td>
-    <td>
-      <div>am. No. 12, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8 </div>
-    </td>
-    <td>
-      <div>am. No. 44, 1999; No. 12, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)<o:p></o:p>_
-
-## Schedule 8<o:p></o:p>
-
-## 22  Regulations may deal with transitional, saving or application matters
-
-(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
-
-                     (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
-
-                     (b)  the transition, for The Cairns Cooperative Weekly Penny Savings Bank Limited, from the application of provisions of the _Financial Intermediaries Act 1996_ of Queensland to the application of provisions of any of the Acts referred to in paragraph (a); or
-
-                     (c)  the amendments and repeals made by the Schedules to this Act.
-
-(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
-
-                     (a)  by applying (with or without modifications) to the matter:
-
-                              (i)  provisions of a law of the Commonwealth, or of a State or Territory; or
-
-                             (ii)  provisions of a repealed or amended law of the Commonwealth, or of a State or Territory, in the form that those provisions took before the repeal or amendment; or
-
-                            (iii)  a combination of provisions referred to in subparagraphs (i) and (ii);
-
-                     (b)  by otherwise specifying rules for dealing with the matter;
-
-                     (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
-
-(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
-
-(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
-
-                     (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
-
-                     (b)  the purpose for which a thing done or instrument made, or a class of things done or instruments made, is to continue to have effect;
-
-                     (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
-
-(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
-
-                     (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
-
-                     (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
-
-(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
-
-(7)        In this item:
-
-                    <a name="replac-legisl"></a>**_replaced legislation_** means:
-
-                     (a)  the AFIC Codes; and
-
-                     (b)  the Financial Institutions Codes; and
-
-                     (c)  the Friendly Societies Codes; and
-
-                     (d)  the _Australian Financial Institutions Commission Act 1992_ of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 21 of the _Australian Financial Institutions Commission Act 1992_ of Queensland; and
-
-                     (e)  the _Financial Institutions (Queensland) Act 1992_ of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 30 of the _Financial Institutions (Queensland) Act 1992_ of Queensland; and
-
-                      (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
-
-                     (g)  the _Friendly Societies (_<st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Western Australia_</st1:place></st1:state>_) Act 1999_; and
-
-                     (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
-
-* * *
-
-_Authorised Deposit-taking Institutions Supervisory Levy Imposition Amendment Act 2005 (No. 12, 2005)<o:p></o:p>_
-
-## Schedule 1<o:p></o:p>
-
-## 7  Application and transitional
-
-The amendments made by this Schedule apply in relation to levy payable for:
-
-                     (a)  the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>; and
-
-                     (b)  each succeeding financial year.
-
-
-<o:p> </o:p>
