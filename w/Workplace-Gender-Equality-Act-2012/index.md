@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00899/Html/d87be57d-7ffa-47d7-90df-eaec9c5b11ee_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00442/Html/2be31d0e-e89d-4ca5-87b5-88d43d6a3480_files/image001.gif)
 
-# Workplace Gender Equality Act 2012
+# Equal Opportunity for Women in the Workplace Act 1999
 
 **Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 11 December 2012
- taking into account amendments up to Act No. 179 of 2012
+This compilation was prepared on 21 June 2011
+ taking into account amendments up to Act No. 40 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -25,8 +26,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [2A](#2A).         Objects of Act
 
-[2B](#2B).         Simplified outline
-
 [3](#3).            Interpretation
 
 [4](#4).            Extension to Norfolk Island
@@ -35,9 +34,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [5A](#5A).         Application of _Criminal Code_
 
-**Part III—Workplace Gender Equality Agency**
+**Part II—Equal opportunity for women in the workplace programs**
 
-[8A](#8A).         Workplace Gender Equality Agency
+[6](#6).            Employers required to develop equal opportunity for women in the workplace programs
+
+[8](#8).            Equal opportunity for women in the workplace program
+
+**Part III—Equal Opportunity for Women in the Workplace Agency**
+
+[8A](#8A).         Equal Opportunity for Women in the Workplace Agency
 
 [9](#9).            Director
 
@@ -49,45 +54,27 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part IV—Reports by relevant employers**
 
-[13](#13).          Relevant employers to prepare reports relating to gender equality indicators
+[13](#13).          Contents of public report
 
 [13A](#13A).       Reporting periods for reports
 
 [13B](#13B).       When public reports are due
 
-[13C](#13C).       Personal information
+[13C](#13C).       Agency may waive public reporting requirements
 
-[14](#14).          Information relating to remuneration
+[14](#14).          Confidential reports of employer evaluations
 
-[14A](#14A).       Information of a kind specified by the Minister
+[15](#15).          Use of public report
 
-[15](#15).          Agency’s use of public report
-
-[16](#16).          Relevant employer to make public reports accessible to employees and shareholders etc 
-
-[16A](#16A).       Relevant employer to inform employee organisations of lodgement of public report
-
-[16B](#16B).       Relevant employer to inform employees and employee organisations of the opportunity to comment
+[16](#16).          Request to relevant employer
 
 [17](#17).          Agency may grant extensions
 
-**Part IVA—Reviewing compliance with this Act and consequences of non‑compliance**
+[18](#18).          Agency may request information
 
-[18](#18).          Simplified outline
+[19](#19).          Failure to submit report or further information
 
-[19](#19).          Minister will set minimum standards in relation to gender equality indicators
-
-[19A](#19A).       Agency may review compliance with Act
-
-[19B](#19B).       Relevant employer fails to comply with Act if employer gives false or misleading information
-
-[19C](#19C).       Relevant employer fails to comply with Act if employer fails to improve against minimum standard
-
-[19D](#19D).       Consequences of non‑compliance with Act
-
-[19E](#19E).        Agency to offer relevant employers advice and assistance if employers fail to meet minimum standards
-
-**Part V—Director of Workplace Gender Equality**
+**Part V—Director of Equal Opportunity for Women in the Workplace**
 
 [20](#20).          Appointment of Director
 
@@ -119,19 +106,17 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [33](#33).          Delegation
 
-[33A](#33A).       Minister to consult before making legislative instruments
-
 [34](#34).          Regulations
 
 **Notes** 
 
-## An Act to require certain employers to promote gender equality in the workplace, to establish the Workplace Gender Equality Agency and the office of the Director of Workplace Gender Equality, and for related purposes
+## An Act to require certain employers to promote equal opportunity for women in employment, to establish the Equal Opportunity for Women in the Workplace Agency and the office of the Director of Equal Opportunity for Women in the Workplace, and for related purposes
 
 ## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Workplace Gender Equality Act 2012_.
+                   This Act may be cited as the _Equal Opportunity for Women in the Workplace Act 1999_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -141,77 +126,21 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    The principal objects of this Act are:
 
-                     (a)  to promote and improve gender equality (including equal remuneration between women and men) in employment and in the workplace; and
+                     (a)  to promote the principle that employment for women should be dealt with on the basis of merit; and
 
-                     (b)  to support employers to remove barriers to the full and equal participation of women in the workforce, in recognition of the disadvantaged position of women in relation to employment matters; and
+                     (b)  to promote, amongst employers, the elimination of discrimination against, and the provision of equal opportunity for, women in relation to employment matters; and
 
-                     (c)  to promote, amongst employers, the elimination of discrimination on the basis of gender in relation to employment matters (including in relation to family and caring responsibilities); and
-
-                     (d)  to foster workplace  consultation between employers and employees on issues concerning gender equality in employment and in the workplace; and
-
-                     (e)  to improve the productivity and competitiveness of Australian business through the advancement of gender equality in employment and in the workplace.
-
-##### <a id="2B"></a>2B  Simplified outline
-
-                   The following is a simplified outline of this Act:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      This Act requires various
-
-employers (**_relevant employers_**) to lodge reports each year
-
-containing information relating to various gender equality indicators (for
-
-example, equal remuneration between women and men).</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Those reports are available
-
-to the public, subject to some exceptions for information that is personal
-
-information, information relating to remuneration and information of a kind
-
-specified by the Minister.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      There is a Workplace Gender
-
-Equality Agency. Its functions include advising and assisting employers in promoting
-
-and improving gender equality in the workplace and undertaking research and
-
-programs for the purpose of promoting and improving gender equality in the
-
-workplace.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      There is a Director of
-
-Workplace Gender Equality, who manages the Agency.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The Agency may review a
-
-relevant employer’s compliance with this Act by seeking further information
-
-from the employer.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      If a relevant employer
-
-fails to comply with this Act, the Agency may name the employer in a report
-
-given to the Minister or by electronic or other means (for example, on the
-
-Agency’s website or in a newspaper).</li>
-
-* * *
+                     (c)  to foster workplace  consultation between employers and employees on issues concerning equal opportunity for women in relation to employment.
 
 ##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="agenc"></a>**_Agency_** means the Workplace Gender Equality Agency.
+                    <a name="agenc"></a>**_Agency_** means the Equal Opportunity for Women in the Workplace Agency.
 
                     <a name="author"></a>**_authority_** means:
 
-                     (a)  a body (whether incorporated or not) established for a public purpose by or under a law of the Commonwealth or of a State or Territory, other than a registered higher education provider;
+                     (a)  a body (whether incorporated or not) established for a public purpose by or under a law of the Commonwealth or of a State or Territory, other than a higher education institution;
 
                      (b)  the holder of an office established for a public purpose by or under a law of the Commonwealth or of a State or Territory; and
 
@@ -219,11 +148,17 @@ Agency’s website or in a newspaper).</li>
 
                     <a name="appoint"></a>**_appoint_** includes re‑appoint.
 
+                    <a name="club"></a>**_club_** means an association (whether incorporated or not) of not less than 30 persons associated together for social, literary, cultural, political, sporting, athletic or other lawful purposes that:
+
+                     (a)  provides and maintains its facilities, in whole or in part, from the funds of the association; and
+
+                     (b)  sells or supplies liquor for consumption on its premises.
+
+                    <a name="confidenti-report"></a>**_confidential report_** means a confidential report referred to in section 14.
+
                     <a name="discrimin"></a>**_discrimination_** means discrimination as defined in section 5, 6, 7, 7AA or 7A of the _Sex Discrimination Act 1984_.
 
-                    <a name="director"></a>**_Director_** means the Director of Workplace Gender Equality.
-
-                    <a name="employe-organis"></a>**_employee organisation_** has the same meaning as in the _Fair Work Act 2009_.
+                    <a name="director"></a>**_Director_** means the Director of Equal Opportunity for Women in the Workplace.
 
                     <a name="employ"></a>**_employer_** means an individual, or a body or association (whether incorporated or not), that employs an individual:
 
@@ -241,69 +176,51 @@ Agency’s website or in a newspaper).</li>
 
                      (c)  training and development for employees;
 
-                     (d)  work organisation, including flexible working arrangements;
+                     (d)  work organisation;
 
-                     (e)  conditions of service of employees, including equal remuneration between women and men;
+                     (e)  conditions of service of employees;
 
-(f) arrangements for dealing with sex‑based harassment of employees in the workplace;
+(f) arrangements for dealing with sex‑based harassment of women in the workplace;
 
-                     (g)  arrangements for dealing with pregnant, or potentially pregnant employees and employees who are breastfeeding their children;
+                     (g)  arrangements for dealing with pregnant, or potentially pregnant employees and employees who are breastfeeding their children.
 
-                     (h)  arrangements relating to employees with family or caring responsibilities.
+                    <a name="equal-opportun-women-workplac-program"></a>**_equal opportunity for women in the workplace program_**, in relation to a relevant employer, means a program designed to ensure that:
 
-                    <a name="gender-equal-indic"></a>**_gender equality indicators_** means the following:
+                     (a)  appropriate action is taken to eliminate all forms of discrimination by the relevant employer against women in relation to employment matters; and
 
-                     (a)  gender composition of the workforce;
+                     (b)  measures are taken by the relevant employer to contribute to the achievement of  equal opportunity for women in relation to employment matters.
 
-                     (b)  gender composition of governing bodies of relevant employers;
+                    <a name="higher-educ-institut"></a>**_higher education institution_** means a university or other institution of higher education that is included in:
 
-                     (c)  equal remuneration between women and men;
+                     (a)  the Australian Qualifications Framework Register of Authorities empowered by Government to Accredit Post‑Compulsory Education and Training; or
 
-                     (d)  availability and utility of employment terms, conditions and practices relating to flexible working arrangements for employees and to working arrangements supporting employees with family or caring responsibilities;
+                     (b)  the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications;
 
-                     (e)  consultation with employees on issues concerning gender equality in the workplace;
-
-                      (f)  any other matters specified in an instrument under subsection (1A).
-
-                    <a name="govern-bodi"></a>**_governing body_** of a relevant employer means the board of directors, trustees, committee of management, council or other governing authority of the employer.
-
-                    <a name="man"></a>**_man_** means a member of the male sex irrespective of age.
-
-                    <a name="minimum-standard"></a>**_minimum standard_** means a standard set by an instrument in force under section 19.
-
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
+as an institution authorised to issue  higher education awards (within the meaning of _Higher Education Support Act 2003_).
 
                     <a name="potenti-pregnant"></a>**_potentially pregnant_** has the meaning given by section 4B of the _Sex Discrimination Act 1984_.
 
                     <a name="public-report"></a>**_public report_** means a public report referred to in section 13.
 
-                    <a name="regist-higher-educ-provid"></a>**_registered higher education provider_** means a person or body that is a registered higher education provider for the purposes of the _Tertiary Education Quality and Standards Agency Act 2011_.
-
-Note:          This definition includes bodies taken to be registered higher education providers for the purposes of that Act by Schedule 3 to the _Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011_.
-
                     <a name="relev-employ"></a>**_relevant employer_** means:
 
-                     (a)  a registered higher education provider that is an employer; or
+                     (a)  a higher education institution that is an employer; or
 
                      (b)  a natural person, or a body or association (whether incorporated or not), being the employer of 100 or more employees in Australia;
 
 but does not include the Commonwealth, a State, a Territory or an authority.
 
-Note:          See also subsection (2A).
+                    <a name="trade-union"></a>**_trade union_** means:
 
-                    <a name="report-period"></a>**_reporting period_** means a period referred to in subsection 13A(2).
+                     (a)  an association of employees that is registered or recognised under the _Fair Work (Registered Organisations) Act 2009_; or
+
+                     (b)  a trade union within the meaning of a State Act or law of a Territory.
 
                     <a name="woman"></a>**_woman_** means a member of the female sex irrespective of age.
 
-          (1A)  The Minister may, by legislative instrument, specify matters for the purposes of paragraph (f) of the definition of **_gender equality indicators_** in subsection (1).
+                    <a name="workplac-profil"></a>**_workplace profile_**, in relation to a relevant employer, means factual information as to the composition of the employer’s workforce.
 
-Note:          See also section 33A.
-
-          (1B)  The matters specified in an instrument under subsection (1A) may relate to employment matters.
-
-          (1C)  Subsection (1B) does not limit subsection (1A).
-
-          (1D)  An instrument under subsection (1A) has no effect in relation to a reporting period unless it is made before the first day of that period.
+                    <a name="workplac-program"></a>**_workplace program_** is short for equal opportunity for women in the workplace program.
 
              (2)  For the purpose of paragraph (b) of the definition of **_relevant employer_** in subsection (1):
 
@@ -311,13 +228,11 @@ Note:          See also section 33A.
 
                      (b)  the question whether a corporation is a subsidiary of another corporation shall be determined as it would be determined for the purposes of the _Corporations Act 2001_.
 
-          (2A)  If, at any time, an employer ceases to be a relevant employer because the number of employees of the employer falls below 100, this Act continues to apply to the employer as if the employer were a relevant employer unless and until the number of employees falls below 80.
-
              (3)  Where, in accordance with section 4, this Act extends to Norfolk Island, a reference in this Act to Australia includes a reference to Norfolk Island.
 
              (4)  Nothing in this Act shall be taken to require a relevant employer to take any action incompatible with the principle that employment matters should be dealt with on the basis of merit.
 
-             (5)  For the purposes of this Act, an elected employee organisation official is taken to be employed by the employee organisation, and not by any other employer, and this subsection has effect even if the rules of the employee organisation have an effect contrary to this subsection, or do not deal with the question at all.
+             (5)  For the purposes of this Act, an elected trade union official is taken to be employed by the trade union, and not by any other employer, and this subsection has effect even if the rules of the trade union have an effect contrary to this subsection, or do not deal with the question at all.
 
              (6)  For the purposes of this Act, during any time when a Group Training Scheme:
 
@@ -347,7 +262,7 @@ the trainee is taken to be employed by the Scheme and not by the host employer.
 
              (3)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to employment were, by express provision, confined to employment in connection with the provision of a broadcasting service specified in section 11 of the _Broadcasting Services Act 1992_.
 
-             (4)  By virtue of this subsection, this Act has the effect it would have to the extent that this Act relates to the collection of statistics.
+             (4)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to a workplace program were, by express provision, confined to a program for the gathering of statistics and related information concerning employment by a relevant employer.
 
              (5)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to employment were, by express provision, confined to employment in connection with the business of banking, other than State banking that does not extend beyond the limits of the State concerned.
 
@@ -357,23 +272,7 @@ the trainee is taken to be employed by the Scheme and not by the host employer.
 
              (8)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to employment by a relevant employer were, by express provision, confined to employment by a trading or financial corporation formed within the limits of the Commonwealth, being employment in connection with the trading or financial activities, as the case may be, of that corporation.
 
-             (9)  By virtue of this subsection, this Act has the effect it would have to the extent that this Act is appropriate to give effect to, or carry out the purposes of:
-
-                     (a)  the Convention on the Elimination of all Forms of Discrimination Against Women, done at New York on 18 December 1979 (\[1983] ATS 9); or
-
-                     (b)  the ILO Convention (No. 100) concerning Equal Remuneration for Men and Women Workers for Work of Equal Value, done at Geneva on 29 June 1951 (\[1975] ATS 45); or
-
-                     (c)  the ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation, done at Geneva on 25 June 1958 (\[1974] ATS 12); or
-
-                     (d)  the ILO Convention (No. 156) concerning Equal Opportunities and Equal Treatment for Men and Women Workers: Workers with Family Responsibilities, done at Geneva on 23 June 1981 (\[1991] ATS 7); or
-
-                     (e)  the International Covenant on Economic, Social and Cultural Rights, done at New York on 16 December 1966 (\[1976] ATS 5); or
-
-                      (f)  the Convention on the Rights of the Child, done at New York on 20 November 1989 (\[1991] ATS 4).
-
-Note 1:       In 2012, the text of an international agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-Note 2:       For paragraphs (b), (c) and (d): ILO refers to the International Labour Organization.
+             (9)  By virtue of this subsection, this Act has the effect it would have to the extent that this Act is appropriate to give effect to, or carry out the purposes of, the Convention on the Elimination of all Forms of Discrimination Against Women, a copy of the English text of which is set out in the Schedule to the _Sex Discrimination Act 1984_.
 
            (10)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to employment were, by express provision, confined to employment in a Territory.
 
@@ -387,17 +286,53 @@ Note 2:       For paragraphs (b), (c) and (d): ILO refers to the I
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part III—Workplace Gender Equality Agency
+## Part II—Equal opportunity for women in the workplace programs
 
-##### <a id="8A"></a>8A  Workplace Gender Equality Agency
+##### <a id="6"></a>6  Employers required to develop equal opportunity for women in the workplace programs
 
-             (1)  The Workplace Gender Equality Agency is established.
+             (1)  An employer:
 
-             (2)  The Agency consists of the Director of Workplace Gender Equality and the staff referred to in section 29.
+                     (a)  who is a relevant employer on the commencement of this section; or
+
+                     (b)  who becomes a relevant employer after the commencement of this section;
+
+must develop and implement workplace programs.
+
+             (2)  If, at any time, an employer ceases to be a relevant employer because the number of employees of the employer falls below 100, this Act continues to apply to the employer as if the employer were a relevant employer unless and until the number of employees falls below 80.
+
+##### <a id="8"></a>8  Equal opportunity for women in the workplace program
+
+             (1)  Before developing a workplace program, a relevant employer must:
+
+                     (a)  confer responsibility for the development and implementation of the program (including continuous review of the program) on a person or persons having sufficient authority and status within the management of the relevant employer to enable the person or persons properly to develop and implement the program; and
+
+                     (b)  consult with employees (or their nominated representatives) of the relevant employer, particularly employees who are women.
+
+             (2)  In preparing a workplace program, a relevant employer must prepare a workplace profile. The workplace profile must relate to the employer’s workplace at a specified date occurring not more than 6 months before the start of the period to which the program relates.
+
+             (3)  After preparing the profile, the relevant employer must prepare an analysis of the issues relating to employment matters that the employer would need to address to achieve equal opportunity for women in the employer’s workplace.
+
+             (4)  The program must provide for:
+
+                     (a)  actions to be taken in relation to priority issues identified in the analysis; and
+
+                     (b)  evaluation of the effectiveness of the actions in achieving equal opportunity for women in the employer’s workplace.
+
+             (5)  A workplace program of a relevant employer may contain any other provision that the relevant employer thinks fit that is not inconsistent with the objects of this Act.
+
+             (6)  A relevant employer must have a workplace program for each reporting period (see section 13A).
+
+## Part III—Equal Opportunity for Women in the Workplace Agency
+
+##### <a id="8A"></a>8A  Equal Opportunity for Women in the Workplace Agency
+
+             (1)  The Equal Opportunity for Women in the Workplace Agency is established.
+
+             (2)  The Agency consists of the Director of Equal Opportunity for Women in the Workplace and the staff referred to in section 29.
 
 ##### <a id="9"></a>9  Director
 
-             (1)  There shall be a Director of Workplace Gender Equality.
+             (1)  There shall be a Director of Equal Opportunity for Women in the Workplace.
 
              (2)  The Director has the management of the Agency.
 
@@ -405,27 +340,21 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  The functions of the Agency are:
 
-                     (a)  to advise and assist employers in promoting and improving gender equality in the workplace; and
+                     (a)  to advise and assist relevant employers in the development and implementation of workplace programs;
 
-                    (aa)  to develop, in consultation with relevant employers and employee organisations, benchmarks in relation to gender equality indicators; and
+                     (b)  to issue guidelines to assist relevant employers to achieve the purposes of this Act;
 
-                     (b)  to issue guidelines to assist relevant employers to achieve the purposes of this Act; and
+                     (c)  to monitor the lodging of reports by relevant employers as required by this Act and to review those reports and deal with them in accordance with this Act;
 
-                     (c)  to review compliance with this Act by relevant employers, to review public reports lodged by relevant employers and to deal with those reports in accordance with this Act; and
+                     (d)  to monitor and evaluate the effectiveness of workplace programs in achieving the purposes of this Act;
 
-                     (d)  to collect and analyse information provided by relevant employers under this Act to assist the Agency to advise the Minister in relation to legislative instruments made under this Act; and
+                     (e)  to undertake research, educational programs and other programs for the purpose of promoting equal opportunity for women in the workplace;
 
-                     (e)  to undertake research, educational programs and other programs for the purpose of promoting and improving gender equality in the workplace; and
-
-                    (ea)  to work with employers to maximise the effectiveness of the administration of this Act, including by minimising the regulatory burden on employers; and
-
-                      (f)  to promote and contribute to understanding and acceptance, and public discussion, of gender equality in the workplace; and
+                      (f)  to promote understanding and acceptance, and public discussion, of equal opportunity for women in the workplace;
 
                      (g)  to review the effectiveness of this Act in achieving its purposes; and
 
-                     (h)  to report to the Minister on such matters in relation to gender equality in the workplace as the Agency thinks fit (including a review under paragraph (g)).
-
-Note:          Paragraph (d): see also section 33A.
+                     (h)  to report to the Minister on such matters in relation to equal opportunity for women in the workplace as the Agency thinks fit (including a review under paragraph (g)).
 
              (2)  In addition to any other powers conferred on the Agency by this Act, the Agency has power to do all things necessary or convenient to be done for or in connection with the performance of the functions of the Agency.
 
@@ -445,43 +374,29 @@ Note:          Paragraph (d): see also section 33A.
 
                      (b)  a report in respect of any matter relating to, or connected with, the exercise of the powers, or the performance of the functions, of the Agency under this Act.
 
-          (2A)  The Agency must, as soon as practicable after the end of:
-
-                     (a)  the 2‑year period ending on 31 May 2016; and
-
-                     (b)  each later 2‑year period;
-
-submit to the Minister a report on the progress achieved in relation to the gender equality indicators in that period.
-
-             (3)  Where a report has been submitted to the Minister under this section, the Minister shall cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
+             (3)  Where a report has been submitted to the Minister under subsection (1) or (2), the Minister shall cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
 ## Part IV—Reports by relevant employers
 
-##### <a id="13"></a>13  Relevant employers to prepare reports relating to gender equality indicators
+##### <a id="13"></a>13  Contents of public report
 
-             (1)  In respect of each reporting period, a relevant employer must prepare a public report in writing containing information relating to the employer and to the gender equality indicators.
+             (1)  A relevant employer must prepare, in respect of each reporting period (see section 13A), a public report in writing about the outcomes of the employer’s workplace program.
 
-Matters that must be included in the report
+             (2)  The public report must:
 
-             (2)  The public report in respect of a reporting period must contain details of the matters specified in an instrument under subsection (3).
+                     (a)  set out the workplace profile; and
 
-             (3)  For the purposes of subsection (2), the Minister must, by legislative instrument, specify matters in relation to each gender equality indicator.
+                     (b)  describe the employer’s analysis of the issues in the employer’s  workplace relating to equal opportunity for women; and
 
-Note:          See also section 33A.
+                     (c)  describe the actions taken by the employer during the reporting period to address the priority issues identified in the analysis; and
 
-Timing of instrument
+                     (d)  describe the actions that the employer plans to take in the next reporting period to address issues in the employer’s workplace relating to employment matters that the employer would need to address to achieve equal opportunity for women in the employer’s workplace.
 
-             (4)  An instrument under subsection (3) has no effect in relation to a reporting period unless it is made before the first day of that period.
-
-Reports to be signed
-
-             (5)  The public report must be signed by the chief executive officer (however described) of the relevant employer.
+             (3)  The report may contain an evaluation of the effectiveness of the actions in achieving equal opportunity for women in the employer’s workplace. If the public report does not contain such an evaluation, the evaluation must be submitted in a confidential report under section 14.
 
 ##### <a id="13A"></a>13A  Reporting periods for reports
 
              (1)  A relevant employer must lodge with the Agency public reports in respect of each of the periods set out in this section unless subsection (3) applies to the employer in respect of a reporting period.
-
-Note:          Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents.
 
              (2)  A relevant employer must prepare a public report in respect of the period of 12 months commencing on 1 April 2000 and after that, in respect of each consecutive period of 12 months.
 
@@ -491,95 +406,55 @@ Note:          Sections 137.1 and 137.2 of the _Criminal Cod
 
                    Unless a relevant employer has received an extension of time in which to lodge a report under section 17, the employer must lodge a public report under section 13A within 2 months after the end of the period to which the report relates.
 
-##### <a id="13C"></a>13C  Personal information
+##### <a id="13C"></a>13C  Agency may waive public reporting requirements
 
-             (1)  At the time of lodging a public report under section 13A, a relevant employer must, in writing (either in the report or otherwise), inform the Agency of the information included in the report that is personal information.
+             (1)  The Agency may waive the reporting requirements set out in sections 13, 13A and 13B in respect of a relevant employer:
 
-             (2)  Subject to subsection (3), that personal information:
+                     (a)  on application in writing made to it by the relevant employer; or
 
-                     (a)  must not be published under section 15; and
+                     (b)  on its own initiative;
 
-                     (b)  must not be used in a report of the Agency under section 12.
+but only if the relevant employer has complied with those requirements for a period of not less than 3 consecutive reporting years, including a period of 3 reporting years beginning before the commencement of this section.
 
-             (3)  Particular personal information may be so published or used if the individual to whom the information relates consents in writing to the publication or use.
+             (2)  Before the Agency waives the reporting requirements in respect of a relevant employer, the Agency must be satisfied that the employer has taken all reasonably practicable measures to address the issues relating to employment matters that affect equal opportunity for women in the employer’s workplace.
 
-##### <a id="14"></a>14  Information relating to remuneration
+             (3)  In making a decision under subsection (2), the Agency must have regard to regulations, if any, made for the purposes of subsection (5).
 
-             (1)  Subject to this section, any information relating to remuneration that is included in a public report lodged by a relevant employer under section 13A:
+             (4)  The waiver must be in writing and specify the period for which the waiver operates.
 
-                     (a)  must not be published under section 15; and
+             (5)  The regulations may prescribe matters to be taken into account by the Agency when determining if it is satisfied that a relevant employer has taken all reasonably practicable measures to address the issues relating to employment matters that affect equal opportunity for women in the employer’s workplace.
 
-                     (b)  must not be used in a report of the Agency under section 12.
+##### <a id="14"></a>14  Confidential reports of employer evaluations
 
-             (2)  Information referred to in subsection (1) (except personal information) may be so published or used if the relevant employer has, by written notice given to the Agency, agreed to that information being so published or used.
+             (1)  A relevant employer may choose to lodge, as a confidential report, the employer’s evaluation of the actions taken by the employer to address the issues in the employer’s workplace relating to equal opportunity for women.
 
-Note:          Section 13C deals with personal information.
+             (2)  In the evaluation, the employer must assess the effectiveness of the actions in achieving equal opportunity for women in the workplace.
 
-             (3)  Information referred to in subsection (1) may be so published or used if the information is in an aggregated form that does not disclose, either directly or indirectly, information about a specific relevant employer or another specific person.
+             (3)  A confidential report must be in writing and lodged with the Agency during the same period that the public report, of which the confidential report is a part, is required to be lodged.
 
-##### <a id="14A"></a>14A  Information of a kind specified by the Minister
+##### <a id="15"></a>15  Use of public report
 
-             (1)  Subject to this section, information of a kind specified in an instrument under subsection (2):
+                   A public report, or a part of a public report (including a copy of the report or part of the report):
 
-                     (a)  must not be published under section 15; and
+                     (a)  shall be made available by the Agency to a member of the public, on application; and
 
-                     (b)  must not be used in a report of the Agency under section 12.
+                     (b)  may be used, either in whole or in part, in a report of the Agency under subsection 12(1) or (2).
 
-             (2)  The Minister may, by legislative instrument, specify kinds of information for the purposes of subsection (1).
+##### <a id="16"></a>16  Request to relevant employer
 
-Note:          See also section 33A.
+             (1)  The Agency may, in writing, request that information which the relevant employer has included in a confidential report be made available to the public or for use, either in whole or in part, in a report of the Agency under subsection 12(1) or (2).
 
-             (3)  Information referred to in subsection (1) may be so published or used if the information is in an aggregated form that does not disclose, either directly or indirectly, information about a specific relevant employer or another specific person.
+             (2)  Where a relevant employer has received a request by the Agency under subsection (1), the relevant employer may, in writing, consent to:
 
-##### <a id="15"></a>15  Agency’s use of public report
+                     (a)  the Agency making that information available to the public; or
 
-             (1)  Subject to sections 13C, 14 and 14A, a public report, or a part of a public report (including a copy of the report or part of the report):
+                     (b)  the Agency using that information in a report of the Agency under subsection 12(1) or (2);
 
-                     (a)  may be published by the Agency by electronic or other means; and
-
-                     (b)  may be used, either in whole or in part, in a report of the Agency under section 12.
-
-             (2)  If:
-
-                     (a)  a relevant employer lodges a public report under section 13A in respect of a reporting period; and
-
-                     (b)  the report is lodged within the time allowed by section 13B or 17;
-
-then, during the period of 28 days beginning on the day the report is lodged, subsection (1) of this section does not apply in relation to the report.
-
-##### <a id="16"></a>16  Relevant employer to make public reports accessible to employees and shareholders etc.
-
-             (1)  A relevant employer must, as soon as reasonably practicable after lodging a public report under section 13A, inform:
-
-                     (a)  the employees of the employer; and
-
-                     (b)  any shareholders or members of the employer;
-
-that the employer has lodged the report and of the way in which the report may be accessed (whether electronic or otherwise).
-
-             (2)  The relevant employer must, as soon as reasonably practicable after that lodgement, provide those employees and shareholders or members with access (whether electronic or otherwise) to the public report (excluding information to which subsection (3) applies).
-
-             (3)  This subsection applies to the following information:
-
-                     (a)  personal information;
-
-                     (b)  information relating to remuneration that the relevant employer considers should not be subject to the requirement in subsection (2);
-
-                     (c)  information of a kind specified in an instrument under section 14A.
-
-             (4)  Paragraph (3)(a) does not apply in relation to particular information if the individual to whom the information relates consents in writing to the information being subject to the requirement in subsection (2).
-
-##### <a id="16A"></a>16A  Relevant employer to inform employee organisations of lodgement of public report
-
-                   A relevant employer must, within 7 days after lodging a public report under section 13A, take all reasonable steps to inform each employee organisation, that has members who are employees of the employer, that the employer has lodged the report.
-
-##### <a id="16B"></a>16B  Relevant employer to inform employees and employee organisations of the opportunity to comment
-
-                   A relevant employer must, when informing employees under section 16 or an employee organisation under section 16A, advise the employees or employee organisation that comments on the report may be given to the employer or to the Agency.
+subject to such conditions as the relevant employer specifies in the consent.
 
 ##### <a id="17"></a>17  Agency may grant extensions
 
-             (1)  A relevant employer may, before the end of the 2 months within which the relevant employer is required to lodge with the Agency a public report under section 13B, apply to the Agency to extend the period for a further period to enable the employer to lodge the public report.
+             (1)  A relevant employer may, before the end of the 2 months within which the relevant employer is required to lodge with the Agency a public report under section 13B, apply to the Agency to extend the period for a further period to enable the employer to lodge the public report or a confidential report.
 
              (2)  Where the Agency:
 
@@ -589,167 +464,29 @@ that the employer has lodged the report and of the way in which the report may b
 
 the Agency may grant an extension in respect of the report for such period, not exceeding 6 months, as the Agency thinks fit.
 
-## Part IVA—Reviewing compliance with this Act and consequences of non‑compliance
+##### <a id="18"></a>18  Agency may request information
 
-##### <a id="18"></a>18  Simplified outline
+                   If a public report or confidential report has been lodged with the Agency by a relevant employer, the Agency may, by notice in writing, request the employer to provide to the Agency such information as is specified in the notice concerning any aspect of:
 
-                   The following is a simplified outline of this Part:
+                     (a)  the employer’s workplace program; or
 
-* * *
+                     (b)  the preparation of the report; or
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Minister will set
+                     (c)  the report itself.
 
-minimum standards in relation to gender equality indicators, relevant employers
+##### <a id="19"></a>19  Failure to submit report or further information
 
-and reporting periods.</li>
+             (1)  Where, without reasonable excuse, a relevant employer:
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Agency may review a
+                     (a)  fails to lodge a public report or confidential report as required by this Part; or
 
-relevant employer’s compliance with this Act by seeking further information
+                     (b)  fails to provide further information in accordance with a notice given under section 18;
 
-from the employer. The Agency may do this on a random basis.</li>
+the Agency may, subject to subsection (2), name the relevant employer in a report of the Agency under subsection 12(1) or (2) as having failed to provide the report or further information, as the case may be.
 
-<li class="BoxList" style="margin-left:21.25pt">•      If a relevant employer
+             (2)  Where the Agency proposes to name a relevant employer in a report under subsection 12(1) or (2), the Agency shall, not less than 28 days before the day on which the report is submitted to the Minister, furnish the relevant employer with a notice in writing stating that the Agency proposes so to name the employer and specifying the reasons for the proposal.
 
-fails to comply with this Act, the Agency may name the employer in a report
-
-given to the Minister or by electronic or other means (for example, on the
-
-Agency’s website or in a newspaper).</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Examples of a failure to
-
-comply with this Act are a failure by a relevant employer to lodge a public
-
-report on time or to give the Agency information under section 19A.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      If the Agency proposes to
-
-name a relevant employer, the Agency must give the employer notice in writing
-
-of the proposal and the reasons for the proposal.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Relevant employers failing
-
-to comply with this Act may not be eligible to compete for contracts under the
-
-Commonwealth procurement framework and may not be eligible for Commonwealth
-
-grants or other financial assistance.</li>
-
-* * *
-
-##### <a id="19"></a>19  Minister will set minimum standards in relation to gender equality indicators
-
-             (1)  Before 1 April 2014, the Minister will, by legislative instrument, set minimum standards in relation to specified gender equality indicators, specified relevant employers and specified reporting periods.
-
-Note 1:       See also section 33A of this Act.
-
-Note 2:       For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
-
-Note 3:       An instrument under subsection (1) may make different provision with respect to different relevant employers and different reporting periods: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-             (2)  An instrument under subsection (1) has no effect in relation to a reporting period unless it is made before the first day of that reporting period.
-
-##### <a id="19A"></a>19A  Agency may review compliance with Act
-
-             (1)  The Agency may, by written notice, require a relevant employer to give the Agency information:
-
-                     (a)  that relates to the employer’s compliance with this Act or to the employer’s performance against the minimum standards; and
-
-                     (b)  that is specified in the notice.
-
-             (2)  The notice must specify the period within which, and the manner in which, the information must be given.
-
-             (3)  A period specified in a notice under subsection (1) must be at least 14 days after the notice is given.
-
-Note:          Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents.
-
-##### <a id="19B"></a>19B  Relevant employer fails to comply with Act if employer gives false or misleading information
-
-                   For the purposes of section 19D, a relevant employer is taken to fail to comply with this Act if:
-
-                     (a)  the employer lodges a public report under section 13A and any information included in the report is false or misleading; or
-
-                     (b)  the employer gives the Agency information under section 19A and the information is false or misleading.
-
-Note:          If the employer does not have a reasonable excuse for the failure, the Agency may name the employer in a report given to the Minister or by electronic or other means: see section 19D.
-
-##### <a id="19C"></a>19C  Relevant employer fails to comply with Act if employer fails to improve against minimum standard
-
-                   If:
-
-                     (a)  a relevant employer lodges a public report under section 13A in respect of a reporting period (the **_base period_**); and
-
-                     (b)  in a case where a minimum standard (the **_base standard_**) applies in relation to the employer and the base period—at the end of the base period, the employer fails to meet that standard; and
-
-                     (c)  the employer lodges a public report under section 13A in respect of the second reporting period (the **_comparison period_**) after the base period; and
-
-                     (d)  at the end of the comparison period, the employer’s performance against the base standard has failed to improve from the employer’s performance against that standard at the end of the base period;
-
-then the failure referred to in paragraph (d) is taken, for the purposes of section 19D, to be a failure to comply with this Act.
-
-Note:          If the employer does not have a reasonable excuse for the failure referred to in paragraph (d) of this section, the Agency may name the employer in a report given to the Minister or by electronic or other means: see section 19D.
-
-##### <a id="19D"></a>19D  Consequences of non‑compliance with Act
-
-             (1)  This section applies if a relevant employer, without reasonable excuse, fails to comply with this Act.
-
-Note:          Examples of a failure to comply with this Act are:
-
-(a)    a relevant employer fails to lodge a public report on time (see sections 13A, 13B and 17); and
-
-(b)    a relevant employer fails to inform employees, shareholders or members of the employer that a public report has been lodged (see section 16); and
-
-(c)    a relevant employer fails to inform employees and relevant employee organisations as required by sections 16A and 16B; and
-
-(d)    a relevant employer fails to give the Agency information under section 19A.
-
-Naming employer in Agency report
-
-             (2)  The Agency may, in a report under subsection 12(1) or (2), name the employer as having failed to comply with this Act and set out details of the non‑compliance.
-
-Naming employer in other ways
-
-             (3)  The Agency may, by electronic or other means, name the employer as having failed to comply with this Act and set out details of the non‑compliance.
-
-Note:          For example, the Agency may do this on the Agency’s website or in a newspaper.
-
-Prior notice to employer
-
-             (4)  If the Agency proposes to:
-
-                     (a)  name an employer in a report under subsection 12(1) or (2); or
-
-                     (b)  name an employer under subsection (3) of this section;
-
-the Agency must:
-
-                     (c)  give the employer notice in writing of the proposal and the reasons for the proposal; and
-
-                     (d)  invite the employer to make written representations to the Agency about the proposal within the period of 28 days beginning on the day the notice is given; and
-
-                     (e)  have regard to any written representations made by the employer within that period.
-
-             (5)  If:
-
-                     (a)  a relevant employer lodges a public report under section 13A in respect of a reporting period; and
-
-                     (b)  the report is lodged within the time allowed by section 13B or 17;
-
-then, during the period of 28 days beginning on the day the report is lodged, the Agency must not give the employer a notice under subsection (4) of this section in relation to the lodgement of that report.
-
-##### <a id="19E"></a>19E  Agency to offer relevant employers advice and assistance if employers fail to meet minimum standards
-
-                   If:
-
-                     (a)  a relevant employer lodges a public report under section 13A in respect of a reporting period; and
-
-                     (b)  in a case where a minimum standard applies in relation to the employer and that reporting period—the Agency becomes aware that, at the end of that reporting period, the employer fails to meet that standard;
-
-the Agency must offer to provide the employer with advice and assistance in relation to improving the employer’s performance against that standard.
-
-## Part V—Director of Workplace Gender Equality
+## Part V—Director of Equal Opportunity for Women in the Workplace
 
 ##### <a id="20"></a>20  Appointment of Director
 
@@ -849,19 +586,21 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="31"></a>31  Advisory committees
 
-             (1)  Subject to this section the Minister may, in consultation with the Agency, establish such advisory committees as the Minister considers necessary for the purpose of giving advice to the Minister and to the Agency on particular matters or classes of matters relating to gender equality in the workplace, functions of the Agency or the operation of this Act.
+             (1)  Subject to this section the Minister may, in consultation with the Agency, establish such advisory committees as the Minister considers necessary for the purpose of giving advice to the Minister and to the Agency on particular matters or classes of matters relating to workplace programs, functions of the Agency or the operation of this Act.
 
              (2)  An advisory committee shall consist of such persons as the Minister from time to time appoints.
 
              (3)  For the purposes of assisting the Minister in the appointment of the members of an advisory committee, the Agency may provide the Minister with a list of the names of persons:
 
-                     (a)  representing industry or business (including a part of an industry); or
+                     (a)  representing industry or business (including a part of an industry);
 
-                     (b)  representing employee organisations; or
+                     (b)  representing trade unions;
 
-                     (c)  representing registered higher education providers; or
+                     (c)  representing higher education institutions;
 
-                     (e)  having special knowledge or interest in relation to gender equality in the workplace, the functions of the Agency or the operation of this Act.
+                     (d)  representing organisations who represent women; or
+
+                     (e)  having special knowledge or interest in relation to workplace programs, the functions of the Agency or the operation of this Act.
 
              (4)  A member of an advisory committee holds office for such period as is specified in the instrument of appointment, but is eligible for re‑appointment.
 
@@ -879,29 +618,33 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (1)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any confidential information acquired by the first‑mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to a confidential report or confidential information acquired by the first‑mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
-                     (b)  make use of any information as is mentioned in paragraph (a); or
+                     (b)  make use of any such report or information as is mentioned in paragraph (a); or
 
-                     (c)  produce to any person a document relating to confidential information of another person furnished for the purposes of this Act.
+                     (c)  produce to any person a confidential report or a document relating to confidential information of another person furnished for the purposes of this Act.
 
                     Penalty:  25 penalty units or imprisonment for 3 months, or both.
 
-          (1A)  Subsection (1) does not apply to a person’s conduct if the person is:
+          (1A)  Subsection (1) does not apply to a person’s conduct:
 
-                     (a)  performing a duty or function, or exercising a power, under, or in connection with, this Act; or
+                     (a)  if the person is:
 
-                     (b)  performing a function, or exercising a power, under an arrangement in force under section 33.
+                              (i)  performing a duty under, or in connection with, this Act; or
+
+                             (ii)  performing a function, or exercising a power, under an arrangement in force under section 33; or
+
+                     (b)  to the extent that the conduct relates to a report, or to information, that is the subject of a consent under subsection 16(2).
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
 
              (2)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not be required:
 
-                     (a)  to divulge or communicate to a court any confidential information acquired by the first‑mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised; or
+                     (a)  to divulge or communicate to a court any information relating to a confidential report or confidential information acquired by the first‑mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised; or
 
-                     (b)  to produce in a court a document relating to confidential information of which the first‑ mentioned person has custody, or to which that person has access, by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
+                     (b)  to produce in a court a confidential report or a document relating to confidential information of which the first‑ mentioned person has custody, or to which that person has access, by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
-except where it is necessary to do so for the purposes of this Act.
+except to the extent that the report or information was the subject of a consent under subsection 16(2) or where it is necessary to do so for the purposes of this Act.
 
              (3)  Nothing in this section prohibits a person from:
 
@@ -933,19 +676,17 @@ all or any of the powers and functions of the Agency under this Act other than t
 
              (4)  The Minister may make an arrangement with a Minister of a State for and in relation to the exercise of powers, and the performance of functions, of the Agency under this Act by an officer of the State.
 
+             (5)  In relation to higher education institutions, the Minister may make an arrangement with a Minister of a State for the Agency and an officer of the State to co‑operate, to the extent specified in the arrangement, in:
+
+                     (a)  exchanging information relating to the development and implementation of workplace programs; and
+
+                     (b)  developing guidelines to be issued under paragraph 10(1)(b).
+
              (6)  An arrangement may contain such incidental or supplementary provisions as the Minister and the Minister of the State think necessary.
 
              (7)  The Minister may arrange with the Minister of a State with whom an arrangement is in force for the variation or revocation of the arrangement.
 
              (8)  An arrangement, or the variation or revocation of an arrangement, shall be in writing and a copy of each instrument by which an arrangement has been made, varied or revoked shall be published in the _Gazette_.
-
-##### <a id="33A"></a>33A  Minister to consult before making legislative instruments
-
-             (1)  Before making a legislative instrument under this Act, the Minister must consult the Agency and have regard to any recommendations of the Agency.
-
-             (2)  The Minister must also consult such persons mentioned in subsection 31(3) as the Minister considers appropriate.
-
-Note:          For consultation requirements generally, see Part 3 of the _Legislative Instruments Act 2003_.
 
 ##### <a id="34"></a>34  Regulations
 
@@ -955,11 +696,11 @@ Note:          For consultation requirements generally, see Pa
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-# Notes to the _Workplace Gender Equality Act 2012_
+# Notes to the _Equal Opportunity for Women in the Workplace Act 1999_
 
 ### Note 1
 
-The _Workplace Gender Equality Act 2012_ as shown in this compilation comprises Act No. 91, 1986 amended as indicated in the Tables below.
+The _Equal Opportunity for Women in the Workplace Act 1999_ as shown in this compilation comprises Act No. 91, 1986 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1248,10 +989,10 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
+    <div>Ss. 4‑14 and Schedule 3 (item 173): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(f)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4‑14</div>
   </td>
 </tr>
 <tr>
@@ -1265,7 +1006,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 10–14): 2 Oct 2001 <i>(g)</i></div>
+    <div>S. 4 and Schedule 1 (items 10‑14): 2 Oct 2001 <i>(g)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -1390,26 +1131,9 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Equal Opportunity for Women in the Workplace Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>179, 2012</div>
-  </td>
-  <td>
-    <div>6 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–73, 75–79): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 72, 73) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Workplace Gender Equality Act 2012_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
+_(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
@@ -1423,29 +1147,29 @@ _(b)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Workplace Gender Equality Act 2012_ was amended by Schedule 4 (items 6, 7) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(c)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 4 (items 6, 7) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_     The _Workplace Gender Equality Act 2012_ was amended by Schedule 19 (item 4) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+_(d)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 19 (item 4) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_     The _Workplace Gender Equality Act 2012_ was amended by Schedule 1 (items 54, 55) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 54, 55) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_ The _Workplace Gender Equality Act 2012_ was amended by Schedule 3 (item 173) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 173) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(g)_ The _Workplace Gender Equality Act 2012_ was amended by Schedule 1 (items 10–14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
+_(g)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 10‑14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
 
-_(h)_ The _Workplace Gender Equality Act 2012_ was amended by Schedule 3 (items 1 and 2) only of the _Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001_, subsections 2(1) and (3) of which provide as follows:
+_(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (items 1 and 2) only of the _Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001_, subsections 2(1) and (3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1627,7 +1351,15 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 179, 2012</div>
+    <div>am. No. 181, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1643,7 +1375,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>S. 1</div>
   </td>
   <td>
-    <div>am. No. 183, 1999; No. 179, 2012</div>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1656,26 +1388,10 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2B</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; Nos. 105 and 127, 2002; No. 150, 2003; No. 54, 2009; No. 40, 2011; No. 179, 2012</div>
+    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; Nos. 105 and 127, 2002; No. 150, 2003; No. 54, 2009; No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1683,7 +1399,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 105, 1992; No. 183, 1999; No. 179, 2012</div>
+    <div>am. No. 105, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1696,6 +1412,14 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Heading to Part II</div>
   </td>
   <td>
@@ -1704,34 +1428,10 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
     <div>rs. No. 183, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1760,14 +1460,6 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part III</b></div>
   </td>
   <td>
@@ -1779,7 +1471,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>Heading to Part III</div>
   </td>
   <td>
-    <div>rs. No. 181, 1992; No. 183, 1999; No. 179, 2012</div>
+    <div>rs. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1788,14 +1480,6 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>am. No. 183, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 179, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1811,47 +1495,23 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div></div>
   </td>
   <td>
-    <div>am. No. 183, 1999; No. 179, 2012</div>
+    <div>am. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
+    <div>Ss. 9, 10</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 179, 2012</div>
+    <div>am. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 10(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
+    <div>Ss. 11, 12</div>
   </td>
   <td>
     <div>am. No. 181, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 181, 1992; No. 179, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1875,7 +1535,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999; No. 179, 2012</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1896,34 +1556,10 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div>Note to s. 13A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13B</div>
+    <div>Ss. 13B, 13C</div>
   </td>
   <td>
     <div>ad. No. 183, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13C</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 179, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1939,36 +1575,12 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999; No. 179, 2012</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 181, 1992; No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
+    <div>Ss. 15, 16</div>
   </td>
   <td>
     <div>am. No. 181, 1992</div>
@@ -1976,50 +1588,10 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 144, 2001; No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IVA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IVA</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
+    <div>am. No. 181, 1992; No. 183, 1999; No. 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2035,7 +1607,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div></div>
   </td>
   <td>
-    <div>rs. No. 183, 1999; No. 179, 2012</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2044,54 +1616,6 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>am. No. 181, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19D</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19E</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2107,7 +1631,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>Heading to Part V</div>
   </td>
   <td>
-    <div>rs. No. 183, 1999; No. 179, 2012</div>
+    <div>rs. No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2155,7 +1679,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 43, 1996; No. 183, 1999; No. 179, 2012</div>
+    <div>am. No. 181, 1992; No. 43, 1996; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2163,7 +1687,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; Nos. 142 and 144, 2001; No. 179, 2012</div>
+    <div>am. No. 181, 1992; Nos. 142 and 144, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2171,15 +1695,7 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 179, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 2012</div>
+    <div>am. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr></table>
 
@@ -2189,8 +1705,6 @@ _(j)_ Subsection 2(1) (item 31) of the _Fair Work (State Referral and Conseque
 
 _Equal Opportunity for Women in the Workplace Amendment Act 1999 
  (No. 183, 1999)_
-
-## Schedule 3
 
 ## 1  Definitions
 
@@ -2220,8 +1734,7 @@ A waiver given under section 13A of the old Equal Opportunity for Women in the
 
 * * *
 
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 
- (No. 142, 2001)_
+_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -2238,44 +1751,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Equal Opportunity for Women in the Workplace Amendment Act 2012
- (No. 179, 2012)_
-
-## Schedule 1
-
-## 72  Transitional—change of name of Agency and Director
-
-For the purposes of section 25B of the _Acts Interpretation Act 1901_:
-
-                     (a)  the amendment made by item 32 is taken to be an amendment altering the name of the Equal Opportunity for Women in the Workplace Agency; and
-
-                     (b)  the amendment made by item 34 is taken to be an amendment altering the name of the office of Director of Equal Opportunity for Women in the Workplace.
-
-## 73  Application, saving and transitional—reports and compliance
-
-(1)       Subject to subitem (2), the amendments made by this Part, to the extent to which they relate to:
-
-                     (a)  the preparation and lodgement of public reports by relevant employers; and
-
-                     (b)  compliance with the _Workplace Gender Equality Act 2012_ by relevant employers;
-
-apply in respect of the reporting period commencing on 1 April 2013 and all later reporting periods.
-
-(2)       Sections 16, 16A, 16B, 19A, 19B and 19D of the _Workplace Gender Equality Act 2012_, as inserted by this Part, also apply in relation to the reporting period commencing on 1 April 2012\. However, subsections 16(3) and (4) of that Act do not apply in relation to that period.
-
-(3)       Subject to subitems (4) and (5), despite the amendments and repeals made by this Part, the _Equal Opportunity for Women in the Workplace Act 1999_, as in force immediately before the commencement of this item, to the extent to which it relates to:
-
-                     (a)  the preparation and lodgement of reports by relevant employers; and
-
-                     (b)  compliance with that Act  by relevant employers;
-
-continues to apply on and after that commencement in relation to the reporting period commencing on 1 April 2012 and all earlier reporting periods. For this purpose, a reference in a provision of that Act to the Agency is taken to be a reference to the Workplace Gender Equality Agency.
-
-(4)       Sections 13, 14 and 16 of the _Equal Opportunity for Women in the Workplace Act 1999_, as in force immediately before the commencement of this item, do not apply in relation to the reporting period commencing on 1 April 2012\. Instead, Part IV of that Act is taken to require a relevant employer to prepare, in respect of that reporting period, a public report in writing that sets out the employer’s workplace profile.
-
-(5)       Sections 18 and 19 of the _Equal Opportunity for Women in the Workplace Act 1999_, as in force immediately before the commencement of this item, do not apply in relation to the reporting period commencing on 1 April 2012.
 
  
