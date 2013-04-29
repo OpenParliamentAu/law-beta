@@ -1,24 +1,25 @@
-![](http://www.comlaw.gov.au/Details/C2011C00779/Html/9722ef59-64dc-495a-9b5a-33668f0749a0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00163/Html/ChildSuppLegAmenRefChildSuppSchInitMeas2006_image001.gif)
 
 # Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006
 
 **Act No. 53 of 2006 as amended**
 
-This compilation was prepared on 23 September 2011
- taking into account amendments up to Act No. 100 of 2011
+This compilation was prepared on 23 March 2007
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+**\[This Act was amended by Act No. 8 of 2007]**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+**Amendment from Act No. 8 of 2007**
+
+\[Schedule 2 (item 5) repealed item 3 (not including Note) of Schedule 3
+
+Schedule 2 (item 5) commenced immediately after 1 July 2006]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title
 
 [2](#2).            Commencement
 
@@ -28,53 +29,55 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Minimum annual rate of child support** 
 
-Child Support (Assessment) Act 1989                                                                      5
+Child Support (Assessment) Act 1989                                                                     5
 
 **Schedule 2—Lower cap on child support** 
 
-Part 1—Main amendments                                                                                         8
+Part 1—Main amendments                                                                                            8
 
-Child Support (Assessment) Act 1989                                                                      8
+Child Support (Assessment) Act 1989                                                                     8
 
-Part 2—Amendments contingent on the Child Support Legislation Amendment Act 2006       10
+Part 2—Amendments contingent on the Child Support Legislation Amendment Act 2006     10
 
-Division 1—Amendments that might not commence                                        10
+Division 1—Amendments that might not commence                                           10
 
-Child Support (Assessment) Act 1989                                                                    10
+Child Support (Assessment) Act 1989                                                                   10
 
 Child Support Legislation Amendment Act 2006                                                10
 
-Division 2—Amendment that commences after the Child Support Legislation Amendment Act 2006 commences  10
+Division 2—Amendment that commences after the Child Support Legislation Amendment Act 2006 commences        10
 
-Child Support (Assessment) Act 1989                                                                    10
+Child Support (Assessment) Act 1989                                                                   10
 
-Part 3—Application                                                                                                     11
+Part 3—Application                                                                                                        11
 
 **Schedule 3—Earning capacity of a parent of a child** 
 
-Child Support (Assessment) Act 1989                                                                    12
+Child Support (Assessment) Act 1989                                                                   12
 
-**Schedule 4—Prescribed non‑agency payments** 
+**Schedule 4—Prescribed non-agency payments** 
 
-Child Support (Registration and Collection) Act 1988                                     16
+Child Support (Registration and Collection) Act 1988                                    16
 
 **Schedule 5—Exnuptial children and Western Australia** 
 
-Part 1—Amendment of the Child Support (Assessment) Act 1989   17
+Part 1—Amendment of the Child Support (Assessment) Act 1989           17
 
-Child Support (Assessment) Act 1989                                                                    17
+Child Support (Assessment) Act 1989                                                                   17
 
-Part 2—Amendment of the Child Support (Registration and Collection) Act 1988        19
+Part 2—Amendment of the Child Support (Registration and Collection) Act 1988   19
 
-Child Support (Registration and Collection) Act 1988                                     19
+Child Support (Registration and Collection) Act 1988                                    19
 
-Part 3—Extension of amended Child Support Acts to Western Australia in relation to exnuptial children                                                                                                                              21
-
-**Notes** 
+Part 3—Extension of amended Child Support Acts to Western Australia in relation to exnuptial children        21
 
 ## An Act to amend the law relating to the child support scheme, and for related purposes
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+[_Assented to 15 June 2006_]
+
+The Parliament of Australia enacts:
+
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006_.
 
@@ -340,7 +343,7 @@ Meaning of **minimum annual rate of child support**
 
              (4)  In this Act, the **_minimum annual rate of child support_** in respect of a child support period is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00779/Html/9722ef59-64dc-495a-9b5a-33668f0749a0_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00163/Html/ChildSuppLegAmenRefChildSuppSchInitMeas2006_image002.gif)
 
 where:
 
@@ -392,7 +395,7 @@ _Note:       The heading to section 42 is altered by omitting “r
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2011C00779/Html/9722ef59-64dc-495a-9b5a-33668f0749a0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00163/Html/ChildSuppLegAmenRefChildSuppSchInitMeas2006_image003.gif)
 
 ## 5  Subsection 52(2) (paragraph (b) of the definition of _maximum possible child support liability_)
 
@@ -408,7 +411,7 @@ Omit “relevant AWE amount”, substitute “EAWE amount”.
 
 ## 8  Section 154
 
-Omit “of the full‑time adult average weekly total earnings, or”.
+Omit “of the full-time adult average weekly total earnings, or”.
 
 _Note:       The heading to section 154 is altered by omitting “AWE or”._
 
@@ -448,9 +451,9 @@ Omit “relevant AWE amount”, substitute “EAWE amount”.
 
 ## 13  Application
 
-(1)       The amendments made by this Schedule (other than item 12) apply in relation to a day in a child support period, being a day that is, or is after, the day on which Part 1 of this Schedule commences.
+(1)        The amendments made by this Schedule (other than item 12) apply in relation to a day in a child support period, being a day that is, or is after, the day on which Part 1 of this Schedule commences.
 
-(2)       The amendment made by item 12 of this Schedule applies in relation to a day in a child support period, being a day that is, or is after, the later of the following days:
+(2)        The amendment made by item 12 of this Schedule applies in relation to a day in a child support period, being a day that is, or is after, the later of the following days:
 
                      (a)  the day on which Part 1 of this Schedule commences;
 
@@ -490,7 +493,7 @@ _Note:       The following heading to subsection 117(4) is inserted 
 
 Insert:
 
-                   (da)  the earning capacity of each parent who is a party to the proceeding; and
+                    (da)  the earning capacity of each parent who is a party to the proceeding; and
 
 _Note:       The following heading to subsection 117(6) is inserted “Matters to consider for purposes of paragraph (4)(b)”._
 
@@ -528,7 +531,7 @@ Determinations in respect of paragraph (4)(da)
 
                               (i)  the parent does not work despite ample opportunity to do so;
 
-                             (ii)  the parent has reduced the number of hours per week of his or her employment or other work below the normal number of hours per week that constitutes full‑time work for the occupation or industry in which the parent is employed or otherwise engaged;
+                             (ii)  the parent has reduced the number of hours per week of his or her employment or other work below the normal number of hours per week that constitutes full-time work for the occupation or industry in which the parent is employed or otherwise engaged;
 
                             (iii)  the parent has changed his or her occupation, industry or working pattern; and
 
@@ -598,7 +601,7 @@ The amendments made by this Schedule apply in relation to:
 
                      (d)  decisions made by a court under Division 4 or 5 of Part 7 on or after the day on which this Schedule commences.
 
-###### Schedule 4—Prescribed non‑agency payments
+###### Schedule 4—Prescribed non-agency payments
 
 <h9 class="ActHead9">Child Support (Registration and Collection) Act 1988</h9>
 
@@ -778,9 +781,9 @@ In this Part:
 
 ## 19  Extension of amended Child Support Acts to Western Australia in relation to exnuptial children
 
-(1)       The Parliament of the Commonwealth intends, and is taken always to have intended, that a Child Support Act, so far as it was amended, before the commencement of this item, by one or more of the Acts mentioned in subitem (3) in relation to the maintenance of exnuptial children, not extend to Western Australia, unless and until Western Australia adopted or adopts the Child Support Act, as so amended.
+(1)        The Parliament of the Commonwealth intends, and is taken always to have intended, that a Child Support Act, so far as it was amended, before the commencement of this item, by one or more of the Acts mentioned in subitem (3) in relation to the maintenance of exnuptial children, not extend to Western Australia, unless and until Western Australia adopted or adopts the Child Support Act, as so amended.
 
-(2)       The Parliament of the Commonwealth intends, and is taken always to have intended, that:
+(2)        The Parliament of the Commonwealth intends, and is taken always to have intended, that:
 
                      (a)  unless and until that occurred, the Child Support Act continued to extend to Western Australia; or
 
@@ -796,7 +799,7 @@ _Note:       If a Child Support Act is amended in relation to the ma
 
 _The Child Support Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made._
 
-(3)       The following Acts amended one or both Child Support Acts:
+(3)        The following Acts amended one or both Child Support Acts:
 
                      (a)  the _Child Support Amendment Act 1988_;
 
@@ -848,15 +851,15 @@ _The Child Support Act continues to apply in Western Australia in relation to ex
 
                      (y)  the _A New Tax System (Tax Administration) Act 1999_;
 
-                     (z)  the _Federal Magistrates (Consequential Amendments) Act 1999_;
+                      (z)  the _Federal Magistrates (Consequential Amendments) Act 1999_;
 
                     (za)  the _A New Tax System (Family Assistance and Related Measures) Act 2000_;
 
-                   (zb)  the _Child Support Legislation Amendment Act 2000_;
+                    (zb)  the _Child Support Legislation Amendment Act 2000_;
 
                     (zc)  the _New Business Tax System (Alienation of Personal Services Income) Act 2000_;
 
-                   (zd)  the _Family Law Amendment Act 2000_;
+                    (zd)  the _Family Law Amendment Act 2000_;
 
                     (ze)  the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_;
 
@@ -864,21 +867,21 @@ _The Child Support Act continues to apply in Western Australia in relation to ex
 
                     (zg)  the _Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001_;
 
-                   (zh)  the _Financial Framework Legislation Amendment Act 2005_;
+                    (zh)  the _Financial Framework Legislation Amendment Act 2005_;
 
-                    (zi)  the _Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005_;
+                     (zi)  the _Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005_;
 
-                    (zj)  the _Jurisdiction of Courts (Family Law) Act 2006_;
+                     (zj)  the _Jurisdiction of Courts (Family Law) Act 2006_;
 
-                   (zk)  the _Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006_;
+                    (zk)  the _Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006_;
 
-                    (zl)  the _Financial Framework Legislation Amendment Act (No. 1) 2006_;
+                     (zl)  the _Financial Framework Legislation Amendment Act (No. 1) 2006_;
 
-                  (zm)  the _Family Law Amendment (Shared Parental Responsibility) Act 2006_.
+                   (zm)  the _Family Law Amendment (Shared Parental Responsibility) Act 2006_.
 
 ## 20  Payments and amounts referred to in section 75 of the _Child Support (Registration and Collection) Act 1988_
 
-(1)       If:
+(1)        If:
 
                      (a)  a payment purported to be a payment or repayment of an amount referred to in section 75 of the _Child Support (Registration and Collection) Act 1988_ in relation to the maintenance of an exnuptial child because of the extension of that Act to Western Australia; and
 
@@ -890,273 +893,30 @@ _The Child Support Act continues to apply in Western Australia in relation to ex
 
 then the payment may, to the extent that it has not already been repaid to the Commonwealth before this item commences, be recovered by the Commonwealth from the person as a debt due to the Commonwealth.
 
-(2)       A person to whom a payment referred to in subitem (1) was made is entitled, on the commencement of this item, to be paid, by the Commonwealth, an amount equal to the amount of the debt due to it by the person under subitem (1).
+(2)        A person to whom a payment referred to in subitem (1) was made is entitled, on the commencement of this item, to be paid, by the Commonwealth, an amount equal to the amount of the debt due to it by the person under subitem (1).
 
-(4)       The Commonwealth may set‑off the amount of a debt due to it by a person under subitem (1) against an amount that is payable to that person under subitem (2).
+(3)        The Consolidated Revenue Fund is appropriated for the purpose of payments under subitem (2).
 
-(5)       Despite subitems (1) and (2), in applying section 79 of the _Child Support (Registration and Collection) Act 1988_ after the commencement of this item, any payment referred to in subitem (1) is to be counted as though it had been validly made under section 76 of that Act.
+(4)        The Commonwealth may set-off the amount of a debt due to it by a person under subitem (1) against an amount that is payable to that person under subitem (2).
+
+(5)        Despite subitems (1) and (2), in applying section 79 of the _Child Support (Registration and Collection) Act 1988_ after the commencement of this item, any payment referred to in subitem (1) is to be counted as though it had been validly made under section 76 of that Act.
 
 _Note:       A person will therefore be liable to repay to the Commonwealth the amount of any overpayment of that purported payment to the person._
 
-(6)       This item does not, by implication, affect the recovery or set‑off of other overpayments purporting to be made under the _Child Support (Registration and Collection) Act 1988_.
+(6)        This item does not, by implication, affect the recovery or set-off of other overpayments purporting to be made under the _Child Support (Registration and Collection) Act 1988_.
 
-(7)       To avoid doubt, this item applies to a payment that, because of section 71AA of the _Child Support (Registration and Collection) Act 1988_, is taken to have been paid under section 76 of that Act.
+(7)        To avoid doubt, this item applies to a payment that, because of section 71AA of the _Child Support (Registration and Collection) Act 1988_, is taken to have been paid under section 76 of that Act.
 
 ## 21  Validation of past rights and liabilities
 
-(1)       This item applies if, and during the period when, the rights and liabilities of a person under a Child Support Act were different from the rights and liabilities that the person would have had under that Act because:
+(1)        This item applies if, and during the period when, the rights and liabilities of a person under a Child Support Act were different from the rights and liabilities that the person would have had under that Act because:
 
                      (a)  the Child Support Act was amended, before the commencement of this item, by one or more of the Acts mentioned in subitem 19(3) in relation to the maintenance of exnuptial children; and
 
                      (b)  Western Australia did not adopt the Child Support Act, as so amended.
 
-(2)       During that period, the rights and liabilities of the person are, by force of this item, declared to be, and always to have been, the same as if:
+(2)        During that period, the rights and liabilities of the person are, by force of this item, declared to be, and always to have been, the same as if:
 
                      (a)  the Child Support Act, as so amended, did not extend to Western Australia; and
 
                      (b)  the Child Support Act continued to extend to Western Australia in relation to the maintenance of exnuptial children as if those amendments had not been made.
-
-# Notes to the _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006_
-
-### Note 1
-
-The _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006_ as shown in this compilation comprises Act No. 53, 2006 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="15%">
-  <col width="19%">
-  <col width="21%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>53, 2006</div>
-  </td>
-  <td>
-    <div>15 June 2006</div>
-  </td>
-  <td>
-    <div><i>See</i>s. 2(1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2007</div>
-  </td>
-  <td>
-    <div>8, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 5): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 4): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (item 30) of the _Statute Law Revision Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      30\. Schedule 2, item 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial
-          Measures) Act 2006</i>for the commencement of item 3 of Schedule 3 to that
-        Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2006
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3 (not including Note)</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>am. No. 100, 2011</div>
-  </td>
-</tr></table>
-
- 
